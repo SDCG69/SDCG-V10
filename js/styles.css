@@ -1,0 +1,5 @@
+*,*::before,*::after{box-sizing:border-box}
+    html,body{height:100%;margin:0;padding:0;background:#080808;overflow-x:hidden;
+      -webkit-tap-highlight-color:transparent;-webkit-text-size-adjust:100%}
+    body{padding-top:env(safe-area-inset-top);padding-bottom:env(safe-area-inset-bottom)}
+    #root{min-height:100vh}

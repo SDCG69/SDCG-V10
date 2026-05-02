@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"/>
+  <meta name="apple-mobile-web-app-capable" content="yes"/>
+  <meta name="mobile-web-app-capable" content="yes"/>
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
+  <meta name="apple-mobile-web-app-title" content="Sex Dares Card Games"/>
+  <meta name="theme-color" content="#080808"/>
+  <link rel="manifest" href="manifest.json"/>
+  <link rel="apple-touch-icon" href="icon-192.png"/>
+  <title>Sex Dares Card Game</title>
+  <style>
+    *,*::before,*::after{box-sizing:border-box}
+    html,body{height:100%;margin:0;padding:0;background:#080808;overflow-x:hidden;
+      -webkit-tap-highlight-color:transparent;-webkit-text-size-adjust:100%}
+    body{padding-top:env(safe-area-inset-top);padding-bottom:env(safe-area-inset-bottom)}
+    #root{min-height:100vh}
+  </style>
+</head>
+<body>
+<div id="root"></div>
+<script src="./lib/react.production.min.js"></script>
+<script src="./lib/react-dom.production.min.js"></script>
+<script src="./lib/babel.min.js"></script>
+<script>
+(function() {
+  const FILES = [
+    'js/utils/timer.js',
+    'js/utils/resolve.js',
+    'js/data/challenges.js',
+    'js/data/positions.js',
+    'js/data/truths.js',
+    'js/data/config.js',
+    'js/components/DiceFace.js',
+    'js/app.js'
+  ];
+  FILES.reduce(function(chain, url) {
+    return chain.then(function(acc) {
+      return fetch(url)
+        .then(function(r) {
+          if (!r.ok) throw new Error('Failed to load ' + url + ' (' + r.status + ')');
+          return r.text();
+        })
+        .then(function(src) { return acc + '\n' + src; });
+    });
+  }, Promise.resolve('const { useState, useEffect, useRef } = React;'))
+  .then(function(bundle) {
+    var transformed = Babel.transform(bundle, { presets: ['react'] }).code;
+    (0, eval)(transformed);
+  })
+  .catch(function(err) {
+    document.getElementById('root').innerHTML =
+      '<div style="color:#e05555;font-family:monospace;padding:40px;font-size:14px">' +
+      '<strong>App failed to load:</strong><br/>' + err.message +
+      '<br/><br/>Open the browser console (F12) for details.</div>';
+    console.error('SDCG loader error:', err);
+  });
+})();
+</script>
+<script>
+if('serviceWorker' in navigator){
+  window.addEventListener('load',()=>navigator.serviceWorker.register('sw.js'));
+}
+</script>
+</body>
+</html>
