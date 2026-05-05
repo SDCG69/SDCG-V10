@@ -134,7 +134,7 @@ const HANDBOOK_ITEMS = [
 const EROTICA_ITEMS = [
   {
     "title": "The College Girls",
-    "img": "bex1.jpeg",
+    "img": "er_a.jpg",
     "sub1": "Two Girls. Her first time. An awakening.",
     "sub2": "Sapphic Pleasure · Short read",
     "contentFile": "content/fiction/becs_1.txt",
