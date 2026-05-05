@@ -37,6 +37,8 @@ function App(){
 
   // Erotica Fiction state
   const [eroticaItem,setEroticaItem]=useState(null);
+  const [libraryLoading,setLibraryLoading]=useState(false);
+  const [libraryError,setLibraryError]=useState("");
 
   // Tag preferences – one object per player; all tags accepted by default
   const mkDefaultTagPrefs=()=>[0,1].map(()=>Object.fromEntries(TAGS.map(t=>[t.id,true])));
@@ -45,6 +47,40 @@ function App(){
   // Item preferences – shared single object; all items available by default
   const mkDefaultItemPrefs=()=>Object.fromEntries(ITEM_TAGS.map(t=>[t.id,true]));
   const [itemPrefs,setItemPrefs]=useState(mkDefaultItemPrefs);
+
+  async function openHandbookItem(item){
+    setLibraryError("");
+    setHandbookItem({...item,sections:item.sections||[]});
+    setScreen("handbookDetail");
+    setLibraryLoading(true);
+
+    try{
+      const sections=await loadLibraryItemContent(item);
+      setHandbookItem({...item,sections});
+    }catch(err){
+      console.error("Handbook content failed to load:",err);
+      setLibraryError(err.message||"Could not load this text file.");
+    }finally{
+      setLibraryLoading(false);
+    }
+  }
+
+  async function openEroticaItem(item){
+    setLibraryError("");
+    setEroticaItem({...item,sections:item.sections||[]});
+    setScreen("eroticaDetail");
+    setLibraryLoading(true);
+
+    try{
+      const sections=await loadLibraryItemContent(item);
+      setEroticaItem({...item,sections});
+    }catch(err){
+      console.error("Fiction content failed to load:",err);
+      setLibraryError(err.message||"Could not load this text file.");
+    }finally{
+      setLibraryLoading(false);
+    }
+  }
 
   // Countdown tick
   useEffect(()=>{
@@ -874,7 +910,7 @@ function App(){
           </div>
           <div style={{display:"flex",flexDirection:"column",gap:"10px"}}>
             {HANDBOOK_ITEMS.map((item,i)=>(
-              <button key={i} className="btn" onClick={()=>{setHandbookItem(item);setScreen("handbookDetail");}}
+              <button key={i} className="btn" onClick={()=>openHandbookItem(item)}
                 style={{background:"#111",border:"1px solid #1e1e1e",borderRadius:"14px",padding:"12px 14px",width:"100%",display:"flex",alignItems:"center",gap:"14px",textAlign:"left"}}>
                 <img src={"media/img/"+item.img} alt="" style={{width:"56px",height:"56px",borderRadius:"10px",objectFit:"cover",flexShrink:0,border:"1px solid #2a2a2a"}}/>
                 <div style={{flex:1,minWidth:0}}>
@@ -905,10 +941,16 @@ function App(){
                 <p style={{color:"#666",fontSize:"13px",margin:0}}>{handbookItem.sub1}</p>
               </div>
             </div>
-            {handbookItem.sections.map((sec,i)=>(
+            {libraryLoading&&<p style={{color:"#777",fontSize:"13px",lineHeight:"1.6",margin:"0 0 16px"}}>Loading text...</p>}
+            {libraryError&&<p style={{color:"#d66",fontSize:"13px",lineHeight:"1.6",margin:"0 0 16px"}}>{libraryError}</p>}
+            {(handbookItem.sections||[]).map((sec,i)=>(
               <div key={i} style={{marginBottom:"20px"}}>
                 <h2 style={{color:"#c87a00",fontSize:"1rem",letterSpacing:"1px",textTransform:"uppercase",margin:"0 0 8px",paddingBottom:"6px",borderBottom:"1px solid #2a1a00"}}>{sec.heading}</h2>
-                <p style={{color:"#aaa",fontSize:"14px",lineHeight:"1.75",margin:0}}>{sec.body}</p>
+                {sec.isHtml?(
+                  <div className="library-rich-text" style={{color:"#aaa",fontSize:"14px",lineHeight:"1.75",margin:0}} dangerouslySetInnerHTML={{__html:sec.body}}/>
+                ):(
+                  <p style={{color:"#aaa",fontSize:"14px",lineHeight:"1.75",margin:0}}>{sec.body}</p>
+                )}
                 {sec.img&&<img src={"media/img/"+sec.img} alt="" style={{width:"100%",maxHeight:"160px",objectFit:"cover",borderRadius:"10px",marginTop:"10px",border:"1px solid #2a2a2a"}}/>}
               </div>
             ))}
@@ -929,7 +971,7 @@ function App(){
           </div>
           <div style={{display:"flex",flexDirection:"column",gap:"10px"}}>
             {EROTICA_ITEMS.map((item,i)=>(
-              <button key={i} className="btn" onClick={()=>{setEroticaItem(item);setScreen("eroticaDetail");}}
+              <button key={i} className="btn" onClick={()=>openEroticaItem(item)}
                 style={{background:"#111",border:"1px solid #1e1e1e",borderRadius:"14px",padding:"12px 14px",width:"100%",display:"flex",alignItems:"center",gap:"14px",textAlign:"left"}}>
                 <img src={"media/img/"+item.img} alt="" style={{width:"56px",height:"56px",borderRadius:"10px",objectFit:"cover",flexShrink:0,border:"1px solid #2a2a2a"}}/>
                 <div style={{flex:1,minWidth:0}}>
@@ -960,10 +1002,16 @@ function App(){
                 <p style={{color:"#666",fontSize:"13px",margin:0}}>{eroticaItem.sub1}</p>
               </div>
             </div>
-            {eroticaItem.sections.map((sec,i)=>(
+            {libraryLoading&&<p style={{color:"#777",fontSize:"13px",lineHeight:"1.6",margin:"0 0 16px"}}>Loading text...</p>}
+            {libraryError&&<p style={{color:"#d66",fontSize:"13px",lineHeight:"1.6",margin:"0 0 16px"}}>{libraryError}</p>}
+            {(eroticaItem.sections||[]).map((sec,i)=>(
               <div key={i} style={{marginBottom:"20px"}}>
                 <h2 style={{color:"#aa44ff",fontSize:"1rem",letterSpacing:"1px",textTransform:"uppercase",margin:"0 0 8px",paddingBottom:"6px",borderBottom:"1px solid #1a0033"}}>{sec.heading}</h2>
-                <p style={{color:"#bbb",fontSize:"14px",lineHeight:"1.85",margin:0,fontStyle:sec.italic?"italic":"normal"}}>{sec.body}</p>
+                {sec.isHtml?(
+                  <div className="library-rich-text" style={{color:"#bbb",fontSize:"14px",lineHeight:"1.85",margin:0}} dangerouslySetInnerHTML={{__html:sec.body}}/>
+                ):(
+                  <p style={{color:"#bbb",fontSize:"14px",lineHeight:"1.85",margin:0,fontStyle:sec.italic?"italic":"normal"}}>{sec.body}</p>
+                )}
                 {sec.img&&<img src={"media/img/"+sec.img} alt="" style={{width:"100%",maxHeight:"160px",objectFit:"cover",borderRadius:"10px",marginTop:"10px",border:"1px solid #2a2a2a"}}/>}
               </div>
             ))}
