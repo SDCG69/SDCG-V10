@@ -3,6 +3,7 @@ const CHALLENGES = {
   Male: {
     1: [
       {text:"Sitting behind, gently massage your partner's head and shoulders for 2 minutes.",emoji:"😌",tags:["foreplay"]},
+      {text:"Flip a coin! Heads: she gives you a slow 2 minute full body massage. Tails: you give her a slow 2 minute full body massage.",emoji:"🪙",tags:["foreplay"]},
       {text:"Using massage oil, give your partner a 2 minute foot massage.",emoji:"🦶",tags:["foreplay","item_massage_oil"]},
       {text:"Massage your partner's legs for 4 minutes (equal time front and back).",emoji:"🦵",tags:["foreplay"]},
       {text:"With your partner laying on their back with eyes closed, lightly kiss all over from head to toe.",emoji:"💋",tags:["foreplay"]},
@@ -76,7 +77,7 @@ const CHALLENGES = {
       {text:"Get her to lay on her stomach over some pillows.  Straddle her thighs and enter pussy from behind for 2 minutes. Lube might help here.",emoji:"🙇‍♀️",tags:["hardcore","item_lube"]},
       {text:"Blindfold her!  Fuck from behind and firmly spank her butt for 2 minutes.",emoji:"🔥",tags:["hardcore","hardbdsm","item_blindfold","item_whip"]},
       {text:"Blindfold her!  Climb on top and fuck missionary style.  After 1 minute, go down on her for as long as you like.",emoji:"👅",tags:["hardcore","oralsex","mildbdsm","item_blindfold"]},
-      {text:"Light a candle and she will lie face down.  When the wax begins to melt she will take 2 drops of hot wax on the buttocks.",emoji:"🕯️",tags:["mildbdsm"]},
+      {text:"Light a candle and she will lie face down.  When the wax begins to melt she will take 2 drops of hot wax on the buttocks.",emoji:"🕯️",tags:["mildbdsm","item_candle"]},
 			{text:"Get her to lie back on the bed with knees up. Eat her out until she cums. You should lick and swallow the cum!",emoji:"👅",tags:["oralsex"]},
     ],
     4: [
@@ -104,6 +105,7 @@ const CHALLENGES = {
   },
   Female: {
     1: [
+      {text:"Flip a coin! Heads: he gives you a slow 2 minute full body massage. Tails: you give him a slow 2 minute full body massage.",emoji:"🪙",tags:["foreplay"]},
       {text:"Using massage oil, give your partner a 2 minute foot massage.",emoji:"🦶",tags:["foreplay"]},
 			{text:"Using massage oil, massage your partners legs, back and front for 3 minutes.",emoji:"🦵",tags:["foreplay","item_massage_oil"]},
       {text:"With your partner laying on their back, lightly kiss them everywhere from head to toe.",emoji:"💋",tags:["foreplay"]},
@@ -148,7 +150,7 @@ const CHALLENGES = {
       {text:"He will lie face down.  Whip or spank that butt 5 times!  Then gently kiss it better.",emoji:"🦯",tags:["mildbdsm","item_whip"]},
       {text:"Make him stand facing the wall with hands behind the head!  Give him 2 firm lashes on the buttocks with a whip.",emoji:"🦯",tags:["hardbdsm","item_whip"]},
 			{text:"Caress yourself whilst he watches.  Try to excite him as much as possible by showing how wild you can get!",emoji:"😱",tags:["foreplay"]},
-      {text:"Brush his dick and balls with a feather for 1 minute.  If he gets hard, give oral for 1 minute.",emoji:"🪶",tags:["oralsex","foreplay"]},
+      {text:"Brush his dick and balls with a feather for 1 minute.  If he gets hard, give oral for 1 minute.",emoji:"🪶",tags:["oralsex","foreplay","item_feather"]},
       {text:"Give your lover oral pleasure for 2 minutes.",emoji:"👅",tags:["oralsex"]},
 			{text:"Lie back on the bed.  Your man will go down on you for 2 minutes. Make him HUMM loudly so you can feel the vibrations!",emoji:"👅",tags:["oralsex"]},
       {text:"Grind your pussy on his hard dick! No insertion is allowed!",emoji:"🍆",tags:["foreplay","mildbdsm"]},
@@ -182,7 +184,7 @@ const CHALLENGES = {
       {text:"Give him a 2 minute DEEP butt massage with oil.  Be sure to finger lightly around the ass!  Spank him!  Bite the butt-cheeks!",emoji:"🍑",tags:["mildbdsm","mildanal","item_massage_oil"]},
       {text:"Role Play:  You are a thief and and he is the detective that caught you. You'll do anything to be freed!",emoji:"💃",tags:["mildbdsm","hardcore"]},
       {text:"69:  Lay on your back with him on top and both giving head for 3 minutes.",emoji:"♋︎",tags:["oralsex"]},
-      {text:"Light a candle and he will lie on his stomach.  When the wax begins to melt he will take 2 drops of hot wax on the buttocks.",emoji:"🕯️",tags:["mildbdsm"]},
+      {text:"Light a candle and he will lie on his stomach.  When the wax begins to melt he will take 2 drops of hot wax on the buttocks.",emoji:"🕯️",tags:["mildbdsm","item_candle"]},
 			{text:"Grind your pussy on his hard dick and let it slip in.  Fuck like this for 2 minutes!",emoji:"🍆",tags:["mildbdsm","hardcore"]},
       {text:"Roll the dice to decide who receives 2 minutes of oral! An odd number mean you get to receive.  An even number means you give head to him!",emoji:"🎲",tags:["oralsex"]},
     ],
