@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="75" height="75" viewBox="0 0 75 75">
+  <defs>
+    <radialGradient id="g1" cx="50%" cy="10%" r="80%">
+      <stop offset="0%" stop-color="rgba(40,180,100,0.22)"/>
+      <stop offset="100%" stop-color="transparent"/>
+    </radialGradient>
+    <radialGradient id="g2" cx="10%" cy="90%" r="80%">
+      <stop offset="0%" stop-color="rgba(20,120,70,0.18)"/>
+      <stop offset="100%" stop-color="transparent"/>
+    </radialGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="clip">
+      <rect width="75" height="75" rx="6" ry="6"/>
+    </clipPath>
+  </defs>
+
+  <!-- Background -->
+  <rect width="75" height="75" rx="6" ry="6" fill="#060a08"/>
+
+  <g clip-path="url(#clip)">
+    <!-- Glow overlays -->
+    <rect width="75" height="75" fill="url(#g1)"/>
+    <rect width="75" height="75" fill="url(#g2)"/>
+
+    <!-- Animated sparkle dots -->
+    
+    <circle cx="11" cy="9" r="1.0" fill="#44cc88">
+      <animate attributeName="opacity" values="0.1;0.9;0.1" dur="2.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="64" cy="17" r="0.5" fill="#88ffbb">
+      <animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.0s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="9" cy="57" r="0.5" fill="#44cc88">
+      <animate attributeName="opacity" values="0.1;0.9;0.1" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- Icon -->
+    <text x="37.5" y="46" font-size="30" text-anchor="middle" 
+          dominant-baseline="middle" filter="url(#glow)">✦</text>
+
+    <!-- Label -->
+    
+    <text x="37.5" y="61" font-family="Cormorant Garamond, Georgia, serif" font-weight="600" font-size="6.5" 
+          letter-spacing="1.2" fill="#80eaaa" text-anchor="middle">SOLO</text>
+
+    <!-- Rule -->
+    <line x1="28.5" y1="69" x2="46.5" y2="69" 
+          stroke="rgba(50,180,100,0.6)" stroke-width="0.8" stroke-linecap="round"/>
+  </g>
+
+  <!-- Border -->
+  <rect width="75" height="75" rx="6" ry="6" 
+        fill="none" stroke="rgba(60,200,120,0.25)" stroke-width="1"/>
+</svg>
