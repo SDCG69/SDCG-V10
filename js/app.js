@@ -23,10 +23,16 @@ function App(){
   const [diceResult,setDiceResult]=useState(null);
   const [diceRolling,setDiceRolling]=useState(false);
 
+  // Coin flip state
+  const [coinResult,setCoinResult]=useState(null); // null | 'heads' | 'tails'
+  const [coinFlipping,setCoinFlipping]=useState(false);
+
   // Position state
   const [posIdx,setPosIdx]=useState(null);
   const [posVidErr,setPosVidErr]=useState(false);
   const [posMode,setPosMode]=useState("couples"); // "couples" | "threesomes" | "foursomes"
+  const [posQueue,setPosQueue]=useState([]);      // shuffled index queue for current category
+  const [posQueueIdx,setPosQueueIdx]=useState(0); // current position within that queue
 
 	// Truth card state
 	const [truthCard,setTruthCard]=useState(null);
@@ -39,6 +45,12 @@ function App(){
   const [eroticaItem,setEroticaItem]=useState(null);
   const [libraryLoading,setLibraryLoading]=useState(false);
   const [libraryError,setLibraryError]=useState("");
+
+  // Content warning state — holds the destination screen or null when not shown
+  const [contentWarning,setContentWarning]=useState(null);
+  function showContentWarning(dest){ setContentWarning(dest); }
+  function acceptContentWarning(){ setScreen(contentWarning); setContentWarning(null); }
+  function declineContentWarning(){ setContentWarning(null); }
 
   // Tag preferences – one object per player; all tags accepted by default
   const mkDefaultTagPrefs=()=>[0,1].map(()=>Object.fromEntries(TAGS.map(t=>[t.id,true])));
@@ -119,26 +131,54 @@ function App(){
       setDiceRolling(false);
     },750);
   }
+  function flipCoin(){
+    if(coinFlipping)return;
+    setCoinFlipping(true);
+    setCoinResult(null);
+    setTimeout(()=>{
+      setCoinResult(Math.random()<0.5?'heads':'tails');
+      setCoinFlipping(false);
+    },900);
+  }
   function getPosArray(){
     if(posMode==="threesomes") return THREESOME_POSITIONS;
     if(posMode==="foursomes") return FOURSOME_POSITIONS;
     return POSITIONS;
+  }
+  // Build a fresh Fisher-Yates shuffled index array for the given length
+  function buildShuffledQueue(len){
+    const arr=Array.from({length:len},(_,i)=>i);
+    for(let i=arr.length-1;i>0;i--){
+      const j=Math.floor(Math.random()*(i+1));
+      [arr[i],arr[j]]=[arr[j],arr[i]];
+    }
+    return arr;
   }
   function openPosition(){
     setScreen("positionSelect");
   }
   function startPosition(){
     const arr=getPosArray();
-    setPosIdx(Math.floor(Math.random()*arr.length));
+    const q=buildShuffledQueue(arr.length);
+    setPosQueue(q);
+    setPosQueueIdx(0);
+    setPosIdx(q[0]);
     setPosVidErr(false);
     setScreen("position");
   }
   function nextPosition(){
     const arr=getPosArray();
-    setPosIdx(i=>{
-      let n;do{n=Math.floor(Math.random()*arr.length);}while(n===i&&arr.length>1);
-      return n;
-    });
+    const nextQi=posQueueIdx+1;
+    if(nextQi>=arr.length){
+      // All positions shown — reshuffle and start a new cycle
+      const q=buildShuffledQueue(arr.length);
+      setPosQueue(q);
+      setPosQueueIdx(0);
+      setPosIdx(q[0]);
+    } else {
+      setPosQueueIdx(nextQi);
+      setPosIdx(posQueue[nextQi]);
+    }
     setPosVidErr(false);
   }
 	
@@ -209,6 +249,7 @@ function App(){
     setCard(picked);
     setTimerTotal(dur);setTimeLeft(dur);setTimerOn(false);setTimerDone(false);
     setDiceResult(null);setDiceRolling(false);
+    setCoinResult(null);setCoinFlipping(false);
     setFlipped(false);
     setTimeout(()=>{
       setFlipped(true);
@@ -250,6 +291,10 @@ function App(){
         @keyframes dicePop{0%{transform:scale(0.7);opacity:0}60%{transform:scale(1.15)}100%{transform:scale(1);opacity:1}}
         .dice-btn{cursor:pointer;background:none;border:none;padding:0;-webkit-tap-highlight-color:transparent;border-radius:14px;}
         .dice-btn:active{transform:scale(0.94)}
+        @keyframes coinFlipAnim{0%{transform:scaleX(1)}12%{transform:scaleX(0.05)}25%{transform:scaleX(1)}37%{transform:scaleX(0.05)}50%{transform:scaleX(1)}62%{transform:scaleX(0.05)}75%{transform:scaleX(1)}87%{transform:scaleX(0.05)}100%{transform:scaleX(1)}}
+        @keyframes coinPop{0%{transform:scale(0.5);opacity:0}65%{transform:scale(1.22)}100%{transform:scale(1);opacity:1}}
+        .coin-btn{cursor:pointer;background:none;border:none;padding:0;-webkit-tap-highlight-color:transparent;border-radius:50%;}
+        .coin-btn:active{transform:scale(0.93)}
         .btn{cursor:pointer;border:none;border-radius:12px;font-family:inherit;font-weight:bold;transition:transform .15s,box-shadow .15s;-webkit-tap-highlight-color:transparent}
         .btn:active{transform:scale(0.97)}
         .pill{cursor:pointer;border-radius:20px;font-family:inherit;font-size:12px;font-weight:bold;padding:6px 13px;transition:all .18s;border:1.5px solid transparent;-webkit-tap-highlight-color:transparent}
@@ -288,7 +333,7 @@ function App(){
           </button>
           <button className="btn" onClick={startGame} style={{background:"#eee",color:"#080808",fontSize:"25px",padding:"20px 40px",width:"100%"}}>😈 Start Game 😈</button>
           <p style={{color:"#444",fontSize:"26px",letterSpacing:"1.5px",textTransform:"uppercase",marginTop:"32px",marginBottom:"0"}}>Simple Mini Games</p>
-          <button className="btn" onClick={openPosition} style={{background:"#4A0404",color:"#666",border:"1px solid #252525",fontSize:"20px",padding:"13px",width:"100%",marginTop:"12px",display:"flex",alignItems:"center",justifyContent:"center",gap:"8px"}}>
+          <button className="btn" onClick={()=>showContentWarning("positionSelect")} style={{background:"#4A0404",color:"#666",border:"1px solid #252525",fontSize:"20px",padding:"13px",width:"100%",marginTop:"12px",display:"flex",alignItems:"center",justifyContent:"center",gap:"8px"}}>
             <span>😈🔥</span><span>  Sex Position Chooser </span>
           </button>
 					<button
@@ -311,10 +356,10 @@ function App(){
 					  <span>🖤⃝🤍</span>
 					  <span>  Truth Cards </span>
 					</button>
-          <button className="btn" onClick={()=>setScreen("handbookList")} style={{background:"#4A0404",color:"#666",border:"1px solid #252525",fontSize:"20px",padding:"13px",width:"100%",marginTop:"12px",display:"flex",alignItems:"center",justifyContent:"center",gap:"8px"}}>
+          <button className="btn" onClick={()=>showContentWarning("handbookList")} style={{background:"#4A0404",color:"#666",border:"1px solid #252525",fontSize:"20px",padding:"13px",width:"100%",marginTop:"12px",display:"flex",alignItems:"center",justifyContent:"center",gap:"8px"}}>
             <span>📖</span><span>  Sex Handbook A-Z </span>
           </button>
-          <button className="btn" onClick={()=>setScreen("eroticaList")} style={{background:"#4A0404",color:"#666",border:"1px solid #252525",fontSize:"20px",padding:"13px",width:"100%",marginTop:"12px",display:"flex",alignItems:"center",justifyContent:"center",gap:"8px"}}>
+          <button className="btn" onClick={()=>showContentWarning("eroticaList")} style={{background:"#4A0404",color:"#666",border:"1px solid #252525",fontSize:"20px",padding:"13px",width:"100%",marginTop:"12px",display:"flex",alignItems:"center",justifyContent:"center",gap:"8px"}}>
             <span>✍️</span><span>  Erotica Fiction </span>
           </button>
         </div>
@@ -652,6 +697,81 @@ function App(){
                 )}
               </div>
             )}
+
+            {/* ── Coin Flip ── */}
+            {/\bcoin\b/i.test(card.text)&&(
+              <div style={{marginTop:"24px",display:"flex",flexDirection:"column",alignItems:"center",gap:"10px"}}> 
+                <p style={{color:"#555",margin:0,fontSize:"11px",letterSpacing:"1px",textTransform:"uppercase"}}>Tap to flip the coin</p>
+                <button className="coin-btn" onClick={flipCoin} aria-label="Flip coin" style={{lineHeight:0}}>
+                  {coinFlipping?(
+                    // Spinning coin
+                    <svg width="80" height="80" viewBox="0 0 100 100" style={{display:"block",animation:"coinFlipAnim 0.9s linear forwards"}}>
+                      <defs>
+                        <radialGradient id="spinGrad" cx="38%" cy="35%" r="65%">
+                          <stop offset="0%" stopColor="#f5d472"/>
+                          <stop offset="100%" stopColor="#9a6800"/>
+                        </radialGradient>
+                      </defs>
+                      <circle cx="50" cy="50" r="46" fill="url(#spinGrad)" stroke="#7a5000" strokeWidth="3"/>
+                      <circle cx="50" cy="50" r="37" fill="none" stroke="#f5d472" strokeWidth="1.5" opacity="0.45"/>
+                      <text x="50" y="58" textAnchor="middle" fontSize="28" fill="#fff8dc" fontFamily="serif" fontWeight="bold" opacity="0.6">?</text>
+                    </svg>
+                  ):coinResult!=null?(
+                    coinResult==='heads'?(
+                      // HEADS — gold
+                      <svg width="80" height="80" viewBox="0 0 100 100" style={{display:"block",animation:"coinPop 0.35s ease forwards"}}>
+                        <defs>
+                          <radialGradient id="headsGrad" cx="38%" cy="32%" r="65%">
+                            <stop offset="0%" stopColor="#f7e070"/>
+                            <stop offset="100%" stopColor="#9a6800"/>
+                          </radialGradient>
+                        </defs>
+                        <circle cx="50" cy="50" r="46" fill="url(#headsGrad)" stroke="#7a5000" strokeWidth="3"/>
+                        <circle cx="50" cy="50" r="37" fill="none" stroke="#f7e070" strokeWidth="1.5" opacity="0.5"/>
+                        <text x="50" y="40" textAnchor="middle" fontSize="20" fontFamily="serif">👑</text>
+                        <text x="50" y="63" textAnchor="middle" fontSize="15" fill="#3d2200" fontFamily="serif" fontWeight="bold" letterSpacing="1">HEADS</text>
+                      </svg>
+                    ):(
+                      // TAILS — silver
+                      <svg width="80" height="80" viewBox="0 0 100 100" style={{display:"block",animation:"coinPop 0.35s ease forwards"}}>
+                        <defs>
+                          <radialGradient id="tailsGrad" cx="38%" cy="32%" r="65%">
+                            <stop offset="0%" stopColor="#d8d8d8"/>
+                            <stop offset="100%" stopColor="#5a6070"/>
+                          </radialGradient>
+                        </defs>
+                        <circle cx="50" cy="50" r="46" fill="url(#tailsGrad)" stroke="#4a5060" strokeWidth="3"/>
+                        <circle cx="50" cy="50" r="37" fill="none" stroke="#c0c8d0" strokeWidth="1.5" opacity="0.5"/>
+                        <text x="50" y="40" textAnchor="middle" fontSize="20" fontFamily="serif">⭐</text>
+                        <text x="50" y="63" textAnchor="middle" fontSize="15" fill="#1a2030" fontFamily="serif" fontWeight="bold" letterSpacing="1">TAILS</text>
+                      </svg>
+                    )
+                  ):(
+                    // Idle coin — pulse
+                    <svg width="80" height="80" viewBox="0 0 100 100" style={{display:"block",animation:"pulse 2s ease infinite",filter:"drop-shadow(0 0 8px #c9850a88)"}}>
+                      <defs>
+                        <radialGradient id="idleGrad" cx="38%" cy="32%" r="65%">
+                          <stop offset="0%" stopColor="#f5d472"/>
+                          <stop offset="100%" stopColor="#9a6800"/>
+                        </radialGradient>
+                      </defs>
+                      <circle cx="50" cy="50" r="46" fill="url(#idleGrad)" stroke="#7a5000" strokeWidth="3"/>
+                      <circle cx="50" cy="50" r="37" fill="none" stroke="#f5d472" strokeWidth="1.5" opacity="0.4"/>
+                      <text x="50" y="58" textAnchor="middle" fontSize="32" fontFamily="serif">🪙</text>
+                    </svg>
+                  )}
+                </button>
+                {coinResult!=null&&!coinFlipping&&(
+                  <p style={{
+                    color:coinResult==='heads'?"#d4a020":"#8899aa",
+                    margin:0,fontSize:"18px",fontWeight:"bold",
+                    textShadow:`0 0 16px ${coinResult==='heads'?"#d4a02088":"#8899aa88"}`
+                  }}>
+                    {coinResult==='heads'?"👑 Heads!":"⭐ Tails!"}
+                  </p>
+                )}
+              </div>
+            )}
             {timerTotal&&(
               <div style={{marginTop:"28px",display:"flex",flexDirection:"column",alignItems:"center",gap:"10px"}}>
                 <div style={{position:"relative",width:"96px",height:"96px"}}>
@@ -750,7 +870,7 @@ function App(){
             <div style={{display:"flex",alignItems:"center",justifyContent:"space-between",marginBottom:"16px"}}>
               <button onClick={()=>setScreen("positionSelect")} style={{background:"#141414",border:"1px solid #222",color:"#888",borderRadius:"8px",padding:"7px 13px",cursor:"pointer",fontFamily:"inherit",fontSize:"13px"}}>← Back</button>
               <span style={{color:"#444",fontSize:"11px",letterSpacing:"1px",textTransform:"uppercase"}}>{modeLabel} Position</span>
-              <div style={{width:"72px"}}/>
+              <span style={{color:"#555",fontSize:"11px",letterSpacing:"0.5px",minWidth:"72px",textAlign:"right"}}>{posQueueIdx+1}&thinsp;/&thinsp;{getPosArray().length}</span>
             </div>
             <div style={{flex:1,display:"flex",flexDirection:"column",background:"linear-gradient(135deg,#120d00,#0d0d0d)",border:`1px solid ${ac}33`,borderRadius:"24px",overflow:"hidden",marginBottom:"16px",boxShadow:`0 20px 60px ${ac}22,0 4px 20px #000`}}>
               
@@ -793,7 +913,7 @@ function App(){
               </div>
             </div>
             <button className="btn" onClick={nextPosition} style={{background:ac,color:"#fff",fontSize:"18px",padding:"18px",width:"100%",boxShadow:`0 0 28px ${ac}55`}}>
-              Next Position 🎲
+              {posQueueIdx+1>=getPosArray().length?"🔄  Start New Cycle":"Next Position 🎲"}
             </button>
           </div>
         );
@@ -1019,6 +1139,37 @@ function App(){
           <button className="btn" onClick={()=>setScreen("eroticaList")} style={{background:"#1a1a1a",color:"#888",border:"1px solid #222",fontSize:"15px",padding:"15px",width:"100%"}}>
             ← Back to Stories
           </button>
+        </div>
+      )}
+
+      {/* ══ CONTENT WARNING MODAL ══ */}
+      {contentWarning&&(
+        <div style={{position:"fixed",inset:0,zIndex:9999,display:"flex",alignItems:"center",justifyContent:"center",padding:"24px",background:"rgba(0,0,0,0.88)",backdropFilter:"blur(6px)",animation:"fadeUp .25s ease"}}>
+          <div style={{background:"#0f0f0f",border:"1px solid #2a0a0a",borderRadius:"18px",maxWidth:"440px",width:"100%",padding:"36px 28px 28px",boxShadow:"0 0 60px #8B1A1A55,0 4px 32px #000",display:"flex",flexDirection:"column",alignItems:"center",gap:"0",textAlign:"center",position:"relative"}}>
+            <div style={{fontSize:"52px",lineHeight:1,marginBottom:"18px",filter:"drop-shadow(0 0 12px #ff443388)"}}>⚠️</div>
+            <p style={{color:"#cc3333",fontSize:"18px",fontWeight:"bold",letterSpacing:"1.5px",textTransform:"uppercase",margin:"0 0 14px",fontFamily:"'Georgia',serif"}}>Content Warning</p>
+            <p style={{color:"#bbb",fontSize:"14px",lineHeight:"1.75",margin:"0 0 10px"}}>
+              This section may contain <strong style={{color:"#eee"}}>extremely graphic sexual imagery</strong>, including drawings, photographs and AI\u2011generated images of an explicit adult nature.
+            </p>
+            <p style={{color:"#888",fontSize:"13px",lineHeight:"1.6",margin:"0 0 28px"}}>
+              You must be <strong style={{color:"#ccc"}}>18 years of age or older</strong> and comfortable with adult content to continue. If you are unsure or uncomfortable, please return to the main screen.
+            </p>
+            <div style={{width:"100%",height:"1px",background:"linear-gradient(90deg,transparent,#2a0a0a,transparent)",marginBottom:"24px"}}/>
+            <button
+              className="btn"
+              onClick={acceptContentWarning}
+              style={{background:"linear-gradient(135deg,#1a5c2a,#0f3a1a)",color:"#7dffaa",border:"1px solid #2a7a3a",fontSize:"14px",fontWeight:"bold",padding:"16px 20px",width:"100%",marginBottom:"12px",borderRadius:"10px",letterSpacing:"0.5px",boxShadow:"0 0 20px #1a5c2a55"}}
+            >
+              ✅ &nbsp; I am OK with this, continue
+            </button>
+            <button
+              className="btn"
+              onClick={declineContentWarning}
+              style={{background:"linear-gradient(135deg,#4a0a0a,#2a0505)",color:"#ff8888",border:"1px solid #6a1a1a",fontSize:"14px",padding:"16px 20px",width:"100%",borderRadius:"10px",letterSpacing:"0.5px",boxShadow:"0 0 20px #4a0a0a55"}}
+            >
+              🚫 &nbsp; No thank you, take me back to the main screen
+            </button>
+          </div>
         </div>
       )}
 
