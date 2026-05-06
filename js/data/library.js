@@ -149,11 +149,11 @@ const EROTICA_ITEMS = [
     "sections": []
   },
   {
-    "title": "Story C — Sunday Morning",
-    "img": "er_c.jpg",
-    "sub1": "No alarm. No plans. Just the two of you.",
-    "sub2": "Intimate domestic romance · Short read",
-    "contentFile": "content/fiction/sunday-morning.txt",
+    "title": "Story C — Altitude Adjustment",
+    "img": "b02_hetero.svg",
+    "sub1": "Nervous Flyer. Confident Man. New Experience.",
+    "sub2": "Join the mile-high club · Short read",
+    "contentFile": "content/fiction/planestory.txt",
     "sections": []
   },
   {
