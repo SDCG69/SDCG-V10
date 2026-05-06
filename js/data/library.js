@@ -141,11 +141,11 @@ const EROTICA_ITEMS = [
     "sections": []
   },
   {
-    "title": "Story B — The Hotel Room",
-    "img": "er_b.jpg",
-    "sub1": "Old lovers. Unexpected reunion.",
-    "sub2": "Contemporary romance · Short read",
-    "contentFile": "content/fiction/the-hotel-room.txt",
+    "title": "Story B — Amy's Sunlounger",
+    "img": "b02_hetero.svg",
+    "sub1": "Voyeur. Outdoor Sex. Tease.",
+    "sub2": "Dominant woman · Short read",
+    "contentFile": "content/fiction/sunlounger.txt",
     "sections": []
   },
   {
