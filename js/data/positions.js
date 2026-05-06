@@ -10,7 +10,7 @@ const POSITIONS=[
   {n:"Cowgirl",img:"cowgirl_00",vid:"Cowgirl-5Final",desc:"The man lies flat while the woman straddles him facing forward. She controls the depth, speed, and rhythm."},
   {n:"Collapsed Cowgirl",img:"cowgirl_08",desc:"The woman leans forward onto the man's chest while straddling him. Movement becomes more of a grind than a bounce."},
   {n:"Facedown Doggy",img:"doggy_05",desc:"The woman lies flat on her stomach with legs together. The man lies on top and enters from behind for a tighter sensation."},
-  {n:"Open Missionary",img:"missionary_09",desc:"The woman lies on her back with legs spread wide. The man enters from above, allowing deeper penetration."},
+  {n:"Open Missionary",img:"missionary_09",desc:"The woman lies on her back with her legs spread wide. The man enters from above, allowing deeper penetration."},
   {n:"Tucked Missionary",img:"missionary_01",desc:"The woman pulls her knees toward her chest while lying on her back. The man enters from above at a steeper angle."},
   {n:"Folded Missionary",img:"missionary_03",desc:"The man presses the woman's legs toward her shoulders while entering. This creates maximum depth and intensity."},
   {n:"Spoon",img:"spoons_02",vid:"Spooning-7Final",desc:"Both lie on their sides facing the same direction. The man enters from behind in a relaxed, intimate position."},
