@@ -133,7 +133,7 @@ const HANDBOOK_ITEMS = [
 // ── Erotica Fiction ─────────────────────────────────────────────────────────
 const EROTICA_ITEMS = [
   {
-    "title": "Story A - The College Girls",
+    "title": "The College Girls",
     "img": "b01_lesbian.svg",
     "sub1": "New roommate. Her first time. An awakening.",
     "sub2": "Sapphic Thrills · Short read",
@@ -141,7 +141,7 @@ const EROTICA_ITEMS = [
     "sections": []
   },
   {
-    "title": "Story B — Amy's Sunlounger",
+    "title": "Amy's Sunlounger",
     "img": "b02_hetero.svg",
     "sub1": "Voyeur. Outdoor Sex. Tease.",
     "sub2": "Dominant woman · Short read",
@@ -149,7 +149,7 @@ const EROTICA_ITEMS = [
     "sections": []
   },
   {
-    "title": "Story C — Altitude Adjustment",
+    "title": "Altitude Adjustment",
     "img": "b02_hetero.svg",
     "sub1": "Nervous Flyer. Confident Man. New Experience.",
     "sub2": "Join the mile-high club · Short read",
@@ -157,11 +157,11 @@ const EROTICA_ITEMS = [
     "sections": []
   },
   {
-    "title": "Story D — The Portrait",
-    "img": "er_d.jpg",
-    "sub1": "An artist. A subject. A boundary crossed.",
-    "sub2": "Slow burn romance · Short read",
-    "contentFile": "content/fiction/the-portrait.txt",
+    "title": "The Art Museum",
+    "img": "b03_kinky.svg",
+    "sub1": "An artist. A virgin. A bondage fetish.",
+    "sub2": "BDSM kinks · Medium read",
+    "contentFile": "content/fiction/artmuseum.txt",
     "sections": []
   },
   {
