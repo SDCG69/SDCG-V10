@@ -257,7 +257,6 @@ const POSITIONS=[
   {n:"Cradled Cock",img:"fellatio_18",desc:"The giver cradles the receiving partner's genitals — supporting and holding them while giving oral. A tender, controlled oral position with the giver in a nurturing, enveloping stance."},
   {n:"Kneeling Feedbag",img:"cunnilingus_02",desc:"A Feedbag variant where the receiver kneels above the giver's face rather than sitting. The kneeling height and angle of descent differs from the sitting Feedbag."},
   {n:"Reclined 69",img:"69_06",desc:"A 69 where both partners are reclined — partially propped up rather than fully lying flat. A middle-ground between lying and sitting that can be easier to sustain for both."},
-  {n:"Standing Feedbag",img:"cunnilingus_05",desc:"A Feedbag variant where the receiver stands above the giver, who is on their back below. The receiver stands and lowers slightly while the giver reaches up. A towering Feedbag."},
   {n:"Head Stand",img:"fellatio_16",desc:"The giving partner does a headstand — or is fully inverted — while giving oral. An acrobatic oral position where gravity flips the entire experience and the approach angle reverses."},
 ];
 
