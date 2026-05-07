@@ -166,7 +166,7 @@ const EROTICA_ITEMS = [
   },
   {
     "title": "The College Girls Pt 2",
-    "img": "b01_lesbian.svg",
+    "img": "b01_group.svg",
     "sub1": "Lesbian.  Group.  Games",
     "sub2": "Sapphic Thrills · Short read · AI Generated ",
     "contentFile": "content/fiction/rain.txt",
