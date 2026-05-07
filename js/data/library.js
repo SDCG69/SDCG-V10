@@ -10,7 +10,7 @@ const HANDBOOK_ITEMS = [
   },
   {
     "title": "Masturbation",
-    "img": "hb_b.jpg",
+    "img": "h09_masturbation.svg",
     "sub1": "Solo Time and Mutual Masturbation",
     "sub2": "Guides for better 'me time'",
     "contentFile": "content/handbook/masturbation.txt",
