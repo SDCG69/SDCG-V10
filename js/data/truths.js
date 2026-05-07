@@ -77,7 +77,7 @@ const TRUTH_QUESTIONS = [
 "On your partner, do you prefer hair down there or all bare?",
 "What’s more important … boobs or butt?",
 "Do you prefer to be dominant or submissive?",
-"Would you like to be woken up by me giving you oral unexpectedly?
+"Would you like to be woken up by me giving you oral unexpectedly?",
 "What kind of energy do you like when you make love? Fast and rough, hot and passionate, gentle and sentimental?",
 "What do you love the most during foreplay?",
 "What is the most adventurous thing you think you have done till now?",
