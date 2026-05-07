@@ -133,10 +133,10 @@ const HANDBOOK_ITEMS = [
 // ── Erotica Fiction ─────────────────────────────────────────────────────────
 const EROTICA_ITEMS = [
   {
-    "title": "The College Girls Pt 1",
+    "title": "The College Girls Pt.1",
     "img": "b01_lesbian.svg",
     "sub1": "New roommate. Her first time. An awakening.",
-    "sub2": "Sapphic Thrills · Short read · AI Generated",
+    "sub2": "Sapphic Thrills · Medium read · AI Generated",
     "contentFile": "content/fiction/becs_1.txt",
     "sections": []
   },
@@ -165,11 +165,11 @@ const EROTICA_ITEMS = [
     "sections": []
   },
   {
-    "title": "The College Girls Pt 2",
+    "title": "The College Girls Pt.2",
     "img": "b01_group.svg",
     "sub1": "Lesbian.  Group.  Games",
-    "sub2": "Sapphic Thrills · Short read · AI Generated ",
-    "contentFile": "content/fiction/rain.txt",
+    "sub2": "Sapphic Thrills · Medium read · AI Generated ",
+    "contentFile": "content/fiction/Bex2.txt",
     "sections": []
   },
   {
