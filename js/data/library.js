@@ -2,8 +2,8 @@
 const HANDBOOK_ITEMS = [
   {
     "title": "Orgasms",
-    "img": "hb_a.jpg",
-    "sub1": "Orgasms.  What are they.",
+    "img": "h03_orgasm.svg",
+    "sub1": "Orgasms.  What are they?",
     "sub2": "All details on orgasms",
     "contentFile": "content/handbook/orgasmtypes.txt",
     "sections": []
