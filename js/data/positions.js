@@ -265,7 +265,7 @@ const POSITIONS=[
 const THREESOME_POSITIONS=[
   // FFM positions
   {n:"Double Cowgirl",src:"FFM",img:"3double-cowgirl",desc:"The penetrating partner lies on their back. One partner straddles them in Cowgirl for penetration while the other straddles their face. The two on top can face each other for kissing and nipple play, face the same direction, or turn back-to-back — whatever feels most comfortable."},
-  {n:"Doggy and Kitty",src:"FFM",img:"3doggy-and-kitty",desc:"Two partners have sex in Doggy Style while the middle partner simultaneously performs oral sex on the third. The third partner receiving oral can sit at the edge of a bed, on a couch, or lie with hips propped on a pillow — whatever angle works best."},
+  {n:"Doggy and Kitty",src:"FFM",img:"3doggy-and-kitty",desc:"Two partners have sex in Doggy Style while the woman simultaneously performs oral sex on a third. The third partner receiving oral can sit at the edge of a bed, on a couch, or lie with hips propped on a pillow — whatever angle works best."},
   {n:"Exposed Oral",src:"FFM",img:"3exposed-oral",desc:"The penetrating partner lies on their back. The second partner sits in their lap facing away (reverse cowgirl), leaning back with arms behind for support. The third partner kneels in front and performs oral sex on both — giving long strokes between both partners' most sensitive spots."},
   {n:"Double Blow Job",src:"FFM",img:"3double-blow-job",desc:"The receiving partner stands or lies back while both other partners kneel beside them giving oral simultaneously. One can focus on the shaft while the other works the tip, or both can kiss each other around the head. The givers can also pleasure each other to keep everyone engaged."},
   {n:"Double Sided Oral",src:"FFM",img:"2dso",desc:"The receiving partner stands while one partner kneels in front giving oral and the other kneels behind giving rimming pleasure. The rear partner can reach around for additional manual stimulation. The front partner can make eye contact for an extra charge."},
@@ -277,9 +277,9 @@ const THREESOME_POSITIONS=[
   
   // MMF positions
   {n:"Doggy Deluxe",src:"MMF",img:"3doggy-deluxe",desc:"The female partner is penetrated from behind in Doggy Style while simultaneously performing oral sex on the second partner, who lies on their back in front of her. The penetrating partner should let her set the pace so she can focus on giving head comfortably. Reaching around to rub her clit adds extra pleasure."},
-  {n:"Eiffel Tower",src:"MMF",img:"3eiffel-tower",desc:"The female partner gets on all fours. One partner penetrates from behind while she gives oral sex to the other partner kneeling in front. Both partners face each other over her back — they can reach out to each other to form a towe shape."},
+  {n:"Spit Roast",src:"MMF",img:"01eiffel",desc:"The woman gets on all fours. One man penetrates from behind while she gives oral sex to the other partner kneeling or standing in front."},
   {n:"Classic Double Penetration",src:"MMF",img:"3classic-double",desc:"One partner lies on their back and the receiver lies on top facing them for vaginal penetration. The second partner enters from behind for anal penetration. All three move in a shared, gentle rhythm — communication and plenty of lube are absolutely essential for comfort and safety."},
-  {n:"Laying Spit Roast",src:"MMF",img:"3total-alignment",desc:"The woman lies on the bed with her head over the end — one man holds her legs and penetrates her whilst kneeling.  The other will stand to penetrate her mouth"},
+  {n:"Upturned Spit Roast",src:"MMF",img:"3total-alignment",desc:"The woman lies on the bed with her head over the end — one man holds her legs and penetrates her whilst kneeling.  The other will stand to penetrate her mouth."},
   {n:"Oral Overload",src:"MMF",img:"3 oral-overload",desc:"One partner penetrates while simultaneously performing oral sex on the third. The second partner both penetrates and uses hands and mouth on additional sensitive areas. Everyone is giving and receiving pleasure at the same time — the most all-encompassing threesome position."},
 ];
 
