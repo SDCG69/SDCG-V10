@@ -212,7 +212,7 @@ const POSITIONS=[
   {n:"Inverted 69",img:"69_00",desc:"A 69 variant where the top partner is flipped — their body is inverted relative to the standard 69. The reversal changes the direction of each partner's oral access."},
   {n:"South Face",img:"cunnilingus_01",vid:"Cunnilingus-13Final",desc:"The giver approaches from the south — feet-to-head — rather than from the front. This reversed angle changes the direction of tongue contact and offers different stimulation."},
   {n:"Sideways 69",img:"69_08",desc:"A 69 where both partners lie on their sides rather than one on top of the other. Equal effort, equal access — a more symmetrical and comfortable version of mutual oral."},
-  {n:"Standing Fuck Face",img:"fellatio_13",desc:"The receiving partner stands and thrusts forward into the giver's mouth — the giver is stationary while the receiver controls all the movement. A dominant-receiving oral position."},
+  {n:"Standing Fuck Face",img:"01knee",desc:"The receiving partner stands and thrusts forward into the giver's mouth — the giver is stationary while the receiver controls all the movement. A dominant-receiving oral position."},
   {n:"Game's On",img:"fellatio_11",desc:"The receiving partner reclines casually — as if watching TV — while the giver works below. A laid-back, low-effort receiving position. The giver does all the work."},
   {n:"Sword Swallower",img:"fellatio_15",desc:"The receiving partner stands or is elevated while the giver tilts their head back and takes them in from below — maximising the depth of the angle for the giver's throat."},
   {n:"Drive Thru",img:"cunnilingus_10",desc:"The giver approaches the receiver's genitals from behind — a rear-facing oral position. The direction reversal changes the tongue angle and gives access to different areas."},
@@ -255,9 +255,8 @@ const POSITIONS=[
   {n:"Wrapped 69 Stand",img:"69_04",desc:"A standing 69 where the upside-down partner wraps their legs around the standing partner's head or torso. The leg wrap locks the position and allows the standing partner to use their hands."},
   {n:"Aerial Butler",img:"cunnilingus_16",desc:"A Butler variant where the receiver is in an aerial or elevated position — raised up while the giver serves from below in the classic kneeling butler stance."},
   {n:"Cradled Cock",img:"fellatio_18",desc:"The giver cradles the receiving partner's genitals — supporting and holding them while giving oral. A tender, controlled oral position with the giver in a nurturing, enveloping stance."},
-  {n:"Kneeling Feedbag",img:"cunnilingus_02",desc:"A Feedbag variant where the receiver kneels above the giver's face rather than sitting. The kneeling height and angle of descent differs from the sitting Feedbag."},
+  {n:"Kneeling Feedbag",img:"01stradcunnil",desc:"A Feedbag variant where the receiver kneels above the giver's face rather than sitting. The kneeling height and angle of descent differs from the sitting Feedbag."},
   {n:"Reclined 69",img:"69_06",desc:"A 69 where both partners are reclined — partially propped up rather than fully lying flat. A middle-ground between lying and sitting that can be easier to sustain for both."},
-  {n:"Head Stand",img:"fellatio_16",desc:"The giving partner does a headstand — or is fully inverted — while giving oral. An acrobatic oral position where gravity flips the entire experience and the approach angle reverses."},
 ];
 
 // ── THREESOMES (badgirlsbible.com) ────────────────────────────────────────────
