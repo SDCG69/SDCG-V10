@@ -1,11 +1,11 @@
 // ── Sex Handbook A-Z ─────────────────────────────────────────────────────────
 const HANDBOOK_ITEMS = [
   {
-    "title": "Example A — Aftercare",
+    "title": "Orgasms",
     "img": "hb_a.jpg",
-    "sub1": "The essential wind-down after play",
-    "sub2": "Comfort, connection & communication",
-    "contentFile": "content/handbook/aftercare.txt",
+    "sub1": "Orgasms.  What are they.",
+    "sub2": "All details on orgasms",
+    "contentFile": "content/handbook/orgasmtypes.txt",
     "sections": []
   },
   {
