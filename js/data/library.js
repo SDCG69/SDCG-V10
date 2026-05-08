@@ -201,7 +201,7 @@ const EROTICA_ITEMS = [
     "img": "b06_erotic_horror.svg",
     "sub1": "A sexy serial killer hunts a victim.",
     "sub2": "AI Generated · 15 minute read",
-    "contentFile": "content/fiction/predator-pey.txt",
+    "contentFile": "content/fiction/predator-prey.txt",
     "sections": []
   },
   {
