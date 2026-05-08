@@ -151,131 +151,67 @@ const EROTICA_ITEMS = [
   {
     "title": "The College Girls Pt.1",
     "img": "b01_lesbian.svg",
-    "sub1": "New roommate. Her first time. An awakening.",
-    "sub2": "Sapphic Thrills · Medium read · AI Generated",
+    "sub1": "Sapphic thrills - her first time with a woman.",
+    "sub2": "AI Generated · 15 minute read",
     "contentFile": "content/fiction/becs_1.txt",
     "sections": []
   },
   {
     "title": "Amy's Sunlounger",
     "img": "b02_hetero.svg",
-    "sub1": "Voyeur. Outdoor Sex. Tease.",
-    "sub2": "Dominant woman · Short read · AI Generated",
+    "sub1": "A voyeur and a horny, dominant sunbather.",
+    "sub2": "AI Generated · 10 minute read",
     "contentFile": "content/fiction/sunlounger.txt",
     "sections": []
   },
   {
     "title": "Altitude Adjustment",
     "img": "b02_hetero.svg",
-    "sub1": "Nervous Flyer. Confident Man. New Experience.",
-    "sub2": "Join the mile-high club · Short read · AI Generated",
+    "sub1": "Nervous flyer joins the mile-high club.",
+    "sub2": "AI Generated · 10 minute read",
     "contentFile": "content/fiction/planestory.txt",
     "sections": []
   },
   {
     "title": "The Art Museum",
     "img": "b03_kinky.svg",
-    "sub1": "An artist. A virgin. A bondage fetish.",
-    "sub2": "BDSM kinks · Medium read · AI Generated",
+    "sub1": "A thickset woman with a BDSM fetish.",
+    "sub2": "AI Generated · 15 minute read",
     "contentFile": "content/fiction/artmuseum.txt",
     "sections": []
   },
   {
     "title": "The College Girls Pt.2",
     "img": "b05_group.svg",
-    "sub1": "Lesbian.  Group.  Games",
-    "sub2": "Sapphic Thrills · Medium read · AI Generated ",
+    "sub1": "Sapphic thrills - a card leads to group action.",
+    "sub2": "AI Generated · 20 minute read",
     "contentFile": "content/fiction/Bex2.txt",
     "sections": []
   },
   {
     "title": "The Vampire",
     "img": "b04_supernatural.svg",
-    "sub1": "A Barmaid. A Wealthy Stranger",
-    "sub2": "Vampire Lust, Violence · Medium read",
+    "sub1": "A barmaid and a vampire.",
+    "sub2": "AI Generated · 15 minute read",
     "contentFile": "content/fiction/vampire.txt",
     "sections": []
   },
   {
-    "title": "Story G Placeholder",
+    "title": "The Predator & The Prey",
+    "img": "b06_erotic_horror.svg",
+    "sub1": "A sexy serial killer hunts a victim.",
+    "sub2": "AI Generated · 15 minute read",
+    "contentFile": "content/fiction/predator-pey.txt",
+    "sections": []
+  },
+  {
+    "title": "Story Placeholder",
     "img": "er_g.jpg",
     "sub1": "A holiday cottage. End of summer.",
     "sub2": "Romantic getaway · Short read",
     "contentFile": "content/fiction/by-the-sea.txt",
     "sections": []
   },
-  {
-    "title": "Story H Placeholder",
-    "img": "er_h.jpg",
-    "sub1": "A quiet place. An unexpected connection.",
-    "sub2": "Slow burn literary romance · Short read",
-    "contentFile": "content/fiction/the-library.txt",
-    "sections": []
-  },
-  {
-    "title": "Story I Placeholder",
-    "img": "er_i.jpg",
-    "sub1": "Midnight. A decision. A kiss.",
-    "sub2": "Celebration romance · Short read",
-    "contentFile": "content/fiction/new-year.txt",
-    "sections": []
-  },
-  {
-    "title": "Story J Placeholder",
-    "img": "er_j.jpg",
-    "sub1": "Miles of open road. Nowhere to hide.",
-    "sub2": "Adventure romance · Short read",
-    "contentFile": "content/fiction/the-road-trip.txt",
-    "sections": []
-  },
-  {
-    "title": "Story K Placeholder",
-    "img": "er_k.jpg",
-    "sub1": "Art. Champagne. An honest conversation.",
-    "sub2": "Cultural romance · Short read",
-    "contentFile": "content/fiction/after-the-exhibition.txt",
-    "sections": []
-  },
-  {
-    "title": "Story L Placeholder",
-    "img": "er_l.jpg",
-    "sub1": "Words on paper. An old-fashioned love.",
-    "sub2": "Epistolary romance · Short read",
-    "contentFile": "content/fiction/letters.txt",
-    "sections": []
-  },
-  {
-    "title": "Story M Placeholder",
-    "img": "er_m.jpg",
-    "sub1": "Deep winter. No signal. Just warmth.",
-    "sub2": "Isolation romance · Short read",
-    "contentFile": "content/fiction/the-cabin.txt",
-    "sections": []
-  },
-  {
-    "title": "Story N Placeholder",
-    "img": "er_n.jpg",
-    "sub1": "A wedding. A slow song. A conversation.",
-    "sub2": "Wedding romance · Short read",
-    "contentFile": "content/fiction/the-dance.txt",
-    "sections": []
-  },
-  {
-    "title": "Story O Placeholder",
-    "img": "er_o.jpg",
-    "sub1": "Years of waiting. One honest moment.",
-    "sub2": "Long friendship romance · Short read",
-    "contentFile": "content/fiction/the-confession.txt",
-    "sections": []
-  },
-  {
-    "title": "Story P Placeholder",
-    "img": "er_p.jpg",
-    "sub1": "Waking up. Choosing to stay.",
-    "sub2": "Tender aftermath romance · Short read",
-    "contentFile": "content/fiction/the-morning-after.txt",
-    "sections": []
-  }
 ];
 
 // ── External Text File Loading ──────────────────────────────────────────────
