@@ -1,3 +1,8 @@
+
+## One — A Motel Murder
+
+[image src="media/img/christie-riding2.jpeg" alt="Predator-Prey"]
+
 Ben’s fingers dug into Christie’s thighs as she rocked forward, her breath hitching. His mouth was warm, eager, and she let her head tip back, watching the ceiling fan spin lazily above the bed. She didn’t like wasting time—never had—but she allowed herself this moment, the slow, slick build of pleasure curling in her stomach before she finally shuddered, her hips jerking against his face.
 
 When she pulled away, Ben’s lips were wet, his gaze dark and hungry. Christie smirked, dragging her thumb across his bottom lip before leaning down to return the favor. She took her time here, too, though not out of generosity. She wanted him trembling, desperate, his cock twitching against her tongue before she climbed on top of him.
@@ -12,6 +17,8 @@ The second he did, his back arching off the bed, Christie's hand flashed to her 
 
 Christie exhaled through her nose, rolling her shoulders as she pulled the hairpin free with a wet pop. Ben's blood dripped onto his still-warm chest, mixing with the sheen of sweat between them. She wiped the pin clean on the sheets—no prints, no trace—before twisting her hair back into its tight bun with practiced ease. The room smelled like sex and iron, the AC humming softly as it tried in vain to compete with L.A.'s sticky heat pressing against the windows.
 
+[image src="media/img/christie-cuts-throat.jpeg" alt="Predator-Prey"]
+
 She stepped over Ben’s sprawled legs, her bare feet padding across the cheap motel carpet to the bathroom. The flickering fluorescent light made her reflection look almost green in the mirror as she scrubbed her hands under scalding water, watching pink swirl down the drain. The shower would come later, once she’d dealt with the mess. Christie toweled off, then leaned against the sink, studying her face. No flush, no flicker of guilt—just the same cool detachment she’d worn since her first kill at nineteen.
 
 Back in the bedroom, she tugged on her underwear and bra before slipping into the crisp white blouse she’d hung on the back of the door earlier. Methodical. Always methodical. Ben’s wallet lay on the nightstand where she’d left it, and she flipped it open, skimming through the bills—$327, not bad—before tossing it onto his chest. A robbery gone wrong; the cops would eat that up. She pocketed the cash, then retrieved the burner phone from her purse, snapping a quick photo of Ben’s lifeless face. A trophy, nothing more.
@@ -25,6 +32,10 @@ The burner phone buzzed in her back pocket as she shrugged into her tailored bla
 Outside, the drunk couple’s laughter had faded, replaced by the distant wail of a police siren. Christie froze, listening—but it was blocks away, moving east. She exhaled through her nose and grabbed Ben’s car keys from the nightstand. His silver Lexus was parked two rows over, its windows tinted just dark enough to hide the blood smeared on her slacks if she kept the overhead light off. She’d ditch it in Long Beach before sunrise, let the ocean air wipe the prints away.
 
 The door clicked shut behind her, the motel’s neon sign flickering overhead as she crossed the parking lot. Her heels didn’t make a sound on the asphalt—a trick she’d mastered after years of late-night exits. The Lexus unlocked with a soft chirp, and she slid inside, the leather seats still warm from Ben’s last drive. Christie adjusted the rearview mirror, catching her own reflection—flawless makeup, not a strand of blonde out of place. No one would guess what she’d just done.
+
+## Two — The Seduction of Kyle Whitmore
+
+[image src="media/img/christie-riding2.jpeg" alt="Predator-Prey"]
 
 The Lexus purred to life beneath her, the engine’s low hum vibrating through her thighs as she pulled out of the motel lot. Christie flicked the AC on full blast, letting the chilled air wash over her face as she merged onto the freeway. The city lights blurred past, streaks of neon and halogen smearing across the windshield like wet paint. She drummed her fingers against the steering wheel, the rhythm syncopated—another heartbeat in the car’s metallic shell.
 
