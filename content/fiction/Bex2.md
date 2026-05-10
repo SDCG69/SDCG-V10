@@ -8,7 +8,7 @@ Nell grinned, all white teeth and effortless confidence. "It’s a kind of sexy 
 
 Bex knew Nell had been planning something.  After their first amazing experience together 3 day ago, she did promise to Bex that she will show her more mind-blowing pleasure.  Bex had a feeling this might be part of it and was getting aroused at the many thoughts running through her head.
 
-Down the hall, a door clicked open. Voices tangled together—one rapid-fire, one slower, thoughtful. Nell’s head tilted like a predator catching a scent. "Neighbors incoming," she announced, as if this were a sporting event. Bex groaned but shoved her textbook aside, fingers already working at the bottle’s seal. "You’re gonna make me be social at *nine PM* on a *Tuesday*—"
+Down the hall, a door clicked open. Voices tangled together—one rapid-fire, one slower, thoughtful. Nell’s head tilted like a predator catching a scent. "Neighbors incoming," she announced, as if this were a sporting event. Bex groaned but shoved her textbook aside, Nell's fingers already working at the bottle’s seal. "You’re gonna make me be social at *nine PM* on a *Tuesday*—"
 
 The door swung open before Bex could finish her protest, revealing two silhouettes backlit by the hallway’s harsh fluorescents. The first girl — Tia — hovered uncertainly, her glasses slipping down her nose as she clutched a thermos of tea like a shield. Behind her, Jenny slouched against the doorframe, hands buried in the pockets of her oversized hoodie. "Heard there was free booze," Jenny said, her voice a lazy drawl that didn’t match the sharpness of her gaze as it flicked from Nell’s biceps to Bex’s cleavage.
 
