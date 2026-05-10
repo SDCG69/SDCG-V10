@@ -14,7 +14,7 @@ The door swung open before Bex could finish her protest, revealing two silhouett
 
 "Bingo," Nell said, popping the sambuca’s cork with her teeth. The syrupy scent of anise flooded the room as she poured four shots into mismatched mugs. Bex watched, bemused, as Tia accepted hers with the grim determination of someone about to swallow cough syrup. Jenny, meanwhile, knocked hers back in one smooth motion, throat working as she licked her lips. "Tastes like black jellybeans," she mused. "I’m in."
 
-Nell dealt the pink cards facedown with the precision of a Vegas dealer. "Rules are simple: read it, do it, no whining." The first card landed in front of Tia, who turned it over like it might bite. "*Nominate the player who most likely to win in arm wresting match*", she read, voice rising in panic. Her eyes darted to Nell’s formidably defined arms before skittering away.
+Nell dealt the pink cards facedown with the precision of a Vegas dealer. "Rules are simple: read it, do it, no whining." The first card landed in front of Tia, who turned it over like it might bite. "*Nominate the player most likely to win in arm wresting match*", she read, voice rising in panic. Her eyes darted to Nell’s formidably defined arms before skittering away.
 
 "Wow, tough choice," Bex deadpanned, reaching over to squeeze Nell’s bicep. The muscle flexed under her fingers, warm and solid. Jenny whistled low, but it was Tia’s blush that caught Bex’ attention—the way it spread down her neck, disappearing under her prim button-up collar.
 
