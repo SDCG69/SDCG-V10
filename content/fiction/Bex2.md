@@ -22,7 +22,7 @@ Jenny snatched the next pink card before it hit the table. "*Nominate the player
 
 Nell, impatient already, swiped the cards away and shuffled a separate, red coloured deck with one hand, pouring another round with the other. "Red cards next. *These* get more interesting." The new card slid toward Jenny, who flipped it with her thumb. "*Kiss every other player on the mouth,*" she recited, then shrugged. "Cool." Before anyone could react, she leaned over and pressed her lips to Tia’s—quick, dry, efficient. Tia froze, her teacup clattering on the laminate wood floor.
 
-Bex barely had time to inhale before Jenny was in her space, one hand braced on the mattress beside her thigh. This kiss wasn’t polite. Jenny’s teeth grazed her bottom lip, the taste of sambuca sharp between them. When she pulled back, Bex’ pulse hammered in her throat. Nell laughed, low and approving, as Jenny turned to her. Their kiss was all tongue and teeth, Nell’s hand fisting in Jenny’s hoodie to drag her closer.
+Bex barely had time to inhale before Jenny was in her space, one hand braced on the floor beside her thigh. This kiss wasn’t polite. Jenny’s teeth grazed her bottom lip, the taste of sambuca sharp between them. When she pulled back, Bex’ pulse hammered in her throat. Nell laughed, low and approving, as Jenny turned to her. Their kiss was all tongue and teeth, Nell’s hand fisting in Jenny’s hoodie to drag her closer.
 
 Tia’s chair scraped back. "I—um. Bathroom," she blurted, fleeing toward the hall and back to her room. Jenny watched her go, then shrugged. "Her loss." Nell dealt the next red card to Bex: "*Take off your shirt for the rest of the game.*"
 
