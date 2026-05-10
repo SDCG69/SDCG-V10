@@ -6,7 +6,7 @@ Nell burst excitedly into the dorm room.  Her broad muscular shoulders filled th
 
 Nell grinned, all white teeth and effortless confidence. "It’s a kind of sexy truth or dare. Special Edition..." She flicked a purple-colored deck toward Bex, who caught it one-handed, her other arm instinctively crossing over her chest—a habit she’d had since middle school when her bust decided to outpace every growth chart in existence.
 
-Bex knew Nell had been planning something.  After their first amazing experience together 3 day ago, she did promise to Bex that she will show her how more mind-blowing pleasure.  Bex had a feeling this might be part of it and was getting aroused at the many thoughts running through her head,
+Bex knew Nell had been planning something.  After their first amazing experience together 3 day ago, she did promise to Bex that she will show her more mind-blowing pleasure.  Bex had a feeling this might be part of it and was getting aroused at the many thoughts running through her head,
 
 Down the hall, a door clicked open. Voices tangled together—one rapid-fire, one slower, thoughtful. Nell’s head tilted like a predator catching a scent. "Neighbors incoming," she announced, as if this were a sporting event. Bex groaned but shoved her textbook aside, fingers already working at the bottle’s seal. "You’re gonna make me be social at *nine PM* on a *Tuesday*—"
 
