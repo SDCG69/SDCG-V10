@@ -62,7 +62,7 @@ Jenny’s gaze snapped to Bex, dark and hungry. “You Next,” she murmured, li
 
 Jenny watched for a moment longer, then stood up, shimmying her sweatpants down her hips with a smirk as Bex's gaze went to her. *No underwear!* Bex’s breath hitched at the sight of her, totally bare except for the ink and the flush spreading across her chest. Jenny knelt on the floor, straddling Nell’s thighs, and reached for Bex’ hand. “You’re overdressed,” she murmured, guiding Bex’ fingers to the button of her shorts.
 
-As Bex pulled away from Nell’s chest, Nell quickly moved to help, yanking the tiny denim shorts and panties down Bex’s legs and tossing them aside. The cool air against her bare skin made her shiver, but Jenny’s hands were there instantly, warm and sure, tracing the curve of her hip. “Better,” Jenny purred, leaning down to nip at Bex’ collarbone. Her tongue followed the sting, lapping at the spot like she could taste the pulse beneath.
+As Bex pulled her lips away from Nell’s chest, Nell quickly moved to help, yanking the tiny denim shorts and panties down Bex’s legs and tossing them aside. The cool air against her bare skin made her shiver, but Jenny’s hands were there instantly, warm and sure, tracing the curve of her hip. “Better,” Jenny purred, leaning down to nip at Bex’ collarbone. Her tongue followed the sting, lapping at the spot like she could taste the pulse beneath.
 
 "I guess the cards are done!," Nell murmured.  "But now it's time for new game called *Anything Goes*", insisted Jenny.
 
