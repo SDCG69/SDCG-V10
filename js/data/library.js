@@ -157,6 +157,14 @@ const EROTICA_ITEMS = [
     "sections": []
   },
   {
+    "title": "The College Girls Pt.2",
+    "img": "b05_group.svg",
+    "sub1": "Sapphic thrills - a card leads to group action.",
+    "sub2": "AI Generated · 20 minute read",
+    "contentFile": "content/fiction/Bex2.md",
+    "sections": []
+  },
+  {
     "title": "Amy's Sunlounger",
     "img": "b02_hetero.svg",
     "sub1": "A voyeur and a horny, dominant sunbather.",
@@ -181,14 +189,6 @@ const EROTICA_ITEMS = [
     "sections": []
   },
   {
-    "title": "The College Girls Pt.2",
-    "img": "b05_group.svg",
-    "sub1": "Sapphic thrills - a card leads to group action.",
-    "sub2": "AI Generated · 20 minute read",
-    "contentFile": "content/fiction/Bex2.md",
-    "sections": []
-  },
-  {
     "title": "The Vampire",
     "img": "b04_supernatural.svg",
     "sub1": "A barmaid and a vampire.",
@@ -201,7 +201,7 @@ const EROTICA_ITEMS = [
     "img": "b06_erotic_horror.svg",
     "sub1": "A sexy serial killer hunts a victim.",
     "sub2": "AI Generated · 15 minute read",
-    "contentFile": "content/fiction/predator-pey.md",
+    "contentFile": "content/fiction/predator-prey.md",
     "sections": []
   },
   {
