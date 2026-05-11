@@ -167,7 +167,7 @@ const EROTICA_ITEMS = [
   {
     "title": "The College Girls Pt.2",
     "img": "b05_group.svg",
-    "sub1": "Sapphic thrills - a card leads to group action.",
+    "sub1": "Sapphic thrills - a card game leads to group action.",
     "sub2": "AI Generated · 20 minute read",
     "contentFile": "content/fiction/Bex2.md",
     "sections": []
@@ -184,7 +184,7 @@ const EROTICA_ITEMS = [
     "title": "Her Nose",
     "img": "b01_lesbian.svg",
     "sub1": "A cam show and a tempting offer.",
-    "sub2": "Story: Claier Woodruff · Images: AI · 3 minute read",
+    "sub2": "Story: Claire Woodruff · Images: AI · 15 minute read",
     "contentFile": "content/fiction/hernose.md",
     "sections": []
   },
@@ -221,10 +221,10 @@ const EROTICA_ITEMS = [
     "sections": []
   },
   {
-    "title": "Story Placeholder",
+    "title": "More Soon",
     "img": "er_g.jpg",
-    "sub1": "A holiday cottage. End of summer.",
-    "sub2": "Romantic getaway · Short read",
+    "sub1": "More stories will come soon.",
+    "sub2": "Come back later as more fiction is added.",
     "contentFile": "content/fiction/by-the-sea.md",
     "sections": []
   },
