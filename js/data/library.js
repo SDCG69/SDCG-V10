@@ -181,6 +181,14 @@ const EROTICA_ITEMS = [
     "sections": []
   },
   {
+    "title": "Her Nose",
+    "img": "b01_lesbian.svg",
+    "sub1": "A cam show and a tempting offer.",
+    "sub2": "Story: Claier Woodruff · Images: AI · 3 minute read",
+    "contentFile": "content/fiction/hernose.md",
+    "sections": []
+  },
+  {
     "title": "Altitude Adjustment",
     "img": "b02_hetero.svg",
     "sub1": "Nervous flyer joins the mile-high club.",
