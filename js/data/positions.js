@@ -112,7 +112,7 @@ const POSITIONS=[
   {n:"Kneeling Sinner",img:"sinner_10",desc:"A Sinner variant where Partner B kneels beside Partner A during the lateral entry. The kneeling height elevates the angle slightly compared to a fully lying Sinner."},
   {n:"Kneeling Saint 180",img:"saint_09",desc:"Saint position but Partner B faces the opposite direction — a 180-degree reverse orientation. The reversal completely changes the entry angle in the side-lying configuration."},
   {n:"Pressed Bull",img:"bull_07",desc:"A Bull variant where Partner B presses firmly into Partner A, closing the gap between their bodies. The pressing contact intensifies the sensation and restricts Partner A's movement."},
-  {n:"Standing Groundhog",img:"groundhog_10",desc:"A Groundhog variant where both partners are standing — Partner A bent forward and low. Partner B enters from above and behind at a steep downward angle. Needs a height difference or furniture."},
+  {n:"Raised Groundhog",img:"groundhog_10",desc:"A Groundhog variant where the woman lays face down on a bench or stool — The man stand and enters from above and behind at a steep downward angle."},
   {n:"Oystered Missionary",img:"missionary_10",desc:"Missionary with Partner A's legs turned outward at the hips like an open oyster. The external hip rotation changes the internal angle and opens the pelvis more fully."},
   {n:"Fire Hydrant",img:"doggy_07",desc:"Doggy Style but Partner A raises one leg out to the side like a dog at a fire hydrant. The raised leg shifts the hip angle and opens up a lateral entry point."},
   {n:"Crabby Saint",img:"saint_06",desc:"A Saint variant blended with Crab elements — side-lying with Partner A's legs in a more open crab-like position. The wider hip opening changes the side-entry feel."},
