@@ -9,11 +9,11 @@ const HANDBOOK_ITEMS = [
     "sections": []
   },
   {
-    "title": "Masturbation",
+    "title": "Oral Sex - Cunnilingus",
     "img": "h09_masturbation.svg",
-    "sub1": "Solo Time and Mutual Masturbation",
-    "sub2": "Guides for better 'me time'",
-    "contentFile": "content/handbook/masturbation.md",
+    "sub1": "Oral sex guide to eating pussy.",
+    "sub2": "How to give her great oral orgasms.",
+    "contentFile": "content/handbook/or-cun.md",
     "sections": []
   },
   {
