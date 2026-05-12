@@ -58,8 +58,8 @@ const HANDBOOK_ITEMS = [
 //    appear at the very bottom under a "More Soon" section.
 //
 // VALID CATEGORIES (case-sensitive):
-//   "Hetero"        – M/F stories
 //   "Lesbian"       – F/F stories
+//   "Hetero"        – M/F stories
 //   "Kinky"         – BDSM, fetish, power-play
 //   "Group"         – three or more participants
 //   "Supernatural"  – vampires, demons, fantasy creatures
@@ -82,7 +82,7 @@ const HANDBOOK_ITEMS = [
 // CATEGORY DISPLAY ORDER — edit this array to reorder the sections:
 const EROTICA_CATEGORY_ORDER = [
   "Hetero",
-  "Lesbian",
+	"Lesbian",
   "Kinky",
   "Group",
   "Supernatural",
@@ -98,7 +98,8 @@ const EROTICA_ITEMS = [
     "title": "The College Girls Pt.1",
     "img": "b01_lesbian.svg",
     "sub1": "Sapphic thrills - her first time with a woman.",
-    "sub2": "AI Generated · 15 minute read",
+    "sub2": "AI generated story & images",
+    "readTime": "30 minute read",
     "contentFile": "content/fiction/becs_1.md",
     "sections": []
   },
@@ -107,7 +108,8 @@ const EROTICA_ITEMS = [
     "title": "Her Nose",
     "img": "b01_lesbian.svg",
     "sub1": "A cam show and a tempting offer.",
-    "sub2": "Story: Claire Woodruff · Images: AI · 15 minute read",
+    "sub2": "Story: Claire Woodruff · Images: AI",
+    "readTime": "15 minute read",
     "contentFile": "content/fiction/hernose.md",
     "sections": []
   },
@@ -116,7 +118,8 @@ const EROTICA_ITEMS = [
     "title": "A Chance Encounter",
     "img": "b02_hetero.svg",
     "sub1": "A fantasy, A daydream, A stranger.",
-    "sub2": "Story: Jo Benfield · Images: AI · 3 minute read",
+    "sub2": "Story: Jo Benfield · Images: AI",
+    "readTime": "3 minute read",
     "contentFile": "content/fiction/chance.md",
     "sections": []
   },
@@ -125,7 +128,8 @@ const EROTICA_ITEMS = [
     "title": "Amy's Sunlounger",
     "img": "b02_hetero.svg",
     "sub1": "A voyeur and a horny, dominant sunbather.",
-    "sub2": "AI Generated · 10 minute read",
+    "sub2": "AI generated story & images",
+    "readTime": "15 minute read",
     "contentFile": "content/fiction/sunlounger.md",
     "sections": []
   },
@@ -134,7 +138,8 @@ const EROTICA_ITEMS = [
     "title": "Altitude Adjustment",
     "img": "b02_hetero.svg",
     "sub1": "Nervous flyer joins the mile-high club.",
-    "sub2": "AI Generated · 10 minute read",
+    "sub2": "AI generated story & images",
+    "readTime": "10 minute read",
     "contentFile": "content/fiction/planestory.md",
     "sections": []
   },
@@ -143,7 +148,8 @@ const EROTICA_ITEMS = [
     "title": "The Art Museum",
     "img": "b03_kinky.svg",
     "sub1": "A thickset woman with a BDSM fetish.",
-    "sub2": "AI Generated · 15 minute read",
+    "sub2": "AI generated story & images",
+    "readTime": "25 minute read",
     "contentFile": "content/fiction/artmuseum.md",
     "sections": []
   },
@@ -152,7 +158,8 @@ const EROTICA_ITEMS = [
     "title": "The College Girls Pt.2",
     "img": "b05_group.svg",
     "sub1": "Sapphic thrills - a card game leads to group action.",
-    "sub2": "AI Generated · 20 minute read",
+    "sub2": "AI generated story & images",
+    "readTime": "30 minute read",
     "contentFile": "content/fiction/Bex2.md",
     "sections": []
   },
@@ -161,7 +168,8 @@ const EROTICA_ITEMS = [
     "title": "The Vampire",
     "img": "b04_supernatural.svg",
     "sub1": "A barmaid and a vampire.",
-    "sub2": "AI Generated · 15 minute read",
+    "sub2": "AI generated story & images",
+    "readTime": "15 minute read",
     "contentFile": "content/fiction/vampire.md",
     "sections": []
   },
@@ -170,7 +178,8 @@ const EROTICA_ITEMS = [
     "title": "The Predator & The Prey",
     "img": "b06_erotic_horror.svg",
     "sub1": "A sexy serial killer hunts a victim.",
-    "sub2": "AI Generated · 15 minute read",
+    "sub2": "AI generated story & images",
+    "readTime": "20 minute read",
     "contentFile": "content/fiction/predator-prey.md",
     "sections": []
   },
@@ -180,6 +189,7 @@ const EROTICA_ITEMS = [
     "img": "er_g.jpg",
     "sub1": "More stories will come soon.",
     "sub2": "Come back later as more fiction is added.",
+    "readTime": "",
     "contentFile": "content/fiction/by-the-sea.md",
     "sections": []
   },
