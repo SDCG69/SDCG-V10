@@ -58,8 +58,8 @@ const HANDBOOK_ITEMS = [
 //    appear at the very bottom under a "More Soon" section.
 //
 // VALID CATEGORIES (case-sensitive):
-//   "Lesbian"       – F/F stories
 //   "Hetero"        – M/F stories
+//   "Lesbian"       – F/F stories
 //   "Kinky"         – BDSM, fetish, power-play
 //   "Group"         – three or more participants
 //   "Supernatural"  – vampires, demons, fantasy creatures
@@ -81,8 +81,8 @@ const HANDBOOK_ITEMS = [
 //
 // CATEGORY DISPLAY ORDER — edit this array to reorder the sections:
 const EROTICA_CATEGORY_ORDER = [
-  "Lesbian",
   "Hetero",
+  "Lesbian",
   "Kinky",
   "Group",
   "Supernatural",
