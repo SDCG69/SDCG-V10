@@ -1,14 +1,35 @@
 // ── Sex Handbook A-Z ─────────────────────────────────────────────────────────
+//
+// HOW TO ADD NEW ENTRIES:
+// 1. Copy the block below and add it to the array in alphabetical order.
+// 2. The "letter" field controls which A-Z section the entry appears under.
+//    Set it to a single uppercase letter, e.g. "letter": "F" for Foreplay.
+//    If you omit the "letter" field, the app will auto-detect it from the title.
+// 3. "More Soon" placeholder entries use "letter": "#" to appear at the bottom.
+//
+// EXAMPLE — adding a new entry under F:
+//   {
+//     "letter": "F",
+//     "title": "Foreplay",
+//     "img": "h04_foreplay.svg",
+//     "sub1": "The art of foreplay.",
+//     "sub2": "Techniques to build arousal.",
+//     "contentFile": "content/handbook/foreplay.md",
+//     "sections": []
+//   },
+//
 const HANDBOOK_ITEMS = [
   {
-    "title": "Orgasms",
-    "img": "h03_orgasm.svg",
-    "sub1": "Orgasms.  What are they?",
-    "sub2": "All details on orgasms",
-    "contentFile": "content/handbook/orgasmtypes.md",
+    "letter": "#",
+    "title": "More Soon",
+    "img": "hb_c.jpg",
+    "sub1": "More guides will come soon.",
+    "sub2": "Come back later as more sex handbooks are added.",
+    "contentFile": "content/handbook/test.md",
     "sections": []
   },
   {
+    "letter": "O",
     "title": "Oral Sex - Cunnilingus",
     "img": "h02_cunnilingus.svg",
     "sub1": "Oral sex guide to eating pussy.",
@@ -17,11 +38,12 @@ const HANDBOOK_ITEMS = [
     "sections": []
   },
   {
-    "title": "More Soon",
-    "img": "hb_c.jpg",
-    "sub1": "More guides will come soon.",
-    "sub2": "Come back later as more sex handbooks are dded.",
-    "contentFile": "content/handbook/test.md",
+    "letter": "O",
+    "title": "Orgasms",
+    "img": "h03_orgasm.svg",
+    "sub1": "Orgasms.  What are they?",
+    "sub2": "All details on orgasms",
+    "contentFile": "content/handbook/orgasmtypes.md",
     "sections": []
   },
 ];
