@@ -81,8 +81,8 @@ const HANDBOOK_ITEMS = [
 //
 // CATEGORY DISPLAY ORDER — edit this array to reorder the sections:
 const EROTICA_CATEGORY_ORDER = [
-  "Lesbian",
   "Hetero",
+	"Lesbian",
   "Kinky",
   "Group",
   "Supernatural",
