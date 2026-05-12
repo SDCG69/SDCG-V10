@@ -992,19 +992,38 @@ function App(){
             <span style={{color:"#888",fontSize:"13px",letterSpacing:"1px",textTransform:"uppercase"}}>Erotica Fiction</span>
             <div style={{width:"72px"}}/>
           </div>
-          <div style={{display:"flex",flexDirection:"column",gap:"10px"}}>
-            {EROTICA_ITEMS.map((item,i)=>(
-              <button key={i} className="btn" onClick={()=>openEroticaItem(item)}
-                style={{background:"#111",border:"1px solid #1e1e1e",borderRadius:"14px",padding:"12px 14px",width:"100%",display:"flex",alignItems:"center",gap:"14px",textAlign:"left"}}>
-                <img src={"media/img/"+item.img} alt="" style={{width:"56px",height:"56px",borderRadius:"10px",objectFit:"cover",flexShrink:0,border:"1px solid #2a2a2a"}}/>
-                <div style={{flex:1,minWidth:0}}>
-                  <div style={{color:"#eee",fontSize:"17px",fontWeight:"bold",marginBottom:"3px"}}>{item.title}</div>
-                  <div style={{color:"#666",fontSize:"12px",lineHeight:"1.4"}}>{item.sub1}</div>
-                  <div style={{color:"#555",fontSize:"12px",lineHeight:"1.4"}}>{item.sub2}</div>
+          <div style={{display:"flex",flexDirection:"column",gap:"18px"}}>
+            {(()=>{
+              // Group items by category, preserving insertion order within each group
+              const groups={};
+              EROTICA_ITEMS.forEach(item=>{
+                const cat=item.category||"#";
+                if(!groups[cat])groups[cat]=[];
+                groups[cat].push(item);
+              });
+              // Render in the fixed category order defined in library.js
+              return EROTICA_CATEGORY_ORDER.filter(cat=>groups[cat]&&groups[cat].length>0).map(cat=>(
+                <div key={cat}>
+                  <div style={{color:"#6a0080",fontSize:"13px",fontWeight:"bold",letterSpacing:"2px",textTransform:"uppercase",paddingBottom:"6px",borderBottom:"1px solid #1e0028",marginBottom:"8px"}}>
+                    {cat==="#"?"More Soon":cat}
+                  </div>
+                  <div style={{display:"flex",flexDirection:"column",gap:"8px"}}>
+                    {groups[cat].map((item,i)=>(
+                      <button key={i} className="btn" onClick={()=>openEroticaItem(item)}
+                        style={{background:"#111",border:"1px solid #1e1e1e",borderRadius:"14px",padding:"12px 14px",width:"100%",display:"flex",alignItems:"center",gap:"14px",textAlign:"left"}}>
+                        <img src={"media/img/"+item.img} alt="" style={{width:"56px",height:"56px",borderRadius:"10px",objectFit:"cover",flexShrink:0,border:"1px solid #2a2a2a"}}/>
+                        <div style={{flex:1,minWidth:0}}>
+                          <div style={{color:"#eee",fontSize:"17px",fontWeight:"bold",marginBottom:"3px"}}>{item.title}</div>
+                          <div style={{color:"#666",fontSize:"12px",lineHeight:"1.4"}}>{item.sub1}</div>
+                          <div style={{color:"#555",fontSize:"12px",lineHeight:"1.4"}}>{item.sub2}</div>
+                        </div>
+                        <span style={{color:"#333",fontSize:"18px",flexShrink:0}}>›</span>
+                      </button>
+                    ))}
+                  </div>
                 </div>
-                <span style={{color:"#333",fontSize:"18px",flexShrink:0}}>›</span>
-              </button>
-            ))}
+              ));
+            })()}
           </div>
         </div>
       )}
