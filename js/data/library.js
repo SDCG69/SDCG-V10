@@ -20,7 +20,7 @@
 //
 const HANDBOOK_ITEMS = [
   {
-    "letter": "#",
+    "letter": "M",
     "title": "More Soon",
     "img": "hb_c.jpg",
     "sub1": "More guides will come soon.",
@@ -49,16 +49,52 @@ const HANDBOOK_ITEMS = [
 ];
 
 // ── Erotica Fiction ─────────────────────────────────────────────────────────
+//
+// HOW TO ADD NEW STORIES:
+// 1. Copy a block below and add it anywhere in the array (order within a
+//    category is preserved; category order is fixed by EROTICA_CATEGORY_ORDER).
+// 2. Set "category" to one of the values listed below.
+// 3. Use "category": "#" for placeholder / coming-soon entries — they always
+//    appear at the very bottom under a "More Soon" section.
+//
+// VALID CATEGORIES (case-sensitive):
+//   "Lesbian"       – F/F stories
+//   "Hetero"        – M/F stories
+//   "Kinky"         – BDSM, fetish, power-play
+//   "Group"         – three or more participants
+//   "Supernatural"  – vampires, demons, fantasy creatures
+//   "Horror"        – erotic horror, dark thriller
+//   "Solo"          – masturbation, self-pleasure
+//   "Taboo"         – forbidden scenarios
+//   "#"             – placeholder / coming soon (shown last)
+//
+// EXAMPLE — adding a new Taboo story:
+//   {
+//     "category": "Taboo",
+//     "title": "The Forbidden Garden",
+//     "img": "b07_taboo.svg",
+//     "sub1": "A dangerous attraction.",
+//     "sub2": "AI Generated · 12 minute read",
+//     "contentFile": "content/fiction/forbidden.md",
+//     "sections": []
+//   },
+//
+// CATEGORY DISPLAY ORDER — edit this array to reorder the sections:
+const EROTICA_CATEGORY_ORDER = [
+  "Lesbian",
+  "Hetero",
+  "Kinky",
+  "Group",
+  "Supernatural",
+  "Horror",
+  "Solo",
+  "Taboo",
+  "#"
+];
+
 const EROTICA_ITEMS = [
-   {
-    "title": "A Chance Encounter",
-    "img": "b02_hetero.svg",
-    "sub1": "A fantasy, A daydream, A stranger.",
-    "sub2": "Story: Jo Benfield · Images: AI · 3 minute read",
-    "contentFile": "content/fiction/chance.md",
-    "sections": []
-  },
   {
+    "category": "Lesbian",
     "title": "The College Girls Pt.1",
     "img": "b01_lesbian.svg",
     "sub1": "Sapphic thrills - her first time with a woman.",
@@ -67,22 +103,7 @@ const EROTICA_ITEMS = [
     "sections": []
   },
   {
-    "title": "The College Girls Pt.2",
-    "img": "b05_group.svg",
-    "sub1": "Sapphic thrills - a card game leads to group action.",
-    "sub2": "AI Generated · 20 minute read",
-    "contentFile": "content/fiction/Bex2.md",
-    "sections": []
-  },
-  {
-    "title": "Amy's Sunlounger",
-    "img": "b02_hetero.svg",
-    "sub1": "A voyeur and a horny, dominant sunbather.",
-    "sub2": "AI Generated · 10 minute read",
-    "contentFile": "content/fiction/sunlounger.md",
-    "sections": []
-  },
-  {
+    "category": "Lesbian",
     "title": "Her Nose",
     "img": "b01_lesbian.svg",
     "sub1": "A cam show and a tempting offer.",
@@ -91,6 +112,25 @@ const EROTICA_ITEMS = [
     "sections": []
   },
   {
+    "category": "Hetero",
+    "title": "A Chance Encounter",
+    "img": "b02_hetero.svg",
+    "sub1": "A fantasy, A daydream, A stranger.",
+    "sub2": "Story: Jo Benfield · Images: AI · 3 minute read",
+    "contentFile": "content/fiction/chance.md",
+    "sections": []
+  },
+  {
+    "category": "Hetero",
+    "title": "Amy's Sunlounger",
+    "img": "b02_hetero.svg",
+    "sub1": "A voyeur and a horny, dominant sunbather.",
+    "sub2": "AI Generated · 10 minute read",
+    "contentFile": "content/fiction/sunlounger.md",
+    "sections": []
+  },
+  {
+    "category": "Hetero",
     "title": "Altitude Adjustment",
     "img": "b02_hetero.svg",
     "sub1": "Nervous flyer joins the mile-high club.",
@@ -99,6 +139,7 @@ const EROTICA_ITEMS = [
     "sections": []
   },
   {
+    "category": "Kinky",
     "title": "The Art Museum",
     "img": "b03_kinky.svg",
     "sub1": "A thickset woman with a BDSM fetish.",
@@ -107,6 +148,16 @@ const EROTICA_ITEMS = [
     "sections": []
   },
   {
+    "category": "Group",
+    "title": "The College Girls Pt.2",
+    "img": "b05_group.svg",
+    "sub1": "Sapphic thrills - a card game leads to group action.",
+    "sub2": "AI Generated · 20 minute read",
+    "contentFile": "content/fiction/Bex2.md",
+    "sections": []
+  },
+  {
+    "category": "Supernatural",
     "title": "The Vampire",
     "img": "b04_supernatural.svg",
     "sub1": "A barmaid and a vampire.",
@@ -115,6 +166,7 @@ const EROTICA_ITEMS = [
     "sections": []
   },
   {
+    "category": "Horror",
     "title": "The Predator & The Prey",
     "img": "b06_erotic_horror.svg",
     "sub1": "A sexy serial killer hunts a victim.",
@@ -123,6 +175,7 @@ const EROTICA_ITEMS = [
     "sections": []
   },
   {
+    "category": "#",
     "title": "More Soon",
     "img": "er_g.jpg",
     "sub1": "More stories will come soon.",
