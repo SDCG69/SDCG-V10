@@ -35,6 +35,9 @@ function App(){
   // Sex Handbook A-Z state
   const [handbookItem,setHandbookItem]=useState(null);
 
+  // Content warning gate
+  const [warnDest,setWarnDest]=useState(null);
+
   // Erotica Fiction state
   const [eroticaItem,setEroticaItem]=useState(null);
   const [libraryLoading,setLibraryLoading]=useState(false);
@@ -126,25 +129,46 @@ function App(){
       setDiceRolling(false);
     },750);
   }
-  function getPosArray(){
-    if(posMode==="threesomes") return THREESOME_POSITIONS;
-    if(posMode==="foursomes") return FOURSOME_POSITIONS;
-    return POSITIONS;
+  // Shuffle queues — one per category, refilled when exhausted
+  const [posQueues,setPosQueues]=useState({couples:[],threesomes:[],foursomes:[]});
+
+  function shuffleIndices(len){
+    const a=Array.from({length:len},(_,i)=>i);
+    for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}
+    return a;
+  }
+  function dequeuePosition(currentQueues,mode,lastIdx){
+    const arr=mode==="threesomes"?THREESOME_POSITIONS:mode==="foursomes"?FOURSOME_POSITIONS:POSITIONS;
+    let q=[...(currentQueues[mode]||[])];
+    if(q.length===0){
+      q=shuffleIndices(arr.length);
+      if(q.length>1&&lastIdx!=null&&q[0]===lastIdx){
+        const j=Math.floor(Math.random()*(q.length-1))+1;
+        [q[0],q[j]]=[q[j],q[0]];
+      }
+    }
+    const next=q.shift();
+    return{next,remaining:q};
   }
   function openPosition(){
     setScreen("positionSelect");
   }
   function startPosition(){
-    const arr=getPosArray();
-    setPosIdx(Math.floor(Math.random()*arr.length));
+    const mode=posMode;
+    setPosQueues(prev=>{
+      const{next,remaining}=dequeuePosition(prev,mode,null);
+      setPosIdx(next);
+      return{...prev,[mode]:remaining};
+    });
     setPosVidErr(false);
     setScreen("position");
   }
   function nextPosition(){
-    const arr=getPosArray();
-    setPosIdx(i=>{
-      let n;do{n=Math.floor(Math.random()*arr.length);}while(n===i&&arr.length>1);
-      return n;
+    const mode=posMode;
+    setPosQueues(prev=>{
+      const{next,remaining}=dequeuePosition(prev,mode,posIdx);
+      setPosIdx(next);
+      return{...prev,[mode]:remaining};
     });
     setPosVidErr(false);
   }
@@ -294,8 +318,8 @@ function App(){
             <span style={{color:"#444",fontSize:"12px",fontWeight:"normal"}}>{totalEnabled} / {ALL_KEYS.size} enabled</span>
           </button>
           <button className="btn" onClick={startGame} style={{background:"#eee",color:"#080808",fontSize:"25px",padding:"20px 40px",width:"100%"}}>😈 Start Game 😈</button>
-          <p style={{color:"#444",fontSize:"26px",letterSpacing:"1.5px",textTransform:"uppercase",marginTop:"32px",marginBottom:"0"}}>Simple Mini Games</p>
-          <button className="btn" onClick={openPosition} style={{background:"#4A0404",border:"1px solid #252525",width:"100%",marginTop:"12px",padding:"14px 16px",display:"flex",flexDirection:"column",alignItems:"flex-start",textAlign:"left"}}>
+          <p style={{color:"#444",fontSize:"26px",letterSpacing:"1.5px",textTransform:"uppercase",marginTop:"32px",marginBottom:"0"}}>Hot Extras</p>
+          <button className="btn" onClick={()=>{setWarnDest("positionSelect");setScreen("contentWarning");}} style={{background:"#4A0404",border:"1px solid #252525",width:"100%",marginTop:"12px",padding:"14px 16px",display:"flex",flexDirection:"column",alignItems:"flex-start",textAlign:"left"}}>
             <div style={{display:"flex",alignItems:"center",gap:"8px",color:"#888",fontSize:"19px",fontWeight:"bold"}}>
               <span>😈🔥</span><span>Sex Position Chooser</span>
             </div>
@@ -307,18 +331,44 @@ function App(){
             </div>
             <p style={{color:"#4a4a4a",fontSize:"12px",margin:"6px 0 0",lineHeight:"1.5",paddingLeft:"2px"}}>A simple game of truths.  Great for spicy conversation.</p>
           </button>
-          <button className="btn" onClick={()=>setScreen("handbookList")} style={{background:"#4A0404",border:"1px solid #252525",width:"100%",marginTop:"12px",padding:"14px 16px",display:"flex",flexDirection:"column",alignItems:"flex-start",textAlign:"left"}}>
+          <button className="btn" onClick={()=>{setWarnDest("handbookList");setScreen("contentWarning");}} style={{background:"#4A0404",border:"1px solid #252525",width:"100%",marginTop:"12px",padding:"14px 16px",display:"flex",flexDirection:"column",alignItems:"flex-start",textAlign:"left"}}>
             <div style={{display:"flex",alignItems:"center",gap:"8px",color:"#888",fontSize:"19px",fontWeight:"bold"}}>
               <span>📖</span><span>Sex Handbook A-Z</span>
             </div>
             <p style={{color:"#4a4a4a",fontSize:"12px",margin:"6px 0 0",lineHeight:"1.5",paddingLeft:"2px"}}>A curated set of guidebooks for sexual health and knowledge.</p>
           </button>
-          <button className="btn" onClick={()=>setScreen("eroticaList")} style={{background:"#4A0404",border:"1px solid #252525",width:"100%",marginTop:"12px",padding:"14px 16px",display:"flex",flexDirection:"column",alignItems:"flex-start",textAlign:"left"}}>
+          <button className="btn" onClick={()=>{setWarnDest("eroticaList");setScreen("contentWarning");}} style={{background:"#4A0404",border:"1px solid #252525",width:"100%",marginTop:"12px",padding:"14px 16px",display:"flex",flexDirection:"column",alignItems:"flex-start",textAlign:"left"}}>
             <div style={{display:"flex",alignItems:"center",gap:"8px",color:"#888",fontSize:"19px",fontWeight:"bold"}}>
               <span>✍️</span><span>Erotica Fiction</span>
             </div>
             <p style={{color:"#4a4a4a",fontSize:"12px",margin:"6px 0 0",lineHeight:"1.5",paddingLeft:"2px"}}>A curated series of graphic and explicit erotic fiction.</p>
           </button>
+        </div>
+      )}
+
+      {/* ══ CONTENT WARNING ══ */}
+      {screen==="contentWarning"&&(
+        <div style={{animation:"fadeUp .35s ease",maxWidth:"520px",width:"100%",display:"flex",flexDirection:"column",minHeight:"calc(100vh - 40px)",alignItems:"center",justifyContent:"center"}}>
+          <div style={{background:"linear-gradient(135deg,#1a0000,#0d0d0d)",border:"1px solid #8b000055",borderRadius:"24px",padding:"36px 28px",textAlign:"center",boxShadow:"0 20px 60px #8b000033,0 4px 20px #000",width:"100%"}}>
+            <div style={{fontSize:"3rem",marginBottom:"16px"}}>🔞</div>
+            <h2 style={{color:"#eee",fontSize:"1.5rem",fontWeight:"bold",margin:"0 0 16px",letterSpacing:"0.5px"}}>Content Warning</h2>
+            <p style={{color:"#bbb",fontSize:"15px",lineHeight:"1.7",margin:"0 0 12px"}}>
+              This section contains <strong style={{color:"#ff6b6b"}}>strong, explicit and potentially pornographic material</strong> intended for adults only.
+            </p>
+            <p style={{color:"#888",fontSize:"13px",lineHeight:"1.6",margin:"0 0 32px"}}>
+              By continuing you confirm that you are 18 years of age or older and consent to viewing adult content.
+            </p>
+            <button className="btn"
+              onClick={()=>setScreen(warnDest)}
+              style={{background:"#1a5c2a",border:"1px solid #2d8a40",color:"#fff",fontSize:"16px",padding:"16px",width:"100%",marginBottom:"14px",boxShadow:"0 0 20px #2d8a4055"}}>
+              ✅ Yes, OK to Proceed
+            </button>
+            <button className="btn"
+              onClick={()=>{setWarnDest(null);setScreen("setup");}}
+              style={{background:"#5c1a1a",border:"1px solid #8a2d2d",color:"#fff",fontSize:"16px",padding:"16px",width:"100%",boxShadow:"0 0 20px #8a2d2d44"}}>
+              ❌ No, Take Me Back to Home
+            </button>
+          </div>
         </div>
       )}
 
@@ -745,8 +795,6 @@ function App(){
         const vidUrl=isCouples&&pos.vid?`${VID}${pos.vid}.mp4`:null;
         const ac="#c87a00";
         const modeLabel=posMode==="threesomes"?"Threesome":posMode==="foursomes"?"Foursome":"Couple";
-        const srcLabel=isCouples?"sexinfo101.com":posMode==="threesomes"?"badgirlsbible.com":"menshealth.com";
-        const srcUrl=isCouples?"https://sexinfo101.com/positions/c/all-sex":posMode==="threesomes"?"https://badgirlsbible.com/threesome-sex-positions":"https://www.menshealth.com/sex-women/a65491904/best-foursome-positions/";
         return(
           <div style={{animation:"fadeUp .35s ease",maxWidth:"520px",width:"100%",display:"flex",flexDirection:"column",minHeight:"calc(100vh - 40px)"}}>
             <div style={{display:"flex",alignItems:"center",justifyContent:"space-between",marginBottom:"16px"}}>
@@ -787,11 +835,10 @@ function App(){
                   <div style={{display:"inline-block",background:`${ac}22`,border:`1px solid ${ac}44`,borderRadius:"20px",padding:"3px 12px",fontSize:"11px",color:ac,letterSpacing:"1px",marginBottom:"12px"}}>{pos.src}</div>
                 )}
                 <h2 style={{color:"#eee",fontSize:"1.6rem",margin:"0 0 12px",fontWeight:"bold",textShadow:`0 0 24px ${ac}66`}}>{pos.n}</h2>
-                {!isCouples&&pos.desc&&(
+                {pos.desc&&(
                   <p style={{color:"#aaa",fontSize:"14px",lineHeight:"1.65",margin:"0 0 14px",textAlign:"left"}}>{pos.desc}</p>
                 )}
-                <a href={srcUrl} target="_blank" rel="noopener noreferrer"
-                  style={{color:"#333",fontSize:"11px",textDecoration:"none",letterSpacing:"0.5px"}}>{srcLabel}</a>
+
               </div>
             </div>
             <button className="btn" onClick={nextPosition} style={{background:ac,color:"#fff",fontSize:"18px",padding:"18px",width:"100%",boxShadow:`0 0 28px ${ac}55`}}>
