@@ -20,7 +20,7 @@
 //
 const HANDBOOK_ITEMS = [
   {
-    "letter": "M",
+    "letter": "#",
     "title": "More Soon",
     "img": "hb_c.jpg",
     "sub1": "More guides will come soon.",
