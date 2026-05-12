@@ -20,7 +20,7 @@
 //
 const HANDBOOK_ITEMS = [
   {
-    "letter": "#",
+    "letter": "M",
     "title": "More Soon",
     "img": "hb_c.jpg",
     "sub1": "More guides will come soon.",
@@ -81,8 +81,8 @@ const HANDBOOK_ITEMS = [
 //
 // CATEGORY DISPLAY ORDER — edit this array to reorder the sections:
 const EROTICA_CATEGORY_ORDER = [
+  "Lesbian",
   "Hetero",
-	"Lesbian",
   "Kinky",
   "Group",
   "Supernatural",
@@ -149,7 +149,7 @@ const EROTICA_ITEMS = [
     "img": "b03_kinky.svg",
     "sub1": "A thickset woman with a BDSM fetish.",
     "sub2": "AI generated story & images",
-    "readTime": "25 minute read",
+    "readTime": "20 minute read",
     "contentFile": "content/fiction/artmuseum.md",
     "sections": []
   },
@@ -159,7 +159,7 @@ const EROTICA_ITEMS = [
     "img": "b05_group.svg",
     "sub1": "Sapphic thrills - a card game leads to group action.",
     "sub2": "AI generated story & images",
-    "readTime": "30 minute read",
+    "readTime": "25 minute read",
     "contentFile": "content/fiction/Bex2.md",
     "sections": []
   },
