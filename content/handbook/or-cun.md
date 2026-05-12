@@ -1,4 +1,4 @@
-# Oral Sex - Cunnilingus
+## Oral Sex - Cunnilingus
 
 How to eat pussy so good that your partner speaks in tongues.
 
@@ -10,7 +10,6 @@ Here’s how this guide is structured.
 2. The Build Up – 7 Steps to teasing her to please her aka pussy eating foreplay
 3. Pancake & Vortex – The only 2 techniques you need to make her shake & scream with pleasure when you eat her pussy.
 4. 14 More Powerful Pussy Eating Techniques – These will make sure she is eternally grateful for the ecstasy you give her and that you’ll never run out of ideas.
-5. 11 Dangerous Mistakes Most Men Make – **You must avoid these horrendous mistakes** that most men make when licking her pussy if you want her to stay obsessed with you.
 
 You don’t want to start using the Pancake and the Vortex to eat her pussy immediately. Taking your time to build up her anticipation and make her want it more is going to make her orgasms more powerful and intense.
 
@@ -38,7 +37,7 @@ However, the clitoris extends far beyond the surface and is actually 9 to 11 cen
 
 **Vagina –** Her vagina is the other area of her body, besides her clit that is super sensitive and feels incredible for her when it’s stimulated with your tongue or lips or finger or penis. Because the vagina is internal, it’s technically incorrect to say you eat her vagina.  Your tongue has a chance to go super deep here.
 
-**Anus –** Her anus also possesses a lot of nerve endings and can be intensely pleasurable to have stimulated too if she’s into anilingus. I cover more about anal pleasures in the handbook on Anal Sex.
+**Anus –** Her anus also possesses a lot of nerve endings and can be intensely pleasurable to have stimulated too if she’s into anilingus.
 
 Now let’s learn about her important internal anatomy…
 
@@ -84,7 +83,7 @@ When crossing to the other leg, spend a little longer kissing her vagina outside
 
 ## 3. Pancake & Vortex
 
-These two techniques are incredibly easy to perform and as I said earlier, will be responsible for the most powerful orgasms you can give her when eating out her pussy. They are the:
+These two techniques are incredibly easy to perform and will be responsible for the most powerful orgasms you can give her when eating out her pussy. They are the:
 
 1. The Pancake
 2. The Vortex.
@@ -193,7 +192,7 @@ You can do it slowly or as fast as the beat of a song. Talk to her and listen to
 
 [image src="media/img/or-cun-bsck.jpeg" alt="Cunnilingus"]
 
-**Licking Vortex –** When you suck her clit into your mouth, try holding it there, while you use your tongue to massage her clit. As I mentioned earlier, vary the speed and pressure you apply with your licking to figure out what she enjoys most.
+**Licking Vortex –** When you suck her clit into your mouth, try holding it there, while you use your tongue to massage her clit. Vary the speed and pressure you apply with your licking to figure out what she enjoys most.
 
 *How big should my O be?*
 
@@ -207,7 +206,7 @@ As always, listen to her body for feedback, but also talk to her and you’ll fi
 
 *Should I use my teeth on her clit?*
 
-Hell no! Her clit is one of the most sensitive spots on her body, so it’s highly likely that your teeth will hurt her clit. Even if she explicitly asks for it, you need to be incredibly cautious and I would recommend that you never use your teeth.
+Hell no! Her clit is one of the most sensitive spots on her body, so it’s highly likely that your teeth will hurt her clit. Even if she explicitly asks for it, you need to be incredibly cautious and it is not recommended to ever use your teeth.
 And that’s the only two pussy eating techniques you’ll ever need to give your girl mind-altering orgasms and make you the best she’s ever had…
 
 But…
@@ -252,9 +251,9 @@ Again, spend some time on other pleasurable, but non-orgasm-inducing activities 
 
 Start eating her out again at an even slower pace all the way until she cums.
 
-I can guarantee you that edging her like this will cause her to have one of the most powerful orgasms of her life, if not the most powerful.
+Edging her like this will cause her to have one of the most powerful orgasms of her life, if not the most powerful.
 
-You can use edging during any orgasm inducing activity
+You can use edging during any orgasm inducing activity.
 
 ### 3. Give Her The Finger
 
@@ -329,7 +328,7 @@ She can even call an audible, instructing you to use more or less pressure, go f
 
 ### 10. Experiment With Your Tongue
 
-I know that at the start of this pussy eating guide, I mentioned that there is no need to move/flick your tongue when going down on her.
+Earlier, this guide entioned that there is no need to move/flick your tongue when going down on her.
 
 This is TRUE for the most part…
 
@@ -363,7 +362,7 @@ This is not so much a technique, but more general advice when going down.  The w
 
 I’m not talking about using water here.
 
-Instead, I’m talking about using as much saliva as possible. And, if you have trouble producing enough saliva, then I highly recommend using lube instead. Flavored lube can also make the activity more pleasurable for you.
+Instead, I’m talking about using as much saliva as possible. And, if you have trouble producing enough saliva, use lube instead. Flavored lube can also make the activity more pleasurable for you.
 
 ### 13. Cool Runnings
 
