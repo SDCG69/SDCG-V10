@@ -401,7 +401,7 @@ function App(){
             <div style={{height:"1px",background:"#1e1e1e"}}/>
             <div>
               <p style={{color:"#666",fontSize:"11px",letterSpacing:"1px",textTransform:"uppercase",margin:"0 0 4px"}}>Email Contact</p>
-              <p style={{color:"#ccc",fontSize:"14px",margin:0}}>Please mail all feedback and suggestions to <span style={{color:"#888"}}>scdg69@proton.me</span>. All rights reserved to their respective owners.</p>
+              <p style={{color:"#ccc",fontSize:"14px",margin:0}}>Please mail all feedback and suggestions to <span style={{color:"#888"}}>sdcg_maczlic_wang@gmail.com</span>. All rights reserved to their respective owners.</p>
             </div>
             <div style={{height:"1px",background:"#1e1e1e"}}/>
             <p style={{color:"#444",fontSize:"12px",margin:0,textAlign:"center",fontStyle:"italic"}}>❤️ Warm Love to all who have helped make this app possible.</p>
@@ -936,7 +936,6 @@ function App(){
                           <div style={{color:"#eee",fontSize:"17px",fontWeight:"bold",marginBottom:"3px"}}>{item.title}</div>
                           <div style={{color:"#666",fontSize:"12px",lineHeight:"1.4"}}>{item.sub1}</div>
                           <div style={{color:"#555",fontSize:"12px",lineHeight:"1.4"}}>{item.sub2}</div>
-                          {item.readTime&&<div style={{color:"#c87a00",fontSize:"12px",lineHeight:"1.4",marginTop:"3px"}}>{item.readTime}</div>}
                         </div>
                         <span style={{color:"#333",fontSize:"18px",flexShrink:0}}>›</span>
                       </button>
@@ -1017,6 +1016,7 @@ function App(){
                           <div style={{color:"#eee",fontSize:"17px",fontWeight:"bold",marginBottom:"3px"}}>{item.title}</div>
                           <div style={{color:"#666",fontSize:"12px",lineHeight:"1.4"}}>{item.sub1}</div>
                           <div style={{color:"#555",fontSize:"12px",lineHeight:"1.4"}}>{item.sub2}</div>
+                          {item.readTime&&<div style={{color:"#c87a00",fontSize:"12px",lineHeight:"1.4",marginTop:"3px"}}>{item.readTime}</div>}
                         </div>
                         <span style={{color:"#333",fontSize:"18px",flexShrink:0}}>›</span>
                       </button>
