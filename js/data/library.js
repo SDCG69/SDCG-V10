@@ -18,7 +18,7 @@ const HANDBOOK_ITEMS = [
   },
   {
     "title": "More Soon",
-    "img": "hb_c.jp",
+    "img": "hb_c.jpg",
     "sub1": "More guides will come soon.",
     "sub2": "Come back later as more sex handbooks are dded.",
     "contentFile": "content/handbook/test.md",
