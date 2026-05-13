@@ -1138,6 +1138,8 @@ function MemoryGame({faces,totalPairs,onBack}){
   const [locked,setLocked]=React.useState(false);
   const [won,setWon]=React.useState(false);
   const [showWin,setShowWin]=React.useState(false);
+  const [preview,setPreview]=React.useState(null); // faceIdx of card to show large
+  const previewTimer=React.useRef(null);
   const fwRef=React.useRef(null);
   const fwRaf=React.useRef(null);
   const fwParticles=React.useRef([]);
@@ -1149,6 +1151,12 @@ function MemoryGame({faces,totalPairs,onBack}){
     return pairs;
   }
 
+  function showPreview(faceIdx){
+    if(previewTimer.current)clearTimeout(previewTimer.current);
+    setPreview(faceIdx);
+    previewTimer.current=setTimeout(()=>setPreview(null),1000);
+  }
+
   function initGame(){
     setDeck(buildDeck(faces));
     setFlipped([]);
@@ -1157,6 +1165,8 @@ function MemoryGame({faces,totalPairs,onBack}){
     setLocked(false);
     setWon(false);
     setShowWin(false);
+    setPreview(null);
+    if(previewTimer.current)clearTimeout(previewTimer.current);
     stopFW();
   }
 
@@ -1167,6 +1177,7 @@ function MemoryGame({faces,totalPairs,onBack}){
     if(matched.has(card.faceIdx))return;
     if(flipped.find(c=>c.id===card.id))return;
     if(flipped.length>=2)return;
+    showPreview(card.faceIdx);
     const nf=[...flipped,card];
     setFlipped(nf);
     if(nf.length===2){
@@ -1300,6 +1311,13 @@ function MemoryGame({faces,totalPairs,onBack}){
           })}
         </div>
       </div>
+
+      {/* Card preview overlay */}
+      {preview!==null&&(
+        <div style={{position:"fixed",top:0,left:0,right:0,bottom:0,background:"rgba(0,0,0,0.72)",zIndex:50,display:"flex",flexDirection:"column",alignItems:"center",justifyContent:"center",pointerEvents:"none"}}>
+          <img src={faces[preview]} alt="" style={{width:"min(72vw,320px)",height:"min(72vw,320px)",objectFit:"cover",borderRadius:"16px",border:"2px solid #8b0000",boxShadow:"0 0 40px rgba(139,0,0,0.6)",display:"block"}}/>
+        </div>
+      )}
 
       {/* Fireworks canvas */}
       <canvas ref={fwRef} style={{display:won?"block":"none",position:"fixed",top:0,left:0,right:0,bottom:0,pointerEvents:"none",zIndex:100}}/>
