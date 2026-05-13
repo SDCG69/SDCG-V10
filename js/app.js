@@ -37,6 +37,8 @@ function App(){
 
   // Content warning gate
   const [warnDest,setWarnDest]=useState(null);
+  // Memory game topic
+  const [memoryTopic,setMemoryTopic]=useState(null);
 
   // Erotica Fiction state
   const [eroticaItem,setEroticaItem]=useState(null);
@@ -343,7 +345,7 @@ function App(){
             </div>
             <p style={{color:"#4a4a4a",fontSize:"12px",margin:"6px 0 0",lineHeight:"1.5",paddingLeft:"2px"}}>A curated series of graphic and explicit erotic fiction.</p>
           </button>
-          <button className="btn" onClick={()=>setScreen("memoryGame")} style={{background:"#4A0404",border:"1px solid #252525",width:"100%",marginTop:"12px",padding:"14px 16px",display:"flex",flexDirection:"column",alignItems:"flex-start",textAlign:"left"}}>
+          <button className="btn" onClick={()=>{setWarnDest("memoryTopicSelect");setScreen("contentWarning");}} style={{background:"#4A0404",border:"1px solid #252525",width:"100%",marginTop:"12px",padding:"14px 16px",display:"flex",flexDirection:"column",alignItems:"flex-start",textAlign:"left"}}>
             <div style={{display:"flex",alignItems:"center",gap:"8px",color:"#888",fontSize:"19px",fontWeight:"bold"}}>
               <span>🃏</span><span>Memory Game</span>
             </div>
@@ -1119,10 +1121,39 @@ function App(){
       )}
 
       {/* ══ MEMORY GAME ══ */}
+      {/* ══ MEMORY TOPIC SELECT ══ */}
+      {screen==="memoryTopicSelect"&&(
+        <div style={{animation:"fadeUp .35s ease",maxWidth:"520px",width:"100%",display:"flex",flexDirection:"column",minHeight:"calc(100vh - 40px)"}}>
+          <div style={{display:"flex",alignItems:"center",justifyContent:"space-between",padding:"14px 0 10px"}}>
+            <button onClick={()=>setScreen("setup")} style={{background:"#141414",border:"1px solid #222",color:"#888",borderRadius:"8px",padding:"7px 13px",cursor:"pointer",fontFamily:"inherit",fontSize:"13px"}}>← Back</button>
+            <span style={{color:"#444",fontSize:"13px",letterSpacing:"1px",textTransform:"uppercase"}}>Memory Game</span>
+            <span style={{width:"70px"}}/>
+          </div>
+          <p style={{color:"#555",fontSize:"13px",textAlign:"center",marginBottom:"24px",letterSpacing:"0.5px"}}>Choose a category to play</p>
+          {[
+            {id:"faces",  label:"Faces",   emoji:"😍", desc:"Match pairs of faces"},
+            {id:"toys",   label:"Toys",    emoji:"🎀", desc:"Match pairs of sex toys"},
+            {id:"dicks",  label:"Dicks",   emoji:"🍆", desc:"Match pairs of dicks"},
+            {id:"pussies",label:"Pussies", emoji:"🌸", desc:"Match pairs of pussies"},
+          ].map(opt=>(
+            <button key={opt.id} className="btn"
+              onClick={()=>{setMemoryTopic(opt.id);setScreen("memoryGame");}}
+              style={{background:"#4A0404",border:"1px solid #252525",width:"100%",marginTop:"12px",padding:"14px 16px",display:"flex",flexDirection:"column",alignItems:"flex-start",textAlign:"left"}}>
+              <div style={{display:"flex",alignItems:"center",gap:"10px",color:"#888",fontSize:"19px",fontWeight:"bold"}}>
+                <span>{opt.emoji}</span><span>{opt.label}</span>
+              </div>
+              <p style={{color:"#4a4a4a",fontSize:"12px",margin:"6px 0 0",lineHeight:"1.5",paddingLeft:"2px"}}>{opt.desc}</p>
+            </button>
+          ))}
+        </div>
+      )}
+
+      {/* ══ MEMORY GAME ══ */}
       {screen==="memoryGame"&&(()=>{
-        const FACES=Array.from({length:15},(_,i)=>`content/memory/face_${String(i+1).padStart(2,"0")}.jpg`);
-        const TOTAL_PAIRS=15;
-        return <MemoryGame faces={FACES} totalPairs={TOTAL_PAIRS} onBack={()=>setScreen("setup")}/>;
+        const prefix=memoryTopic==="toys"?"toy":memoryTopic==="dicks"?"dick":memoryTopic==="pussies"?"pussy":"face";
+        const folder=memoryTopic||"faces";
+        const IMAGES=Array.from({length:15},(_,i)=>`content/memory/${folder}/${prefix}_${String(i+1).padStart(2,"0")}.jpg`);
+        return <MemoryGame key={memoryTopic} faces={IMAGES} totalPairs={15} onBack={()=>setScreen("memoryTopicSelect")}/>;
       })()}
 
     </div>
