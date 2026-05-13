@@ -347,9 +347,9 @@ function App(){
           </button>
           <button className="btn" onClick={()=>{setWarnDest("memoryTopicSelect");setScreen("contentWarning");}} style={{background:"#4A0404",border:"1px solid #252525",width:"100%",marginTop:"12px",padding:"14px 16px",display:"flex",flexDirection:"column",alignItems:"flex-start",textAlign:"left"}}>
             <div style={{display:"flex",alignItems:"center",gap:"8px",color:"#888",fontSize:"19px",fontWeight:"bold"}}>
-              <span>🃏</span><span>Memory Game</span>
+              <span>🍒</span><span>Memory Game</span>
             </div>
-            <p style={{color:"#4a4a4a",fontSize:"12px",margin:"6px 0 0",lineHeight:"1.5",paddingLeft:"2px"}}>Flip and match pairs of faces. Can you clear the board?</p>
+            <p style={{color:"#4a4a4a",fontSize:"12px",margin:"6px 0 0",lineHeight:"1.5",paddingLeft:"2px"}}>Flip and match pairs of naughty picture cards. Can you clear the board?</p>
           </button>
         </div>
       )}
@@ -1131,7 +1131,7 @@ function App(){
           </div>
           <p style={{color:"#555",fontSize:"13px",textAlign:"center",marginBottom:"24px",letterSpacing:"0.5px"}}>Choose a category to play</p>
           {[
-            {id:"faces",  label:"Faces",   emoji:"😍", desc:"Match pairs of faces"},
+            {id:"faces",  label:"Breasts",   emoji:"😍", desc:"Match pairs of breasts"},
             {id:"toys",   label:"Toys",    emoji:"🎀", desc:"Match pairs of sex toys"},
             {id:"dicks",  label:"Dicks",   emoji:"🍆", desc:"Match pairs of dicks"},
             {id:"pussies",label:"Pussies", emoji:"🌸", desc:"Match pairs of pussies"},
