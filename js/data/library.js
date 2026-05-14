@@ -188,7 +188,7 @@ const EROTICA_ITEMS = [
     "title": "Party Games",
     "img": "b05_group.svg",
     "sub1": "A hedonistic sex party.",
-    "sub2": "Story: Jo Benfield · Images: AI",
+    "sub2": "Story: Claudia Thomas · Images: AI",
     "readTime": "15 minute read",
     "contentFile": "content/fiction/party.md",
     "sections": []
