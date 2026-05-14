@@ -31,7 +31,7 @@ const HANDBOOK_ITEMS = [
  {
     "letter": "O",
     "title": "Oral Sex - Anilingus",
-    "img": "h02_cunnilingus.svg",
+    "img": "h04_anal.svg",
     "sub1": "Oral sex guide to licking ass.",
     "sub2": "How to eat ass like a pro.",
     "contentFile": "content/handbook/or-an.md",
@@ -49,7 +49,7 @@ const HANDBOOK_ITEMS = [
   {
     "letter": "O",
     "title": "Oral Sex - Fellatio",
-    "img": "h02_cunnilingus.svg",
+    "img": "h01_fellatio.svg",
     "sub1": "Oral sex guide to sucking dick.",
     "sub2": "How to give him great oral orgasms.",
     "contentFile": "content/handbook/or-fel.md",
