@@ -55,6 +55,8 @@ Spend time caressing the head and those areas immediately surrounding it. Beneat
 
 So LOOK at your partner's penis. Study it. Learn its areas of special sensitivity completely and be ready to apply your knowledge to his body with your tongue and with your lips when you bend your loving head over his cock.
 
+[image src="media/img/or-fel-lesson1.jpg" alt="Fellatio"]
+
 ### Lesson 2
 
 The most important thing to do at the beginning of going down on a man is to learn to gauge his reactions to stimulus. Once this is done, you will be able to finish him on demand, thereby keeping the favor from becoming a chore.
@@ -63,17 +65,23 @@ While his erect penis points toward the ceiling, cup his testicles in one hand a
 
 For most men the most sensitive area will be the point where the ring of the head and the foreskin are attached; or were attached prior to his circumcision. Position yourself so that your tongue is in direct contact with the “split” in the glans head, and simply stimulate that area with any variety of motions; circular, back and forth, side to side.
 
+[image src="media/img/or-fel-lesson2.jpg" alt="Fellatio"]
+
 ### Lesson 3
 
 Place the head of his penis inside your mouth, but do not tighten your lips around the shaft. With your tongue, begin a circle motion around his head with the tip of your tongue. The head of his penis will slide to different places in your mouth as you continue the circle motion.
 
 The technique is a great transition move between techniques; just make sure to experiment with the whole spectrum of pleasurable pressure, as this is incredibly stimulating just about any way it is performed. You can also incorporate spinning your head in a back and forth motion to add a little extra sprinkle of love.
 
-## Lesson 4
+[image src="media/img/or-fel-lesson3.jpg" alt="Fellatio"]
+
+### Lesson 4
 
 Now let’s discuss a technique that is probably the most common in the world; stroking the penis orally. Take his erection in your mouth by sliding your moistened tongue lovingly over the head until your lips close around the shaft, going as far down as you feel comfortable.
 
 Remember the shaft is relatively insensitive to most stimulation, so the majority of the pleasure is coming from the head of his penis coming into contact with your tongue, roof of the mouth, and or the throat. Since keeping it in contact with something at all times can be difficult, a short and gentle stroking motion can provide a significant impact.
+
+[image src="media/gif/or-fel-lesson4.gif" alt="Fellatio"]
 
 ### Lesson 5
 
@@ -87,6 +95,8 @@ Even better news… his state of arousal, represented in part by his scrotum, ca
 
 An oral ejaculation is not always a welcome event, especially when it’s not being expected. Although it’s not recommended to cut off the flow entirely, the flow can be reduced by applying pressure to his urethra, found along the entire base of his shaft.
 
+[image src="media/img/or-fel-lesson6.jpg" alt="Fellatio"]
+
 ### Lesson 7
 
 One of the first problems encountered when learning to perform fellatio, especially when deep throating, was a gag reflex, especially when dealing with men who seem to always want to force their penis as far as they can get it in. (Especially at the moment when they cum!)
@@ -97,45 +107,48 @@ As difficult as it may sound, many have overcome the gag reflex and can take mos
 
 If your partner doesn’t fall victim to the urge to palm your head like a basketball, live training can work... but if all else fails, a popsicle can be a good starter. Just remember to give yourself time to overcome the reflex, rushing this skill will only lead to uncomfortable situations.
 
-## In Closing
+[image src="media/gif/or-fel-lesson7.gif" alt="Fellatio"]
+
+### In Closing
 
 If you follow these instructions we imagine that you will have the guy in your life eating out of the palm of your hand, or at least eating out of something...
 
 Be safe, and equally important, ENJOY, because that is the most important part.
 
-# Fellatio - Tips from Guys
+
+## Fellatio - Tips from Guys
 
 In a man's world, nothing beats a good blow job, and an excellent one is pretty much a heaven sent gift from the Gods. We're here to give you the inside scoop on how to turn a good blow job, into an unforgettable one. From man to you, read on to find out all about fellatio, and how to give him the best blow he has ever had!
 
-## 1. Passion.
+### 1. Passion.
 
 Although having your penis played with is almost always better than not, there is no ingredient hotter than, what we many of us men refer to as, 'the hunger.' If you aren't familiar with this term, picture yourself not being able to go another instant without being able to wrap your lips around his sword, so that you can lick, suck and tug his juices out of him. Although there are many techniques that can make the experience good, or even great, passion is the only one that can take the experience to the stars.
 
 Right now, you may be thinking something along the lines of - "lets see you be ‘hungry' after 30 or more minutes of sword swallowing." What you need to keep in mind is most men, when they take the matter into their own hands, can get the job done in a couple of minutes - if it even takes that long. Although one could argue that it's the years of practice offering the competitive advantage, I believe the more important factor is that our friend ‘Palmela' can't wait another moment to reach down inside our pants.
 
-## 2. The more, the merrier.
+### 2. The more, the merrier.
 
 When it comes to fellatio, there is no such thing as too much of a good thing! Let's face it, "too much fellatio…" are words you won't hear coming from too many men, if any! We're willing to bet that you can take him any night you desire without a hint of complaint. Do it as a warm up, a cool down, or as the main event. Do it in the morning, noon, night, or while he's watching the game. Do it every day, or twice a day –we can guarantee that you won't be hearing any complaints from him - and there's a good chance he'll be returning the favour!
 
-## 3. Switch it Up.
+### 3. Switch it Up.
 
 If you find yourself stuck in a rut while performing fellatio on your man, don't get discouraged and/or give yourself lockjaw trying to get him to cum; instead, try changing your technique or position. If you find yourself in need of a break, make sure not to the pose the "are you close" question...
 
 It will leave him feeling like his most prized body part is a chore and a hassle for you. Instead, tell him how much you love his ‘hard throbbing cock' while stroking it to let your jaw get a breather. Most importantly, try to enjoy yourself and let him know it, and most likely he will too!
 
-## 4. Surprise!
+### 4. Surprise!
 
 Who doesn't love an unexpected treat, especially one down south! Catch him off guard on his lunch break, at the door when he comes home from work, in the middle of the night while he's sleeping, or slip into the shower with him and take advantage of his already wet naked body. Surprise BJs are awesome by any man's standards, so do it often and use our website to do it well!
 
-## 5. Swallowing is hot
+### 5. Swallowing is hot
 
 Okay, so while swallowing is generally the preferred choice when it comes to what to do with his cum post-orgasm, it isn't necessarily the MOST important aspect of the act. What most men DO want is that you let them cum in your mouth. Think about it, having to pull pre-orgasm requires a man to throw a wrench in that heavenly moment in order to pull out and settle for something second rate, rather than being able to continue with the rhythm and sensation of the climax, releasing himself physically and mentally to enjoy complete and total orgasmic satisfaction. If you swallow after the fact, all the more appreciated, as many a man feels that it signifies you taking them in and enjoying them to their absolute fullest.
 
-## 6. Don't forget the meatus!
+### 6. Don't forget the meatus!
 
 The meatus is the urinary opening on the glans penis, or the head of the penis. This area is loaded with sensitive nerve endings, guaranteed to bring pleasure to any man when extra special attention is paid to this delicate area during fellatio. Try running your tongue on and a little inside the ridge of the meatus to bring him surefire pleasure. You don't need to linger too long, but do remember to come back to this little hotspot every so often, to make his toes curl and bring him closer to orgasm
 
-## 7. Anal play
+### 7. Anal play
 
 The perineum (the area between the balls and the anus) and the anus itself are two highly sensitive and pleasure-potential body parts not to be missed! Run your tongue or wet fingers along his perineum towards the anus. Tease the back door by running your wet fingers or tongue in circular motions around it (or send a finger or two through if he likes it).
 
