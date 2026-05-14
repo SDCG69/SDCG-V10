@@ -1,6 +1,9 @@
+//gif syntax {n:"Missionary", img:"missionary_04", vid:"FacetoFace-12Final", gif:"missionary_animated", desc:"..."}
+
 // ── Positions data ───────────────────────────────────────────────────────────
 const IMG='media/img/';
 const VID='media/vid/';
+const GIF='media/gif/';
 
 // ── COUPLES (sexinfo101.com) ──────────────────────────────────────────────────
 const POSITIONS=[
@@ -165,7 +168,7 @@ const POSITIONS=[
   {n:"Sideways 69",img:"69_08",desc:"A 69 where both partners lie on their sides rather than one on top of the other. Equal effort, equal access — a more symmetrical and comfortable version of mutual oral."},
   {n:"Standing Fuck Face",img:"01knee",desc:"The receiving partner stands and thrusts forward into the giver's mouth — the giver is stationary while the receiver controls all the movement. A dominant-receiving oral position."},
   {n:"Game's On",img:"fellatio_11",desc:"The receiving partner reclines casually — as if watching TV — while the giver works below. A laid-back, low-effort receiving position. The giver does all the work."},
-  {n:"Sword Swallower",img:"fellatio_15",desc:"The receiving partner stands or is elevated while the giver tilts their head back and takes them in from below — maximising the depth of the angle for the giver's throat."},
+  {n:"Sword Swallower",img:"fellatio_15", gif:"dt850gif"desc:"The receiving partner stands or is elevated while the giver tilts their head back and takes them in from below — maximising the depth of the angle for the giver's throat."},
   {n:"Drive Thru",img:"cunnilingus_10",desc:"The giver approaches the receiver's genitals from behind — a rear-facing oral position. The direction reversal changes the tongue angle and gives access to different areas."},
   {n:"North Pole",img:"fellatio_00",desc:"The receiving partner lies flat and the giver approaches from directly above their head — giving oral in a north-pole-down direction. An unusual overhead angle for the giver."},
   {n:"Grounded Feedbag",img:"cunnilingus_08",desc:"A Feedbag variant where the receiving partner is fully grounded — flat on the surface. The giver positions their face between the receiver's legs in a low, close-to-the-ground approach."},
