@@ -39,20 +39,20 @@ const HANDBOOK_ITEMS = [
   },
   {
     "letter": "O",
-    "title": "Orgasms",
-    "img": "h03_orgasm.svg",
-    "sub1": "Orgasms.  What are they?",
-    "sub2": "All details on orgasms",
-    "contentFile": "content/handbook/orgasmtypes.md",
-    "sections": []
-  },
-	  {
-    "letter": "O",
     "title": "Oral Sex - Fellatio",
     "img": "h02_cunnilingus.svg",
     "sub1": "Oral sex guide to sucking dick.",
     "sub2": "How to give him great oral orgasms.",
     "contentFile": "content/handbook/or-fel.md",
+    "sections": []
+  },
+  {
+    "letter": "O",
+    "title": "Orgasms",
+    "img": "h03_orgasm.svg",
+    "sub1": "Orgasms.  What are they?",
+    "sub2": "All details on orgasms",
+    "contentFile": "content/handbook/orgasmtypes.md",
     "sections": []
   },
 ];
