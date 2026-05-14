@@ -1,10 +1,6 @@
-# Her Nose
-
-Claire Woodruff
+## One - Danni's Nose
 
 [image src="media/img/nose-header.png" alt="Her Nose"]
-
-## One - Danni's Nose
 
 “Oh, shit, Lieutenant, what happened?” Deputy Rickles was aghast at the sight of Danielle Holderman’s swollen nose.
 
@@ -50,7 +46,7 @@ She touched her nose again gently and thought back to the weekend. She was glad 
 
 ## Two - At The Gym
 
-That weekend, Danni and Anna were taking a breather from their calisthenics exercise at the gym.
+The previous weekend, Danni and Anna were taking a breather from their calisthenics exercise at the gym.
 
 Danni sipped her water and patted the sweat off her forehead.
 
@@ -300,6 +296,8 @@ Anna’s hand naturally covered as much that the hefty boobs would allow. Howeve
 
 Not waiting, Danni put her mouth over one of Anna’s large nipples. Danni’s hands held onto it as she pulled the flesh into her ferocious mouth.
 
+## Five - Anna Caves In
+
 Anna pressed her head into the mattress at the great feeling. How long had it been since her tits had been sucked by someone else?
 
 [image src="media/img/nose-bed.jpeg" alt="Her Nose"]
@@ -334,11 +332,9 @@ Anna enjoyed all that was happening—all that she never expected when she arriv
 
 Where was the camera?
 
-She turned her head to look for it.
+Anna turned her head to look for it, noticed the pressure was not on her chest. Instead, there were hands pushing her thighs apart.
 
-Thinking again, she noticed the pressure was not on her chest. Instead, there were hands pushing her thighs apart.
-
-Anna shoved Danni’s face into her lap.
+Anna pulled Danni’s face into her pussy.
 
 “Lick it, Danni. Put your face in my pussy. Let me feel your mouth.”
 
@@ -346,7 +342,11 @@ Anna looked at the standing camera on her left.
 
 “Danni eats pussy, and I’ve got the sweet pussy. Deep and thick. She gets lost in it.”
 
+[image src="media/img/nose-cunn.jpeg" alt="Her Nose"]
+
 Anna closed her legs around Danni's head.
+
+## Six - Hotter and Hotter
 
 “Proof.” She winked at the camera and then opened wide again. “Wish you could try.”
 
@@ -366,13 +366,21 @@ Danni sat next to Anna, who remained sprawled out.
 
 At some point in time, Anna wasn’t sure when, a shadow came over her face.
 
-“Now is my turn,” Anna heard Danni say from somewhere far above her.
+“Now is my turn,” Anna heard Danni say from somewhere far above her.  "Get onto all fours."
 
-The shadow darkened like the onset of evening. Then a moistness touched the tip of Anna’s nose. A warm, musty scent filled her nostrils like a hotplate of a favorite childhood dinner. Then Anna struggled to breathe. She gasped. The lovely pussy moved up the bridge of her nose and down. Anna stuck out her tongue. The hot flesh was tasty. Anna flapped her tongue. The faster she moved the quicker Danni’s pussy shifted—up and down, side to side, back and forth. Soon, Anna’s face was glistening like Danni’s shined.
+Danni obliged, winking at the camera.
+
+Then a moistness tongue touched Danni's pussy from the back, her gaze never leaving the camera.  She gasped. Anna licking slowly up - down - up - down - over and over.  "Anna loves licking pussy." Danni said to the camera.
+
+On the ninth lick Anna's tongue shifted futher upward to meet Danni's ass.  Danni's eyes widening in surprise and quickly accepting the delicious feeling back there.  "Naughty Anna!" Danni moaned to the camera, "yes, yes lick my ass. Just like that!"
+
+[image src="media/img/nose-eat.jpeg" alt="Her Nose"]
 
 In a few minutes, Danni had crashed into a loud orgasm. She was flattened out. Purring and muttering.
 
 Anna took over.
+
+## Seven - A Face Ride
 
 “Now it’s my turn. Put your face at the foot of the bed.”
 
@@ -383,6 +391,8 @@ Anna faced back to the camera and settled on all fours. She looked to the side c
 “Danni likes to get an ass in her face. Pounded by large asscheeks. Do you?”
 
 Anna shook her ass, letting the flesh jiggle and clap. She then dropped her ass onto Danni’s face. She kept it there briefly. She popped up to make her ass clap again for a few shakes. She dropped onto Danni’s face once more. She shifted back and forth as if settling onto a chair.
+
+[image src="media/img/nose-face.jpeg" alt="Her Nose"]
 
 She popped up and dropped down again.
 
@@ -403,7 +413,3 @@ Danni paused, like she was ending a livestream. Then she returned to Danni. “Y
 “I didn’t either.”
 
 Danni squeezed her nose. “I think I’m going to be sore later on.”
-
-###
-
-Alone in the locker room, Lt. Holderman touched her nose once more. It was sore. Before grabbing her handcuffs and leaving for her shift, she smiled. “Anna Banana,” she mumbled, “What a woman.”
