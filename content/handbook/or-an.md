@@ -54,7 +54,9 @@ You can wrap things up by returning to more gentle caresses or even transitionin
 Anilingus is more than just a trend; it’s a deeply intimate act that can bring you closer to your partner, both physically and emotionally. With a focus on pleasure and a nod to safety, you’re all set to explore this unique experience. So go ahead—kiss, lick, and play your way to new heights of satisfaction. And remember, the best guide to a good time is listening to your partner, your body, and, of course, your sense of adventure.
 
 ---
+
 ## Extra Tips
+
 When giving your partner anilingus, there are a number of different things you can do to give them a lot of pleasure.
 
 ### Up, Down & All Around: 
@@ -66,6 +68,7 @@ The entire time that you are doing this, your tongue will outside the body and o
 [image src="media/img/or-an-3.jpg" alt="Anilingus"]
 
 ### Pokin’ In: 
+
 After using the Up, Down & All Around for a few minutes, it’s time to start moving on to more advanced rimjob techniques like the Pokin’ In. The Pokin’ In simply requires you to make your tongue a little more pointed than usual and use it to try and penetrate his anus. You’ll find that you will only be able to get about half and inch inside at most (meaning that your tongue should stay clean the entire time).
 
 [image src="media/img/or-an-4.jpg" alt="Anilingus"]
@@ -84,6 +87,7 @@ Using your teeth when giving your lover anilingus is sometimes not a great idea.
 
 ---
 ## 32 Tips from our experts
+
 When we asked our experts their personal favorite tips and techniques for rimming their partners, they had a lot to say!
 
 - Lick the taint while lightly keeping one finger over the rectum and the other hand fondling a butt cheek or balls.
