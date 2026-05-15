@@ -206,7 +206,7 @@ const THREESOME_POSITIONS=[
   {n:"Spit Roast",src:"MMF",img:"01eiffel",desc:"The woman gets on all fours. One man penetrates from behind while she gives oral sex to the other partner kneeling or standing in front."},
   {n:"Classic Double Penetration",src:"MMF",img:"3classic-double",desc:"One partner lies on their back and the receiver lies on top facing them for vaginal penetration. The second partner enters from behind for anal penetration. All three move in a shared, gentle rhythm — communication and plenty of lube are absolutely essential for comfort and safety."},
   {n:"Upturned Spit Roast",src:"MMF",img:"3total-alignment",desc:"The woman lies on the bed with her head over the end — one man holds her legs and penetrates her whilst kneeling.  The other will stand to penetrate her mouth."},
-  {n:"Oral Overload",src:"MMF",img:"3 oral-overload",desc:"One partner penetrates while simultaneously performing oral sex on the third. The second partner both penetrates and uses hands and mouth on additional sensitive areas. Everyone is giving and receiving pleasure at the same time — the most all-encompassing threesome position."},
+  {n:"Oral Overload",src:"MMF",img:"3oral-overload",desc:"One partner penetrates while simultaneously performing oral sex on the third. The second partner both penetrates and uses hands and mouth on additional sensitive areas. Everyone is giving and receiving pleasure at the same time — the most all-encompassing threesome position."},
 ];
 
 // ── FOURSOMES ─────────────────────────────────────────────────────────────────
