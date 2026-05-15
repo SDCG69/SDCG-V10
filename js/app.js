@@ -765,9 +765,9 @@ function App(){
             </div>
             <div style={{display:"flex",flexDirection:"column",gap:"12px",width:"100%",maxWidth:"340px"}}>
               {[
-                {id:"couples",label:"👫  Couples",sub:"2 people · illustrated positions"},
-                {id:"threesomes",label:"👫👤  Threesomes",sub:"3 people · 18 positions with guides"},
-                {id:"foursomes",label:"👫👫  Foursomes",sub:"4 people · 10 positions with guides"},
+                {id:"couples",label:"👫  Couples",sub:"2 people · 120 illustrated oral and intercourse positions."},
+                {id:"threesomes",label:"👫👤  Threesomes",sub:"3 people · 12 photo positions with guides"},
+                {id:"foursomes",label:"👫👫  Foursomes",sub:"4 people · 8 illustrated positions with guides"},
               ].map(opt=>{
                 const sel=posMode===opt.id;
                 return(
