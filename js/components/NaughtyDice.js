@@ -380,13 +380,13 @@ function NaughtyDiceScreen({ onBack }) {
             <div style={{ display:"flex", flexDirection:"column", alignItems:"center", gap:"4px" }}>
               <span className="nd-result-pop" style={{
                 fontFamily:"Georgia,serif", fontSize:"1.55rem", fontWeight:"bold",
-                color:"#c9446a", letterSpacing:"0.05em", display:"block",
-              }}>{result.ac.emoji} {result.ac.label}</span>
-              <span style={{ fontSize:"11px", color:"#5a3848", textTransform:"uppercase", letterSpacing:"0.18em" }}>the</span>
-              <span className="nd-result-pop2" style={{
-                fontFamily:"Georgia,serif", fontSize:"1.55rem", fontWeight:"bold",
                 color:"#a060d0", letterSpacing:"0.05em", display:"block",
               }}>{result.bp.emoji} {result.bp.label}</span>
+              <span style={{ fontSize:"11px", color:"#5a3848", textTransform:"uppercase", letterSpacing:"0.18em" }}>→</span>
+              <span className="nd-result-pop2" style={{
+                fontFamily:"Georgia,serif", fontSize:"1.55rem", fontWeight:"bold",
+                color:"#c9446a", letterSpacing:"0.05em", display:"block",
+              }}>{result.ac.emoji} {result.ac.label}</span>
             </div>
           )}
         </div>
@@ -419,38 +419,6 @@ function NaughtyDiceScreen({ onBack }) {
           {rolling ? "✨  Rolling…" : result ? "🎲  Roll Again" : "🎲  Roll the Dice"}
         </button>
 
-      </div>
-
-      {/* Legend */}
-      <div style={{
-        marginTop:"14px", background:"#0e0810", border:"1px solid #1a1020",
-        borderRadius:"14px", padding:"14px 16px",
-      }}>
-        <div style={{ fontSize:"10px", letterSpacing:"0.16em", textTransform:"uppercase", color:"#3a2030", marginBottom:"10px" }}>
-          Dice faces
-        </div>
-        <div style={{ display:"flex", gap:"16px", flexWrap:"wrap" }}>
-          <div style={{ flex:1, minWidth:"140px" }}>
-            <div style={{ fontSize:"10px", letterSpacing:"0.12em", textTransform:"uppercase", color:"#7b3fa8", marginBottom:"6px" }}>
-              Body Part Die
-            </div>
-            {BODY_PARTS.map(b => (
-              <div key={b.label} style={{ fontSize:"12px", color:"#4a2a50", marginBottom:"3px" }}>
-                {b.emoji} {b.label}
-              </div>
-            ))}
-          </div>
-          <div style={{ flex:1, minWidth:"140px" }}>
-            <div style={{ fontSize:"10px", letterSpacing:"0.12em", textTransform:"uppercase", color:"#c9446a", marginBottom:"6px" }}>
-              Action Die
-            </div>
-            {ACTIONS.map(a => (
-              <div key={a.label} style={{ fontSize:"12px", color:"#4a2030", marginBottom:"3px" }}>
-                {a.emoji} {a.label}
-              </div>
-            ))}
-          </div>
-        </div>
       </div>
 
       <button className="btn" onClick={onBack} style={{
