@@ -322,24 +322,7 @@ function NaughtyDiceScreen({ onBack }) {
           justifyContent:"center", padding:"12px 0 28px", position:"relative"
         }}>
 
-          {/* Die 1 — Body Part (purple) */}
-          <div style={{ display:"flex", flexDirection:"column", alignItems:"center", gap:"12px" }}>
-            <div style={{ width:"110px", height:"110px", perspective:"600px", position:"relative" }}>
-              <NDCube dieRef={die1Ref} colorClass="bp" faceRefs={bp1Refs} />
-            </div>
-            {/* glow */}
-            <div className="nd-glow-pulse" style={{
-              width:"80px", height:"20px", borderRadius:"50%",
-              background:"rgba(123,63,168,0.6)", filter:"blur(10px)",
-              transform:"translateX(0)",
-            }} />
-            <span style={{ fontSize:"10px", textTransform:"uppercase", letterSpacing:"0.2em", color:"#6a4070", fontWeight:600 }}>Body Part</span>
-          </div>
-
-          {/* Divider ✦ */}
-          <span style={{ color:"#3a1a38", fontSize:"22px", marginTop:"-20px", flexShrink:0 }}>✦</span>
-
-          {/* Die 2 — Action (crimson) */}
+          {/* Die 2 — Action (crimson) — LEFT */}
           <div style={{ display:"flex", flexDirection:"column", alignItems:"center", gap:"12px" }}>
             <div style={{ width:"110px", height:"110px", perspective:"600px", position:"relative" }}>
               <NDCube dieRef={die2Ref} colorClass="ac" faceRefs={bp2Refs} />
@@ -351,6 +334,23 @@ function NaughtyDiceScreen({ onBack }) {
               transform:"translateX(0)",
             }} />
             <span style={{ fontSize:"10px", textTransform:"uppercase", letterSpacing:"0.2em", color:"#6a3040", fontWeight:600 }}>Action</span>
+          </div>
+
+          {/* Divider ✦ */}
+          <span style={{ color:"#3a1a38", fontSize:"22px", marginTop:"-20px", flexShrink:0 }}>✦</span>
+
+          {/* Die 1 — Body Part (purple) — RIGHT */}
+          <div style={{ display:"flex", flexDirection:"column", alignItems:"center", gap:"12px" }}>
+            <div style={{ width:"110px", height:"110px", perspective:"600px", position:"relative" }}>
+              <NDCube dieRef={die1Ref} colorClass="bp" faceRefs={bp1Refs} />
+            </div>
+            {/* glow */}
+            <div className="nd-glow-pulse" style={{
+              width:"80px", height:"20px", borderRadius:"50%",
+              background:"rgba(123,63,168,0.6)", filter:"blur(10px)",
+              transform:"translateX(0)",
+            }} />
+            <span style={{ fontSize:"10px", textTransform:"uppercase", letterSpacing:"0.2em", color:"#6a4070", fontWeight:600 }}>Body Part</span>
           </div>
         </div>
 

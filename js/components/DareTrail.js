@@ -359,7 +359,6 @@ function DareTrailGame({ config, onNewGame }) {
 
   // Init once
   useEffect(()=>{
-    injectDTStyles();
     tilesRef.current = dtBuildTiles();
     stateRef.current = {
       current:0,
@@ -763,6 +762,10 @@ function DareTrailGame({ config, onNewGame }) {
 
 function DareTrailScreen({ onBack }) {
   const [gameConfig,setGameConfig]=useState(null);
+
+  // Inject styles immediately on first render so DareTrailSetup gets them
+  injectDTStyles();
+
   return (
     <div style={{animation:"fadeUp .35s ease",maxWidth:"560px",width:"100%",position:"relative"}}>
       <div style={{display:"flex",alignItems:"center",justifyContent:"space-between",marginBottom:"18px"}}>
