@@ -219,13 +219,16 @@ function NaughtyDiceScreen({ onBack }) {
       if (bp1Refs.current[0]) {
         bp1Refs.current[0].children[0].textContent = bp.emoji;
         bp1Refs.current[0].children[1].textContent = bp.label;
+        bp1Refs.current[0].style.visibility = "";
       }
       if (bp2Refs.current[0]) {
         bp2Refs.current[0].children[0].textContent = ac.emoji;
         bp2Refs.current[0].children[1].textContent = ac.label;
+        bp2Refs.current[0].style.visibility = "";
       }
-      // Hide non-front faces
-      populateFaces(true);
+      // Hide non-front faces without overwriting face[0]
+      bp1Refs.current.forEach((el, i) => { if (el && i !== 0) el.style.visibility = "hidden"; });
+      bp2Refs.current.forEach((el, i) => { if (el && i !== 0) el.style.visibility = "hidden"; });
 
       // Settle nudge
       void d1.offsetHeight;
