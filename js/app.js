@@ -319,8 +319,9 @@ function App(){
       {screen==="setup"&&(
         <div style={{animation:"fadeUp .4s ease",maxWidth:"480px",width:"100%",textAlign:"center"}}>
           <div style={{fontSize:"48px",marginBottom:"6px"}}>😈</div>
-          <h1 style={{color:"#eee",fontSize:"2rem",margin:"0 0 4px"}}>Sex Dares Challege Game</h1>
-          <p style={{color:"#555",marginBottom:"26px",fontSize:"14px"}}>A Two Player Sex Dares Challenge Game</p>
+          <div style={{color:"#555",fontSize:"11px",letterSpacing:"2px",textTransform:"uppercase",marginBottom:"4px"}}>Welcome to</div>
+          <h1 style={{color:"#e8cdd8",fontSize:"2rem",margin:"0 0 4px",fontFamily:"Georgia,serif",fontWeight:"normal"}}>Sex Dares <span style={{color:"#c9446a",fontStyle:"italic"}}>Challenge</span></h1>
+          <p style={{color:"#555",marginBottom:"26px",fontSize:"14px",fontFamily:"Georgia,serif",fontStyle:"italic"}}>A Two Player Sex Dares Challenge Game</p>
           <div style={{background:"#111",borderRadius:"14px",padding:"20px",marginBottom:"12px",border:"1px solid #1e1e1e"}}>
             <p style={{color:"#666",margin:"0 0 14px",fontSize:"12px",letterSpacing:"1px",textTransform:"uppercase"}}>Players</p>
             {[0,1].map(i=>{const p=players[i];return(
@@ -682,6 +683,10 @@ function App(){
       {/* ══ GAME ══ */}
       {screen==="game"&&(
         <div style={{animation:"fadeUp .35s ease",maxWidth:"520px",width:"100%",display:"flex",flexDirection:"column",minHeight:"calc(100vh - 40px)"}}>
+          <div style={{textAlign:"center",marginBottom:"10px"}}>
+            <div style={{color:"#3a2030",fontSize:"10px",letterSpacing:"2px",textTransform:"uppercase",marginBottom:"2px"}}>Playing</div>
+            <div style={{fontFamily:"Georgia,serif",fontWeight:"normal",fontSize:"1.2rem",color:"#e8cdd8"}}>Sex Dares <span style={{color:"#c9446a",fontStyle:"italic"}}>Challenge</span></div>
+          </div>
           <div style={{background:"#0e0e0e",borderRadius:"14px",padding:"10px 12px",marginBottom:"12px",border:"1px solid #1e1e1e"}}>
             <div style={{display:"flex",gap:"6px",justifyContent:"center",flexWrap:"wrap"}}>
               {LEVELS.map(l=>(
@@ -825,7 +830,10 @@ function App(){
         <div style={{animation:"fadeUp .35s ease",maxWidth:"520px",width:"100%",display:"flex",flexDirection:"column",minHeight:"calc(100vh - 40px)"}}>
           <div style={{display:"flex",alignItems:"center",justifyContent:"space-between",marginBottom:"24px"}}>
             <button onClick={()=>setScreen("setup")} style={{background:"#141414",border:"1px solid #222",color:"#888",borderRadius:"8px",padding:"7px 13px",cursor:"pointer",fontFamily:"inherit",fontSize:"13px"}}>← Back</button>
-            <span style={{color:"#444",fontSize:"11px",letterSpacing:"1px",textTransform:"uppercase"}}>Sex Position Cards</span>
+            <div style={{textAlign:"center"}}>
+              <div style={{color:"#555",fontSize:"11px",letterSpacing:"2px",textTransform:"uppercase",marginBottom:"2px"}}>Hot Extras</div>
+              <h2 style={{color:"#e8cdd8",fontSize:"1.3rem",margin:0,fontFamily:"Georgia,serif",fontWeight:"normal"}}>Sex <span style={{color:"#c9446a",fontStyle:"italic"}}>Positions</span></h2>
+            </div>
             <div style={{width:"72px"}}/>
           </div>
           <div style={{flex:1,display:"flex",flexDirection:"column",alignItems:"center",justifyContent:"center",gap:"24px"}}>
@@ -880,7 +888,10 @@ function App(){
           <div style={{animation:"fadeUp .35s ease",maxWidth:"520px",width:"100%",display:"flex",flexDirection:"column",minHeight:"calc(100vh - 40px)"}}>
             <div style={{display:"flex",alignItems:"center",justifyContent:"space-between",marginBottom:"16px"}}>
               <button onClick={()=>setScreen("positionSelect")} style={{background:"#141414",border:"1px solid #222",color:"#888",borderRadius:"8px",padding:"7px 13px",cursor:"pointer",fontFamily:"inherit",fontSize:"13px"}}>← Back</button>
-              <span style={{color:"#444",fontSize:"11px",letterSpacing:"1px",textTransform:"uppercase"}}>{modeLabel} Position</span>
+              <div style={{textAlign:"center"}}>
+                <div style={{color:"#555",fontSize:"11px",letterSpacing:"2px",textTransform:"uppercase",marginBottom:"2px"}}>Hot Extras</div>
+                <h2 style={{color:"#e8cdd8",fontSize:"1.3rem",margin:0,fontFamily:"Georgia,serif",fontWeight:"normal"}}>Sex <span style={{color:"#c9446a",fontStyle:"italic"}}>Positions</span></h2>
+              </div>
               <div style={{width:"72px"}}/>
             </div>
             <div style={{flex:1,display:"flex",flexDirection:"column",background:"linear-gradient(135deg,#120d00,#0d0d0d)",border:`1px solid ${ac}33`,borderRadius:"24px",overflow:"hidden",marginBottom:"16px",boxShadow:`0 20px 60px ${ac}22,0 4px 20px #000`}}>
