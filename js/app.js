@@ -922,16 +922,12 @@ function App(){
 			        ← Back
 			      </button>
 
-			      <span
-			        style={{
-			          color:"#444",
-			          fontSize:"11px",
-			          letterSpacing:"1px",
-			          textTransform:"uppercase"
-			        }}
-			      >
-			        Truth Cards
-			      </span>
+			      <div style={{textAlign:"center"}}>
+			        <div style={{color:"#555",fontSize:"11px",letterSpacing:"2px",textTransform:"uppercase",marginBottom:"2px"}}>Hot Extras</div>
+			        <h2 style={{color:"#e8cdd8",fontSize:"1.3rem",margin:0,fontFamily:"Georgia,serif",fontWeight:"normal"}}>
+			          Truth <span style={{color:"#c9446a",fontStyle:"italic"}}>Cards</span>
+			        </h2>
+			      </div>
 
 			      <div style={{width:"72px"}}/>
 			    </div>
@@ -991,7 +987,10 @@ function App(){
         <div style={{animation:"fadeUp .35s ease",maxWidth:"540px",width:"100%"}}>
           <div style={{display:"flex",alignItems:"center",justifyContent:"space-between",marginBottom:"20px"}}>
             <button onClick={()=>setScreen("setup")} style={{background:"#141414",border:"1px solid #222",color:"#888",borderRadius:"8px",padding:"7px 13px",cursor:"pointer",fontFamily:"inherit",fontSize:"13px"}}>← Back</button>
-            <span style={{color:"#888",fontSize:"13px",letterSpacing:"1px",textTransform:"uppercase"}}>Sex Handbook A-Z</span>
+            <div style={{textAlign:"center"}}>
+              <div style={{color:"#555",fontSize:"11px",letterSpacing:"2px",textTransform:"uppercase",marginBottom:"2px"}}>Hot Extras</div>
+              <h2 style={{color:"#e8cdd8",fontSize:"1.3rem",margin:0,fontFamily:"Georgia,serif",fontWeight:"normal"}}>Sex <span style={{color:"#c9446a",fontStyle:"italic"}}>Handbook</span></h2>
+            </div>
             <div style={{width:"72px"}}/>
           </div>
           <div style={{display:"flex",flexDirection:"column",gap:"18px"}}>
@@ -1037,7 +1036,10 @@ function App(){
         <div style={{animation:"fadeUp .35s ease",maxWidth:"540px",width:"100%"}}>
           <div style={{display:"flex",alignItems:"center",justifyContent:"space-between",marginBottom:"20px"}}>
             <button onClick={()=>setScreen("handbookList")} style={{background:"#141414",border:"1px solid #222",color:"#888",borderRadius:"8px",padding:"7px 13px",cursor:"pointer",fontFamily:"inherit",fontSize:"13px"}}>← Back</button>
-            <span style={{color:"#888",fontSize:"13px",letterSpacing:"1px",textTransform:"uppercase"}}>Sex Handbook A-Z</span>
+            <div style={{textAlign:"center"}}>
+              <div style={{color:"#555",fontSize:"11px",letterSpacing:"2px",textTransform:"uppercase",marginBottom:"2px"}}>Hot Extras</div>
+              <h2 style={{color:"#e8cdd8",fontSize:"1.3rem",margin:0,fontFamily:"Georgia,serif",fontWeight:"normal"}}>Sex <span style={{color:"#c9446a",fontStyle:"italic"}}>Handbook</span></h2>
+            </div>
             <div style={{width:"72px"}}/>
           </div>
           <div style={{background:"linear-gradient(135deg,#120500,#0d0d0d)",border:"1px solid #4A040433",borderRadius:"24px",padding:"24px",marginBottom:"14px"}}>
@@ -1073,7 +1075,10 @@ function App(){
         <div style={{animation:"fadeUp .35s ease",maxWidth:"540px",width:"100%"}}>
           <div style={{display:"flex",alignItems:"center",justifyContent:"space-between",marginBottom:"20px"}}>
             <button onClick={()=>setScreen("setup")} style={{background:"#141414",border:"1px solid #222",color:"#888",borderRadius:"8px",padding:"7px 13px",cursor:"pointer",fontFamily:"inherit",fontSize:"13px"}}>← Back</button>
-            <span style={{color:"#888",fontSize:"13px",letterSpacing:"1px",textTransform:"uppercase"}}>Erotica Fiction</span>
+            <div style={{textAlign:"center"}}>
+              <div style={{color:"#555",fontSize:"11px",letterSpacing:"2px",textTransform:"uppercase",marginBottom:"2px"}}>Hot Extras</div>
+              <h2 style={{color:"#e8cdd8",fontSize:"1.3rem",margin:0,fontFamily:"Georgia,serif",fontWeight:"normal"}}>Erotica <span style={{color:"#c9446a",fontStyle:"italic"}}>Fiction</span></h2>
+            </div>
             <div style={{width:"72px"}}/>
           </div>
           <div style={{display:"flex",flexDirection:"column",gap:"18px"}}>
@@ -1118,7 +1123,10 @@ function App(){
         <div style={{animation:"fadeUp .35s ease",maxWidth:"540px",width:"100%"}}>
           <div style={{display:"flex",alignItems:"center",justifyContent:"space-between",marginBottom:"20px"}}>
             <button onClick={()=>setScreen("eroticaList")} style={{background:"#141414",border:"1px solid #222",color:"#888",borderRadius:"8px",padding:"7px 13px",cursor:"pointer",fontFamily:"inherit",fontSize:"13px"}}>← Back</button>
-            <span style={{color:"#888",fontSize:"13px",letterSpacing:"1px",textTransform:"uppercase"}}>Erotica Fiction</span>
+            <div style={{textAlign:"center"}}>
+              <div style={{color:"#555",fontSize:"11px",letterSpacing:"2px",textTransform:"uppercase",marginBottom:"2px"}}>Hot Extras</div>
+              <h2 style={{color:"#e8cdd8",fontSize:"1.3rem",margin:0,fontFamily:"Georgia,serif",fontWeight:"normal"}}>Erotica <span style={{color:"#c9446a",fontStyle:"italic"}}>Fiction</span></h2>
+            </div>
             <div style={{width:"72px"}}/>
           </div>
           <div style={{background:"linear-gradient(135deg,#0d0012,#0d0d0d)",border:"1px solid #2a004433",borderRadius:"24px",padding:"24px",marginBottom:"14px"}}>
@@ -1182,7 +1190,10 @@ function App(){
         <div style={{animation:"fadeUp .35s ease",maxWidth:"520px",width:"100%",display:"flex",flexDirection:"column",minHeight:"calc(100vh - 40px)"}}>
           <div style={{display:"flex",alignItems:"center",justifyContent:"space-between",padding:"14px 0 10px"}}>
             <button onClick={()=>setScreen("setup")} style={{background:"#141414",border:"1px solid #222",color:"#888",borderRadius:"8px",padding:"7px 13px",cursor:"pointer",fontFamily:"inherit",fontSize:"13px"}}>← Back</button>
-            <span style={{color:"#444",fontSize:"13px",letterSpacing:"1px",textTransform:"uppercase"}}>XXX Matching Pairs Game</span>
+            <div style={{textAlign:"center"}}>
+              <div style={{color:"#555",fontSize:"11px",letterSpacing:"2px",textTransform:"uppercase",marginBottom:"2px"}}>Hot Extras</div>
+              <h2 style={{color:"#e8cdd8",fontSize:"1.3rem",margin:0,fontFamily:"Georgia,serif",fontWeight:"normal"}}>Matching <span style={{color:"#c9446a",fontStyle:"italic"}}>Pairs</span></h2>
+            </div>
             <span style={{width:"70px"}}/>
           </div>
           <p style={{color:"#555",fontSize:"13px",textAlign:"center",marginBottom:"24px",letterSpacing:"0.5px"}}>Choose a category to play</p>
