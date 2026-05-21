@@ -1,4 +1,26 @@
-// ── Dare Trail Component ────────────────────────────────────────────────────
+// ── Dare Trail Component ─────────────────────────────────────────────────────
+//
+// DARE TAG REFERENCE (for adding new dares — see DareTrail-README.md)
+//
+// Each dare object has:
+//   emoji   : string  — display emoji
+//   who     : string  — who can receive this dare
+//              "any"      = any player
+//              "m"        = male players only
+//              "f"        = female players only
+//   target  : string  — targeting rule for {target} / {targets} placeholder
+//              "any"      = any other player(s)
+//              "mf"       = opposite gender (m→f, f→any)
+//              "f"        = female players only
+//              "m"        = male players only
+//              "allF"     = ALL female players (plural — use {targets})
+//              "allM"     = ALL male players (plural — use {targets})
+//              "allOthers"= ALL other players (plural — use {targets})
+//              "none"     = no target needed
+//   text    : string  — dare text. Placeholders:
+//              {target}   = replaced with one resolved player name
+//              {targets}  = replaced with "PlayerA and PlayerB" (all matching)
+// ─────────────────────────────────────────────────────────────────────────────
 
 const DT_STYLE_ID = "dare-trail-styles";
 
@@ -7,17 +29,17 @@ function injectDTStyles() {
   const s = document.createElement("style");
   s.id = DT_STYLE_ID;
   s.textContent = `
-    .dt-mild  { border-color:rgba(74,222,128,0.45)!important; background:rgba(74,222,128,0.07)!important; }
-    .dt-spicy { border-color:rgba(250,204,21,0.45)!important; background:rgba(250,204,21,0.07)!important; }
-    .dt-hot   { border-color:rgba(249,115,22,0.45)!important; background:rgba(249,115,22,0.07)!important; }
-    .dt-fire  { border-color:rgba(244,63,94,0.45)!important;  background:rgba(244,63,94,0.07)!important; }
-    .dt-mild .dt-num  { color:#4ade80; }
-    .dt-spicy .dt-num { color:#facc15; }
-    .dt-hot .dt-num   { color:#f97316; }
-    .dt-fire .dt-num  { color:#f43f5e; }
+    .dt-mild    { border-color:rgba(74,222,128,0.45)!important;  background:rgba(74,222,128,0.07)!important; }
+    .dt-spicy   { border-color:rgba(250,204,21,0.45)!important;  background:rgba(250,204,21,0.07)!important; }
+    .dt-hot     { border-color:rgba(249,115,22,0.45)!important;  background:rgba(249,115,22,0.07)!important; }
+    .dt-extreme { border-color:rgba(244,63,94,0.45)!important;   background:rgba(244,63,94,0.07)!important; }
+    .dt-mild .dt-num    { color:#4ade80; }
+    .dt-spicy .dt-num   { color:#facc15; }
+    .dt-hot .dt-num     { color:#f97316; }
+    .dt-extreme .dt-num { color:#f43f5e; }
     .dt-node {
       position:absolute; transform:translate(-50%,-50%); transform-origin:center;
-      cursor:pointer; z-index:2; transition:transform .18s cubic-bezier(.34,1.56,.64,1);
+      cursor:default; z-index:2; transition:transform .18s cubic-bezier(.34,1.56,.64,1);
     }
     .dt-node-inner {
       width:100%; height:100%; border-radius:50%;
@@ -26,7 +48,6 @@ function injectDTStyles() {
       transition:transform .18s, box-shadow .18s;
       position:relative; overflow:hidden; user-select:none;
     }
-    .dt-node:active .dt-node-inner { transform:scale(0.91); }
     .dt-num { font-family:Georgia,serif; font-weight:bold; line-height:1; color:rgba(255,255,255,0.5); pointer-events:none; }
     .dt-emoji { line-height:1; pointer-events:none; }
     .dt-node.dt-startnode .dt-node-inner,
@@ -107,7 +128,7 @@ function injectDTStyles() {
     .dt-dots-6 .dt-dot:nth-child(5){ align-self:end;justify-self:start; }
     .dt-dots-6 .dt-dot:nth-child(6){ align-self:end;justify-self:end; }
     .dt-overlay {
-      position:fixed; inset:0; background:rgba(0,0,0,0.82); backdrop-filter:blur(6px);
+      position:fixed; inset:0; background:rgba(0,0,0,0.88); backdrop-filter:blur(6px);
       display:flex; align-items:center; justify-content:center;
       z-index:200; padding:1rem; opacity:0; pointer-events:none; transition:opacity .3s;
     }
@@ -115,15 +136,15 @@ function injectDTStyles() {
     .dt-modal {
       background:linear-gradient(135deg,#1c0814,#0d0d0d);
       border:1.5px solid rgba(255,255,255,0.08); border-radius:22px; padding:1.6rem;
-      max-width:380px; width:100%; text-align:center;
+      max-width:400px; width:100%; text-align:center;
       transform:scale(0.88); transition:transform .3s cubic-bezier(.34,1.56,.64,1);
       box-shadow:0 24px 60px rgba(0,0,0,0.7);
     }
     .dt-overlay.dt-show .dt-modal { transform:scale(1); }
-    .dt-task-mild  { background:rgba(74,222,128,0.08);  color:#4ade80; border:1px solid rgba(74,222,128,0.25); }
-    .dt-task-spicy { background:rgba(250,204,21,0.08);  color:#facc15; border:1px solid rgba(250,204,21,0.25); }
-    .dt-task-hot   { background:rgba(249,115,22,0.08);  color:#f97316; border:1px solid rgba(249,115,22,0.25); }
-    .dt-task-fire  { background:rgba(244,63,94,0.08);   color:#f43f5e; border:1px solid rgba(244,63,94,0.25); }
+    .dt-task-mild    { background:rgba(74,222,128,0.08);  color:#4ade80; border:1px solid rgba(74,222,128,0.25); }
+    .dt-task-spicy   { background:rgba(250,204,21,0.08);  color:#facc15; border:1px solid rgba(250,204,21,0.25); }
+    .dt-task-hot     { background:rgba(249,115,22,0.08);  color:#f97316; border:1px solid rgba(249,115,22,0.25); }
+    .dt-task-extreme { background:rgba(244,63,94,0.08);   color:#f43f5e; border:1px solid rgba(244,63,94,0.25); }
     .dt-count-btn {
       flex:1; min-width:36px; padding:0.5rem 0.3rem; border-radius:10px;
       border:2px solid rgba(255,255,255,0.1); background:#1a0814;
@@ -139,11 +160,28 @@ function injectDTStyles() {
     .dt-gender button.dt-gm { background:#7b3fa8; color:#fff; }
     .dt-gender button.dt-gf { background:#c9446a; color:#fff; }
     .dt-confetti { position:fixed; inset:0; pointer-events:none; z-index:199; }
+    .dt-btn-accept {
+      width:100%; padding:16px; border:none; border-radius:16px; cursor:pointer;
+      background:linear-gradient(135deg,#16a34a,#4ade80);
+      color:#fff; font-family:Georgia,serif; font-size:1.1rem; font-weight:bold;
+      box-shadow:0 6px 20px rgba(74,222,128,0.4); letter-spacing:0.04em;
+      transition:transform .15s, box-shadow .15s;
+    }
+    .dt-btn-accept:active { transform:scale(0.97); }
+    .dt-btn-reject {
+      width:100%; padding:14px; border:none; border-radius:16px; cursor:pointer;
+      background:linear-gradient(135deg,#dc2626,#f43f5e);
+      color:#fff; font-family:Georgia,serif; font-size:1rem; font-weight:bold;
+      box-shadow:0 6px 20px rgba(244,63,94,0.4); letter-spacing:0.04em;
+      transition:transform .15s, box-shadow .15s; margin-top:8px;
+    }
+    .dt-btn-reject:active { transform:scale(0.97); }
+    .dt-reject-warn { font-size:11px; color:#f43f5e; margin-top:5px; opacity:0.85; }
   `;
   document.head.appendChild(s);
 }
 
-// ── Data ─────────────────────────────────────────────────────────────────────
+// ── Player colours ────────────────────────────────────────────────────────────
 
 const DT_PLAYER_COLORS = [
   { main:"#7b3fa8", light:"#c084fc" },
@@ -154,65 +192,127 @@ const DT_PLAYER_COLORS = [
   { main:"#a855f7", light:"#d8b4fe" },
 ];
 
+// ── Dare Data ─────────────────────────────────────────────────────────────────
+// who    : "any" | "m" | "f"
+// target : "any"|"mf"|"f"|"m"|"allF"|"allM"|"allOthers"|"none"
+// text   : use {target} for single, {targets} for plural multi-target
+
 const DT_TASKS = {
-  easy: [
-    { emoji:"🎵", target:"any", text:"Sing a full verse of any song out loud!" },
-    { emoji:"🐸", target:"any", text:"Do your best frog impression for 10 seconds." },
-    { emoji:"💃", target:"any", text:"Do your best dance move right now." },
-    { emoji:"😂", target:"any", text:"Tell your best (or worst) joke." },
-    { emoji:"🤸", target:"any", text:"Do 10 star jumps without stopping." },
-    { emoji:"🐔", target:"any", text:"Cluck like a chicken for 15 seconds." },
-    { emoji:"🤩", target:"any", text:"Give {target} a genuine compliment." },
-    { emoji:"👃", target:"any", text:"Let {target} draw a moustache on your face." },
-    { emoji:"🕺", target:"any", text:"Moonwalk across the room." },
-    { emoji:"😤", target:"any", text:"Speak only in whispers for the next 2 rounds." },
-    { emoji:"🐶", target:"any", text:"Bark like a dog every time {target} speaks for 1 round." },
-    { emoji:"🎭", target:"any", text:"Perform a 30-second dramatic monologue about losing your keys." },
+  mild: [
+    // Original dares
+    { emoji:"🎵", who:"any", target:"none", text:"Sing a full verse of any song out loud!" },
+    { emoji:"🐸", who:"any", target:"none", text:"Do your best frog impression for 10 seconds." },
+    { emoji:"💃", who:"any", target:"none", text:"Do your best dance move right now." },
+    { emoji:"😂", who:"any", target:"none", text:"Tell your best (or worst) joke." },
+    { emoji:"🤸", who:"any", target:"none", text:"Do 10 star jumps without stopping." },
+    { emoji:"🐔", who:"any", target:"none", text:"Cluck like a chicken for 15 seconds." },
+    { emoji:"🤩", who:"any", target:"any",  text:"Give {target} a genuine compliment." },
+    { emoji:"👃", who:"any", target:"any",  text:"Let {target} draw a moustache on your face." },
+    { emoji:"🕺", who:"any", target:"none", text:"Moonwalk across the room." },
+    { emoji:"😤", who:"any", target:"none", text:"Speak only in whispers for the next 2 rounds." },
+    { emoji:"🐶", who:"any", target:"any",  text:"Bark like a dog every time {target} speaks for 1 round." },
+    { emoji:"🎭", who:"any", target:"none", text:"Perform a 30-second dramatic monologue about losing your keys." },
+    // New dares
+    { emoji:"😘", who:"any", target:"any",  text:"Blow a kiss to {target}." },
+    { emoji:"🌬️", who:"any", target:"any",  text:"Whisper something seductive in {target}'s ear." },
+    { emoji:"💆", who:"any", target:"any",  text:"Give {target} a 30-second shoulder massage." },
+    { emoji:"👁️", who:"any", target:"any",  text:"Stare into {target}'s eyes without blinking for 15 seconds." },
+    { emoji:"🍓", who:"any", target:"any",  text:"Let {target} feed you a snack using only their hands." },
+    { emoji:"🚶", who:"any", target:"none", text:"Do your best sexy walk across the room." },
+    { emoji:"🪑", who:"any", target:"any",  text:"Sit on {target}'s lap for the next two rounds." },
+    { emoji:"✋", who:"any", target:"any",  text:"Let {target} run their fingers through your hair for 20 seconds." },
+    { emoji:"🤝", who:"any", target:"any",  text:"Hold hands with {target} until your next turn." },
+    { emoji:"💬", who:"any", target:"any",  text:"Give {target} a compliment about their body." },
   ],
-  tricky: [
-    { emoji:"🤸", target:"any", text:"Do a cartwheel (or attempt one heroically)." },
-    { emoji:"🗣️", target:"any", text:"Talk in an accent of {target}'s choosing for 2 rounds." },
-    { emoji:"🤣", target:"any", text:"Do your funniest impression of {target}." },
-    { emoji:"🧍", target:"any", text:"Stand on one leg for 60 seconds. No holding on!" },
-    { emoji:"🍋", target:"any", text:"Eat a slice of lemon without pulling a face — {target} judges." },
-    { emoji:"🤐", target:"any", text:"Say nothing but 'meow' for the next full round." },
-    { emoji:"📸", target:"any", text:"Let {target} post one photo of you to their story." },
-    { emoji:"🎤", target:"any", text:"Beatbox for 20 seconds straight." },
-    { emoji:"👗", target:"any", text:"Swap one item of clothing with {target} for 2 rounds." },
-    { emoji:"🦆", target:"any", text:"Waddle like a duck every time you move for the next round." },
-    { emoji:"🤳", target:"any", text:"Let {target} set your phone wallpaper to whatever they want." },
-    { emoji:"🎵", target:"any", text:"Hum a song — others must guess what it is." },
+  spicy: [
+    // Original dares
+    { emoji:"🤸", who:"any", target:"none", text:"Do a cartwheel (or attempt one heroically)." },
+    { emoji:"🗣️", who:"any", target:"any",  text:"Talk in an accent of {target}'s choosing for 2 rounds." },
+    { emoji:"🤣", who:"any", target:"any",  text:"Do your funniest impression of {target}." },
+    { emoji:"🧍", who:"any", target:"none", text:"Stand on one leg for 60 seconds. No holding on!" },
+    { emoji:"🍋", who:"any", target:"any",  text:"Eat a slice of lemon without pulling a face — {target} judges." },
+    { emoji:"🤐", who:"any", target:"none", text:"Say nothing but 'meow' for the next full round." },
+    { emoji:"📸", who:"any", target:"any",  text:"Let {target} post one photo of you to their story." },
+    { emoji:"🎤", who:"any", target:"none", text:"Beatbox for 20 seconds straight." },
+    { emoji:"👗", who:"any", target:"any",  text:"Swap one item of clothing with {target} for 2 rounds." },
+    { emoji:"🦆", who:"any", target:"none", text:"Waddle like a duck every time you move for the next round." },
+    { emoji:"🤳", who:"any", target:"any",  text:"Let {target} set your phone wallpaper to whatever they want." },
+    { emoji:"🎵", who:"any", target:"none", text:"Hum a song — others must guess what it is." },
+    // New dares
+    { emoji:"👃", who:"any", target:"any",  text:"Stand nose to nose with {target} for 20 seconds with your hand on their buttocks." },
+    { emoji:"👙", who:"any", target:"none", text:"Strip down to your underwear for the rest of the game." },
+    { emoji:"💆", who:"any", target:"any",  text:"Give {target} a 60-second back massage under their shirt." },
+    { emoji:"☝️", who:"any", target:"any",  text:"Let {target} trace their finger slowly up your inner arm and neck for 20 seconds." },
+    { emoji:"🪑", who:"any", target:"any",  text:"Sit in {target}'s lap facing them for the next two rounds." },
+    { emoji:"👚", who:"any", target:"any",  text:"Let {target} remove one item of your clothing of their choice." },
+    { emoji:"💋", who:"any", target:"any",  text:"Nuzzle and kiss {target}'s neck for 15 seconds." },
+    { emoji:"💃", who:"any", target:"none", text:"Do a slow, flirtatious dance in front of the group for 30 seconds." },
+    { emoji:"💄", who:"any", target:"any",  text:"Let {target} apply lip balm to your lips using their finger." },
+    { emoji:"🗣️", who:"any", target:"any",  text:"Describe in detail what you would do to {target} if you were alone." },
   ],
-  hard: [
-    { emoji:"🍺", target:"any", text:"Down your drink in one — or take a shot if you dare." },
-    { emoji:"👙", target:"any", text:"Strip down to just your underwear and stay that way for 3 rounds." },
-    { emoji:"📞", target:"any", text:"Call someone random in your contacts and serenade them for 30 seconds." },
-    { emoji:"💋", target:"any", text:"Give {target} a piggyback ride around the room." },
-    { emoji:"🧃", target:"any", text:"Mix three random condiments and eat a spoonful." },
-    { emoji:"🙈", target:"any", text:"Let {target} send ONE text from your phone to anyone they choose." },
-    { emoji:"🔥", target:"any", text:"Strip down to nothing and stay that way for the rest of the game." },
-    { emoji:"🫦", target:"any", text:"Suck {target}'s finger for 5 seconds." },
-    { emoji:"🪴", target:"any", text:"Let {target} draw on your back with a marker — no peeking." },
-    { emoji:"🌶️", target:"any", text:"Eat the spiciest thing available in the house right now." },
-    { emoji:"💋", target:"mf",  text:"Kiss {target} on the lips for 3 seconds." },
-    { emoji:"🤗", target:"mf",  text:"Hold {target} from behind and slow dance for 30 seconds." },
+  hot: [
+    // Original dares
+    { emoji:"🍺", who:"any", target:"none", text:"Down your drink in one — or take a shot if you dare." },
+    { emoji:"📞", who:"any", target:"none", text:"Call someone random in your contacts and serenade them for 30 seconds." },
+    { emoji:"💋", who:"any", target:"any",  text:"Give {target} a piggyback ride around the room." },
+    { emoji:"🧃", who:"any", target:"none", text:"Mix three random condiments and eat a spoonful." },
+    { emoji:"🙈", who:"any", target:"any",  text:"Let {target} send ONE text from your phone to anyone they choose." },
+    { emoji:"🫦", who:"any", target:"any",  text:"Suck {target}'s finger for 5 seconds." },
+    { emoji:"🪴", who:"any", target:"any",  text:"Let {target} draw on your back with a marker — no peeking." },
+    { emoji:"🌶️", who:"any", target:"none", text:"Eat the spiciest thing available in the house right now." },
+    { emoji:"💋", who:"any", target:"mf",   text:"Kiss {target} on the lips for 3 seconds." },
+    { emoji:"🤗", who:"any", target:"mf",   text:"Hold {target} from behind and slow dance for 30 seconds." },
+    // New dares
+    { emoji:"😘", who:"any", target:"mf",   text:"Kiss {target} on the mouth for 20 seconds." },
+    { emoji:"🖐️", who:"any", target:"any",  text:"Spank {target} four times." },
+    { emoji:"💋", who:"any", target:"any",  text:"Let {target} kiss your body anywhere below the neck — one kiss, their choice." },
+    { emoji:"💃", who:"any", target:"any",  text:"Give {target} a lap dance for the duration of one full song." },
+    { emoji:"😵", who:"any", target:"any",  text:"Allow {target} to blindfold you and kiss you anywhere twice." },
+    { emoji:"👕", who:"any", target:"none", text:"Remove your top and remain topless for the next three rounds." },
+    { emoji:"💋", who:"any", target:"mf",   text:"Kiss {target} passionately — they decide when it stops, up to 45 seconds." },
+    { emoji:"🧊", who:"any", target:"any",  text:"Let {target} pour a small amount of ice water on your chest and lick it off." },
+    { emoji:"🌶️", who:"any", target:"any",  text:"Whisper the most explicit fantasy you've ever had into {target}'s ear." },
+    { emoji:"🕺", who:"any", target:"any",  text:"Grind slowly against {target} for 30 seconds." },
   ],
   extreme: [
-    { emoji:"💋", target:"mf",  text:"Kiss every inch of {target}'s face — forehead to chin." },
-    { emoji:"🫣", target:"any", text:"Give {target} a 2-minute massage of their choice." },
-    { emoji:"🔥", target:"any", text:"Both you and {target} remove your tops for the remainder of the game." },
-    { emoji:"🫦", target:"any", text:"Whisper something genuinely naughty in {target}'s ear." },
-    { emoji:"💃", target:"mf",  text:"Perform a lap dance for {target} — 60 full seconds." },
-    { emoji:"🫀", target:"any", text:"Tell {target} your deepest secret. No taking it back." },
-    { emoji:"🌡️", target:"any", text:"Both you and {target} play the next round completely naked. No exceptions." },
-    { emoji:"😈", target:"mf",  text:"Let {target} blindfold you and do whatever they want for 30 seconds." },
-    { emoji:"🫦", target:"mf",  text:"French kiss {target} for 5 full seconds." },
-    { emoji:"🔑", target:"mf",  text:"Let {target} undress one item of your clothing of their choice." },
+    // Original dares
+    { emoji:"🔥", who:"any", target:"none",    text:"Strip completely naked for the rest of the game." },
+    { emoji:"😈", who:"any", target:"mf",      text:"Let {target} blindfold you and do whatever they want for 30 seconds." },
+    { emoji:"🫦", who:"any", target:"mf",      text:"French kiss {target} for 5 full seconds." },
+    { emoji:"🔑", who:"any", target:"any",     text:"Let {target} undress one item of your clothing of their choice." },
+    { emoji:"💋", who:"any", target:"mf",      text:"Kiss every inch of {target}'s face — forehead to chin." },
+    { emoji:"🫣", who:"any", target:"any",     text:"Give {target} a 2-minute massage of their choice." },
+    { emoji:"🔥", who:"any", target:"any",     text:"Both you and {target} remove your tops for the remainder of the game." },
+    { emoji:"💃", who:"any", target:"mf",      text:"Perform a lap dance for {target} — 60 full seconds." },
+    // New dares
+    { emoji:"🌡️", who:"any", target:"none",   text:"Strip completely naked for the rest of the game." },
+    { emoji:"🫦", who:"f",   target:"any",     text:"Finger yourself for 5 seconds." },
+    { emoji:"🖐️", who:"any", target:"any",    text:"Touch yourself for 10 seconds and let {target} lick your fingers after." },
+    { emoji:"👄", who:"any", target:"any",     text:"Let {target} use their mouth anywhere on your body below the neck for 20 seconds." },
+    { emoji:"👅", who:"any", target:"mf",      text:"Perform oral on {target} for 10 seconds." },
+    { emoji:"🗳️", who:"any", target:"none",   text:"Let the group decide one explicit act you perform for 15 seconds — majority rules." },
+    { emoji:"🎨", who:"any", target:"any",     text:"Remove all clothing and let {target} body-paint a design on you using only their hands." },
+    { emoji:"🔥", who:"any", target:"any",     text:"Grind against {target} with no clothing between you for 30 seconds." },
+    { emoji:"😵", who:"any", target:"any",     text:"Let {target} blindfold you and touch you anywhere they choose for 30 seconds." },
+    { emoji:"😈", who:"any", target:"mf",      text:"Act out your most explicit fantasy with {target} for 45 seconds — no limits." },
+    // Gender-specific extreme dares
+    { emoji:"📱", who:"m",   target:"f",       text:"Send a photo of your erect penis to {target}." },
+    { emoji:"💦", who:"any", target:"allF",    text:"Squeeze the breasts of {targets}." },
   ],
 };
 
+// ── Board layout ──────────────────────────────────────────────────────────────
+
 const DT_COLS  = 6;
-const DT_TOTAL = 47;
+const DT_TOTAL = 47; // 0=START, 1-45 dare squares, 46=FINISH
+
+// Zone: squares 1-12 mild, 13-24 spicy, 25-36 hot, 37-45 extreme
+function dtSquareDiff(n) {
+  if (n >= 1  && n <= 12) return "mild";
+  if (n >= 13 && n <= 24) return "spicy";
+  if (n >= 25 && n <= 36) return "hot";
+  return "extreme";
+}
 
 const DT_TRAIL_COORDS = (() => {
   const coords = []; let row = 0;
@@ -238,29 +338,87 @@ function dtShuffle(arr) {
   return a;
 }
 
-function dtBuildTiles() {
-  const e=dtShuffle(DT_TASKS.easy), t=dtShuffle(DT_TASKS.tricky),
-        h=dtShuffle(DT_TASKS.hard), x=dtShuffle(DT_TASKS.extreme);
-  const tiles=[];
-  for(let i=0;i<12;i++) tiles.push({diff:"mild",  ...e[i%e.length]});
-  for(let i=0;i<12;i++) tiles.push({diff:"spicy", ...t[i%t.length]});
-  for(let i=0;i<12;i++) tiles.push({diff:"hot",   ...h[i%h.length]});
-  for(let i=0;i<9; i++) tiles.push({diff:"fire",  ...x[i%x.length]});
-  return tiles;
+// ── Target resolution ─────────────────────────────────────────────────────────
+
+function dtResolveTargets(activeP, rule, numPlayers, playerGenders, playerNames) {
+  // Returns { single: index|null, multiple: index[]|null }
+  const others = [];
+  for (let i=0; i<numPlayers; i++) if (i!==activeP) others.push(i);
+  if (!others.length) return { single:null, multiple:[] };
+
+  const pick = arr => arr.length ? arr[Math.floor(Math.random()*arr.length)] : null;
+  const myGender = playerGenders[activeP];
+
+  if (rule === "none") return { single:null, multiple:[] };
+
+  if (rule === "any") {
+    return { single:pick(others), multiple:others };
+  }
+  if (rule === "mf") {
+    // male player → targets female; female → targets any
+    const pool = (myGender==="m") ? others.filter(i=>playerGenders[i]==="f") : others;
+    const resolved = pool.length ? pool : others;
+    return { single:pick(resolved), multiple:resolved };
+  }
+  if (rule === "f") {
+    const pool = others.filter(i=>playerGenders[i]==="f");
+    const resolved = pool.length ? pool : others;
+    return { single:pick(resolved), multiple:resolved };
+  }
+  if (rule === "m") {
+    const pool = others.filter(i=>playerGenders[i]==="m");
+    const resolved = pool.length ? pool : others;
+    return { single:pick(resolved), multiple:resolved };
+  }
+  if (rule === "allF") {
+    const pool = others.filter(i=>playerGenders[i]==="f");
+    return { single:pool[0]??null, multiple:pool.length ? pool : [] };
+  }
+  if (rule === "allM") {
+    const pool = others.filter(i=>playerGenders[i]==="m");
+    return { single:pool[0]??null, multiple:pool.length ? pool : [] };
+  }
+  if (rule === "allOthers") {
+    return { single:others[0]??null, multiple:others };
+  }
+  return { single:pick(others), multiple:others };
 }
 
-function dtResolveTarget(activeP, rule, numPlayers, playerGenders, playerNames) {
-  const others=[];
-  for(let i=0;i<numPlayers;i++) if(i!==activeP) others.push(i);
-  if(!others.length) return null;
-  const pick=arr=>arr[Math.floor(Math.random()*arr.length)];
-  if(rule==="any") return pick(others);
-  if(rule==="f"){ const f=others.filter(i=>playerGenders[i]==="f"); return f.length?pick(f):pick(others); }
-  if(rule==="mf"){
-    if(playerGenders[activeP]==="m"){ const f=others.filter(i=>playerGenders[i]==="f"); return f.length?pick(f):pick(others); }
-    return pick(others);
-  }
-  return pick(others);
+function dtFormatTargets(indices, playerNames) {
+  if (!indices || !indices.length) return "another player";
+  const names = indices.map(i => playerNames[i]);
+  if (names.length === 1) return names[0];
+  return names.slice(0,-1).join(", ") + " and " + names[names.length-1];
+}
+
+// ── Dare picker ───────────────────────────────────────────────────────────────
+// Picks a random dare from the correct category that:
+//  - is eligible for this player's gender (who)
+//  - hasn't been seen by this player before
+//  - has a valid target available if needed
+
+function dtPickDare(category, activeP, playerGender, numPlayers, playerGenders, playerNames, seenByPlayer) {
+  const pool = DT_TASKS[category] || DT_TASKS.mild;
+
+  // Filter to eligible dares for this player
+  const eligible = pool.filter(d => {
+    if (d.who !== "any" && d.who !== playerGender) return false;
+    // Check target feasibility
+    const { single, multiple } = dtResolveTargets(activeP, d.target||"none", numPlayers, playerGenders, playerNames);
+    if (d.target !== "none" && d.target) {
+      if (d.target.startsWith("all")) { if (!multiple || !multiple.length) return false; }
+      else { if (single === null && d.target !== "none") return false; }
+    }
+    return true;
+  });
+
+  if (!eligible.length) return null;
+
+  // Filter unseen
+  const unseen = eligible.filter(d => !seenByPlayer.has(d));
+  const candidates = unseen.length ? unseen : eligible; // fallback if all seen
+
+  return candidates[Math.floor(Math.random()*candidates.length)];
 }
 
 // ── Setup Screen ──────────────────────────────────────────────────────────────
@@ -335,55 +493,47 @@ function DareTrailSetup({ onStart }) {
 function DareTrailGame({ config, onNewGame }) {
   const { count:numPlayers, playerNames, playerGenders } = config;
 
-  const [tick,    setTick]   = useState(0);
-  const [modal,   setModal]  = useState(null);
-  const [winP,    setWinP]   = useState(null);
-  const [rolling, setRolling]= useState(false);
-  const [logLines,setLog]    = useState([]);
+  const [tick,      setTick]    = useState(0);
+  const [modal,     setModal]   = useState(null);
+  const [winP,      setWinP]    = useState(null);
+  const [rolling,   setRolling] = useState(false);
+  const [logLines,  setLog]     = useState([]);
+  const [showCaution, setShowCaution] = useState(true);
 
-  const stateRef  = useRef(null);
-  const tilesRef  = useRef([]);
-  const playedRef = useRef(new Set());
-  const daresRef  = useRef({});
-  const avatarEls = useRef([]);
-  const nodeRRef  = useRef(28);
-  const wrapRef   = useRef(null);
-  const canvasRef = useRef(null);
-  const svgRef    = useRef(null);
-  const cubeRef   = useRef(null);
-  const confRef   = useRef(null);
-  const animRef   = useRef(null);
-  const builtRef  = useRef(false);
+  const stateRef   = useRef(null);
+  // seenDares: array of Sets, one per player — tracks dare objects already shown
+  const seenDares  = useRef([]);
+  const avatarEls  = useRef([]);
+  const nodeRRef   = useRef(28);
+  const wrapRef    = useRef(null);
+  const canvasRef  = useRef(null);
+  const svgRef     = useRef(null);
+  const cubeRef    = useRef(null);
+  const confRef    = useRef(null);
+  const animRef    = useRef(null);
+  const builtRef   = useRef(false);
 
   const forceUpdate = () => setTick(t=>t+1);
 
-  // Init once
   useEffect(()=>{
-    tilesRef.current = dtBuildTiles();
     stateRef.current = {
       current:0,
       pos:Array(numPlayers).fill(0),
-      skips:Array(numPlayers).fill(0),
       awaitingTask:false,
     };
-    playedRef.current = new Set();
-    daresRef.current  = {};
+    seenDares.current = Array.from({length:numPlayers}, ()=>new Set());
     forceUpdate();
   },[]);
 
-  // Build board after mount & on resize
   useEffect(()=>{
     if(!wrapRef.current) return;
-    buildBoard();
-    builtRef.current=true;
-    const onResize=()=>{ clearTimeout(window._dtRT); window._dtRT=setTimeout(()=>{ buildBoard(); },220); };
+    buildBoard(); builtRef.current=true;
+    const onResize=()=>{ clearTimeout(window._dtRT); window._dtRT=setTimeout(buildBoard,220); };
     window.addEventListener("resize",onResize);
     return ()=>window.removeEventListener("resize",onResize);
   },[tick===1?tick:undefined]);
 
-  useEffect(()=>{
-    if(tick>0 && wrapRef.current && !builtRef.current) buildBoard();
-  },[tick]);
+  useEffect(()=>{ if(tick>0&&wrapRef.current&&!builtRef.current) buildBoard(); },[tick]);
 
   // ── Board ──────────────────────────────────────────────────────────────────
 
@@ -392,8 +542,7 @@ function DareTrailGame({ config, onNewGame }) {
     if(!wrap||!canvas||!svg) return;
     canvas.innerHTML=""; svg.innerHTML="";
     const W=wrap.clientWidth||360;
-    const nodeR=Math.floor(W*0.074);
-    nodeRRef.current=nodeR;
+    const nodeR=Math.floor(W*0.074); nodeRRef.current=nodeR;
     const colW=W/DT_COLS, rowH=nodeR*3.2;
     const numRows=Math.ceil(DT_TOTAL/DT_COLS);
     const boardH=numRows*rowH+nodeR*1.5;
@@ -436,18 +585,12 @@ function DareTrailGame({ config, onNewGame }) {
         node.classList.add("dt-finishnode");
         inner.innerHTML=`<span style="font-size:${nodeR*0.55}px">🏆</span><span style="font-family:Georgia,serif;font-size:${nodeR*0.35}px;color:#facc15">END</span>`;
       } else {
-        const t=tilesRef.current[n-1];
-        node.classList.add(`dt-${t.diff}`);
+        const diff=dtSquareDiff(n);
+        node.classList.add(`dt-${diff}`);
         const numEl=document.createElement("div"); numEl.className="dt-num";
         numEl.style.fontSize=nodeR*0.55+"px"; numEl.textContent=n;
-        if(playedRef.current.has(n)){
-          const em=document.createElement("div"); em.className="dt-emoji";
-          em.style.fontSize=nodeR*0.72+"px"; em.textContent=t.emoji;
-          inner.appendChild(em);
-        } else {
-          inner.appendChild(numEl);
-        }
-        node.addEventListener("click",()=>handleNodeTap(n));
+        inner.appendChild(numEl);
+        // No click handler — tiles are decorative only
       }
       node.appendChild(inner); canvas.appendChild(node);
     });
@@ -495,18 +638,20 @@ function DareTrailGame({ config, onNewGame }) {
     }
   }
 
-  function animateMove(p,fromPos,toPos,onDone){
+  function animateMove(p,fromPos,toPos,onDone,backwards=false){
     const av=avatarEls.current[p]; let cur=fromPos;
-    function step(){
-      cur++;
+    const step=backwards?-1:1;
+    function go(){
+      cur+=step;
       const nd=document.getElementById(`dtnode-${cur}`);
       if(nd){ nd.style.transform="translate(-50%,-50%) scale(1.25)"; setTimeout(()=>{ nd.style.transform=""; },180); }
       placeAvatar(p,cur,true);
       if(av){ av.classList.remove("dt-bounce"); void av.offsetWidth; av.classList.add("dt-bounce"); }
-      if(cur<toPos) setTimeout(step,280);
+      const done=backwards?(cur<=toPos):(cur>=toPos);
+      if(!done) setTimeout(go,280);
       else setTimeout(()=>onDone(),180);
     }
-    setTimeout(step,200);
+    setTimeout(go,200);
   }
 
   // ── Dice ──────────────────────────────────────────────────────────────────
@@ -514,11 +659,6 @@ function DareTrailGame({ config, onNewGame }) {
   function doRoll(){
     const st=stateRef.current;
     if(rolling||!st||st.awaitingTask) return;
-    if(st.skips[st.current]>0){
-      st.skips[st.current]--;
-      addLog(st.current,`${playerNames[st.current]} skips their turn.`);
-      endTurn(); return;
-    }
     setRolling(true);
     const roll=Math.floor(Math.random()*6)+1;
     const cube=cubeRef.current;
@@ -551,22 +691,60 @@ function DareTrailGame({ config, onNewGame }) {
       const nd=document.getElementById(`dtnode-${newPos}`);
       if(nd) nd.classList.add("dt-current");
       st.awaitingTask=true; forceUpdate();
-      setTimeout(()=>setModal({pos:newPos,review:false,activeP:p}),400);
+      setTimeout(()=>presentDare(p,newPos),400);
     });
   }
 
-  function clearHighlight(){ document.querySelectorAll(".dt-current").forEach(e=>e.classList.remove("dt-current")); }
+  function presentDare(activeP, pos){
+    const category=dtSquareDiff(pos);
+    const dare=dtPickDare(
+      category, activeP, playerGenders[activeP],
+      numPlayers, playerGenders, playerNames,
+      seenDares.current[activeP]
+    );
+    if(!dare){ endTurn(); return; }
 
-  function handleNodeTap(n){ if(!playedRef.current.has(n)) return; setModal({pos:n,review:true}); }
+    // Resolve targets
+    const {single, multiple}=dtResolveTargets(activeP, dare.target||"none", numPlayers, playerGenders, playerNames);
+    let resolvedText=dare.text;
+    if(dare.target && dare.target.startsWith("all")){
+      resolvedText=resolvedText.replace(/\{targets\}/g, `**${dtFormatTargets(multiple,playerNames)}**`);
+    } else if(dare.target && dare.target!=="none"){
+      resolvedText=resolvedText.replace(/\{target\}/g, single!==null?`**${playerNames[single]}**`:"**another player**");
+    }
 
-  function markPlayed(pos){
-    playedRef.current.add(pos);
-    const t=tilesRef.current[pos-1];
-    const nd=document.getElementById(`dtnode-${pos}`); if(!nd) return;
-    const inner=nd.querySelector(".dt-node-inner");
-    const numEl=inner?.querySelector(".dt-num");
-    if(numEl){ const em=document.createElement("div"); em.className="dt-emoji"; em.style.fontSize=nodeRRef.current*0.72+"px"; em.textContent=t.emoji; inner.replaceChild(em,numEl); }
+    setModal({ dare, resolvedText, diff:category, activeP, pos });
   }
+
+  function handleAccept(){
+    const st=stateRef.current;
+    const activeP=modal.activeP;
+    seenDares.current[activeP].add(modal.dare);
+    addLog(activeP,`${playerNames[activeP]} accepted the dare ✅`);
+    setModal(null);
+    endTurn();
+  }
+
+  function handleReject(){
+    const st=stateRef.current;
+    const activeP=modal.activeP;
+    seenDares.current[activeP].add(modal.dare); // mark as seen so not repeated
+    addLog(activeP,`${playerNames[activeP]} rejected the dare — moves back 4 spaces ❌`);
+    setModal(null);
+    // Move back 4 spaces
+    const fromPos=st.pos[activeP];
+    const toPos=Math.max(fromPos-4,0);
+    clearHighlight();
+    animateMove(activeP,fromPos,toPos,()=>{
+      st.pos[activeP]=toPos;
+      const nd=document.getElementById(`dtnode-${toPos}`);
+      if(nd&&toPos>0&&toPos<46) nd.classList.add("dt-current");
+      forceUpdate();
+      endTurn();
+    },true);
+  }
+
+  function clearHighlight(){ document.querySelectorAll(".dt-current").forEach(e=>e.classList.remove("dt-current")); }
 
   function endTurn(){
     const st=stateRef.current; st.awaitingTask=false;
@@ -601,32 +779,13 @@ function DareTrailGame({ config, onNewGame }) {
   const st=stateRef.current;
   const curP=st?.current??0;
   const curC=DT_PLAYER_COLORS[curP];
-  const diffLabel={mild:"🟢 MILD",spicy:"🟡 SPICY",hot:"🟠 HOT",fire:"🔴 FIRE"};
-  const diffColor={mild:"#4ade80",spicy:"#facc15",hot:"#f97316",fire:"#f43f5e"};
-
-  // Resolve modal data
-  let modalData=null;
-  if(modal){
-    const pos=modal.pos, t=tilesRef.current[pos-1];
-    if(t){
-      if(daresRef.current[pos]){
-        modalData=daresRef.current[pos];
-      } else if(!modal.review){
-        const activeP=modal.activeP??curP;
-        const tidx=dtResolveTarget(activeP,t.target||"any",numPlayers,playerGenders,playerNames);
-        const tname=tidx!==null?playerNames[tidx]:"another player";
-        const resolved=t.text.replace(/\{target\}/g,`**${tname}**`);
-        daresRef.current[pos]={diff:t.diff,emoji:t.emoji,text:resolved,activeP};
-        markPlayed(pos);
-        modalData=daresRef.current[pos];
-      }
-    }
-  }
+  const diffLabel={mild:"🟢 MILD",spicy:"🟡 SPICY",hot:"🟠 HOT",extreme:"🔴 EXTREME"};
+  const diffColor={mild:"#4ade80",spicy:"#facc15",hot:"#f97316",extreme:"#f43f5e"};
 
   function renderTask(text){
     return text.split(/(\*\*[^*]+\*\*)/g).map((part,i)=>
       part.startsWith("**")
-        ? <span key={i} style={{color:"#facc15",textDecoration:"underline dotted"}}>{part.slice(2,-2)}</span>
+        ? <span key={i} style={{color:"#facc15",fontWeight:"bold"}}>{part.slice(2,-2)}</span>
         : part
     );
   }
@@ -634,6 +793,21 @@ function DareTrailGame({ config, onNewGame }) {
   return (
     <div style={{animation:"fadeUp .35s ease",maxWidth:"560px",width:"100%",position:"relative"}}>
       <canvas className="dt-confetti" ref={confRef}/>
+
+      {/* Caution modal */}
+      <div className={"dt-overlay"+(showCaution?" dt-show":"")}>
+        <div className="dt-modal" style={{maxWidth:"360px"}}>
+          <div style={{fontSize:"2.2rem",marginBottom:"8px"}}>⚠️</div>
+          <div style={{fontFamily:"Georgia,serif",fontSize:"1.2rem",color:"#facc15",marginBottom:"12px",letterSpacing:"0.05em"}}>Important Reminder</div>
+          <div style={{fontSize:"13px",color:"#8a6070",lineHeight:1.7,marginBottom:"20px",textAlign:"left"}}>
+            This game is intended for <strong style={{color:"#e8cdd8"}}>consenting adults only</strong>. All players should agree to the nature of the game before starting. Anyone may reject any dare at any time — no questions asked. Many of the later dares are sexually explicit.
+          </div>
+          <button onClick={()=>setShowCaution(false)}
+            style={{width:"100%",padding:"14px",border:"none",borderRadius:"14px",cursor:"pointer",background:"linear-gradient(135deg,#7b3fa8,#c9446a)",color:"#fff",fontFamily:"Georgia,serif",fontSize:"1rem",fontWeight:"bold",boxShadow:"0 4px 18px rgba(201,68,106,0.4)"}}>
+            We all consent — Let's Play! 🎲
+          </button>
+        </div>
+      </div>
 
       {/* Players bar */}
       <div style={{display:"flex",gap:"6px",overflowX:"auto",padding:"0 0 10px",scrollbarWidth:"none"}}>
@@ -652,7 +826,7 @@ function DareTrailGame({ config, onNewGame }) {
       {/* Turn banner + dice */}
       <div style={{display:"flex",alignItems:"center",justifyContent:"center",gap:"16px",padding:"8px 0 6px",flexWrap:"wrap"}}>
         <div style={{fontFamily:"Georgia,serif",fontSize:"14px",padding:"6px 16px",borderRadius:"50px",border:`2px solid ${curC.main}`,background:`linear-gradient(135deg,${curC.main}22,${curC.main}0a)`,color:curC.light,letterSpacing:"0.05em"}}>
-          {playerNames[curP]}'s Turn{st?.skips[curP]>0?" (skip pending)":""}
+          {playerNames[curP]}'s Turn
         </div>
         <div className="dt-dice-scene">
           <div className="dt-cube" ref={cubeRef}>
@@ -691,7 +865,7 @@ function DareTrailGame({ config, onNewGame }) {
 
       {/* Legend */}
       <div style={{display:"flex",justifyContent:"center",gap:"12px",flexWrap:"wrap",padding:"0 0 8px",fontSize:"11px",color:"#4a2040"}}>
-        {[{l:"Mild",c:"#4ade80"},{l:"Spicy",c:"#facc15"},{l:"Hot",c:"#f97316"},{l:"Fire",c:"#f43f5e"}].map(({l,c})=>(
+        {[{l:"Mild",c:"#4ade80"},{l:"Spicy",c:"#facc15"},{l:"Hot",c:"#f97316"},{l:"Extreme",c:"#f43f5e"}].map(({l,c})=>(
           <div key={l} style={{display:"flex",alignItems:"center",gap:"4px"}}>
             <div style={{width:"7px",height:"7px",borderRadius:"50%",background:c}}/>
             <span>{l}</span>
@@ -715,36 +889,27 @@ function DareTrailGame({ config, onNewGame }) {
         </div>
       </div>
 
-      {/* Task Modal */}
+      {/* Dare Modal */}
       <div className={"dt-overlay"+(modal&&!winP?" dt-show":"")}>
         <div className="dt-modal">
-          {modalData&&<>
-            <div style={{fontSize:"10px",letterSpacing:"2px",textTransform:"uppercase",color:diffColor[modalData.diff],marginBottom:"6px"}}>{diffLabel[modalData.diff]}</div>
-            <div style={{fontSize:"2.8rem",lineHeight:1,marginBottom:"6px"}}>{modalData.emoji}</div>
-            <div style={{fontFamily:"Georgia,serif",fontSize:"1.1rem",color:"#c9446a",marginBottom:"4px"}}>Dare Time! 🔥</div>
-            <div style={{fontSize:"12px",color:"#4a3048",marginBottom:"12px"}}>
-              {modal.review?`Square ${modal.pos} — already played`:`${playerNames[modal.activeP??curP]} landed on Square ${modal.pos}`}
+          {modal&&<>
+            <div style={{fontSize:"10px",letterSpacing:"2px",textTransform:"uppercase",color:diffColor[modal.diff],marginBottom:"6px"}}>{diffLabel[modal.diff]}</div>
+            <div style={{fontSize:"2.8rem",lineHeight:1,marginBottom:"6px"}}>{modal.dare.emoji}</div>
+            <div style={{fontFamily:"Georgia,serif",fontSize:"1.05rem",color:"#c9446a",marginBottom:"4px"}}>
+              {playerNames[modal.activeP]}'s Dare! 🔥
             </div>
-            <div className={`dt-task-${modalData.diff}`} style={{fontSize:"15px",fontWeight:"bold",lineHeight:1.5,padding:"12px 14px",borderRadius:"12px",marginBottom:"16px"}}>
-              {renderTask(modalData.text)}
+            <div className={`dt-task-${modal.diff}`} style={{fontSize:"15px",fontWeight:"bold",lineHeight:1.6,padding:"14px",borderRadius:"12px",marginBottom:"20px",marginTop:"8px"}}>
+              {renderTask(modal.resolvedText)}
             </div>
-            {!modal.review?(
-              <div style={{display:"flex",gap:"10px",justifyContent:"center",flexWrap:"wrap"}}>
-                <button onClick={()=>{ setModal(null); addLog(stateRef.current.current,`${playerNames[stateRef.current.current]} completed the dare! ✅`); endTurn(); }}
-                  style={{fontFamily:"Georgia,serif",fontSize:"14px",padding:"10px 22px",borderRadius:"50px",border:"none",cursor:"pointer",background:"linear-gradient(135deg,#4ade80,#16a34a)",color:"#fff"}}>
-                  ✅ Done!
-                </button>
-                <button onClick={()=>{ setModal(null); stateRef.current.skips[stateRef.current.current]++; addLog(stateRef.current.current,`${playerNames[stateRef.current.current]} chickened out 😅 — loses next turn.`); endTurn(); }}
-                  style={{fontFamily:"inherit",fontSize:"12px",padding:"10px 18px",borderRadius:"50px",border:"1px solid #2a1a28",background:"#0e0810",color:"#4a3048",cursor:"pointer"}}>
-                  😅 Skip (lose a turn)
-                </button>
-              </div>
-            ):(
-              <button onClick={()=>setModal(null)}
-                style={{fontFamily:"inherit",fontSize:"13px",padding:"10px 22px",borderRadius:"50px",border:"1px solid #2a1a28",background:"#0e0810",color:"#4a3048",cursor:"pointer",marginTop:"4px"}}>
-                ✕ Close
+            <div style={{display:"flex",flexDirection:"column",gap:"0",width:"100%"}}>
+              <button className="dt-btn-accept" onClick={handleAccept}>
+                ✅ Dare ACCEPTED
               </button>
-            )}
+              <button className="dt-btn-reject" onClick={handleReject}>
+                ❌ Dare REJECTED — Move back 4 spaces
+              </button>
+              <div className="dt-reject-warn">Rejecting a dare will move you back 4 squares</div>
+            </div>
           </>}
         </div>
       </div>
@@ -769,10 +934,7 @@ function DareTrailGame({ config, onNewGame }) {
 
 function DareTrailScreen({ onBack }) {
   const [gameConfig,setGameConfig]=useState(null);
-
-  // Inject styles immediately on first render so DareTrailSetup gets them
   injectDTStyles();
-
   return (
     <div style={{animation:"fadeUp .35s ease",maxWidth:"560px",width:"100%",position:"relative"}}>
       <div style={{display:"flex",alignItems:"center",justifyContent:"space-between",marginBottom:"18px"}}>
