@@ -404,7 +404,7 @@ function App(){
             <div style={{display:"flex",alignItems:"center",gap:"8px",color:"#888",fontSize:"19px",fontWeight:"bold"}}>
               <span>🎲🔥</span><span>Dares Game (2-6 Players)</span>
             </div>
-            <p style={{color:"#4a4a4a",fontSize:"12px",margin:"6px 0 0",lineHeight:"1.5",paddingLeft:"2px"}}>Race along 45 squares of escalating dares — Mild, Spicy, Hot &amp; Fire. First to the end wins!</p>
+            <p style={{color:"#4a4a4a",fontSize:"12px",margin:"6px 0 0",lineHeight:"1.5",paddingLeft:"2px"}}>Race along 45 squares of escalating dares — Mild, Spicy, Hot &amp; Extreme. First to the end wins!</p>
           </button>
         </div>
       )}
