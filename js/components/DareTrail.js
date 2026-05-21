@@ -949,7 +949,48 @@ function DareTrailGame({ config, onNewGame }) {
         <div className="dt-modal">
           <div style={{fontSize:"4rem",marginBottom:"8px"}}>🏆</div>
           <div style={{fontFamily:"Georgia,serif",fontSize:"1.8rem",color:"#c9446a",marginBottom:"6px"}}>{winP!==null?playerNames[winP]:""} Wins! 🎉</div>
-          <div style={{color:"#4a3048",fontSize:"13px",marginBottom:"20px"}}>The Dare Trail has been conquered!</div>
+          <div style={{color:"#4a3048",fontSize:"13px",marginBottom:"12px"}}>The Dare Trail has been conquered!</div>
+          {winP!==null&&(()=>{
+            const isF=playerGenders[winP]==="f";
+            if (isF) {
+              const others=playerNames.filter((_,i)=>i!==winP);
+              const otherList=others.length>1?others.slice(0,-1).join(", ")+" and "+others[others.length-1]:others[0];
+              return (
+                <div style={{background:"rgba(201,68,106,0.12)",border:"1px solid rgba(201,68,106,0.35)",borderRadius:"14px",padding:"14px 16px",marginBottom:"20px",textAlign:"left"}}>
+                  <div style={{fontSize:"1.5rem",textAlign:"center",marginBottom:"6px"}}>🎤</div>
+                  <div style={{fontFamily:"Georgia,serif",fontSize:"13px",color:"#f9a8d4",fontWeight:"bold",marginBottom:"6px",textAlign:"center",letterSpacing:"0.05em"}}>
+                    🫦 Winner's Prize: Full Oral!
+                  </div>
+                  <div style={{fontSize:"13px",color:"#a07080",lineHeight:1.7}}>
+                    <strong style={{color:"#e8cdd8"}}>{otherList}</strong> must each kiss or lick <strong style={{color:"#facc15"}}>{playerNames[winP]}</strong> all over as she get on all fours.  Give her pussy, mouth, tittie and ass all the loving! 🎵
+                  </div>
+                </div>
+              );
+            } else {
+              const maleOthers=playerNames.filter((_,i)=>i!==winP&&playerGenders[i]==="m");
+              const femaleOthers=playerNames.filter((_,i)=>playerGenders[i]==="f");
+              const maleList=maleOthers.length>1?maleOthers.slice(0,-1).join(", ")+" and "+maleOthers[maleOthers.length-1]:maleOthers[0]||null;
+              const femaleList=femaleOthers.length>1?femaleOthers.slice(0,-1).join(", ")+" and "+femaleOthers[femaleOthers.length-1]:femaleOthers[0]||null;
+              return (
+                <div style={{background:"rgba(123,63,168,0.12)",border:"1px solid rgba(123,63,168,0.35)",borderRadius:"14px",padding:"14px 16px",marginBottom:"20px",textAlign:"left"}}>
+                  <div style={{fontSize:"1.5rem",textAlign:"center",marginBottom:"6px"}}>🏆</div>
+                  <div style={{fontFamily:"Georgia,serif",fontSize:"13px",color:"#c084fc",fontWeight:"bold",marginBottom:"10px",textAlign:"center",letterSpacing:"0.05em"}}>
+                    Winner's Prizes
+                  </div>
+                  {maleList&&(
+                    <div style={{fontSize:"13px",color:"#a07080",lineHeight:1.7,marginBottom:"10px",paddingBottom:"10px",borderBottom:femaleList?"1px solid rgba(123,63,168,0.25)":"none"}}>
+                      <span style={{fontSize:"1.1rem"}}>🥃</span> <strong style={{color:"#e8cdd8"}}>{maleList}</strong> — leave the room and down a shot of whisky in honour of <strong style={{color:"#facc15"}}>{playerNames[winP]}</strong>! 🥃
+                    </div>
+                  )}
+                  {femaleList&&(
+                    <div style={{fontSize:"13px",color:"#a07080",lineHeight:1.7}}>
+                      <span style={{fontSize:"1.1rem"}}>🫦</span> <strong style={{color:"#f9a8d4"}}>{femaleList}</strong> — each of you must orally pleasure <strong style={{color:"#facc15"}}>{playerNames[winP]}</strong>, at the same time with him on all fours. Mouth, dick and ass need some loving! 🫦
+                    </div>
+                  )}
+                </div>
+              );
+            }
+          })()}
           <button onClick={onNewGame}
             style={{fontFamily:"Georgia,serif",fontSize:"15px",padding:"12px 28px",borderRadius:"50px",border:"none",cursor:"pointer",background:"linear-gradient(135deg,#7b3fa8,#c9446a)",color:"#fff",boxShadow:"0 4px 18px rgba(201,68,106,0.4)"}}>
             🎲 Play Again
