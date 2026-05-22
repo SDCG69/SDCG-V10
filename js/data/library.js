@@ -452,6 +452,8 @@ function renderInline(text) {
     .replace(/(\*|_)(.+?)\1/g, (_, __, t) => `<em>${t}</em>`)
     // Strikethrough (~~text~~)
     .replace(/~~(.+?)~~/g, (_, t) => `<s>${t}</s>`)
+    // Inline images ![alt](url) — rendered as full-width figures
+    .replace(/!\[([^\]]*)\]\(([^)]+)\)/g, (_, alt, src) => `<figure class="library-inline-image"><img src="${escapeLibraryHtml(src)}" alt="${escapeLibraryHtml(alt)}" loading="lazy" class="md-img"></figure>`)
     // Links [text](url)
     .replace(/\[([^\]]+)\]\(([^)]+)\)/g, (_, t, u) => `<a class="md-link" href="${escapeLibraryHtml(u)}" target="_blank" rel="noopener">${escapeLibraryHtml(t)}</a>`)
     // Highlight ==text==
