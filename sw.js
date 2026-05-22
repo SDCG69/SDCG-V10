@@ -1,4 +1,4 @@
-const CACHE = 'challenge-cards-v19';
+const CACHE = 'challenge-cards-v20';
 const ASSETS = [
   './index.html',
   './manifest.json',
@@ -22,6 +22,7 @@ const ASSETS = [
   './js/components/RolePlay.js',
   './js/components/NaughtyDice.js',
   './js/components/DareTrail.js',
+  './js/components/WeMatch.js',
   // Main app
   './js/app.js',
 ];
