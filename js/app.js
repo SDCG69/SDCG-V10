@@ -410,7 +410,7 @@ function App(){
             <div style={{display:"flex",alignItems:"center",gap:"8px",color:"#888",fontSize:"19px",fontWeight:"bold"}}>
               <span>💑</span><span>We Match? — Couples Quiz</span>
             </div>
-            <p style={{color:"#4a4a4a",fontSize:"12px",margin:"6px 0 0",lineHeight:"1.5",paddingLeft:"2px"}}>A playful compatibility quiz for two. Answer 25 intimate questions separately, then discover what you share.</p>
+            <p style={{color:"#4a4a4a",fontSize:"12px",margin:"6px 0 0",lineHeight:"1.5",paddingLeft:"2px"}}>A sexual preference compatibility quiz for two. Answer 36 intimate questions separately, then discover what you share.</p>
           </button>
         </div>
       )}
