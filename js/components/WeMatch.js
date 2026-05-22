@@ -56,7 +56,7 @@ const WM_QUESTIONS = [
   "Do you like to kiss your partners neck?",
    "Do you like to your partner to kiss your neck?",
   "Would you have your partner sit on your face as you give oral sex?",
-  "Would you sit on your face as you receive oral sex?",
+  "Would you sit on your partner's face as you receive oral sex?",
   "Would you be OK watching adult content (porno videos) together?",
   "Would you show your partner how you like something from a porno video?",
   "Would you consider making your own porno video?",
@@ -85,7 +85,7 @@ const WM_QUESTIONS = [
   "Would you be prepared to be shaved/waxed by your partner?",
   "Would you be prepared to be submissive for your partner?",
   "Would you be prepared to be dominant for your partner?",
-  "Would you be wear a ball-gag for your partner?",
+  "Would you wear a ball-gag for your partner?",
   "Would you be open to having your partner wear a ball-gag?",
   "Do you like exchanging flirty or explicit text messages?",
   "Do you like exchanging explicit images (Dick/Pussy Pics)?",
@@ -193,7 +193,7 @@ function WeMatchScreen({ onBack }) {
           animation:"wm-pulse 2.2s ease-in-out infinite"}}>♥ ♡ ♥</div>
         <style>{`@keyframes wm-pulse{0%,100%{transform:scale(1)}50%{transform:scale(1.09)}}`}</style>
         <p style={{color:"#6a3a50",fontSize:"13px",fontFamily:"Georgia,serif",fontStyle:"italic",lineHeight:1.6}}>
-          A playful compatibility quiz for two.<br/>Answer honestly — the results might surprise you!
+          A deep and intimate preferences, boundaries and compatibility quiz for two.<br/>Answer honestly — the results might surprise you!
         </p>
       </div>
 
