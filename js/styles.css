@@ -200,3 +200,35 @@
   margin-top: 6px;
 }
 
+/* ── Full-width image fitting for erotica / handbook rich text ── */
+.library-inline-image {
+  margin: 16px 0;
+  padding: 0;
+  width: 100%;
+}
+.library-inline-image img,
+.library-rich-text img,
+.md-img {
+  display: block;
+  width: 100%;
+  height: auto;
+  min-width: 100%;
+  border-radius: 10px;
+  border: 1px solid #2a2a2a;
+  object-fit: contain;
+}
+
+/* ── Full-width sex position images ── */
+.dt-pos-img {
+  display: block;
+  width: 100%;
+  height: auto;
+  min-width: 100%;
+  border-radius: 12px;
+  object-fit: contain;
+}
+video.dt-pos-img {
+  border-radius: 12px;
+  background: #050505;
+}
+

@@ -911,16 +911,13 @@ function App(){
               {isCouples?(
   <div style={{flex:1,display:"flex",alignItems:"center",justifyContent:"center",background:"#050505",position:"relative",minHeight:"260px"}}>
     {hasGif?(
-      <img key={gifUrl} src={gifUrl} alt={pos.n}
-        style={{maxWidth:"100%",maxHeight:"55vh",objectFit:"contain",display:"block"}}/>
+      <img key={gifUrl} src={gifUrl} alt={pos.n} className="dt-pos-img"/>
     ):hasVid?(
-      <video key={vidUrl} autoPlay loop muted playsInline onError={()=>setPosVidErr(true)}
-        style={{maxWidth:"100%",maxHeight:"55vh",objectFit:"contain",display:"block"}}>
+      <video key={vidUrl} autoPlay loop muted playsInline onError={()=>setPosVidErr(true)} className="dt-pos-img">
         <source src={vidUrl} type="video/mp4"/>
       </video>
     ):(
-      <img key={imgUrl} src={imgUrl} alt={pos.n}
-        style={{maxWidth:"100%",maxHeight:"55vh",objectFit:"contain",display:"block"}}/>
+      <img key={imgUrl} src={imgUrl} alt={pos.n} className="dt-pos-img"/>
     )}
     {hasGif&&(
       <div style={{position:"absolute",top:"10px",right:"10px",background:`${ac}cc`,borderRadius:"20px",padding:"3px 10px",fontSize:"11px",color:"#fff",fontWeight:"bold",letterSpacing:"1px"}}>GIF</div>
@@ -931,8 +928,7 @@ function App(){
   </div>
 ):pos.img?(
   <div style={{flex:1,display:"flex",alignItems:"center",justifyContent:"center",background:"#050505",minHeight:"260px"}}>
-    <img src={`${IMG}${pos.img}.png`} alt={pos.n}
-      style={{maxWidth:"100%",maxHeight:"55vh",objectFit:"contain",display:"block"}}/>
+    <img src={`${IMG}${pos.img}.png`} alt={pos.n} className="dt-pos-img"/>
   </div>
 ):(
   <div style={{display:"flex",alignItems:"center",justifyContent:"center",background:"#050505",minHeight:"120px",padding:"24px"}}>
@@ -1133,7 +1129,7 @@ function App(){
                 ):(
                   <p style={{color:"#aaa",fontSize:"14px",lineHeight:"1.75",margin:0}}>{sec.body}</p>
                 )}
-                {sec.img&&<img src={"media/img/"+sec.img} alt="" style={{width:"100%",maxHeight:"160px",objectFit:"cover",borderRadius:"10px",marginTop:"10px",border:"1px solid #2a2a2a"}}/>}
+                {sec.img&&<img src={"media/img/"+sec.img} alt="" className="dt-pos-img" style={{marginTop:"10px"}}/>}
               </div>
             ))}
           </div>
