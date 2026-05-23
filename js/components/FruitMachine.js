@@ -40,89 +40,131 @@ function injectFMStyles() {
     /* ── Reels row ── */
     .fm-reels-row {
       display:grid;
-      grid-template-columns:repeat(3,minmax(0,1fr));
-      gap:8px;
+      grid-template-columns:repeat(4,minmax(0,1fr));
+      gap:5px;
       margin-bottom:10px;
     }
     .fm-reel-label {
-      font-size:9px;
-      letter-spacing:.12em;
+      font-size:8px;
+      letter-spacing:.08em;
       text-transform:uppercase;
       color:#4a2040;
       text-align:center;
-      margin-bottom:5px;
+      margin-bottom:4px;
       font-family:Georgia,serif;
     }
     .fm-reel-outer {
       border:2px solid #3a1030;
-      border-radius:12px;
+      border-radius:10px;
       overflow:hidden;
       position:relative;
       background:#080408;
-      height:100px;
+      height:110px;
+      /* Realistic chrome-style inner shadow */
       box-shadow:
-        inset 0 6px 18px rgba(0,0,0,0.9),
-        inset 0 -6px 14px rgba(0,0,0,0.8),
-        inset 2px 0 8px rgba(0,0,0,0.6),
-        inset -2px 0 8px rgba(0,0,0,0.6),
-        0 0 0 1px rgba(201,68,106,.06);
+        inset 0 8px 20px rgba(0,0,0,0.95),
+        inset 0 -8px 16px rgba(0,0,0,0.9),
+        inset 3px 0 10px rgba(0,0,0,0.7),
+        inset -3px 0 10px rgba(0,0,0,0.7),
+        0 0 0 1px rgba(201,68,106,.1),
+        0 2px 8px rgba(0,0,0,0.6);
     }
-    /* Top fade */
+    /* Stronger top fade — deep shadow like a physical drum slot */
     .fm-reel-outer::before {
       content:'';
       position:absolute; left:0; right:0; top:0;
-      height:38px;
-      background:linear-gradient(to bottom,rgba(0,0,0,.95) 0%,rgba(0,0,0,.6) 40%,transparent 100%);
+      height:44px;
+      background:linear-gradient(to bottom,
+        rgba(0,0,0,1) 0%,
+        rgba(0,0,0,.85) 35%,
+        rgba(0,0,0,.4) 65%,
+        transparent 100%);
       z-index:4; pointer-events:none;
-      border-radius:10px 10px 0 0;
+      border-radius:8px 8px 0 0;
     }
-    /* Bottom fade */
+    /* Stronger bottom fade */
     .fm-reel-outer::after {
       content:'';
       position:absolute; left:0; right:0; bottom:0;
-      height:38px;
-      background:linear-gradient(to top,rgba(0,0,0,.95) 0%,rgba(0,0,0,.6) 40%,transparent 100%);
+      height:44px;
+      background:linear-gradient(to top,
+        rgba(0,0,0,1) 0%,
+        rgba(0,0,0,.85) 35%,
+        rgba(0,0,0,.4) 65%,
+        transparent 100%);
       z-index:4; pointer-events:none;
-      border-radius:0 0 10px 10px;
+      border-radius:0 0 8px 8px;
     }
     .fm-reel-window { position:absolute; inset:0; overflow:hidden; }
     .fm-reel-strip  { position:absolute; left:0; right:0; top:0; will-change:transform; }
 
-    /* Scanlines */
+    /* Scanlines — subtle CRT effect */
     .fm-scanlines {
       position:absolute; inset:0;
-      background:repeating-linear-gradient(0deg,transparent,transparent 3px,rgba(0,0,0,.07) 3px,rgba(0,0,0,.07) 4px);
+      background:repeating-linear-gradient(
+        0deg,
+        transparent,
+        transparent 2px,
+        rgba(0,0,0,.09) 2px,
+        rgba(0,0,0,.09) 3px
+      );
       pointer-events:none; z-index:6;
     }
-    /* Gold selection frame */
+    /* Left/right chrome edge highlights to simulate curved drum */
+    .fm-reel-chrome {
+      position:absolute; inset:0;
+      background:
+        linear-gradient(to right,
+          rgba(0,0,0,.55) 0%,
+          rgba(0,0,0,.1) 18%,
+          transparent 30%,
+          transparent 70%,
+          rgba(0,0,0,.1) 82%,
+          rgba(0,0,0,.55) 100%);
+      pointer-events:none; z-index:7;
+    }
+    /* Selection window — glowing crimson lines */
     .fm-crosshair {
       position:absolute; top:50%; left:0; right:0;
-      height:100px;
+      height:110px;
       transform:translateY(-50%);
-      border-top:1.5px solid rgba(201,68,106,.65);
-      border-bottom:1.5px solid rgba(201,68,106,.65);
-      box-shadow:0 -1px 0 rgba(201,68,106,.18),0 1px 0 rgba(201,68,106,.18);
+      border-top:2px solid rgba(201,68,106,.8);
+      border-bottom:2px solid rgba(201,68,106,.8);
+      box-shadow:
+        0 -2px 8px rgba(201,68,106,.35),
+        0  2px 8px rgba(201,68,106,.35),
+        inset 0 0 20px rgba(201,68,106,.05);
       pointer-events:none; z-index:5;
     }
-    /* Centre glow */
+    /* Warm centre glow */
     .fm-highlight {
       position:absolute; top:50%; left:0; right:0;
-      height:100px;
+      height:110px;
       transform:translateY(-50%);
-      background:linear-gradient(to bottom,transparent 0%,rgba(201,68,106,.04) 30%,rgba(201,68,106,.07) 50%,rgba(201,68,106,.04) 70%,transparent 100%);
+      background:linear-gradient(to bottom,
+        transparent 0%,
+        rgba(201,68,106,.05) 25%,
+        rgba(201,68,106,.10) 50%,
+        rgba(201,68,106,.05) 75%,
+        transparent 100%);
       pointer-events:none; z-index:3;
     }
 
-    /* Reel cells */
+    /* Reel cells — taller, bigger text */
     .fm-cell {
-      height:100px;
+      height:110px;
       display:flex; flex-direction:column;
       align-items:center; justify-content:center;
-      gap:4px; padding:6px 4px;
-      text-align:center; line-height:1.2;
+      gap:5px; padding:6px 3px;
+      text-align:center; line-height:1.25;
     }
-    .fm-cell-emoji { font-size:22px; line-height:1; }
-    .fm-cell-text  { font-size:9px; font-weight:600; letter-spacing:.04em; color:#7a4060; font-family:Georgia,serif; }
+    .fm-cell-emoji { font-size:24px; line-height:1; }
+    .fm-cell-text  {
+      font-size:11px; font-weight:700; letter-spacing:.02em;
+      color:#c9446a; font-family:Georgia,serif;
+      text-shadow:0 0 8px rgba(201,68,106,.3);
+      word-break:break-word; max-width:100%;
+    }
 
     /* ── Result display ── */
     .fm-result {
@@ -261,17 +303,17 @@ const FM_ACTIONS = {
     { emoji:"✋", text:"Firmly grab",       who:"any", recv:"any" },
     { emoji:"🌡️", text:"Tease",            who:"any", recv:"any" },
     { emoji:"🫀", text:"Slowly undress",    who:"any", recv:"any" },
-    { emoji:"👁️", text:"Blindfold &amp; touch", who:"any", recv:"any" },
+    { emoji:"👁️", text:"Blindfold and touch", who:"any", recv:"any" },
   ],
   naughty: [
     { emoji:"👅", text:"Perform oral on",   who:"any", recv:"any" },
     { emoji:"🤲", text:"Finger",            who:"any", recv:"f"   },
     { emoji:"🤲", text:"Stroke",            who:"any", recv:"m"   },
-    { emoji:"💋", text:"Deep kiss &amp; grind against", who:"any", recv:"any" },
-    { emoji:"🫦", text:"Suck &amp; bite",   who:"any", recv:"any" },
-    { emoji:"👋", text:"Spank &amp; grab",  who:"any", recv:"any" },
-    { emoji:"🌡️", text:"Edge &amp; tease", who:"any", recv:"any" },
-    { emoji:"🎀", text:"Tie up &amp; kiss all over", who:"any", recv:"any" },
+    { emoji:"💋", text:"Deep kiss and grind against", who:"any", recv:"any" },
+    { emoji:"🫦", text:"Suck and bite",   who:"any", recv:"any" },
+    { emoji:"👋", text:"Spank and grab",  who:"any", recv:"any" },
+    { emoji:"🌡️", text:"Edge and tease", who:"any", recv:"any" },
+    { emoji:"🎀", text:"Tie up and kiss all over", who:"any", recv:"any" },
     { emoji:"😈", text:"Dominate",          who:"any", recv:"any" },
     { emoji:"🔥", text:"Pleasure",          who:"any", recv:"any" },
   ],
@@ -329,7 +371,7 @@ const FM_DURATIONS = [
 
 // ── Helpers ───────────────────────────────────────────────────────────────────
 
-const FM_CELL_H = 100;
+const FM_CELL_H = 110;
 
 function fmBuildStrip(items, reps=8) {
   let arr = [];
@@ -341,22 +383,37 @@ function fmCellHTML(item) {
   return `<div class="fm-cell"><div class="fm-cell-emoji">${item.emoji}</div><div class="fm-cell-text">${item.text}</div></div>`;
 }
 
-function fmAnimateReel(stripEl, items, targetIdx, duration) {
+// Animate a reel: spins fast then decelerates, stopping at targetIdx
+// spinDuration = how long until it stops (ms)
+// The reel accelerates instantly then eases out — like a real slot drum
+function fmAnimateReel(stripEl, items, targetIdx, spinDuration) {
   return new Promise(resolve => {
-    const REPS = 8;
+    const REPS = 12;
     const repeated = fmBuildStrip(items, REPS);
     stripEl.innerHTML = repeated.map(fmCellHTML).join("");
     stripEl.style.transition = "none";
     stripEl.style.transform = "translateY(0)";
-    stripEl.getBoundingClientRect(); // force reflow
+    stripEl.getBoundingClientRect();
+
+    // Target: land on the correct item in the last repetition block
     const lastOccurrence = (REPS - 1) * items.length + targetIdx;
     const targetY = lastOccurrence * FM_CELL_H;
-    function easeOutQuart(t) { return 1 - Math.pow(1 - t, 4); }
+
+    // Blend: fast constant spin for most of duration, then decelerate hard
+    // easing: cubic ease-out over the final 40% of travel
+    function ease(t) {
+      // Linear until 0.6, then ease-out-quint the rest
+      if (t < 0.6) return t / 0.6 * 0.55;
+      const t2 = (t - 0.6) / 0.4;
+      return 0.55 + (1 - Math.pow(1 - t2, 5)) * 0.45;
+    }
+
     let startTime = null;
     function frame(ts) {
       if (!startTime) startTime = ts;
-      const progress = Math.min((ts - startTime) / duration, 1);
-      stripEl.style.transform = `translateY(${-easeOutQuart(progress) * targetY}px)`;
+      const progress = Math.min((ts - startTime) / spinDuration, 1);
+      const eased = ease(progress);
+      stripEl.style.transform = `translateY(${-eased * targetY}px)`;
       if (progress < 1) requestAnimationFrame(frame);
       else { stripEl.style.transform = `translateY(${-targetY}px)`; resolve(); }
     }
@@ -507,13 +564,15 @@ function FruitMachineGame({ players, onReset }) {
     const giverItems    = players.map((p,i) => ({ emoji:p.gender==="f"?"👩":"👨", text:p.name }));
     const receiverItems = players.map((p,i) => ({ emoji:p.gender==="f"?"👩":"👨", text:p.name }));
 
-    // Animate all four reels with staggered stops
-    await Promise.all([
-      fmAnimateReel(strip0Ref.current, giverItems,    giverIdx,   1600),
-      fmAnimateReel(strip1Ref.current, validActions,  actionIdx,  2200),
-      fmAnimateReel(strip2Ref.current, validParts,    partIdx,    2800),
-      fmAnimateReel(strip3Ref.current, receiverItems, receiverIdx,3400),
+    // Start all reels simultaneously but each stops 1s after the previous
+    // Reel 1 stops at 2s, Reel 2 at 3s, Reel 3 at 4s, Reel 4 at 5s
+    const allDone = Promise.all([
+      fmAnimateReel(strip0Ref.current, giverItems,    giverIdx,   2000),
+      fmAnimateReel(strip1Ref.current, validActions,  actionIdx,  3000),
+      fmAnimateReel(strip2Ref.current, validParts,    partIdx,    4000),
+      fmAnimateReel(strip3Ref.current, receiverItems, receiverIdx,5000),
     ]);
+    await allDone;
 
     // Build summary
     const sentence = `${giver.name} — ${action.text} ${receiver.name}'s ${part.text} ${duration}`;
@@ -568,6 +627,7 @@ function FruitMachineGame({ players, onReset }) {
                 <div className="fm-reel-window"><div className="fm-reel-strip" ref={ref}/></div>
                 <div className="fm-highlight"/>
                 <div className="fm-crosshair"/>
+                <div className="fm-reel-chrome"/>
                 <div className="fm-scanlines"/>
               </div>
             </div>
