@@ -410,7 +410,13 @@ function App(){
             <div style={{display:"flex",alignItems:"center",gap:"8px",color:"#888",fontSize:"19px",fontWeight:"bold"}}>
               <span>💑</span><span>We Match? — Couples Quiz</span>
             </div>
-            <p style={{color:"#4a4a4a",fontSize:"12px",margin:"6px 0 0",lineHeight:"1.5",paddingLeft:"2px"}}>A sexual preference quiz for two, exploring limits and boundaries. Answer 100 intimate questions separately, then discover what you share.</p>
+            <p style={{color:"#4a4a4a",fontSize:"12px",margin:"6px 0 0",lineHeight:"1.5",paddingLeft:"2px"}}>A playful compatibility quiz for two. Answer 25 intimate questions separately, then discover what you share.</p>
+          </button>
+          <button className="btn" onClick={()=>setScreen("fruitMachine")} style={{background:"#4A0404",border:"1px solid #252525",width:"100%",marginTop:"12px",padding:"14px 16px",display:"flex",flexDirection:"column",alignItems:"flex-start",textAlign:"left"}}>
+            <div style={{display:"flex",alignItems:"center",gap:"8px",color:"#888",fontSize:"19px",fontWeight:"bold"}}>
+              <span>🎰</span><span>Couples Fruit Machine</span>
+            </div>
+            <p style={{color:"#4a4a4a",fontSize:"12px",margin:"6px 0 0",lineHeight:"1.5",paddingLeft:"2px"}}>Spin the reels to reveal who does what to whom. Three intensity levels — Flirty, Spicy &amp; Naughty.</p>
           </button>
         </div>
       )}
@@ -1262,6 +1268,11 @@ function App(){
       {/* ══ WE MATCH? ══ */}
       {screen==="weMatch"&&(
         <WeMatchScreen onBack={()=>setScreen("setup")} />
+      )}
+
+      {/* ══ COUPLES FRUIT MACHINE ══ */}
+      {screen==="fruitMachine"&&(
+        <FruitMachineScreen onBack={()=>setScreen("setup")} />
       )}
 
       {/* ══ MEMORY GAME ══ */}
