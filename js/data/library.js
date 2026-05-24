@@ -28,6 +28,15 @@ const HANDBOOK_ITEMS = [
     "contentFile": "content/handbook/test.md",
     "sections": []
   },
+  {
+    "letter": "M",
+    "title": "Masturbation",
+    "img": "h03_orgasm.svg",
+    "sub1": "The complete guide to solo pleasure.",
+    "sub2": "Techniques for men, women and using toys.",
+    "contentFile": "content/handbook/Mast.md",
+    "sections": []
+  },
  {
     "letter": "O",
     "title": "Oral Sex - Anilingus",
