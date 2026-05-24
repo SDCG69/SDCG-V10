@@ -1,34 +1,127 @@
-// ── Naughty Dice Component ─────────────────────────────────────────────────
+// ══════════════════════════════════════════════════════════════════════════════
+// NAUGHTY DICE — README & EDIT GUIDE
+// ══════════════════════════════════════════════════════════════════════════════
+//
+// The dice work in three layers:
+//
+//   1. BODY_PARTS   — the pool of body parts shown on the purple die.
+//   2. ACTIONS      — the pool of actions shown on the crimson die.
+//   3. PAIRINGS     — the intelligence layer: maps each body-part key to the
+//                     subset of action keys that make sense for that body part.
+//
+// ── BODY_PARTS ────────────────────────────────────────────────────────────────
+//
+//   Each entry is an object:
+//     { key: "unique_id",  label: "Display Name",  emoji: "🔥" }
+//
+//   key   : a short internal identifier (no spaces). Used in PAIRINGS below.
+//   label : what appears on the die face and in the result summary.
+//   emoji : shown on the die face alongside the label.
+//
+//   Example — adding a new body part:
+//     { key: "ears",  label: "Ears",  emoji: "👂" }
+//
+// ── ACTIONS ───────────────────────────────────────────────────────────────────
+//
+//   Each entry is an object:
+//     { key: "unique_id",  label: "Display Name",  emoji: "💋" }
+//
+//   key   : a short internal identifier (no spaces). Used in PAIRINGS below.
+//   label : what appears on the die face and in the result summary.
+//   emoji : shown on the die face alongside the label.
+//
+//   Example — adding a new action:
+//     { key: "nibble",  label: "Nibble",  emoji: "😬" }
+//
+// ── PAIRINGS ──────────────────────────────────────────────────────────────────
+//
+//   This object maps every body-part key to an array of valid action keys.
+//   When the body-part die lands, ONLY the listed actions can be chosen for
+//   the action die result — the system picks randomly from that subset.
+//
+//   Format:
+//     bodyPartKey: [ "actionKey1", "actionKey2", ... ]
+//
+//   Rules:
+//   • Every key listed here MUST exist in BODY_PARTS (body parts) or
+//     ACTIONS (actions) — mismatches are silently ignored.
+//   • If a body-part key has NO entry in PAIRINGS, or the list is empty,
+//     the system falls back to the full ACTIONS pool (failsafe).
+//   • You can list as few or as many actions as you like per body part.
+//
+//   Example:
+//     ears: [ "kiss", "lick", "nibble" ]
+//     // → when "Ears" rolls, the action will be Kiss, Lick, or Nibble.
+//
+//   Adding a new body part + pairing in one step:
+//     1. Add { key:"ears", label:"Ears", emoji:"👂" } to BODY_PARTS.
+//     2. Add  ears: ["kiss","lick","nibble"]  to PAIRINGS.
+//     Done — the dice will use it automatically.
+//
+// ══════════════════════════════════════════════════════════════════════════════
+
+// ── Body Parts ────────────────────────────────────────────────────────────────
 
 const BODY_PARTS = [
-  { label: "Face",         emoji: "😘" },
-  { label: "Nipples",      emoji: "🍒" },
-  { label: "Butt",         emoji: "🍑" },
-  { label: "Ass",          emoji: "🔥" },
-  { label: "Dick/Pussy",   emoji: "🌶️" },
-  { label: "Toes",         emoji: "🦶" },
-  { label: "Neck",         emoji: "🦢" },
-  { label: "Breasts/Pecs", emoji: "💪" },
-  { label: "Thighs",       emoji: "🦵" },
-  { label: "Mouth",        emoji: "👄" },
+  { key: "face",     label: "Face",         emoji: "😘" },
+  { key: "nipples",  label: "Nipples",      emoji: "🍒" },
+  { key: "butt",     label: "Butt",         emoji: "🍑" },
+  { key: "ass",      label: "Ass",          emoji: "🔥" },
+  { key: "genitals", label: "Dick/Pussy",   emoji: "🌶️" },
+  { key: "toes",     label: "Toes",         emoji: "🦶" },
+  { key: "neck",     label: "Neck",         emoji: "🦢" },
+  { key: "breasts",  label: "Breasts/Pecs", emoji: "💪" },
+  { key: "thighs",   label: "Thighs",       emoji: "🦵" },
+  { key: "mouth",    label: "Mouth",        emoji: "👄" },
 ];
+
+// ── Actions ───────────────────────────────────────────────────────────────────
 
 const ACTIONS = [
-  { label: "Massage",    emoji: "💆" },
-  { label: "Kiss",       emoji: "💋" },
-  { label: "Lick",       emoji: "👅" },
-  { label: "Suck",       emoji: "😮" },
-  { label: "Stroke",     emoji: "✋" },
-  { label: "Fondle",     emoji: "🤲" },
-  { label: "Tickle",     emoji: "🤣" },
-  { label: "Spank/Slap", emoji: "👋" },
-  { label: "Squeeze",    emoji: "🫳" },
+  { key: "massage",  label: "Massage",    emoji: "💆" },
+  { key: "kiss",     label: "Kiss",       emoji: "💋" },
+  { key: "lick",     label: "Lick",       emoji: "👅" },
+  { key: "suck",     label: "Suck",       emoji: "😮" },
+  { key: "stroke",   label: "Stroke",     emoji: "✋" },
+  { key: "fondle",   label: "Fondle",     emoji: "🤲" },
+  { key: "tickle",   label: "Tickle",     emoji: "🤣" },
+  { key: "spank",    label: "Spank/Slap", emoji: "👋" },
+  { key: "squeeze",  label: "Squeeze",    emoji: "🫳" },
 ];
 
-const FACE_NAMES = ["front","back","right","left","top","bottom"];
+// ── Pairings ──────────────────────────────────────────────────────────────────
+// Maps each body-part key → array of valid action keys for that body part.
+// See README at top of file for full editing guide.
 
-// CSS injected once
+const PAIRINGS = {
+  face:     [ "kiss", "lick", "stroke", "fondle" ],
+  nipples:  [ "kiss", "lick", "suck", "fondle", "squeeze", "tickle" ],
+  butt:     [ "massage", "spank", "squeeze", "fondle", "kiss" ],
+  ass:      [ "kiss", "lick", "fondle", "spank", "squeeze" ],
+  genitals: [ "stroke", "fondle", "lick", "suck", "squeeze", "tickle" ],
+  toes:     [ "massage", "lick", "suck", "kiss", "tickle", "stroke" ],
+  neck:     [ "kiss", "lick", "stroke", "tickle", "fondle" ],
+  breasts:  [ "massage", "kiss", "lick", "fondle", "squeeze", "suck" ],
+  thighs:   [ "massage", "stroke", "squeeze", "kiss", "tickle", "fondle" ],
+  mouth:    [ "kiss", "lick", "suck", "fondle", "stroke" ],
+};
+
+// ── Lookup maps (built at load time — do not edit) ────────────────────────────
+
+const ACTION_MAP = Object.fromEntries(ACTIONS.map(a => [a.key, a]));
+
+function pickActionForBodyPart(bpKey) {
+  const validKeys = (PAIRINGS[bpKey] || []).filter(k => ACTION_MAP[k]);
+  const pool      = validKeys.length ? validKeys : ACTIONS.map(a => a.key); // failsafe
+  const chosen    = pool[Math.floor(Math.random() * pool.length)];
+  return ACTION_MAP[chosen];
+}
+
+// ── Supporting constants ──────────────────────────────────────────────────────
+
+const FACE_NAMES = ["front","back","right","left","top","bottom"];
 const ND_STYLE_ID = "naughty-dice-styles";
+
 function injectNDStyles() {
   if (document.getElementById(ND_STYLE_ID)) return;
   const s = document.createElement("style");
@@ -89,8 +182,9 @@ function injectNDStyles() {
   document.head.appendChild(s);
 }
 
+// ── NDCube component ──────────────────────────────────────────────────────────
+
 function NDCube({ dieRef, colorClass, faceRefs }) {
-  // colorClass = "bp" (purple) or "ac" (crimson)
   const faceBase = {
     position:"absolute", width:"110px", height:"110px",
     borderRadius:"16px", display:"flex", alignItems:"center",
@@ -98,9 +192,9 @@ function NDCube({ dieRef, colorClass, faceRefs }) {
     backfaceVisibility:"visible",
     border:"1px solid rgba(255,255,255,0.08)",
   };
-  const bpBg = "linear-gradient(145deg,#3a2060,#1e1040)";
-  const acBg = "linear-gradient(145deg,#601828,#2a0a10)";
-  const bg   = colorClass === "bp" ? bpBg : acBg;
+  const bpBg   = "linear-gradient(145deg,#3a2060,#1e1040)";
+  const acBg   = "linear-gradient(145deg,#601828,#2a0a10)";
+  const bg     = colorClass === "bp" ? bpBg : acBg;
   const shadow = "inset 0 1px 0 rgba(255,255,255,0.12),inset 0 -1px 0 rgba(0,0,0,0.4)";
 
   const faceTransforms = [
@@ -135,23 +229,23 @@ function NDCube({ dieRef, colorClass, faceRefs }) {
   );
 }
 
+// ── Main screen component ─────────────────────────────────────────────────────
+
 function NaughtyDiceScreen({ onBack }) {
-  const [phase, setPhase]       = useState("idle"); // idle | rolling | result
-  const [result, setResult]     = useState(null);   // { bp, ac }
+  const [phase,    setPhase]    = useState("idle");
+  const [result,   setResult]   = useState(null);
   const [sparkKey, setSparkKey] = useState(0);
 
   const die1Ref  = useRef(null);
   const die2Ref  = useRef(null);
-  const bp1Refs  = useRef([]);  // 6 face elements for die1
-  const bp2Refs  = useRef([]);  // 6 face elements for die2
+  const bp1Refs  = useRef([]);
+  const bp2Refs  = useRef([]);
   const sparkRef = useRef(null);
 
   useEffect(() => {
     injectNDStyles();
     window.scrollTo(0,0);
-    // Set initial face content
     populateFaces(false);
-    // Start float animations
     if (die1Ref.current) die1Ref.current.classList.add("nd-cube-float1");
     if (die2Ref.current) die2Ref.current.classList.add("nd-cube-float2");
   }, []);
@@ -178,19 +272,17 @@ function NaughtyDiceScreen({ onBack }) {
     setPhase("rolling");
     setResult(null);
 
+    // Pick body part first, then pick an action valid for that body part
     const bpIdx = Math.floor(Math.random() * BODY_PARTS.length);
-    const acIdx = Math.floor(Math.random() * ACTIONS.length);
     const bp    = BODY_PARTS[bpIdx];
-    const ac    = ACTIONS[acIdx];
+    const ac    = pickActionForBodyPart(bp.key);
 
-    // Reset faces with fresh content
     populateFaces(false);
 
     const d1 = die1Ref.current;
     const d2 = die2Ref.current;
     if (!d1 || !d2) return;
 
-    // Strip all anim classes, snap to default transform
     ["nd-cube-float1","nd-cube-float2","nd-cube-roll1","nd-cube-roll2","nd-cube-settle"].forEach(c => {
       d1.classList.remove(c); d2.classList.remove(c);
     });
@@ -198,16 +290,14 @@ function NaughtyDiceScreen({ onBack }) {
     d2.style.transition = "none";
     d1.style.transform  = "rotateX(-20deg) rotateY(30deg)";
     d2.style.transform  = "rotateX(15deg) rotateY(-20deg)";
-    void d1.offsetHeight; // reflow
+    void d1.offsetHeight;
 
-    // Launch roll animations
     d1.classList.add("nd-cube-roll1");
     d2.classList.add("nd-cube-roll2");
 
     launchSparkles(false);
 
     setTimeout(() => {
-      // Stop rolling — snap to face-forward
       d1.classList.remove("nd-cube-roll1");
       d2.classList.remove("nd-cube-roll2");
       d1.style.transition = "none";
@@ -215,7 +305,7 @@ function NaughtyDiceScreen({ onBack }) {
       d1.style.transform  = "rotateX(0deg) rotateY(0deg)";
       d2.style.transform  = "rotateX(0deg) rotateY(0deg)";
 
-      // Write winners onto front face
+      // Write winners onto front faces
       if (bp1Refs.current[0]) {
         bp1Refs.current[0].children[0].textContent = bp.emoji;
         bp1Refs.current[0].children[1].textContent = bp.label;
@@ -226,11 +316,9 @@ function NaughtyDiceScreen({ onBack }) {
         bp2Refs.current[0].children[1].textContent = ac.label;
         bp2Refs.current[0].style.visibility = "";
       }
-      // Hide non-front faces without overwriting face[0]
       bp1Refs.current.forEach((el, i) => { if (el && i !== 0) el.style.visibility = "hidden"; });
       bp2Refs.current.forEach((el, i) => { if (el && i !== 0) el.style.visibility = "hidden"; });
 
-      // Settle nudge
       void d1.offsetHeight;
       d1.classList.add("nd-cube-settle");
       d2.classList.add("nd-cube-settle");
@@ -249,12 +337,11 @@ function NaughtyDiceScreen({ onBack }) {
     if (!container) return;
     const colors = ["#c9446a","#7b3fa8","#d4a847","#e87a99","#a060d0","#fff"];
     const count  = burst ? 30 : 20;
-
     for (let i = 0; i < count; i++) {
       setTimeout(() => {
-        const sp   = document.createElement("div");
-        const x    = burst ? 50 : 20 + Math.random() * 60;
-        const y    = burst ? 55 : 20 + Math.random() * 60;
+        const sp    = document.createElement("div");
+        const x     = burst ? 50 : 20 + Math.random() * 60;
+        const y     = burst ? 55 : 20 + Math.random() * 60;
         const angle = burst ? (i / count) * Math.PI * 2 : 0;
         const dist  = burst ? 80 + Math.random() * 120 : 0;
         const dx    = burst ? Math.cos(angle) * dist : (Math.random()-0.5)*200;
@@ -279,10 +366,7 @@ function NaughtyDiceScreen({ onBack }) {
   return (
     <div style={{ animation:"fadeUp .35s ease", maxWidth:"540px", width:"100%", position:"relative" }}>
 
-      {/* Sparkle layer */}
-      <div ref={sparkRef} style={{
-        position:"fixed", inset:0, pointerEvents:"none", zIndex:999, overflow:"hidden"
-      }} />
+      <div ref={sparkRef} style={{ position:"fixed", inset:0, pointerEvents:"none", zIndex:999, overflow:"hidden" }} />
 
       {/* Header */}
       <div style={{ display:"flex", alignItems:"center", justifyContent:"space-between", marginBottom:"20px" }}>
@@ -292,9 +376,7 @@ function NaughtyDiceScreen({ onBack }) {
           fontFamily:"inherit", fontSize:"13px"
         }}>← Back</button>
         <div style={{ textAlign:"center" }}>
-          <div style={{ color:"#555", fontSize:"11px", letterSpacing:"2px", textTransform:"uppercase", marginBottom:"2px" }}>
-            Hot Extras
-          </div>
+          <div style={{ color:"#555", fontSize:"11px", letterSpacing:"2px", textTransform:"uppercase", marginBottom:"2px" }}>Hot Extras</div>
           <h2 style={{ color:"#e8cdd8", fontSize:"1.3rem", margin:0, fontFamily:"Georgia,serif", fontWeight:"normal" }}>
             Naughty <span style={{ color:"#c9446a", fontStyle:"italic" }}>Dice</span>
           </h2>
@@ -309,52 +391,44 @@ function NaughtyDiceScreen({ onBack }) {
         borderRadius:"24px", padding:"24px 20px",
         boxShadow:"0 20px 60px #8b000022, 0 4px 20px #000",
       }}>
-
-        {/* Tagline */}
         <p style={{
           textAlign:"center", color:"#6a3a50", fontFamily:"Georgia,serif",
           fontStyle:"italic", fontSize:"14px", letterSpacing:"0.08em", margin:"0 0 24px"
         }}>Roll the dice. Seal your fate.</p>
 
-        {/* ── Dice Arena ── */}
+        {/* Dice arena */}
         <div style={{
           display:"flex", gap:"clamp(20px,8vw,60px)", alignItems:"center",
           justifyContent:"center", padding:"12px 0 28px", position:"relative"
         }}>
-
-          {/* Die 2 — Action (crimson) — LEFT */}
+          {/* Action die — crimson — LEFT */}
           <div style={{ display:"flex", flexDirection:"column", alignItems:"center", gap:"12px" }}>
             <div style={{ width:"110px", height:"110px", perspective:"600px", position:"relative" }}>
               <NDCube dieRef={die2Ref} colorClass="ac" faceRefs={bp2Refs} />
             </div>
-            {/* glow */}
             <div className="nd-glow-pulse" style={{
               width:"80px", height:"20px", borderRadius:"50%",
               background:"rgba(201,68,106,0.6)", filter:"blur(10px)",
-              transform:"translateX(0)",
             }} />
             <span style={{ fontSize:"10px", textTransform:"uppercase", letterSpacing:"0.2em", color:"#6a3040", fontWeight:600 }}>Action</span>
           </div>
 
-          {/* Divider ✦ */}
           <span style={{ color:"#3a1a38", fontSize:"22px", marginTop:"-20px", flexShrink:0 }}>✦</span>
 
-          {/* Die 1 — Body Part (purple) — RIGHT */}
+          {/* Body Part die — purple — RIGHT */}
           <div style={{ display:"flex", flexDirection:"column", alignItems:"center", gap:"12px" }}>
             <div style={{ width:"110px", height:"110px", perspective:"600px", position:"relative" }}>
               <NDCube dieRef={die1Ref} colorClass="bp" faceRefs={bp1Refs} />
             </div>
-            {/* glow */}
             <div className="nd-glow-pulse" style={{
               width:"80px", height:"20px", borderRadius:"50%",
               background:"rgba(123,63,168,0.6)", filter:"blur(10px)",
-              transform:"translateX(0)",
             }} />
             <span style={{ fontSize:"10px", textTransform:"uppercase", letterSpacing:"0.2em", color:"#6a4070", fontWeight:600 }}>Body Part</span>
           </div>
         </div>
 
-        {/* ── Result Panel ── */}
+        {/* Result panel */}
         <div style={{
           background: result
             ? "linear-gradient(135deg,rgba(42,24,60,0.85),rgba(58,26,34,0.85))"
@@ -367,7 +441,6 @@ function NaughtyDiceScreen({ onBack }) {
           marginBottom:"24px", position:"relative", overflow:"hidden",
           transition:"background 0.5s",
         }}>
-          {/* inner glow when revealed */}
           {result && (
             <div style={{
               position:"absolute", inset:0, borderRadius:"16px",
@@ -394,7 +467,7 @@ function NaughtyDiceScreen({ onBack }) {
           )}
         </div>
 
-        {/* ── Roll Button ── */}
+        {/* Roll button */}
         <button
           disabled={rolling}
           onClick={handleRoll}
@@ -411,7 +484,6 @@ function NaughtyDiceScreen({ onBack }) {
             transition:"all 0.2s", opacity: rolling ? 0.7 : 1,
             position:"relative", overflow:"hidden",
           }}>
-          {/* shine strip */}
           {!rolling && (
             <span style={{
               position:"absolute", inset:0, borderRadius:"inherit",
@@ -421,7 +493,6 @@ function NaughtyDiceScreen({ onBack }) {
           )}
           {rolling ? "✨  Rolling…" : result ? "🎲  Roll Again" : "🎲  Roll the Dice"}
         </button>
-
       </div>
 
       <button className="btn" onClick={onBack} style={{
