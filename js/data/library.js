@@ -94,7 +94,7 @@ const HANDBOOK_ITEMS = [
   {
     "letter": "E",
     "title": "Erogenous Zones",
-    "img": "h03_orgasm.svg",
+    "img": "h_erogenous_zones.svg",
     "sub1": "Guide to our Erogenous Zones.",
     "sub2": "All erogenous zones on our bodies.",
     "contentFile": "content/handbook/erogenous-zones.md",
@@ -103,7 +103,7 @@ const HANDBOOK_ITEMS = [
 	{
     "letter": "K",
     "title": "Kinks and Fetishes",
-    "img": "h03_orgasm.svg",
+    "img": "h_kinks_fetishes.svg",
     "sub1": "Guide to Kinks and Fetishes.",
     "sub2": "Understanding what are fetishes and kinks.",
     "contentFile": "content/handbook/kinks-fetishes.md",
@@ -112,7 +112,7 @@ const HANDBOOK_ITEMS = [
 	{
     "letter": "T",
     "title": "Three or more",
-    "img": "h03_orgasm.svg",
+    "img": "h_threesomes.svg",
     "sub1": "Guide to threesomes or more.",
     "sub2": "Understanding how to introduce another lover to the mix.",
     "contentFile": "content/handbook/threesomes.md",
@@ -121,7 +121,7 @@ const HANDBOOK_ITEMS = [
 	{
     "letter": "B",
     "title": "BDSM - Beginners Guides",
-    "img": "h03_orgasm.svg",
+    "img": "h_bdsm.svg",
     "sub1": "Introduction to BDSM.",
     "sub2": "What is BSDM. A beginners guide.",
     "contentFile": "content/handbook/bdsm-beginners.md",
@@ -130,7 +130,7 @@ const HANDBOOK_ITEMS = [
 	{
     "letter": "B",
     "title": "BDSM - Advanced Hints and Tips",
-    "img": "h03_orgasm.svg",
+    "img": "h_bdsm.svg",
     "sub1": "Further exploration to BDSM.",
     "sub2": "BDSM hint and tips for deeper BDSM.",
     "contentFile": "content/handbook/bdsm-advanced.md",
