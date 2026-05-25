@@ -31,7 +31,7 @@ const HANDBOOK_ITEMS = [
   {
     "letter": "M",
     "title": "Masturbation",
-    "img": "h00_masturbation.svg",
+    "img": "h09_masturbation.svg",
     "sub1": "The complete guide to solo pleasure.",
     "sub2": "Techniques for men, women and using toys.",
     "contentFile": "content/handbook/Mast.md",
