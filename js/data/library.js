@@ -115,7 +115,7 @@ const HANDBOOK_ITEMS = [
     "img": "h03_orgasm.svg",
     "sub1": "Guide to threesomes or more.",
     "sub2": "Understanding how to introduce another lover to the mix.",
-    "contentFile": "content/handbook/kinks-fetishes.md",
+    "contentFile": "content/handbook/threesomes.md",
     "sections": []
   },
 	{
