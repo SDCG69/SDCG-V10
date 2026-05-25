@@ -31,7 +31,7 @@ const HANDBOOK_ITEMS = [
   {
     "letter": "M",
     "title": "Masturbation",
-    "img": "h03_orgasm.svg",
+    "img": "h00_masturbation.svg",
     "sub1": "The complete guide to solo pleasure.",
     "sub2": "Techniques for men, women and using toys.",
     "contentFile": "content/handbook/Mast.md",
@@ -73,13 +73,67 @@ const HANDBOOK_ITEMS = [
     "contentFile": "content/handbook/orgasmtypes.md",
     "sections": []
   },
-	{
+  {
     "letter": "R",
     "title": "Role-Play",
-    "img": "h03_orgasm.svg",
+    "img": "h10_role_play.svg",
     "sub1": "The complete guide to role-play for adventurous couples.",
-    "sub2": "Role-play know-how..",
+    "sub2": "Role-play know-how.",
     "contentFile": "content/handbook/role-play.md",
+    "sections": []
+  },
+  {
+    "letter": "M",
+    "title": "Massage",
+    "img": "h08_massage.svg",
+    "sub1": "Guide to sensual massage.",
+    "sub2": "Treat you lover to a sensual massage.",
+    "contentFile": "content/handbook/sensual-massage.md",
+    "sections": []
+  },
+  {
+    "letter": "E",
+    "title": "Erogenous Zones",
+    "img": "h03_orgasm.svg",
+    "sub1": "Guide to our Erogenous Zones.",
+    "sub2": "All erogenous zones on our bodies.",
+    "contentFile": "content/handbook/erogenous-zones.md",
+    "sections": []
+  },
+	{
+    "letter": "K",
+    "title": "Kinks and Fetishes",
+    "img": "h03_orgasm.svg",
+    "sub1": "Guide to Kinks and Fetishes.",
+    "sub2": "Understanding what are fetishes and kinks.",
+    "contentFile": "content/handbook/kinks-fetishes.md",
+    "sections": []
+  },
+	{
+    "letter": "T",
+    "title": "Three or more",
+    "img": "h03_orgasm.svg",
+    "sub1": "Guide to threesomes or more.",
+    "sub2": "Understanding how to introduce another lover to the mix.",
+    "contentFile": "content/handbook/kinks-fetishes.md",
+    "sections": []
+  },
+	{
+    "letter": "B",
+    "title": "BDSM - Beginners Guides",
+    "img": "h03_orgasm.svg",
+    "sub1": "Introduction to BDSM.",
+    "sub2": "What is BSDM. A beginners guide.",
+    "contentFile": "content/handbook/bdsm-beginners.md",
+    "sections": []
+  },
+	{
+    "letter": "B",
+    "title": "BDSM - Advanced Hints and Tips",
+    "img": "h03_orgasm.svg",
+    "sub1": "Further exploration to BDSM.",
+    "sub2": "BDSM hint and tips for deeper BDSM.",
+    "contentFile": "content/handbook/bdsm-advanced.md",
     "sections": []
   },
 ];
