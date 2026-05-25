@@ -73,6 +73,15 @@ const HANDBOOK_ITEMS = [
     "contentFile": "content/handbook/orgasmtypes.md",
     "sections": []
   },
+	{
+    "letter": "R",
+    "title": "Role-Play",
+    "img": "h03_orgasm.svg",
+    "sub1": "The complete guide to role-play for adventurous couples.",
+    "sub2": "Role-play know-how..",
+    "contentFile": "content/handbook/role-play.md",
+    "sections": []
+  },
 ];
 
 // ── Erotica Fiction ─────────────────────────────────────────────────────────
