@@ -100,6 +100,15 @@ const HANDBOOK_ITEMS = [
     "contentFile": "content/handbook/erogenous-zones.md",
     "sections": []
   },
+	 {
+    "letter": "E",
+    "title": "Erotica and Porn",
+    "img": "h_erotica_porn.svg",
+    "sub1": "A couples guide to erotica and porn.",
+    "sub2": "Learn the benefit and recommendation for each.",
+    "contentFile": "content/handbook/erotica-pornography.md",
+    "sections": []
+  },
 	{
     "letter": "K",
     "title": "Kinks and Fetishes",
@@ -111,7 +120,7 @@ const HANDBOOK_ITEMS = [
   },
 	{
     "letter": "T",
-    "title": "Three or more",
+    "title": "Threesomes",
     "img": "h_threesomes.svg",
     "sub1": "Guide to threesomes or more.",
     "sub2": "Understanding how to introduce another lover to the mix.",
