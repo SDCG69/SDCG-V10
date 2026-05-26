@@ -30,6 +30,8 @@ Choose a word that would never come up naturally during sex — "pineapple," "um
 
 Dominants should also use safe words. A scene can become too much for either person, for entirely different reasons.
 
+[image src="media/img/bdsm-b3.jpg" alt="BDSM for Beginners"]
+
 ### Negotiation — Before the Scene
 
 Negotiation is the conversation that happens before play begins. It covers:
@@ -41,7 +43,6 @@ Negotiation is the conversation that happens before play begins. It covers:
 
 A useful tool for beginners is a "yes/no/maybe" list — a written inventory of acts you're enthusiastic about, opposed to, or curious about but uncertain. Going through one together is genuinely illuminating and removes the pressure of having to voice every curiosity aloud in the moment.
 
-[image src="media/img/bdsm-b3.jpg" alt="BDSM for Beginners"]
 
 ## Roles
 
@@ -99,6 +100,8 @@ BDSM can produce intense physical and emotional states. The come-down from these
 Discuss what aftercare looks like before the scene begins. For most people it involves some combination of: physical closeness, warm drinks, blankets, gentle conversation or complete silence, and reassurance. Some people need to talk about what just happened immediately; others need quiet and proximity. Neither is wrong.
 
 Dominants need aftercare too. Holding significant responsibility for another person's safety and pleasure during an intense scene is emotionally demanding, and the drop affects tops as well as bottoms.
+
+[image src="media/img/bdsm-b5.jpg" alt="BDSM for Beginners"]
 
 ## A Note on Trust
 
