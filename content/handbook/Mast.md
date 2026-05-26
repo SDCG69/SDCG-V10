@@ -146,7 +146,7 @@ Vibrators deliver consistent, precise stimulation at intensities the hand cannot
 
 **Wand vibrators** are large, powerful and produce deep, rumbly vibration rather than the buzzy surface sensation of smaller toys. Particularly effective for women who need sustained, broad stimulation to reach orgasm, they can also be used by men — pressed against the frenulum, perineum or scrotum, the effect is significant.
 
-[image src="media/img/mast-wvibe.jpg" alt="Masturbation"]
+[image src="media/img/mast-wvibe.jpeg" alt="Masturbation"]
 
 As Annabelle Knight advises: "If you are a beginner, the world of sex toys can be fairly daunting. Start small both in size and intensity, and work your way up if you want to find the one for you."
 
