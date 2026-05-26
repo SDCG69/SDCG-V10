@@ -21,8 +21,6 @@ This guide covers everything you need to know:
 
 ## 1. Why Lube Matters
 
-[image src=“media/img/lube-why.jpg” alt=“Why Lube Matters”]
-
 Natural vaginal lubrication is not a reliable indicator of arousal, desire, or attraction. It is a physiological process influenced by a huge range of factors — many of which have nothing to do with how turned on someone is. Menstrual cycle phase, contraceptive pills and hormonal coils, antidepressants and antihistamines, breastfeeding, perimenopause and menopause, dehydration, stress, and even alcohol can all reduce natural lubrication significantly.
 
 For anal sex and play, lube is not optional — it is essential. The anus produces no natural lubrication of its own, and without adequate lube, friction causes microtears in tissue that are painful and that create infection risk.
@@ -181,7 +179,7 @@ This is the most important practical section of this guide. Using the wrong lube
 
 ## 8. How to Use Lube Well
 
-[image src=“media/img/lube-howto.jpg” alt=“How to Use Lube”]
+[image src=“media/img/lube-why.jpg” alt=“Why Lube Matters”]
 
 **Use more than you think you need.** The most common mistake is using too little. Lube should feel genuinely slippery. A few drops is rarely enough.
 
