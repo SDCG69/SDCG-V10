@@ -1,6 +1,6 @@
 ## Deep Throating
 
-[image src=“media/img/dt-header.jpg” alt=“Deep Throating”]
+[image src=“media/gif/or-fel-lesson7.gif” alt=“Deep Throating”]
 
 Deep throating — taking a partner’s penis all the way to the back of the throat — is one of the most intensely pleasurable things you can do for a man during oral sex. For him, the sensation of full-length, warm, wet pressure is unlike anything else. For you, mastering it is genuinely achievable with patience, practice, and the right technique.
 
@@ -25,6 +25,8 @@ To deep throat comfortably, you need to understand what you’re working with on
 Your oral cavity (from lips to the back of your mouth) is roughly 3–3.5 inches deep. The throat (pharynx) continues beyond that. The gag reflex is triggered by the soft palate and the back wall of your throat — both of which you’ll be working to desensitise.
 
 The key is the **angle**. Your throat curves slightly. When your head is tilted back and your neck is extended, the curve straightens, creating something much closer to a clear passage. This is why positioning is everything.
+
+[image src=“media/gif/dt850.gif” alt=“Deep Throating”]
 
 ### His Anatomy
 
@@ -64,11 +66,12 @@ There are throat-numbing sprays and lozenges marketed specifically for this purp
 
 Positioning is arguably more important than any technique. The right position straightens the throat, reduces the gag trigger, and makes the whole thing dramatically easier.
 
-[image src=“media/img/dt-position.jpg” alt=“Deep Throating Positions”]
 
 ### Position 1: Head Over the Edge (Best for Beginners)
 
 Lie on your back on a bed with your head hanging back over the edge. Your partner stands in front of you. In this position your throat is almost perfectly straight. Gravity works in your favour. You have full control over depth via your hands on his thighs.
+
+[image src=“media/img/dt-position.jpg” alt=“Deep Throating Positions”]
 
 This is the most commonly recommended starting position for learning deep throat because it requires the least gag-resistance of any position.
 
@@ -85,8 +88,6 @@ In a 69 position, with your partner on top, gravity naturally encourages depth. 
 ## 4. Technique
 
 Once your gag reflex is under better control and you’ve sorted your positioning, here is how to actually do it.
-
-[image src=“media/img/dt-technique.jpg” alt=“Deep Throating Technique”]
 
 **1. Build up slowly.** Don’t attempt full depth on the first stroke. Use your hand as a limiter wrapped around his shaft, and gradually — over multiple visits — move your hand further down.
 
