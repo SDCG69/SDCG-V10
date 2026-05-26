@@ -182,25 +182,8 @@
 .library-rich-text sub { bottom: -0.25em; }
 
 /* ── Images ─────────────────────────────────────────────────────────────── */
-.library-inline-image {
-  margin: 16px 0;
-}
-.library-inline-image img {
-  width: 100%;
-  max-height: 220px;
-  object-fit: cover;
-  border-radius: 10px;
-  border: 1px solid #2a2a2a;
-  display: block;
-}
-.library-inline-image figcaption {
-  color: #777;
-  font-size: 12px;
-  line-height: 1.4;
-  margin-top: 6px;
-}
-
-/* ── Full-width image fitting for erotica / handbook rich text ── */
+/* ── Inline images rendered from [image] tags and ![alt](url) markdown ── */
+/* Supports .jpg, .png, and .gif (including animated) */
 .library-inline-image {
   margin: 16px 0;
   padding: 0;
@@ -212,10 +195,15 @@
   display: block;
   width: 100%;
   height: auto;
-  min-width: 100%;
   border-radius: 10px;
   border: 1px solid #2a2a2a;
   object-fit: contain;
+}
+.library-inline-image figcaption {
+  color: #777;
+  font-size: 12px;
+  line-height: 1.4;
+  margin-top: 6px;
 }
 
 /* ── Full-width sex position images ── */
