@@ -4,6 +4,8 @@ Masturbation is the act of sexually stimulating yourself — your own body, your
 
 Call it solo play, self-pleasure, getting yourself off — whatever the name, masturbation is the original sex education. It is where you learn what you like, how you like it, and just how good your own body can make you feel. And that knowledge makes everything else better.
 
+[image src="media/img/mast-w.jpeg" alt="Masturbation"]
+
 ## Why Masturbate?
 
 The benefits go well beyond the obvious. Regular masturbation reduces stress and anxiety, improves sleep, boosts mood, strengthens pelvic floor muscles and deepens your understanding of your own sexual response. It releases a cocktail of feel-good hormones — dopamine, endorphins, oxytocin — that leave you glowing long after the moment has passed.
@@ -23,6 +25,8 @@ There is no correct frequency. Some people do it daily, some weekly, some rarely
 Female masturbation is often treated as somehow more complex than male masturbation. It is not. It does, however, benefit enormously from time, patience and a willingness to explore without any particular goal in mind. Orgasm is wonderful, but it is not the only measure of a worthwhile session.
 
 Set the mood first. Consider turning down the lights, lighting candles or listening to relaxing music. Take a bath or shower beforehand — warmth increases blood flow to the genitals and makes the body more responsive. Leave all self-judgment at the door. As sex expert Annabelle Knight advises: "This is your safe space."
+
+[image src="media/img/mast-w2.jpeg" alt="Masturbation"]
 
 A few things to have to hand before you start:
 
@@ -46,6 +50,8 @@ Kate Moyle recommends experimenting with these finger positions:
 - **Rubbing to the right or left of the clitoris** — rather than directly on it, stimulating the sides of the shaft.
 - **Large figure-eight circles across the entire area** — moving across the clitoris, the inner lips and the vaginal opening in one fluid motion.
 
+[image src="media/img/mast-w3.jpeg" alt="Masturbation"]
+
 Other effective approaches:
 
 - **Start soft and slow.** A little teasing ramps up pleasure significantly. Begin masturbating, stop for a few seconds, then return. Repeat as necessary — a technique called stop-and-start, which builds arousal dramatically.
@@ -59,6 +65,8 @@ Other effective approaches:
 Vaginal penetration, whether with fingers or a toy, stimulates a different set of nerve endings from external clitoral play. The front wall of the vagina — roughly 5–7cm in, on the side facing the belly button — contains an area of spongy, textured tissue that, when stimulated in the right state of arousal, produces a deep, full sensation. This is the G-spot.
 
 G-spot stimulation works best with a curved, come-hither motion rather than simple in-and-out movement. The pressure needed is often more than women expect. If it feels like you need to urinate, that usually means you are in the right area — relaxing into it rather than pulling back often leads somewhere remarkable.
+
+[image src="media/img/mast-wtoy.jpeg" alt="Masturbation"]
 
 **Positions worth trying for internal stimulation:**
 
@@ -89,6 +97,8 @@ Female ejaculation — commonly called squirting — is the release of fluid fro
 ### Getting Comfortable
 
 Find somewhere private, comfortable and free from interruption. Set the mood if it helps. Masturbation does not have to be a rushed, functional act. Give yourself permission to slow it down — men who rush to climax repeatedly can, over time, find it affects their endurance. Set aside proper time and allow yourself to explore.
+
+[image src="media/img/mast-m.jpeg" alt="Masturbation"]
 
 ### The Basics
 
@@ -136,6 +146,8 @@ Vibrators deliver consistent, precise stimulation at intensities the hand cannot
 
 **Wand vibrators** are large, powerful and produce deep, rumbly vibration rather than the buzzy surface sensation of smaller toys. Particularly effective for women who need sustained, broad stimulation to reach orgasm, they can also be used by men — pressed against the frenulum, perineum or scrotum, the effect is significant.
 
+[image src="media/img/mast-wvibe.jpg" alt="Masturbation"]
+
 As Annabelle Knight advises: "If you are a beginner, the world of sex toys can be fairly daunting. Start small both in size and intensity, and work your way up if you want to find the one for you."
 
 **App-controlled vibrators** can be operated remotely via a smartphone — including by a partner in another room or another country. They add an element of surprise and surrender that makes even familiar stimulation feel entirely new.
@@ -151,6 +163,8 @@ Purpose-designed for internal anal use, prostate massagers are curved to reach a
 ### Masturbators and Strokers
 
 Designed for people with penises, masturbators are soft, textured sleeves that simulate the sensation of vaginal, oral or anal sex. High-quality versions use medical-grade silicone or a proprietary soft compound and feature internal textures — ribs, nubs, channels — that provide sensation entirely unlike manual stimulation. Use a generous amount of water-based lubricant inside the sleeve. Some advanced models incorporate sonic wave technology and app connectivity to create a fully customised experience.
+
+[image src="media/img/mast-fl.jpeg" alt="Masturbation"]
 
 ### Cock Rings
 
@@ -176,6 +190,12 @@ Solo pleasure and partnered sex are not competitors. They are different expressi
 
 If you feel comfortable doing so, masturbating in front of your partner — or watching them — is one of the most revealing forms of intimacy. You learn exactly how they touch themselves, what pressure they use, what rhythm they prefer. It is a shortcut to becoming a better lover, and it strips away pretence in a way that nothing else quite manages.
 
+[image src="media/img/mast-m2.jpeg" alt="Masturbation"]
+
 Mutual masturbation — touching yourselves simultaneously or touching each other — removes performance pressure, allows for connection without penetration and can be deeply satisfying in its own right.
 
+[image src="media/img/mast-mut.jpeg" alt="Masturbation"]
+
 The key is honest, ongoing communication. What feels good. What you are curious about. What you would like more of. Pleasure, solo or shared, grows in proportion to how openly it is discussed.
+
+[image src="media/img/mast-mut2.jpeg" alt="Masturbation"]
