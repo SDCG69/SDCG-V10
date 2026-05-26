@@ -401,7 +401,8 @@ function renderMarkdown(text) {
   text = text.replace(
     /\[image\s+([^\]]+)\]/gi,
     (_, attrs) => {
-      const get = (k) => { const m = attrs.match(new RegExp(`${k}="([^"]*)"`)); return m ? m[1] : ""; };
+      // Accept straight quotes (") or curly/smart quotes (\u201C \u201D) around attribute values
+      const get = (k) => { const m = attrs.match(new RegExp(k + "=[\"\\u201C]([^\"\\u201D]*)[\"\\u201D]")); return m ? m[1] : ""; };
       const src = get("src"), alt = get("alt"), cap = get("caption");
       return `<figure class="library-inline-image"><img src="${escapeLibraryHtml(src)}" alt="${escapeLibraryHtml(alt)}" loading="lazy">${cap ? `<figcaption>${escapeLibraryHtml(cap)}</figcaption>` : ""}</figure>`;
     }
