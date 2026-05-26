@@ -1,6 +1,6 @@
 ## Sex Toys — The Complete Guide
 
-[image src=“media/img/toys-header.jpg” alt=“Sex Toys Guide”]
+[image src=“media/img/toys-header.png” alt=“Sex Toys Guide”]
 
 The sex toy market has transformed over the last decade. What was once a poorly-lit corner of a joke shop is now a multi-billion pound industry producing beautifully designed, body-safe, technologically sophisticated products that genuinely enhance sex lives. If you haven’t explored it recently — or ever — this guide will walk you through everything worth knowing.
 
@@ -28,7 +28,7 @@ The classic vibrator is the bestselling sex toy of all time, and for good reason
 
 **Tips:** Rumble vibrations (lower frequency, more penetrating) tend to be more effective for orgasm than buzzy surface vibrations. Higher-quality motors generally produce more satisfying rumble.
 
-[image src=“media/img/toys-vib.jpg” alt=“Classic Vibrators”]
+[image src=“content/memory/toy_01.png” alt=“Sex Toys Guide”]
 
 |Retailer   |Product                                      |Link                                                     |
 |-----------|---------------------------------------------|---------------------------------------------------------|
@@ -46,7 +46,7 @@ Wand massagers are large, powerful vibrators with a rounded head. Originally des
 
 **Tips:** Wands are powerful — start on the lowest setting. Use through clothing or a pillow to reduce intensity if direct contact is too much.
 
-[image src=“media/img/toys-wand.jpg” alt=“Wand Massagers”]
+[image src=“content/memory/toy_07.png” alt=“Sex Toys Guide”]
 
 |Retailer   |Product                  |Link                                                   |
 |-----------|-------------------------|-------------------------------------------------------|
@@ -64,7 +64,7 @@ The rabbit vibrator has dual stimulation built in: an internal shaft for vaginal
 
 **Tips:** Fit is everything with rabbit vibrators — the distance between the shaft and clitoral arm varies between models and bodies. Read reviews or look for adjustable designs. Many people find that using one hand to hold the clitoral arm in position significantly improves results.
 
-[image src=“media/img/toys-rabbit.jpg” alt=“Rabbit Vibrators”]
+[image src=“content/memory/toy_15.png” alt=“Sex Toys Guide”]
 
 |Retailer   |Product                                       |Link                                                     |
 |-----------|----------------------------------------------|---------------------------------------------------------|
@@ -82,7 +82,7 @@ Clitoral suction toys are the category that changed the industry. Rather than vi
 
 **Tips:** The seal is important — position the device so the opening completely surrounds the clitoris. Some people find these too intense even on the lowest setting; start gently.
 
-[image src=“media/img/toys-suction.jpg” alt=“Clitoral Suction Toys”]
+[image src=“content/memory/toy_06.png” alt=“Sex Toys Guide”]
 
 |Retailer   |Product                              |Link                                                       |
 |-----------|-------------------------------------|-----------------------------------------------------------|
@@ -118,7 +118,7 @@ Masturbators — also called strokers or pocket pussies — are sleeve-like devi
 
 **Tips:** Use with plenty of water-based lube. Clean thoroughly after every use — warm water, toy cleaner, and allow to dry completely before storing. A Fleshlight Shower Mount allows hands-free use.
 
-[image src=“media/img/toys-stroker.jpg” alt=“Male Masturbators”]
+[image src=“media/img/mast-fl.jpeg” alt=“Male Masturbators”]
 
 |Retailer   |Product                             |Link                                                            |
 |-----------|------------------------------------|----------------------------------------------------------------|
@@ -186,7 +186,7 @@ Wearable vibrators are designed to be worn by one partner during partnered sex, 
 
 **Best for:** Couples who want simultaneous stimulation during penetrative sex, those who find penetrative sex alone insufficient for orgasm.
 
-[image src=“media/img/toys-couples.jpg” alt=“Couples Toys”]
+[image src=“content/memory/toy_03.png” alt=“Sex Toys Guide”]
 
 |Retailer   |Product                        |Link                                           |
 |-----------|-------------------------------|-----------------------------------------------|
@@ -226,7 +226,7 @@ Dual-ended vibrators and couples’ massagers come in many designs — some desi
 
 Remote-controlled and app-connected toys add a layer of play that simple toys cannot — distance, unpredictability, and control dynamics.
 
-[image src=“media/img/toys-remote.jpg” alt=“Remote Control Toys”]
+[image src=“content/memory/toy_13.png” alt=“Sex Toys Guide”]
 
 ### Remote Controlled Vibrators
 
@@ -264,13 +264,15 @@ Anal play is one of the most popular categories in the industry — and one of t
 
 **Key rule for all anal toys:** Every toy intended for anal use must have a flared base or retrieval cord. The rectum can draw objects inward, and a toy without a flared base can become lodged internally — a medical emergency. Never use a toy anally that does not have a flared base.
 
-[image src=“media/img/toys-anal.jpg” alt=“Anal Toys”]
+[image src=“content/memory/toy_14.png” alt=“Sex Toys Guide”]
 
 ### Butt Plugs
 
 Butt plugs are tapered insertable toys designed to be worn in the anus. They sit in place without active thrusting, creating a sensation of fullness. Sizes range from very small beginner plugs (the width of a finger) to large advanced sizes. Wearing a butt plug during other sexual activity creates simultaneous stimulation that many people find dramatically enhances orgasm.
 
 **Best for:** Beginners exploring anal play, sensation of fullness during sex or masturbation, extended wear, preparation for anal intercourse.
+
+[image src=“content/memory/toy_10.png” alt=“Sex Toys Guide”]
 
 |Retailer   |Product                            |Link                                                        |
 |-----------|-----------------------------------|------------------------------------------------------------|
@@ -283,6 +285,8 @@ Butt plugs are tapered insertable toys designed to be worn in the anus. They sit
 ### Anal Beads
 
 Anal beads are a series of gradually increasing spheres on a cord or rigid wand. They are inserted one at a time and removed — either slowly for extended sensation or at the moment of orgasm for an intensified climax. The rhythmic sensation of each bead passing the anal sphincter is distinct from any other toy.
+
+[image src=“content/memory/toy_11.png” alt=“Sex Toys Guide”]
 
 **Best for:** Those who enjoy the sensation of the sphincter’s response to insertion and removal, adding intensity to orgasm.
 
@@ -326,11 +330,13 @@ BDSM play involves power exchange, sensation, and trust. Toys in this category s
 
 **The fundamental rule:** All BDSM play requires negotiation, clear safewords, and ongoing consent. Toys are tools for experiences both partners have agreed to.
 
-[image src=“media/img/toys-bdsm.jpg” alt=“BDSM Toys”]
+[image src=“content/memory/toy_02.png” alt=“Sex Toys Guide”]
 
 ### Restraints
 
 Restraints allow one partner to be immobilised — wrists, ankles, or more elaborate full-body restraint. Beginners should start with soft restraints — Velcro or padded cuffs that release immediately. Rope, leather, and metal restraints introduce greater restriction and require more care.
+
+[image src=“content/memory/toy_04.png” alt=“Sex Toys Guide”]
 
 **Types:**
 
@@ -437,6 +443,8 @@ Suction cup dildos attach firmly to any flat, smooth surface — a wall, floor, 
 |Lovehoney  |Suction Cup Dildo Range|<https://www.lovehoney.co.uk/sex-toys/dildos/suction-cup-dildos/>|
 |Ann Summers|Dildo Range            |<https://www.annsummers.com/sex-toys/dildos/>                    |
 |Bondara    |Suction Dildo Range    |<https://www.bondara.co.uk/dildos/suction-cup-dildos/>           |
+
+[image src=“content/memory/toy_12.png” alt=“Sex Toys Guide”]
 
 -----
 
