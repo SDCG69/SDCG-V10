@@ -151,7 +151,7 @@ const HANDBOOK_ITEMS = [
     "img": "h06_toys.svg",
     "sub1": "Complete guide to sex toys.",
     "sub2": "Notes on a range of toys with purchase options.",
-    "contentFile": "content/handbook/sex-toys.md",
+    "contentFile": "content/handbook/sex-toys-guide.md",
     "sections": []
   },
 	{
