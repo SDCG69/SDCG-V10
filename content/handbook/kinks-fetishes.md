@@ -1,6 +1,6 @@
 ## Kinks and Fetishes: What's the Difference?
 
-[image src="media/img/kf1.jpg" alt="Kinks and Fetishes"]
+[image src="media/img/kf1.png" alt="Kinks and Fetishes"]
 
 These two words get used interchangeably so often that the distinction has almost vanished from common use — but it's worth knowing. A **kink** is anything that enhances your sexual experience but isn't strictly necessary for arousal or satisfaction. A **fetish** goes further: it's something your arousal depends on. The object, body part or scenario isn't a nice addition; it's central to the experience.
 
@@ -14,7 +14,7 @@ Kinks and fetishes develop through a combination of early erotic associations, c
 
 Having a kink or fetish is not a problem. The only meaningful question is whether it's practiced consensually, whether it's causing distress, and whether it's interfering with your life. If the answer to the first is yes and the answers to the other two are no, there is nothing to fix.
 
-[image src="media/img/kf2.jpg" alt="Kinks and Fetishes"]
+[image src="media/img/kf2.png" alt="Kinks and Fetishes"]
 
 ## Discovering Your Own
 
@@ -39,6 +39,8 @@ Both are extraordinarily common. Many couples explore them together via mirrors 
 ### Power Exchange
 
 The desire to dominate or submit — in degrees ranging from mild direction to elaborate D/s structures — is among the most widely shared kinks there is. See our BDSM Beginners Guide for a full exploration. What's worth noting here is that the desire for power dynamics doesn't require elaborate equipment or formal "scenes." It can live entirely in tone of voice, in who decides and who follows, in the explicit acknowledgment that one person is in charge tonight. That acknowledgment itself, agreed upon freely, is the erotic act.
+
+[image src="media/img/kf4.jpg" alt="Kinks and Fetishes"]
 
 ### Voyeurism of Partners — Cuckolding and Hotwifing
 
@@ -71,8 +73,6 @@ Being watched by yourself — via a mirror positioned for sex, or consensual fil
 Language as a kink. The specific words, the tone, the explicit narration of what's happening or what's about to. Dirty talk works because it operates on a different channel from physical sensation — it engages the imagination directly, and the imagination, as it turns out, is the most powerful sexual organ in the body. Some people need it to reach full arousal; others discover an unexpected response to it once a partner introduces it. It costs nothing, requires no equipment, and works at any distance — which is why it transfers so naturally to phone and text.
 
 The common hesitation is embarrassment. The solution is to start smaller than feels comfortable and build from there. A sentence said with conviction lands very differently from the same sentence mumbled apologetically.
-
-[image src="media/img/kf4.jpg" alt="Kinks and Fetishes"]
 
 ## Common Fetishes
 
