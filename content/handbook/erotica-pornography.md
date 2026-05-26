@@ -6,6 +6,8 @@ Both erotica and pornography are forms of sexually explicit content designed to 
 
 Both have been part of human culture for as long as there has been culture. Erotic writing predates the printing press; erotic art predates photography by millennia. What's genuinely new is the scale and accessibility of the contemporary internet — the ability to access virtually unlimited sexual content within seconds, for free, from complete privacy. That change in access has produced both enormous liberation and some significant problems worth understanding.
 
+Erotica is also becoming more mainstream and part of popular fiction.  Best sellers such as the 'Fifty Shades' series and books by Sylvia Day have put erotica fiction content in regular books.
+
 ## What Pornography Is — And Isn't
 
 [image src="media/img/ep2.jpg" alt="Erotica and Pornography"]
@@ -38,6 +40,8 @@ Bellesa offers a selection of free content, a broad library of erotic fiction, s
 
 Swedish filmmaker Erika Lust is widely regarded as the most significant figure in feminist and ethical pornography globally. A political science and gender studies graduate who turned to erotic filmmaking in 2004, her work approaches pornography with the full seriousness of independent cinema: proper scripts, cinematography, casting and sound design, alongside consent practices and performer welfare standards that exceed anything in mainstream production. Her company ERIKALUST operates as a full media ecosystem — film, audio, publishing and sex education — staffed by a majority-women, majority-queer team that includes sex workers in creative roles.
 
+[image src="media/img/ep4.jpg" alt="Erotica and Pornography"]
+
 Her platform **XConfessions** adapts real anonymous sexual confessions submitted by the public into short films — an unusually intimate source material that produces content with genuine emotional texture. Her broader film catalogue is available via subscription. The production quality is exceptional and the content is as far from the free-tube aesthetic as it is possible to get.
 
 ### Lustery — lustery.com
@@ -56,7 +60,6 @@ For those who find audio more compelling than visual content — or who want som
 
 A community-based audio erotica platform with a broad range of content including ASMR, erotic fiction and real recordings. More varied in quality than Dipsea but considerably larger in scope, with content created by independent producers who receive a share of subscription revenue. Particularly strong for LGBTQ+ content and niche interests.
 
-[image src="media/img/ep4.jpg" alt="Erotica and Pornography"]
 
 ## Written Erotica
 
