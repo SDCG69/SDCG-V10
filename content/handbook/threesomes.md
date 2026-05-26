@@ -26,7 +26,7 @@ If you can't have this conversation — if it keeps sliding into reassurance rat
 
 ## Finding a Third
 
-[image src="media/img/ts3.jpg" alt="Threesomes"]
+[image src="media/img/3oral-overload.png" alt="Threesomes"]
 
 ### Someone You Know vs. Someone You Don't
 
@@ -73,7 +73,7 @@ Setting explicit rules before the experience is not a lack of trust — it's the
 
 **Practical logistics matter.** Keep water, lubricant and protection visible and accessible. Make sure the space is physically comfortable for three people. Consider the lighting — it matters more than you'd think for comfort and confidence.
 
-[image src="media/img/ts4.jpg" alt="Threesomes"]
+[image src="media/img/3double-cowgirl.png" alt="Threesomes"]
 
 ## Common Configurations
 
