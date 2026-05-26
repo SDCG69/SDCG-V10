@@ -31,10 +31,10 @@ const HANDBOOK_ITEMS = [
 	{
     "letter": "D",
     "title": "Deepthroating",
-    "img": "h05_mdeepthroating.svg",
+    "img": "h05_deepthroating.svg",
     "sub1": "The complete guide to deepthoating.",
     "sub2": "Techniques for practice and the pleasure for your man.",
-    "contentFile": "content/handbook/deepthoating.md",
+    "contentFile": "content/handbook/deepthroating.md",
     "sections": []
   },
   {
@@ -148,7 +148,7 @@ const HANDBOOK_ITEMS = [
 	{
     "letter": "S",
     "title": "Sex Toys",
-    "img": "h06_toys.svg",
+    "img": "h06_sex_toys.svg",
     "sub1": "Complete guide to sex toys.",
     "sub2": "Notes on a range of toys with purchase options.",
     "contentFile": "content/handbook/sex-toys-guide.md",
