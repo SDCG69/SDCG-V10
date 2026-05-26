@@ -32,7 +32,7 @@ const HANDBOOK_ITEMS = [
     "letter": "D",
     "title": "Deepthroating",
     "img": "h05_deepthroating.svg",
-    "sub1": "The complete guide to deepthoating.",
+    "sub1": "The complete guide to deepthroating.",
     "sub2": "Techniques for practice and the pleasure for your man.",
     "contentFile": "content/handbook/deepthroating.md",
     "sections": []
