@@ -563,8 +563,10 @@ function renderInline(text) {
     .replace(/~~(.+?)~~/g, (_, t) => `<s>${t}</s>`)
     // Inline images ![alt](url) — rendered as full-width figures
     .replace(/!\[([^\]]*)\]\(([^)]+)\)/g, (_, alt, src) => `<figure class="library-inline-image"><img src="${escapeLibraryHtml(src)}" alt="${escapeLibraryHtml(alt)}" loading="lazy" class="md-img"></figure>`)
+    // Autolinks <https://...> — bare URL wrapped in angle brackets
+    .replace(/<(https?:\/\/[^>\s]+)>/g, (_, u) => `<a class="md-link" href="${escapeLibraryHtml(u)}" target="_blank" rel="noopener noreferrer">${escapeLibraryHtml(u)}</a>`)
     // Links [text](url)
-    .replace(/\[([^\]]+)\]\(([^)]+)\)/g, (_, t, u) => `<a class="md-link" href="${escapeLibraryHtml(u)}" target="_blank" rel="noopener">${escapeLibraryHtml(t)}</a>`)
+    .replace(/\[([^\]]+)\]\(([^)]+)\)/g, (_, t, u) => `<a class="md-link" href="${escapeLibraryHtml(u)}" target="_blank" rel="noopener noreferrer">${escapeLibraryHtml(t)}</a>`)
     // Highlight ==text==
     .replace(/==(.+?)==/g, (_, t) => `<mark class="md-mark">${t}</mark>`)
     // Superscript ^text^
