@@ -1,6 +1,6 @@
 ## What Is Sensual Massage?
 
-[image src="media/img/sm1.jpg" alt="Sensual Massage"]
+[image src="media/img/sensual-massage.jpeg" alt="Sensual Massage"]
 
 Sensual massage is one of the most underrated skills in any couple's repertoire. Strip away the mystique and what you have is simple: intentional, attentive touch, designed to relax the body, heighten the senses and build arousal at a pace that the usual rush to sex rarely allows. It requires no training, no elaborate equipment and no particular talent beyond the willingness to slow down.
 
