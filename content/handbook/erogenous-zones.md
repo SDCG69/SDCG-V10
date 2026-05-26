@@ -12,19 +12,21 @@ Most people's sex lives revolve around genitals, and that's a perfectly fine sta
 
 Dopamine and endorphins drive the pleasure and reward response, while oxytocin — the bonding hormone — surges with prolonged touch, creating a feedback loop where physical sensation becomes emotionally meaningful. This is why a well-placed kiss on the neck can feel more arousing than a rushed grope. The brain is always the most important erogenous zone of all.
 
-[image src="media/img/ez2.jpg" alt="Erogenous Zones"]
-
 ## The Primary Zones
 
 ### The Genitals
 
 The obvious starting point, and for good reason. For people with vulvas, the clitoris is the most nerve-dense structure in the human body — over 8,000 nerve endings in the tip alone, extending internally in a wishbone shape that means arousal is felt far more widely than the visible tip suggests. The G-spot, located on the front vaginal wall roughly 5–7cm in, and the A-spot, deeper still towards the cervix, offer entirely different sensations from external stimulation.
 
+[image src="media/img/ez2.jpg" alt="Erogenous Zones"]
+
 For people with penises, the frenulum — the small ridge of skin on the underside just below the head — is the most sensitive point. The glans (head) contains the majority of nerve endings; the shaft considerably fewer. The perineum and the prostate gland, accessible internally or via firm external pressure at the perineum, are frequently overlooked despite offering some of the most intense sensations the male body can produce.
 
 ### The Nipples
 
 Nipples are directly connected to the hypothalamus and trigger the release of oxytocin — the same chemical responsible for orgasmic contractions. This is why nipple stimulation can produce genuine orgasm in some people, and why it reliably intensifies arousal in most. Response varies enormously: some people love firm pinching, biting or the pressure of clamps; others respond only to the lightest breath or the flutter of a tongue. The only rule is to start gently and build.
+
+[image src="media/img/ez5.jpg" alt="Erogenous Zones"]
 
 ### The Mouth and Lips
 
@@ -44,6 +46,8 @@ The sides and back of the neck carry a high concentration of nerve endings and a
 
 The inner ear is lined with highly sensitive nerve endings that respond to breath, whispered words and the lightest touch of lips or tongue. The earlobe in particular responds well to gentle sucking or nibbling. The sound of a partner's breath up close is itself arousing — the ears are where sound and touch overlap in a way that bypasses rational thought entirely.
 
+[image src="media/img/ez6.jpg" alt="Erogenous Zones"]
+
 ### The Scalp
 
 A firm scalp massage or fingers running through hair activates a dense network of nerve endings and triggers deep relaxation simultaneously. For many people, a partner's hands in their hair during sex is among the most intensely arousing sensations they know, combining control, closeness and physical pleasure in a single act.
@@ -51,6 +55,8 @@ A firm scalp massage or fingers running through hair activates a dense network o
 ### The Inner Thighs
 
 The inner thighs are close enough to the genitals to feel electric, but just far enough away to produce exquisite frustration. The skin here is thin, sensitive and responds powerfully to the lightest touch: fingertips, lips, breath, the edge of a fingernail. The key is to spend genuine time here — approaching and retreating, never quite arriving — before moving anywhere close to the genitals.
+
+[image src="media/img/ez7.jpg" alt="Erogenous Zones"]
 
 ### The Lower Back and Sacrum
 
@@ -65,6 +71,8 @@ The inside of the wrist and the soft inner crease of the elbow contain thin, sen
 Foot reflexology has long mapped connections between specific foot zones and the rest of the body, and the concentrated nerve endings in the soles and toes make the feet genuinely responsive to the right touch. For some people this crosses from pleasure into overwhelming sensitivity — the response is highly individual, and discovering which it is for your partner is itself part of the fun.
 
 [image src="media/img/ez4.jpg" alt="Erogenous Zones"]
+
+The vast majority of those surveyed have stated that having their partner kissing, massaging, licking or sucking their feet and toes is immensely pleasurable.
 
 ## How to Explore
 
