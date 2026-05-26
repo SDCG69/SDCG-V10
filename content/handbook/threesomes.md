@@ -8,7 +8,7 @@ This guide exists to close that gap. Not to discourage you — quite the opposit
 
 Sex therapist Vanessa Marin puts it plainly: a threesome has the potential to change a relationship forever. That cuts both ways. Handled well, it can deepen trust and add a dimension to a couple's intimacy that nothing else quite provides. Handled carelessly, it can surface jealousies and insecurities that prove much harder to close than they were to open. The preparation is the experience.
 
-[image src="media/img/ts2.jpg" alt="Threesomes"]
+[image src="media/img/3cowgirl-69.png" alt="Threesomes"]
 
 ## Is a Threesome Right for You?
 
