@@ -28,6 +28,15 @@ const HANDBOOK_ITEMS = [
     "contentFile": "content/handbook/test.md",
     "sections": []
   },
+	{
+    "letter": "D",
+    "title": "Deepthroating",
+    "img": "h05_mdeepthroating.svg",
+    "sub1": "The complete guide to deepthoating.",
+    "sub2": "Techniques for practice and the pleasure for your man.",
+    "contentFile": "content/handbook/deepthoating.md",
+    "sections": []
+  },
   {
     "letter": "M",
     "title": "Masturbation",
@@ -82,6 +91,15 @@ const HANDBOOK_ITEMS = [
     "contentFile": "content/handbook/role-play.md",
     "sections": []
   },
+	{
+    "letter": "L",
+    "title": "Lube, Oils and Gels",
+    "img": "h07_lube.svg",
+    "sub1": "Guide lubrication, massage gel and oils.",
+    "sub2": "What to use and when.",
+    "contentFile": "content/handbook/lube-oils-gels.md",
+    "sections": []
+  },
   {
     "letter": "M",
     "title": "Massage",
@@ -125,6 +143,15 @@ const HANDBOOK_ITEMS = [
     "sub1": "Guide to threesomes or more.",
     "sub2": "Understanding how to introduce another lover to the mix.",
     "contentFile": "content/handbook/threesomes.md",
+    "sections": []
+  },
+	{
+    "letter": "S",
+    "title": "Sex Toys",
+    "img": "h06_toys.svg",
+    "sub1": "Complete guide to sex toys.",
+    "sub2": "Notes on a range of toys with purchase options.",
+    "contentFile": "content/handbook/sex-toys.md",
     "sections": []
   },
 	{
