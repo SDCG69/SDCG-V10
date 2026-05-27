@@ -12,7 +12,7 @@ None of this happens automatically. Anal sex has a significant learning curve, a
 
 ## Anatomy: What You Need to Know
 
-[image src="media/img/anal-anatomy.jpg" alt="Anal Anatomy"]
+[image src="media/img/anal-anatomy.png" alt="Anal Anatomy"]
 
 Understanding the anatomy makes everything easier and safer.
 
@@ -44,7 +44,7 @@ Avoid foods that cause gas or loose stools in the day or two beforehand: red mea
 
 Douching — rinsing the rectum with water — is optional, not mandatory. Many people who engage in anal sex regularly never douche and find that natural preparation is entirely adequate. Others prefer the additional confidence it provides.
 
-[image src="media/img/anal-prep.jpg" alt="Anal Preparation"]
+[image src="media/img/anal-prep.png" alt="Anal Preparation"]
 
 If you choose to douche:
 
