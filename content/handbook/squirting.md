@@ -54,8 +54,6 @@ you can approach squirting as a process with predictable, learnable steps rather
 
 ## The Psychological Conditions: The Most Important Factor
 
-[image src="media/img/squirting-relaxation.jpg" alt="Relaxation and Psychological Readiness"]
-
 The single most common reason people fail to squirt despite technically competent stimulation is psychological — specifically, the combination of anxiety about urinating, performance pressure, and insufficient arousal.
 
 ### The Urination Anxiety Problem
@@ -206,27 +204,17 @@ It is worth noting that if squirting during fingering is not yet reliable, squir
 
 **Modified missionary with hips elevated** — placing a pillow under the hips tilts the pelvis and changes the angle of the vaginal canal, making it more likely that the penis will contact the front wall with each stroke. This is one of the most straightforwardly effective adjustments available within missionary position.
 
-[image src="media/img/squirting-missionary.jpg" alt="Modified Missionary for G Spot"]
-
 **Doggy style with body lowered** — if the receiving partner lowers their chest toward the bed while remaining on all fours, the angle of penetration shifts toward the front wall. This is one of the positions most frequently reported as effective for G-spot stimulation and squirting.
-
-[image src="media/img/squirting-doggy.jpg" alt="Doggy Style for Squirting"]
 
 **Cowgirl (receiving partner on top)** — gives the receiving partner complete control over the angle, depth, and pace of stimulation. By leaning slightly forward and rocking rather than bouncing, contact with the G-spot can be maintained throughout. This is often the most effective position for people who know their G-spot is responsive but have not yet achieved squirting during sex.
 
-[image src="media/img/squirting-cowgirl.jpg" alt="Cowgirl Position for Squirting"]
-
 **G-spot position (legs raised)** — with the receiving partner lying on their back and their legs raised and resting on the penetrating partner's shoulders, the penetrating partner leans forward slightly. This angle tends to produce strong front-wall contact. The receiving partner can also press down gently on their lower abdomen to increase pressure on the G-spot from the outside.
-
-[image src="media/img/squirting-g-spot-position.jpg" alt="G Spot Sex Position"]
 
 In all positions, the most important variable is feedback. What feels like it is making contact from the outside cannot always be confirmed without verbal or nonverbal communication from the receiving partner. Checking in — *"Is this hitting the right spot?"*, paying attention to the change in breath or sound — is the most reliable way to confirm that the stimulation is correctly placed.
 
 ---
 
 ## What To Do If Squirting Is Not Happening
-
-[image src="media/img/squirting-troubleshooting.jpg" alt="Troubleshooting Squirting"]
 
 If you have tried the techniques above and squirting has not occurred, the issue is almost certainly in one or more of the following areas rather than in any innate physiological limitation.
 
