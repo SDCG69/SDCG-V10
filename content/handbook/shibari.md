@@ -159,7 +159,7 @@ Done correctly, the takate kote is stable, adjustable and deeply comfortable to 
 
 **The Futomomo** (a thigh tie folding the lower leg against the upper leg) and **hip harnesses** are generally more forgiving than upper-body ties because there are fewer major nerve pathways at risk from correctly placed rope. They are accessible to intermediate riggers and produce striking visual results.
 
-[image src="media/img/shibari-futomomo.jpg" alt="Futomomo Leg Tie"]
+[image src="media/img/shibari-futomomo.png" alt="Futomomo Leg Tie"]
 
 The popliteal fossa (the back of the knee) must always remain free of direct rope pressure. Otherwise, hip and leg ties are well suited to riggers who are ready to move beyond wrist and simple body ties.
 
@@ -194,8 +194,6 @@ No written guide — however detailed — can replace learning shibari from an e
 ---
 
 ## Aftercare in Shibari
-
-[image src="media/img/shibari-aftercare.jpg" alt="Shibari Aftercare"]
 
 Untying is part of the experience, not an afterthought. Take your time with it — being slowly unwrapped is often as intimate as being tied. As the rope comes off, watch the skin: rope marks are normal and expected, but look for anything unusual — deep indentation, unusual pallor, skin that doesn't bounce back.
 
