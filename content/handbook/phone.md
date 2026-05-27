@@ -56,8 +56,6 @@ The practical environment matters considerably more for phone sex than for other
 
 ## The Fundamental Skill: Description
 
-[image src="media/img/phone-sex-description.jpg" alt="Descriptive Language in Phone Sex"]
-
 The primary skill in phone sex is descriptive language — the ability to create a vivid, specific, present-tense experience in your partner's imagination through what you say and how you say it.
 
 This is why most people find scripted phone sex less effective than they expected: a pre-prepared list of things to say does not constitute a description of an experience, it constitutes the performance of one. The difference is perceptible.
@@ -149,8 +147,6 @@ The most effective sexts share certain qualities:
 ---
 
 ## Maintaining a Long-Distance Relationship Erotically
-
-[image src="media/img/phone-sex-long-distance.jpg" alt="Long Distance Relationship Intimacy"]
 
 Long-distance relationships require active, deliberate maintenance of the erotic dimension in a way that co-located relationships do not. The ordinary mechanisms of sexual intimacy — proximity, incidental touch, shared physical space — are not available, which means that what would otherwise happen naturally must instead happen consciously and consistently.
 
