@@ -106,7 +106,7 @@ Analingus — oral stimulation of the anal opening — is both a pleasurable act
 
 ## Fingering: The Essential First Step
 
-[image src="media/img/anal-fingering.jpg" alt="Anal Fingering"]
+[image src="media/img/or-cun-power6.jpeg" alt="Anal Fingering"]
 
 Whether penetration with a toy or a penis is the eventual goal, beginning with a well-lubricated finger is always the right approach. Fingers provide immediate feedback — you can feel muscle tension, resistance and response in real time — and allow far more graduated progression than any other form of penetration.
 
