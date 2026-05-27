@@ -37,6 +37,15 @@ const HANDBOOK_ITEMS = [
     "contentFile": "content/handbook/deepthroating.md",
     "sections": []
   },
+	{
+    "letter": "D",
+    "title": "Dirty Talk",
+    "img": "h_talking.svg",
+    "sub1": "Dirty Talk Advise.",
+    "sub2": "Guidance for taling dirty in the bedroom.",
+    "contentFile": "content/handbook/dirty-talk.md",
+    "sections": []
+  },
 	 {
     "letter": "A",
     "title": "Anal Sex",
@@ -166,7 +175,7 @@ const HANDBOOK_ITEMS = [
 	{
     "letter": "F",
     "title": "Foreplay",
-    "img": "h03_orgasm.svg",
+    "img": "h_foreplay.svg",
     "sub1": "Techniques to build arousal.",
     "sub2": "Understanding a vital part of sexual pleasure.",
     "contentFile": "content/handbook/foreplay.md",
@@ -224,6 +233,15 @@ const HANDBOOK_ITEMS = [
     "sub1": "A guide to Shibari Rope Ties.",
     "sub2": "Beginners guide to Japanese art of Shibari.",
     "contentFile": "content/handbook/shibari.md",
+    "sections": []
+  },
+	{
+    "letter": "P",
+    "title": "Phone Sex and Sexting",
+    "img": "h_talking.svg",
+    "sub1": "Guide for Phone Sex.",
+    "sub2": "How to support sexual long distance relationships.",
+    "contentFile": "content/handbook/phone.md",
     "sections": []
   },
 ];
