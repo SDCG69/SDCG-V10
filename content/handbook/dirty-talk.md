@@ -74,7 +74,7 @@ Through trial and error, through paying close attention to what produces a respo
 
 ## The Four Factors That Determine Effectiveness
 
-[image src="media/img/dirty-talk-voice.jpg" alt="Dirty Talk Voice and Context"]
+[image src="media/img/dirty-talk-voice.png" alt="Dirty Talk Voice and Context"]
 
 The words themselves are only a fraction of what makes dirty talk effective. The other components — context, voice tone, speed, and physical alignment — together account for far more of the impact than the actual language used. Two people delivering the same phrase in different ways will produce entirely different results.
 
@@ -195,8 +195,6 @@ The most important element in this register is that it sounds genuine rather tha
 
 ## Dirty Talk In Public And Semi-Public Settings
 
-[image src="media/img/dirty-talk-public.jpg" alt="Dirty Talk In Public"]
-
 The most powerful application of dirty talk is arguably outside the bedroom, precisely because of the gap between the external situation and what is being communicated. A whispered comment at a dinner party, a note passed across a table, a hand on the arm accompanied by something that only your partner can hear — all of these create a private world of shared sexual awareness in the middle of a public space, and that contrast is intensely exciting.
 
 The key in public settings is that the language does not need to be explicit to be highly effective. Suggestion is considerably more powerful than description in this context:
@@ -217,7 +215,7 @@ The delivery is everything in public settings. The more casually and matter-of-f
 
 ## Dirty Messages And Sexting
 
-[image src="media/img/dirty-talk-sexting.jpg" alt="Sexting and Dirty Messages"]
+[image src="media/img/phone-sex-intro.jpg" alt="Sexting and Dirty Messages"]
 
 Written dirty talk — messages sent during the day, sexts, emails, or any other written medium — operates slightly differently from spoken dirty talk. Without vocal tone and physical presence, the words have to carry more weight. This means choosing them with slightly more care.
 
@@ -282,7 +280,7 @@ As with all dirty talk, authenticity matters more than the specific words. If th
 
 ## Dirty Talk Over The Phone
 
-[image src="media/img/dirty-talk-phone.jpg" alt="Phone Sex and Dirty Talk"]
+[image src="media/img/phone-sex-why.jpg" alt="Phone Sex and Dirty Talk"]
 
 Phone sex is a specific application of dirty talk that relies entirely on the voice, which means all the principles around vocal tone and pace apply with even greater force than usual. Without physical presence or visual input, the voice is the only instrument available, and it has to do all the work.
 
@@ -301,8 +299,6 @@ The pacing during phone sex should be even slower than in person. Long pauses, d
 ---
 
 ## Common Mistakes And How To Avoid Them
-
-[image src="media/img/dirty-talk-confidence.jpg" alt="Dirty Talk Confidence"]
 
 **Going too explicit too soon.** A sudden leap to highly graphic language, with no gradual build-up, often produces the opposite of the desired reaction. Calibrate the escalation to the relationship and the context.
 
