@@ -37,6 +37,15 @@ const HANDBOOK_ITEMS = [
     "contentFile": "content/handbook/deepthroating.md",
     "sections": []
   },
+	 {
+    "letter": "A",
+    "title": "Anal Sex",
+    "img": "h04_anal.svg",
+    "sub1": "Complete guide to anal sex.",
+    "sub2": "Preparation, Lube, Benefits and Myths.",
+    "contentFile": "content/handbook/a-s.md",
+    "sections": []
+  },
   {
     "letter": "M",
     "title": "Masturbation",
@@ -111,6 +120,15 @@ const HANDBOOK_ITEMS = [
   },
   {
     "letter": "E",
+    "title": "Edging",
+    "img": "h03_orgasm.svg",
+    "sub1": "More powerful orgasms through edging.",
+    "sub2": "Compelte guide to edging practices amd advice.",
+    "contentFile": "content/handbook/edging.md",
+    "sections": []
+  },
+	 {
+    "letter": "E",
     "title": "Erogenous Zones",
     "img": "h_erogenous_zones.svg",
     "sub1": "Guide to our Erogenous Zones.",
@@ -137,6 +155,24 @@ const HANDBOOK_ITEMS = [
     "sections": []
   },
 	{
+    "letter": "F",
+    "title": "Foot Worship (Foot Fetish)",
+    "img": "h_kinks_fetishes.svg",
+    "sub1": "Guide to Foot Worship.",
+    "sub2": "Understanding all about the erotic pleasure from feet.",
+    "contentFile": "content/handbook/foot.md",
+    "sections": []
+  },
+	{
+    "letter": "F",
+    "title": "Foreplay",
+    "img": "h03_orgasm.svg",
+    "sub1": "Guide to Foreplay.",
+    "sub2": "Understanding a vital part of sexual pleasure.",
+    "contentFile": "content/handbook/foreplay.md",
+    "sections": []
+  },
+	{
     "letter": "T",
     "title": "Threesomes",
     "img": "h_threesomes.svg",
@@ -155,6 +191,15 @@ const HANDBOOK_ITEMS = [
     "sections": []
   },
 	{
+    "letter": "S",
+    "title": "Squirting",
+    "img": "h03_orgasm.svg",
+    "sub1": "A guide to squirting.",
+    "sub2": "Female ejaculation, and squirting orgasms in women.",
+    "contentFile": "content/handbook/squirting.md",
+    "sections": []
+  },
+	{
     "letter": "B",
     "title": "BDSM - Beginners Guides",
     "img": "h_bdsm.svg",
@@ -170,6 +215,15 @@ const HANDBOOK_ITEMS = [
     "sub1": "Further exploration to BDSM.",
     "sub2": "BDSM hint and tips for deeper BDSM.",
     "contentFile": "content/handbook/bdsm-advanced.md",
+    "sections": []
+  },
+	{
+    "letter": "B",
+    "title": "BDSM - Shibari Rope Ties",
+    "img": "h_bdsm.svg",
+    "sub1": "A guide to Shibari Rope Ties.",
+    "sub2": "Beginners guide to Japanese art of Shibari.",
+    "contentFile": "content/handbook/shibari.md",
     "sections": []
   },
 ];
