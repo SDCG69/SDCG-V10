@@ -167,7 +167,7 @@ const HANDBOOK_ITEMS = [
     "letter": "F",
     "title": "Foreplay",
     "img": "h03_orgasm.svg",
-    "sub1": "Guide to Foreplay.",
+    "sub1": "Techniques to build arousal.",
     "sub2": "Understanding a vital part of sexual pleasure.",
     "contentFile": "content/handbook/foreplay.md",
     "sections": []
