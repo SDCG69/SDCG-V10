@@ -201,6 +201,15 @@ const HANDBOOK_ITEMS = [
   },
 	{
     "letter": "S",
+    "title": "Sexuality (LGBTQ+)",
+    "img": "h_sexuality.svg",
+    "sub1": "A guide to LQBGTQ.",
+    "sub2": "Sexual orientation, gender identity and more.",
+    "contentFile": "content/handbook/lgbtq.md",
+    "sections": []
+  },
+	{
+    "letter": "S",
     "title": "Squirting",
     "img": "h03_orgasm.svg",
     "sub1": "A guide to squirting.",
