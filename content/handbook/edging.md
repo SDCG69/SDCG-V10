@@ -1,6 +1,6 @@
 ## Edging: A Complete Guide
 
-[image src="media/img/edging-intro.jpg" alt="Edging Guide"]
+[image src="media/img/edging-intro.png" alt="Edging Guide"]
 
 Edging is one of the most practically useful and least complicated skills in sexual practice. The concept is simple: bring yourself or a partner to the brink of orgasm, then deliberately stop — and repeat. The results of doing this well are not simple at all. Extended arousal, dramatically intensified orgasms, better awareness of your own body, and — for people with penises — a reliable method for developing control over ejaculation timing.
 
@@ -11,8 +11,6 @@ This is not a new idea. The foundational technique was described in clinical lit
 ---
 
 ## The Science: What Is Actually Happening
-
-[image src="media/img/edging-science.jpg" alt="The Science of Edging"]
 
 To understand why edging works, it helps to understand the sexual response cycle — the framework developed by researchers William Masters and Virginia Johnson in the 1960s, which remains the foundation of our understanding of arousal physiology.
 
@@ -159,8 +157,6 @@ Edging is physically safe. There are no lasting harmful effects from practising 
 ---
 
 ## Aftercare
-
-[image src="media/img/edging-aftercare.jpg" alt="Aftercare"]
 
 A long edging session — particularly one with a partner, and particularly one that involved a power dynamic — asks something significant of both people. The physical intensity of sustained arousal over a long period is comparable to a sustained physical effort; the emotional dimensions of being held at the edge, or of holding someone else there, are their own form of work.
 
