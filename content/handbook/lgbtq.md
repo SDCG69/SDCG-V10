@@ -22,7 +22,6 @@ These are entirely separate axes. A transgender woman can be heterosexual, lesbi
 
 Both are distinct from **gender expression** — the way a person presents their gender through clothing, behaviour, name, pronouns and appearance — and from **biological sex**, which refers to chromosomes, hormones and anatomy. None of these four things necessarily predicts the others.
 
-[image src="media/img/lgbtq-spectrum.jpg" alt="LGBTQ+ Spectrum"]
 
 ### The Kinsey Scale and Beyond
 
@@ -104,9 +103,13 @@ Sex between women is as varied, complex and fulfilling as sex between any other 
 
 **Oral sex (cunnilingus)** is among the most commonly reported forms of sex between women and is described by many as the most reliably orgasmic. The clitoris — over 8,000 nerve endings in the external tip alone, extending internally in a wishbone shape — responds to direct and indirect stimulation of the glans, hood, shaft and surrounding tissue. Technique, rhythm, pressure and variation matter considerably more than any single specific movement, and communication with a partner about what feels good is the most reliable guide.
 
+[image src="media/img/lgbtq-cunn.jpg" alt="Lesbian Women"]
+
 **Manual stimulation** — fingers used externally on the vulva and clitoris, or internally — is deeply versatile. The G-spot (on the front vaginal wall, roughly 5–7cm in) and the A-spot (deeper, toward the cervix) are accessible via curved fingers with a "come-hither" motion toward the navel. Simultaneous clitoral stimulation — external and internal together — is how the majority of people with vulvas reliably reach orgasm.
 
 **Tribadism (scissoring, grinding)** — vulva-to-vulva contact — produces stimulation for both partners simultaneously and is more common in practice than its representation in media would suggest. It requires some experimentation with position and angle to find what works for both bodies.
+
+[image src="media/img/lgbtq-trib.jpg" alt="Lesbian Women"]
 
 **Toys and strap-ons** are used by many couples — a strap-on harness with a dildo allows one partner to penetrate the other vaginally or anally. Double-ended dildos can provide simultaneous penetration. Vibrators — external, internal, or both — are widely used both solo and partnered. There is no hierarchy in which sex with a toy is "less real" than sex without one; the goal is pleasure, and tools that enhance it are simply tools.
 
@@ -133,8 +136,6 @@ Lesbian bars and specifically lesbian spaces have declined significantly in numb
 ---
 
 ## Bisexual and Pansexual People
-
-[image src="media/img/lgbtq-bisexual.jpg" alt="Bisexual and Pansexual"]
 
 Bisexuality — broadly defined as attraction to more than one gender — is the most common sexual orientation within the LGBTQ+ spectrum, yet bisexual people are among the least visible and most poorly served by both mainstream culture and the LGBTQ+ community itself.
 
@@ -165,8 +166,6 @@ Some bisexual people find that their attractions have different qualities toward
 ---
 
 ## Transgender People
-
-[image src="media/img/lgbtq-trans.jpg" alt="Transgender People"]
 
 Transgender people are those whose gender identity differs from the sex they were assigned at birth. This is one of the most misunderstood and misrepresented areas of LGBTQ+ experience, and one of the most important to understand clearly.
 
@@ -226,8 +225,6 @@ Trans people are frequently poorly served by sexual health services that are not
 
 ## Non-Binary and Genderqueer People
 
-[image src="media/img/lgbtq-nonbinary.jpg" alt="Non-Binary People"]
-
 Non-binary is an umbrella term for gender identities that do not fit within the conventional binary of man and woman. It is one of the fastest-growing areas of gender identity in survey data, particularly among younger generations — not because non-binary identities are new, but because the language to name them, and the cultural permission to claim them, has become more widely available.
 
 ### What Non-Binary Means
@@ -266,8 +263,6 @@ Non-binary people may identify their sexuality in any number of ways — gay, bi
 
 ## Queer Identity
 
-[image src="media/img/lgbtq-queer.jpg" alt="Queer Identity"]
-
 Queer — once a term of abuse, reclaimed by LGBTQ+ communities from the late 1980s onward — now functions both as a specific identity and as a broader political and cultural descriptor.
 
 As a specific identity, "queer" is used by people who experience sexuality and/or gender outside the norms of heterosexuality and cisgender identity but who do not feel that more specific labels (gay, lesbian, bisexual, trans) fully capture their experience. It signals a rejection of rigid categorisation in favour of a more fluid, self-determined relationship with identity. Some people use "queer" because their sexuality or gender is genuinely difficult to pin down within existing categories; others use it as a political stance as much as a personal description.
@@ -279,8 +274,6 @@ The word carries different weight for different people. For those who experience
 ---
 
 ## Asexual and Aromantic Spectrum
-
-[image src="media/img/lgbtq-asexual.jpg" alt="Asexual and Aromantic"]
 
 Asexuality and the aromantic spectrum represent the low or absent end of sexual and romantic attraction — areas of human experience as legitimate and as deserving of understanding and community as any other.
 
@@ -332,8 +325,6 @@ The asexual community has developed rich concepts for relationships that fall ou
 
 ## Intersex People
 
-[image src="media/img/lgbtq-intersex.jpg" alt="Intersex"]
-
 Intersex refers to people born with biological characteristics — chromosomal, gonadal, hormonal or anatomical — that do not fit the conventional definitions of male or female bodies. It is estimated that between 1.7% and 4% of the population is intersex in some form, making it roughly as common as red hair.
 
 Intersex is distinct from transgender identity (which concerns gender identity, not biological sex characteristics) and from sexual orientation. An intersex person may be transgender or not; may be gay, straight, bisexual or any orientation; may identify as male, female, non-binary or any other gender.
@@ -345,8 +336,6 @@ Intersex people have bodies that are as sexual and worthy of pleasure as any oth
 ---
 
 ## Coming Out: A Practical Guide
-
-[image src="media/img/lgbtq-coming-out.jpg" alt="Coming Out"]
 
 Coming out is simultaneously deeply personal and universal within LGBTQ+ experience. Nearly every LGBTQ+ person navigates it; no two people navigate it the same way. What follows is a practical framework rather than a prescribed sequence.
 
@@ -384,8 +373,6 @@ Not all family responses improve, and maintaining wellbeing sometimes means limi
 
 ## Mental Health and Wellbeing
 
-[image src="media/img/lgbtq-mentalhealth.jpg" alt="LGBTQ+ Mental Health"]
-
 LGBTQ+ people experience significantly higher rates of depression, anxiety, self-harm and suicidal ideation than the general population. This is not an intrinsic feature of LGBTQ+ identity — it is a consequence of **minority stress**: the chronic stress produced by stigma, discrimination, concealment of identity, and the experience of living in environments that do not affirm who you are.
 
 Understanding this is important in both directions. LGBTQ+ people benefit from knowing that their mental health challenges have an external cause — they are not evidence of something wrong with their identity, but of something wrong with the environment they have had to navigate. And the most effective mental health support for LGBTQ+ people is, accordingly, affirmative: it works with rather than against LGBTQ+ identity.
@@ -411,8 +398,6 @@ Finding an affirmative therapist: the Pink Therapy directory lists LGBTQ+ affirm
 ---
 
 ## Sexual Health: A Comprehensive Overview
-
-[image src="media/img/lgbtq-sexualhealth.jpg" alt="LGBTQ+ Sexual Health"]
 
 Sexual health for LGBTQ+ people is frequently poorly served by services designed around heterosexual, cisgender populations. Understanding your specific risks and options is the most effective form of protection.
 
@@ -441,8 +426,6 @@ Sexual health for LGBTQ+ people is frequently poorly served by services designed
 ---
 
 ## Finding Community
-
-[image src="media/img/lgbtq-community.jpg" alt="LGBTQ+ Community"]
 
 Community is one of the most protective factors for LGBTQ+ mental health and wellbeing. Finding your people — in person, online, or both — is not peripheral to LGBTQ+ life; it is central to it.
 
