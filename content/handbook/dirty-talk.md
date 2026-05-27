@@ -240,7 +240,7 @@ For long-distance relationships or periods of extended absence, written dirty ta
 
 ## Dominant Dirty Talk
 
-[image src="media/img/dirty-talk-dominant.jpg" alt="Dominant Dirty Talk"]
+[image src="media/gif/dirty-talk-dominant.gif" alt="Dominant Dirty Talk"]
 
 Dirty talk that incorporates a dominant register — where one partner takes clear verbal control — is one of the most effective forms precisely because it engages the psychological dimension of sex. The words create a power dynamic, and that dynamic can be intensely arousing for both partners regardless of their usual personalities outside of sex.
 
