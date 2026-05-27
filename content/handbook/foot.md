@@ -36,8 +36,6 @@ Foot worship lends itself naturally to dominance and submission dynamics — not
 
 ## Anatomy: Why Feet Are Exceptionally Sensitive
 
-[image src="media/img/foot-worship-anatomy.jpg" alt="Foot Anatomy and Nerve Endings"]
-
 The human foot contains roughly 7,000 to 8,000 nerve endings — one of the highest concentrations of sensory receptors in the body. Among these, the Meissner's corpuscles (responsible for detecting light touch) and Pacinian corpuscles (responsive to pressure and vibration) are particularly dense, especially on the sole and toes.
 
 Understanding the sensory map of the foot makes it easier to work with intentionally:
@@ -55,8 +53,6 @@ Understanding the sensory map of the foot makes it easier to work with intention
 ---
 
 ## Preparation: The Foundation of Everything
-
-[image src="media/img/foot-worship-prep.jpg" alt="Foot Care and Preparation"]
 
 More than almost any other form of erotic play, foot worship rewards preparation. The aesthetic, tactile and olfactory dimensions of feet are central to the experience — and each of these is significantly improved by attention beforehand.
 
@@ -119,6 +115,8 @@ The progression from massage to oral contact is one of the significant threshold
 Begin away from the toes. Kisses along the arch, the inner ankle, the top of the foot — unhurried and deliberate. The quality of a kiss matters here: a light, dry kiss produces a different sensation than a warm, slightly open one. Varying between the two builds sensation.
 
 Progress toward the sole only when sufficient warmth has been established through massage and kissing elsewhere. The sole is highly sensitive; approaching it too directly or too quickly often produces the tickle reflex rather than the erotic charge. A warm, sustained kiss on the sole — firm enough to register as intentional pressure — is far more effective than something quick and light.
+
+[image src="media/img/foot-worship-kiss.jpg" alt="Kissing"]
 
 ### Licking
 
@@ -222,8 +220,6 @@ For a significant proportion of people who engage in foot worship, the power dim
 
 ## Introducing Foot Play to a Partner
 
-[image src="media/img/foot-worship-communication.jpg" alt="Communication and Consent"]
-
 For many people with a foot fetish, the conversation about introducing it to a partner is one of the most anxiety-producing aspects of the whole subject. The fetish carries cultural baggage — it is routinely played for comedy, treated as a punchline — and this can make even a confident person hesitate to name it.
 
 The honest conversation is almost always better than the alternative. Partners who are introduced to foot play gradually and without context — and who later learn that their partner's interest was deeper and more specific than they realised — often feel more complicated about it than they would have had they been asked directly from the beginning.
@@ -255,8 +251,6 @@ The honest conversation is almost always better than the alternative. Partners w
 ---
 
 ## Aftercare
-
-[image src="media/img/foot-worship-aftercare.jpg" alt="Aftercare"]
 
 Extended foot worship — particularly sessions with a power dynamic, or sessions where the receiving partner has been held in a sustained state of intense sensation — asks something of both people, and the period after deserves the same attention as the practice itself.
 
