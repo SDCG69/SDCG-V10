@@ -157,9 +157,9 @@ Done correctly, the takate kote is stable, adjustable and deeply comfortable to 
 
 ### Hip and Leg Ties
 
-**The Futomomo** (a thigh tie folding the lower leg against the upper leg) and **hip harnesses** are generally more forgiving than upper-body ties because there are fewer major nerve pathways at risk from correctly placed rope. They are accessible to intermediate riggers and produce striking visual results.
+**The Futomoto** (a thigh tie folding the lower leg against the upper leg) and **hip harnesses** are generally more forgiving than upper-body ties because there are fewer major nerve pathways at risk from correctly placed rope. They are accessible to intermediate riggers and produce striking visual results.
 
-[image src="media/img/shibari-futomomo.png" alt="Futomomo Leg Tie"]
+[image src="media/img/shibari-futomoto.png" alt="Futomoto Leg Tie"]
 
 The popliteal fossa (the back of the knee) must always remain free of direct rope pressure. Otherwise, hip and leg ties are well suited to riggers who are ready to move beyond wrist and simple body ties.
 
