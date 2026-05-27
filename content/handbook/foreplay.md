@@ -12,7 +12,6 @@ This guide covers every dimension of foreplay — from the mental and psychologi
 
 ## Mental Foreplay: Where It Actually Begins
 
-[image src="media/img/foreplay-mental.jpg" alt="Mental Foreplay and Sexual Tension"]
 
 The most powerful foreplay does not involve touching at all. It involves attention — the sustained, deliberate communication of desire that creates anticipation in a partner long before any physical contact occurs.
 
@@ -30,8 +29,6 @@ Mental foreplay is the practice of deliberately building that tension. It takes 
 
 ## Appearance As Foreplay
 
-[image src="media/img/foreplay-appearance.jpg" alt="Appearance and Visual Foreplay"]
-
 Most people understand on some level that appearance matters in attraction. What is less commonly understood is that making a deliberate choice to look appealing for a specific encounter — rather than simply looking as you always look — carries a distinct erotic charge of its own.
 
 The deliberateness is the point. When a partner clearly made a specific effort — chose that particular item, applied that particular thing — it communicates that they were thinking about this moment and about the effect they wanted to create. That communication is itself a form of foreplay.
@@ -44,9 +41,9 @@ It is worth experimenting with what specifically works on your particular partne
 
 ## Physical Foreplay: Techniques And Touch
 
-[image src="media/img/foreplay-touch.jpg" alt="Physical Foreplay Touch Techniques"]
-
 ### Kissing
+
+[image src="media/img/foreplay-touch.jpg" alt="Physical Foreplay Touch Techniques"]
 
 Kissing is where most physical foreplay begins and, even in long-established relationships, it is one of the most powerful forms of intimate contact available. Research consistently finds that couples in satisfying long-term relationships tend to maintain kissing as a regular practice; couples in dissatisfied relationships often report that kissing has faded or become perfunctory.
 
@@ -63,6 +60,8 @@ Use the whole mouth, not just the lips. The tongue, used lightly and without agg
 Move beyond the lips. The neck, the jaw, the ears, and the collarbones are all areas that respond strongly to kissing and that are frequently neglected. Trailing kisses from the mouth to the neck and along the jaw produces a different sensation from mouth-to-mouth contact and stimulates a different set of nerve endings. The back of the neck, in particular, is one of the most sensitive areas on the body for many people and responds strongly to both kissing and breath.
 
 ### Touch and Massage
+
+[image src="media/img/sensual-massage.jpg" alt="Physical Foreplay Touch Techniques"]
 
 How you touch a partner during foreplay matters as much as where. The quality of touch — its pressure, its pace, its intentionality — communicates as much as its location.
 
@@ -91,8 +90,6 @@ Discovering which of these areas produces the strongest response in your specifi
 ---
 
 ## Specific Foreplay Scenarios And Ideas
-
-[image src="media/img/foreplay-scenarios.jpg" alt="Foreplay Scenarios and Ideas"]
 
 ### The Long Build
 
@@ -134,8 +131,6 @@ Sex toys and other physical props can significantly expand the range of foreplay
 
 ## Common Foreplay Mistakes
 
-[image src="media/img/foreplay-mistakes.jpg" alt="Common Foreplay Mistakes"]
-
 **Rushing.** The single most common foreplay error. Foreplay that is obviously being completed as efficiently as possible in order to reach penetration communicates, very clearly, that the foreplay itself is not the point. For most people, this is distinctly unsexy. Slowing down — taking more time than you think is necessary, allowing pauses, not progressing until the partner is genuinely ready — is almost always an improvement.
 
 **Focusing exclusively on genitals.** Foreplay that begins with and remains centred on genital contact ignores the vast majority of the body's erogenous geography and tends to feel more clinical than erotic. Whole-body engagement — touch, kissing, and attention across a much wider range — produces a significantly richer experience.
@@ -160,7 +155,7 @@ The information that comes from asking — and from paying close attention to th
 
 ## Afterplay: The Frequently Forgotten Component
 
-[image src="media/img/foreplay-afterplay.jpg" alt="Afterplay and Connection"]
+[image src="media/gif/foreplay-afterplay.gif" alt="Afterplay and Connection"]
 
 Just as foreplay shapes the quality of the sex that follows it, the period immediately after sex — often called afterplay — shapes how the entire experience is felt and remembered. This period is frequently mishandled, particularly in longer relationships where the urgency of the initial attraction has faded.
 
