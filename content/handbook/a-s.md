@@ -130,13 +130,15 @@ Two fingers follow the same principles: add a second only when one is comfortabl
 
 Anal toys are an excellent way to explore and progress at your own pace, whether used alone or with a partner.
 
-[image src="media/img/anal-toys.jpg" alt="Anal Toys"]
+[image src="content/memory/toys/toy_10.jpg" alt="Anal Toys"]
 
 **Critical safety rule:** every anal toy must have a flared base or a retrieval cord. The anal canal creates suction, and objects without a flared base can be drawn in completely. This is a medical emergency. Never insert anything anally that does not have a wide base wider than the object itself, or a string attached.
 
 **Butt plugs** are designed to be inserted and worn, providing a sustained sensation of fullness. Beginning with a small plug — roughly the diameter of a finger — allows the body to adjust gradually. Silicone, glass and metal are the safest materials: non-porous and easy to sterilise. Avoid plugs made of jelly, rubber or PVC, which are porous and cannot be fully cleaned.
 
 **Anal beads** consist of a series of spheres on a cord or shaft, designed to be inserted gradually and then removed — typically at the point of orgasm, which intensifies the sensation significantly. Begin with the smallest bead and progress only as comfort allows.
+
+[image src="media/img/anal-beads.jpg" alt="Anal Sex"]
 
 **Prostate massagers** are curved toys specifically designed to reach and stimulate the prostate gland. Many combine internal prostate stimulation with external perineum pressure. Used with adequate lubrication, they produce a deep, resonant pleasure that is distinct from any other form of stimulation.
 
@@ -181,8 +183,6 @@ Pain is always a stop signal. Anal sex should not hurt. Mild pressure, fullness 
 ---
 
 ## STI Prevention and Sexual Health
-
-[image src="media/img/anal-health.jpg" alt="Sexual Health"]
 
 **Condoms** remain the most effective barrier against STI transmission during anal sex.
 
