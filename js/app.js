@@ -321,6 +321,10 @@ function App(){
         .coin-popped{animation:coinPop 0.35s cubic-bezier(0.34,1.56,0.64,1) forwards;}
         .btn{cursor:pointer;border:none;border-radius:12px;font-family:inherit;font-weight:bold;transition:transform .15s,box-shadow .15s;-webkit-tap-highlight-color:transparent}
         .btn:active{transform:scale(0.97)}
+        @keyframes swirlBg{0%{background-position:0% 50%}50%{background-position:100% 50%}100%{background-position:0% 50%}}
+        @keyframes startGlow{0%,100%{box-shadow:0 0 12px 3px #7a00cc99,0 0 28px 6px #3a006688,0 0 0 2px #9933ff55}50%{box-shadow:0 0 22px 6px #aa33ffbb,0 0 48px 14px #6600aaaa,0 0 0 2px #cc66ffaa}}
+        .start-game-btn{background:radial-gradient(ellipse at 30% 40%,#2a005a,#0a0010 60%),conic-gradient(from 0deg,#1a0040,#3d0066,#0a0020,#2a004d,#1a0040);background-size:300% 300%;animation:swirlBg 4s ease infinite,startGlow 2.5s ease-in-out infinite;border:1.5px solid #7a22cc !important;color:#f0d0ff !important;text-shadow:0 0 12px #cc88ff,0 0 24px #aa44ff}
+        .start-game-btn:active{transform:scale(0.97)}
         .pill{cursor:pointer;border-radius:20px;font-family:inherit;font-size:12px;font-weight:bold;padding:6px 13px;transition:all .18s;border:1.5px solid transparent;-webkit-tap-highlight-color:transparent}
         .tog{cursor:pointer;border-radius:8px;font-family:inherit;font-size:12px;padding:5px 11px;border:1.5px solid transparent;transition:all .18s;font-weight:bold;-webkit-tap-highlight-color:transparent}
         input:focus{border-color:#555!important;outline:none}
@@ -356,7 +360,7 @@ function App(){
             <span>⚙️ Manage Challenges</span>
             <span style={{color:"#444",fontSize:"12px",fontWeight:"normal"}}>{totalEnabled} / {ALL_KEYS.size} enabled</span>
           </button>
-          <button className="btn" onClick={startGame} style={{background:"#eee",color:"#080808",fontSize:"25px",padding:"20px 40px",width:"100%"}}>😈 Start Game 😈</button>
+          <button className="btn start-game-btn" onClick={startGame} style={{fontSize:"25px",padding:"20px 40px",width:"100%"}}>😈 Start Game 😈</button>
           <p style={{color:"#444",fontSize:"26px",letterSpacing:"1.5px",textTransform:"uppercase",marginTop:"32px",marginBottom:"0"}}>Hot Extras</p>
           <button className="btn" onClick={()=>{setWarnDest("positionSelect");setScreen("contentWarning");}} style={{background:"#4A0404",border:"1px solid #252525",width:"100%",marginTop:"12px",padding:"14px 16px",display:"flex",flexDirection:"column",alignItems:"flex-start",textAlign:"left"}}>
             <div style={{display:"flex",alignItems:"center",gap:"8px",color:"#888",fontSize:"19px",fontWeight:"bold"}}>
