@@ -94,7 +94,7 @@ More than any technique, toy or preparation routine, relaxation determines wheth
 
 ## Analingus (Rimming)
 
-[image src="media/img/anal-rimming.jpg" alt="Analingus"]
+[image src="media/img/or-cun-power14.jpeg" alt="Analingus"]
 
 Analingus — oral stimulation of the anal opening — is both a pleasurable act in its own right and an excellent way to relax and prepare for penetration. The concentration of nerve endings around the external opening means that a warm, wet tongue produces intense sensation, and the act of being rimmed produces a natural relaxation of the sphincters that makes subsequent penetration considerably easier.
 
