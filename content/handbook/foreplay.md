@@ -81,6 +81,8 @@ Specific areas worth particular attention during touch and massage:
 
 **The feet.** For many people, a foot massage during foreplay, progressing slowly upward from the foot to the ankle and then the calf and inner leg, produces intense arousal by the time anything else happens.
 
+[image src="media/img/foot-worship-massage.jpg" alt="Erotic Foot Massage"]
+
 ### Erogenous Zones Beyond The Obvious
 
 While genitals and breasts receive the majority of attention during foreplay, there is a broader geography of erogenous sensitivity that is worth exploring methodically. The ears and earlobes are particularly responsive to breath, a very light touch, or gentle suction. The nape of the neck responds strongly to slow kisses or a breath blown lightly across the skin. The lower back, the hipbones, and the area just above the buttocks respond to slow, firm pressure.
