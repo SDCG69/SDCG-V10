@@ -414,7 +414,7 @@ function App(){
             <div style={{display:"flex",alignItems:"center",gap:"8px",color:"#888",fontSize:"19px",fontWeight:"bold"}}>
               <span>💑</span><span>We Match? — Couples Quiz</span>
             </div>
-            <p style={{color:"#4a4a4a",fontSize:"12px",margin:"6px 0 0",lineHeight:"1.5",paddingLeft:"2px"}}>A deep compatibility quiz for two. Answer 100 intimate questions separately, then discover what you share.</p>
+            <p style={{color:"#4a4a4a",fontSize:"12px",margin:"6px 0 0",lineHeight:"1.5",paddingLeft:"2px"}}>A thorough and probing sexual preferences and limits quiz for two. Answer 25 deeply intimate questions separately, then discover what you share.</p>
           </button>
           <button className="btn" onClick={()=>setScreen("fruitMachine")} style={{background:"#4A0404",border:"1px solid #252525",width:"100%",marginTop:"12px",padding:"14px 16px",display:"flex",flexDirection:"column",alignItems:"flex-start",textAlign:"left"}}>
             <div style={{display:"flex",alignItems:"center",gap:"8px",color:"#888",fontSize:"19px",fontWeight:"bold"}}>
@@ -699,9 +699,9 @@ function App(){
 
           {/* play button */}
           <button
-            className="btn"
+            className="btn start-game-btn"
             onClick={()=>confirmTags(tagPrefs)}
-            style={{background:"#eee",color:"#080808",fontSize:"22px",padding:"20px 40px",width:"100%",marginTop:"14px"}}
+            style={{fontSize:"22px",padding:"20px 40px",width:"100%",marginTop:"14px"}}
           >
             😈 Play Time! 😈
           </button>
@@ -1069,8 +1069,8 @@ function App(){
 
       {/* ══ HANDBOOK LIST ══ */}
       {screen==="handbookList"&&(
-        <div style={{animation:"fadeUp .35s ease",maxWidth:"540px",width:"100%"}}>
-          <div style={{display:"flex",alignItems:"center",justifyContent:"space-between",marginBottom:"20px"}}>
+        <div style={{animation:"fadeUp .35s ease",maxWidth:"540px",width:"100%",display:"flex",flexDirection:"column",height:"100vh",overflow:"hidden"}}>
+          <div style={{display:"flex",alignItems:"center",justifyContent:"space-between",padding:"16px 0 14px",borderBottom:"1px solid #1e1e1e",background:"#0d0d0d",flexShrink:0}}>
             <button onClick={()=>setScreen("setup")} style={{background:"#141414",border:"1px solid #222",color:"#888",borderRadius:"8px",padding:"7px 13px",cursor:"pointer",fontFamily:"inherit",fontSize:"13px"}}>← Back</button>
             <div style={{textAlign:"center"}}>
               <div style={{color:"#555",fontSize:"11px",letterSpacing:"2px",textTransform:"uppercase",marginBottom:"2px"}}>Hot Extras</div>
@@ -1078,7 +1078,7 @@ function App(){
             </div>
             <div style={{width:"72px"}}/>
           </div>
-          <div style={{display:"flex",flexDirection:"column",gap:"18px"}}>
+          <div style={{flex:1,overflowY:"auto",paddingTop:"20px",paddingBottom:"20px",display:"flex",flexDirection:"column",gap:"18px"}}>
             {(()=>{
               // Group items by letter (uses item.letter if set, else first char of title)
               const groups={};
@@ -1118,8 +1118,8 @@ function App(){
 
       {/* ══ HANDBOOK DETAIL ══ */}
       {screen==="handbookDetail"&&handbookItem&&(
-        <div style={{animation:"fadeUp .35s ease",maxWidth:"540px",width:"100%"}}>
-          <div style={{display:"flex",alignItems:"center",justifyContent:"space-between",marginBottom:"20px"}}>
+        <div style={{animation:"fadeUp .35s ease",maxWidth:"540px",width:"100%",display:"flex",flexDirection:"column",height:"100vh",overflow:"hidden"}}>
+          <div style={{display:"flex",alignItems:"center",justifyContent:"space-between",padding:"16px 0 14px",borderBottom:"1px solid #1e1e1e",background:"#0d0d0d",flexShrink:0}}>
             <button onClick={()=>setScreen("handbookList")} style={{background:"#141414",border:"1px solid #222",color:"#888",borderRadius:"8px",padding:"7px 13px",cursor:"pointer",fontFamily:"inherit",fontSize:"13px"}}>← Back</button>
             <div style={{textAlign:"center"}}>
               <div style={{color:"#555",fontSize:"11px",letterSpacing:"2px",textTransform:"uppercase",marginBottom:"2px"}}>Hot Extras</div>
@@ -1127,6 +1127,7 @@ function App(){
             </div>
             <div style={{width:"72px"}}/>
           </div>
+          <div style={{flex:1,overflowY:"auto",paddingTop:"20px",paddingBottom:"20px"}}>
           <div style={{background:"linear-gradient(135deg,#120500,#0d0d0d)",border:"1px solid #4A040433",borderRadius:"24px",padding:"24px",marginBottom:"14px"}}>
             <div style={{display:"flex",alignItems:"center",gap:"16px",marginBottom:"20px"}}>
               <img src={"media/img/"+handbookItem.img} alt="" style={{width:"72px",height:"72px",borderRadius:"14px",objectFit:"cover",border:"1px solid #3a1a1a"}}/>
@@ -1152,13 +1153,14 @@ function App(){
           <button className="btn" onClick={()=>setScreen("handbookList")} style={{background:"#1a1a1a",color:"#888",border:"1px solid #222",fontSize:"15px",padding:"15px",width:"100%"}}>
             ← Back to Handbook
           </button>
+          </div>
         </div>
       )}
 
       {/* ══ EROTICA LIST ══ */}
       {screen==="eroticaList"&&(
-        <div style={{animation:"fadeUp .35s ease",maxWidth:"540px",width:"100%"}}>
-          <div style={{display:"flex",alignItems:"center",justifyContent:"space-between",marginBottom:"20px"}}>
+        <div style={{animation:"fadeUp .35s ease",maxWidth:"540px",width:"100%",display:"flex",flexDirection:"column",height:"100vh",overflow:"hidden"}}>
+          <div style={{display:"flex",alignItems:"center",justifyContent:"space-between",padding:"16px 0 14px",borderBottom:"1px solid #1e1e1e",background:"#0d0d0d",flexShrink:0}}>
             <button onClick={()=>setScreen("setup")} style={{background:"#141414",border:"1px solid #222",color:"#888",borderRadius:"8px",padding:"7px 13px",cursor:"pointer",fontFamily:"inherit",fontSize:"13px"}}>← Back</button>
             <div style={{textAlign:"center"}}>
               <div style={{color:"#555",fontSize:"11px",letterSpacing:"2px",textTransform:"uppercase",marginBottom:"2px"}}>Hot Extras</div>
@@ -1166,7 +1168,7 @@ function App(){
             </div>
             <div style={{width:"72px"}}/>
           </div>
-          <div style={{display:"flex",flexDirection:"column",gap:"18px"}}>
+          <div style={{flex:1,overflowY:"auto",paddingTop:"20px",paddingBottom:"20px",display:"flex",flexDirection:"column",gap:"18px"}}>
             {(()=>{
               // Group items by category, preserving insertion order within each group
               const groups={};
@@ -1205,8 +1207,8 @@ function App(){
 
       {/* ══ EROTICA DETAIL ══ */}
       {screen==="eroticaDetail"&&eroticaItem&&(
-        <div style={{animation:"fadeUp .35s ease",maxWidth:"540px",width:"100%"}}>
-          <div style={{display:"flex",alignItems:"center",justifyContent:"space-between",marginBottom:"20px"}}>
+        <div style={{animation:"fadeUp .35s ease",maxWidth:"540px",width:"100%",display:"flex",flexDirection:"column",height:"100vh",overflow:"hidden"}}>
+          <div style={{display:"flex",alignItems:"center",justifyContent:"space-between",padding:"16px 0 14px",borderBottom:"1px solid #1e1e1e",background:"#0d0d0d",flexShrink:0}}>
             <button onClick={()=>setScreen("eroticaList")} style={{background:"#141414",border:"1px solid #222",color:"#888",borderRadius:"8px",padding:"7px 13px",cursor:"pointer",fontFamily:"inherit",fontSize:"13px"}}>← Back</button>
             <div style={{textAlign:"center"}}>
               <div style={{color:"#555",fontSize:"11px",letterSpacing:"2px",textTransform:"uppercase",marginBottom:"2px"}}>Hot Extras</div>
@@ -1214,6 +1216,7 @@ function App(){
             </div>
             <div style={{width:"72px"}}/>
           </div>
+          <div style={{flex:1,overflowY:"auto",paddingTop:"20px",paddingBottom:"20px"}}>
           <div style={{background:"linear-gradient(135deg,#0d0012,#0d0d0d)",border:"1px solid #2a004433",borderRadius:"24px",padding:"24px",marginBottom:"14px"}}>
             <div style={{display:"flex",alignItems:"center",gap:"16px",marginBottom:"20px"}}>
               <img src={"media/img/"+eroticaItem.img} alt="" style={{width:"72px",height:"72px",borderRadius:"14px",objectFit:"cover",border:"1px solid #2a1a3a"}}/>
@@ -1239,6 +1242,7 @@ function App(){
           <button className="btn" onClick={()=>setScreen("eroticaList")} style={{background:"#1a1a1a",color:"#888",border:"1px solid #222",fontSize:"15px",padding:"15px",width:"100%"}}>
             ← Back to Stories
           </button>
+          </div>
         </div>
       )}
 
