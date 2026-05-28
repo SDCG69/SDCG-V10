@@ -61,7 +61,7 @@ Move beyond the lips. The neck, the jaw, the ears, and the collarbones are all a
 
 ### Touch and Massage
 
-[image src="media/img/sensual-massage.jpg" alt="Physical Foreplay Touch Techniques"]
+[image src="media/img/sensual-massage.jpeg" alt="Physical Foreplay Touch Techniques"]
 
 How you touch a partner during foreplay matters as much as where. The quality of touch — its pressure, its pace, its intentionality — communicates as much as its location.
 
