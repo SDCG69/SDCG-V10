@@ -422,6 +422,12 @@ function App(){
             </div>
             <p style={{color:"#4a4a4a",fontSize:"12px",margin:"6px 0 0",lineHeight:"1.5",paddingLeft:"2px"}}>Spin the reels to reveal who does what to whom. Three intensity levels — Flirty, Spicy &amp; Naughty.</p>
           </button>
+          <button className="btn" onClick={()=>setScreen("slideSolve")} style={{background:"#4A0404",border:"1px solid #252525",width:"100%",marginTop:"12px",padding:"14px 16px",display:"flex",flexDirection:"column",alignItems:"flex-start",textAlign:"left"}}>
+            <div style={{display:"flex",alignItems:"center",gap:"8px",color:"#888",fontSize:"19px",fontWeight:"bold"}}>
+              <span>🧩</span><span>Slide &amp; Solve</span>
+            </div>
+            <p style={{color:"#4a4a4a",fontSize:"12px",margin:"6px 0 0",lineHeight:"1.5",paddingLeft:"2px"}}>Slide tiles to reveal the hidden picture. Choose a category, pick your difficulty — Easy 3×3 or Hard 4×4.</p>
+          </button>
         </div>
       )}
 
@@ -1533,6 +1539,417 @@ function MemoryGame({faces,totalPairs,onBack}){
           </button>
         </div>
       )}
+    </div>
+  );
+}
+
+/* ══════════════════════════════════════════════════════════════════
+   SLIDE & SOLVE — Puzzle Component (themed to SDCG)
+══════════════════════════════════════════════════════════════════ */
+const PUZZLE_IMAGES = {
+  scenery:      ['puzzle-images/scenery/mountain.jpg','puzzle-images/scenery/lake.jpg'],
+  architecture: ['puzzle-images/architecture/Taj_mahal.jpg','puzzle-images/architecture/Skyscrapers.jpg'],
+  cars:         ['puzzle-images/cars/red.jpg','puzzle-images/cars/race.jpg'],
+  people:       ['puzzle-images/people/bike.jpg','puzzle-images/people/sofa.jpg'],
+};
+
+const PUZZLE_CAT_META = {
+  scenery:      { label:'Scenery',      icon:'🏔' },
+  architecture: { label:'Architecture', icon:'🏛' },
+  cars:         { label:'Cars',         icon:'🚗' },
+  people:       { label:'People',       icon:'👥' },
+};
+
+function SlideSolvePuzzle({ onBack }) {
+  const [view, setView]         = React.useState('setup'); // 'setup' | 'game'
+  const [grid, setGrid]         = React.useState(3);
+  const [category, setCategory] = React.useState(null);
+  const [imageUrl, setImageUrl] = React.useState(null);
+  const [slices, setSlices]     = React.useState([]);
+  const [tiles, setTiles]       = React.useState([]);
+  const [blankPos, setBlankPos] = React.useState(0);
+  const [moves, setMoves]       = React.useState(0);
+  const [seconds, setSeconds]   = React.useState(0);
+  const [showNums, setShowNums] = React.useState(false);
+  const [solved, setSolved]     = React.useState(false);
+  const [loading, setLoading]   = React.useState(false);
+  const [showPreview, setShowPreview] = React.useState(false);
+  const [showWin, setShowWin]   = React.useState(false);
+  const [winMsg, setWinMsg]     = React.useState('');
+  const [tileEls, setTileEls]   = React.useState([]);
+
+  const timerRef  = React.useRef(null);
+  const boardRef  = React.useRef(null);
+  const stateRef  = React.useRef({ tiles:[], blankPos:0, moves:0, grid:3, solved:false });
+
+  // Keep stateRef in sync
+  React.useEffect(() => { stateRef.current.grid = grid; }, [grid]);
+
+  function stopTimer() { clearInterval(timerRef.current); timerRef.current = null; }
+  function startTimer() {
+    stopTimer();
+    timerRef.current = setInterval(() => setSeconds(s => s + 1), 1000);
+  }
+  React.useEffect(() => () => stopTimer(), []);
+
+  function fmtTime(s) { return `${Math.floor(s/60)}:${String(s%60).padStart(2,'0')}`; }
+
+  function pickImage(cat) {
+    const pool = PUZZLE_IMAGES[cat || category];
+    return pool[Math.floor(Math.random() * pool.length)];
+  }
+
+  function sliceImage(src, n) {
+    return new Promise((resolve, reject) => {
+      const img = new Image();
+      img.onload = () => {
+        const TILE = 480;
+        const side = Math.min(img.naturalWidth, img.naturalHeight);
+        const ox   = (img.naturalWidth  - side) / 2;
+        const oy   = (img.naturalHeight - side) / 2;
+        const srcTile = side / n;
+        const pieces  = [];
+        for (let row = 0; row < n; row++) {
+          for (let col = 0; col < n; col++) {
+            const cv = document.createElement('canvas');
+            cv.width = cv.height = TILE;
+            cv.getContext('2d').drawImage(img,
+              ox + col * srcTile, oy + row * srcTile, srcTile, srcTile,
+              0, 0, TILE, TILE);
+            pieces.push(cv.toDataURL('image/jpeg', 0.88));
+          }
+        }
+        resolve(pieces);
+      };
+      img.onerror = () => reject(new Error('Image failed to load'));
+      img.src = src;
+    });
+  }
+
+  function doNeighbors(pos, n) {
+    const r = Math.floor(pos/n), c = pos%n, res = [];
+    if (r > 0)   res.push(pos - n);
+    if (r < n-1) res.push(pos + n);
+    if (c > 0)   res.push(pos - 1);
+    if (c < n-1) res.push(pos + 1);
+    return res;
+  }
+
+  function doShuffle(tilesArr, n) {
+    let arr = [...tilesArr];
+    let blank = arr.length - 1;
+    const moves = n === 3 ? 150 : 350;
+    let prev = -1;
+    for (let i = 0; i < moves; i++) {
+      const nb = doNeighbors(blank, n).filter(p => p !== prev);
+      const to = nb[Math.floor(Math.random() * nb.length)];
+      [arr[to], arr[blank]] = [arr[blank], arr[to]];
+      prev = blank;
+      blank = to;
+    }
+    return { arr, blank };
+  }
+
+  function isMovable(pos, bp, n) {
+    const b = bp;
+    return (Math.floor(pos/n) === Math.floor(b/n) && Math.abs(pos%n - b%n) === 1) ||
+           (pos%n === b%n && Math.abs(Math.floor(pos/n) - Math.floor(b/n)) === 1);
+  }
+
+  async function startGame(cat, g) {
+    const url = pickImage(cat || category);
+    setImageUrl(url);
+    setView('game');
+    setLoading(true);
+    setMoves(0);
+    setSeconds(0);
+    setSolved(false);
+    setShowWin(false);
+    stopTimer();
+    try {
+      const s = await sliceImage(url, g || grid);
+      const total = (g || grid) * (g || grid);
+      const init  = Array.from({length: total}, (_, i) => i);
+      const {arr, blank} = doShuffle(init, g || grid);
+      setSlices(s);
+      setTiles(arr);
+      setBlankPos(blank);
+      stateRef.current = { tiles: arr, blankPos: blank, moves: 0, grid: g || grid, solved: false };
+      setLoading(false);
+      startTimer();
+    } catch(e) {
+      setLoading(false);
+    }
+  }
+
+  function handleTileClick(pos) {
+    const { tiles: t, blankPos: bp, grid: n, solved: sv } = stateRef.current;
+    if (sv) return;
+    if (!isMovable(pos, bp, n)) return;
+    const newTiles = [...t];
+    [newTiles[pos], newTiles[bp]] = [newTiles[bp], newTiles[pos]];
+    const newMoves = stateRef.current.moves + 1;
+    stateRef.current = { ...stateRef.current, tiles: newTiles, blankPos: pos, moves: newMoves };
+    setTiles([...newTiles]);
+    setBlankPos(pos);
+    setMoves(newMoves);
+    // check win
+    const won = newTiles.every((v, i) => v === i);
+    if (won) {
+      stateRef.current.solved = true;
+      setSolved(true);
+      stopTimer();
+      const msgs = ['Brilliant!','Excellent!','You nailed it!','Superb!','Outstanding!'];
+      setWinMsg(msgs[Math.floor(Math.random() * msgs.length)]);
+      setTimeout(() => setShowWin(true), 350);
+    }
+  }
+
+  function handleReshuffle() {
+    const { tiles: t, grid: n } = stateRef.current;
+    const total = n * n;
+    const init  = Array.from({length: total}, (_, i) => i);
+    const {arr, blank} = doShuffle(init, n);
+    stateRef.current = { tiles: arr, blankPos: blank, moves: 0, grid: n, solved: false };
+    setTiles([...arr]);
+    setBlankPos(blank);
+    setMoves(0);
+    setSeconds(0);
+    setSolved(false);
+    setShowWin(false);
+    stopTimer();
+    startTimer();
+  }
+
+  function handleNextImage() {
+    const url = pickImage();
+    setImageUrl(url);
+    startGame(category, grid);
+  }
+
+  // ── RENDER: SETUP ────────────────────────────────────────────
+  if (view === 'setup') {
+    return (
+      <div style={{animation:'fadeUp .35s ease',width:'100%',maxWidth:'520px',display:'flex',flexDirection:'column',minHeight:'calc(100vh - 40px)'}}>
+        {/* Header */}
+        <div style={{display:'flex',alignItems:'center',justifyContent:'space-between',padding:'14px 0 10px'}}>
+          <button onClick={onBack} style={{background:'#141414',border:'1px solid #222',color:'#888',borderRadius:'8px',padding:'7px 13px',cursor:'pointer',fontFamily:'inherit',fontSize:'13px'}}>← Back</button>
+          <div style={{textAlign:'center'}}>
+            <div style={{color:'#555',fontSize:'11px',letterSpacing:'2px',textTransform:'uppercase',marginBottom:'2px'}}>Hot Extras</div>
+            <h2 style={{color:'#e8cdd8',fontSize:'1.3rem',margin:0,fontFamily:'Georgia,serif',fontWeight:'normal'}}>Slide <span style={{color:'#c9446a',fontStyle:'italic'}}>&amp; Solve</span></h2>
+          </div>
+          <span style={{width:'70px'}}/>
+        </div>
+
+        <p style={{color:'#555',fontSize:'13px',textAlign:'center',marginBottom:'20px',letterSpacing:'0.5px'}}>Slide the tiles to reveal the picture</p>
+
+        {/* Difficulty */}
+        <div style={{marginBottom:'20px'}}>
+          <div style={{color:'#444',fontSize:'11px',letterSpacing:'2px',textTransform:'uppercase',marginBottom:'10px'}}>Difficulty</div>
+          <div style={{display:'flex',gap:'10px'}}>
+            {[{n:3,label:'3×3  Easy'},{n:4,label:'4×4  Hard'}].map(({n,label}) => (
+              <button key={n} onClick={()=>setGrid(n)}
+                style={{flex:1,padding:'11px',borderRadius:'20px',border:`1.5px solid ${grid===n?'#8b0000':'#222'}`,background:grid===n?'rgba(139,0,0,0.15)':'#141414',color:grid===n?'#c9446a':'#555',fontSize:'13px',fontWeight:'600',cursor:'pointer',fontFamily:'inherit',transition:'all .15s'}}>
+                {label}
+              </button>
+            ))}
+          </div>
+        </div>
+
+        {/* Category */}
+        <div style={{marginBottom:'24px'}}>
+          <div style={{color:'#444',fontSize:'11px',letterSpacing:'2px',textTransform:'uppercase',marginBottom:'10px'}}>Category</div>
+          <div style={{display:'grid',gridTemplateColumns:'1fr 1fr',gap:'10px'}}>
+            {Object.keys(PUZZLE_IMAGES).map(cat => {
+              const imgs = PUZZLE_IMAGES[cat];
+              const meta = PUZZLE_CAT_META[cat] || {label:cat,icon:'🖼'};
+              const sel  = category === cat;
+              return (
+                <div key={cat} onClick={()=>setCategory(cat)}
+                  style={{borderRadius:'12px',border:`1.5px solid ${sel?'#8b0000':'#1e1e1e'}`,background:sel?'rgba(139,0,0,0.12)':'#0d0d0d',cursor:'pointer',overflow:'hidden',position:'relative',aspectRatio:'4/3',transition:'all .18s',boxShadow:sel?'0 0 0 2px rgba(139,0,0,0.2)':'none'}}>
+                  <img src={imgs[0]} alt={meta.label} style={{width:'100%',height:'100%',objectFit:'cover',display:'block',opacity:sel?0.75:0.4,transition:'opacity .2s'}}/>
+                  <div style={{position:'absolute',inset:0,display:'flex',flexDirection:'column',justifyContent:'flex-end',padding:'10px 12px',background:'linear-gradient(0deg, rgba(0,0,0,0.75) 0%, transparent 55%)'}}>
+                    <div style={{fontFamily:'Georgia,serif',fontSize:'1rem',letterSpacing:'1px',color:sel?'#c9446a':'#ccc',textTransform:'uppercase',fontStyle:sel?'italic':'normal'}}>{meta.label}</div>
+                    <div style={{fontSize:'11px',color:'rgba(255,255,255,0.4)',letterSpacing:'0.5px',marginTop:'2px'}}>{imgs.length} image{imgs.length!==1?'s':''}</div>
+                  </div>
+                  {sel&&<div style={{position:'absolute',top:'8px',right:'8px',width:'22px',height:'22px',borderRadius:'50%',background:'#8b0000',display:'flex',alignItems:'center',justifyContent:'center',fontSize:'11px',color:'#fff',fontWeight:'700'}}>✓</div>}
+                </div>
+              );
+            })}
+          </div>
+        </div>
+
+        <button className="btn start-game-btn"
+          onClick={()=>category&&startGame(category,grid)}
+          disabled={!category}
+          style={{fontSize:'18px',padding:'18px 40px',width:'100%',opacity:category?1:0.35,letterSpacing:'2px'}}>
+          🧩 Start Puzzle 🧩
+        </button>
+      </div>
+    );
+  }
+
+  // ── RENDER: GAME ─────────────────────────────────────────────
+  const n = stateRef.current.grid;
+  const total = n * n;
+
+  // Board sizing using CSS
+  const boardStyle = {
+    width:'100%', maxWidth:'380px', aspectRatio:'1', position:'relative',
+    borderRadius:'12px', background:'#080808', touchAction:'none',
+  };
+
+  return (
+    <div style={{width:'100%',maxWidth:'520px',display:'flex',flexDirection:'column',minHeight:'100vh',background:'#080808'}}>
+      {/* Header */}
+      <div style={{display:'flex',alignItems:'center',justifyContent:'space-between',padding:'10px 14px',background:'#0d0d0d',borderBottom:'1px solid #1a1a1a',flexShrink:0}}>
+        <button onClick={()=>{stopTimer();setView('setup');}} style={{background:'#141414',border:'1px solid #222',color:'#888',borderRadius:'8px',padding:'7px 13px',cursor:'pointer',fontFamily:'inherit',fontSize:'13px'}}>← Back</button>
+        <div style={{textAlign:'center'}}>
+          <div style={{color:'#555',fontSize:'10px',letterSpacing:'2px',textTransform:'uppercase'}}>Slide &amp; Solve</div>
+          <div style={{color:'#888',fontSize:'12px',letterSpacing:'1px',marginTop:'2px'}}>{(PUZZLE_CAT_META[category]||{}).label} · {n}×{n}</div>
+        </div>
+        <button onClick={handleReshuffle} style={{background:'none',border:'1px solid #333',color:'#666',fontSize:'10px',padding:'6px 10px',borderRadius:'4px',cursor:'pointer',fontFamily:'inherit',letterSpacing:'1px'}}>SHUFFLE</button>
+      </div>
+
+      {/* Stats */}
+      <div style={{display:'flex',gap:'8px',padding:'10px 14px 6px'}}>
+        {[{label:'Moves',val:moves,color:'#8b0000'},{label:'Time',val:fmtTime(seconds),color:'#c9446a'}].map(({label,val,color}) => (
+          <div key={label} style={{flex:1,background:'#0d0d0d',border:'1px solid #1a1a1a',borderRadius:'10px',padding:'8px 10px',display:'flex',flexDirection:'column',gap:'2px'}}>
+            <span style={{fontSize:'10px',fontWeight:'700',letterSpacing:'1.5px',textTransform:'uppercase',color:'#333'}}>{label}</span>
+            <span style={{fontFamily:'Georgia,serif',fontSize:'1.35rem',letterSpacing:'1px',lineHeight:1,color}}>{val}</span>
+          </div>
+        ))}
+        <div style={{flex:1,background:'#0d0d0d',border:'1px solid #1a1a1a',borderRadius:'10px',padding:'8px 10px',display:'flex',flexDirection:'column',gap:'2px'}}>
+          <span style={{fontSize:'10px',fontWeight:'700',letterSpacing:'1.5px',textTransform:'uppercase',color:'#333'}}>Nums</span>
+          <span onClick={()=>setShowNums(v=>!v)} style={{fontSize:'0.85rem',color:showNums?'#c9446a':'#555',cursor:'pointer',fontWeight:'600',letterSpacing:'1px'}}>{showNums?'ON':'OFF'}</span>
+        </div>
+      </div>
+
+      {/* Board */}
+      <div style={{padding:'0 14px',display:'flex',flexDirection:'column',alignItems:'center',flex:1}}>
+        {loading ? (
+          <div style={boardStyle}>
+            <div style={{position:'absolute',inset:0,display:'flex',flexDirection:'column',alignItems:'center',justifyContent:'center',gap:'10px',color:'#333',fontSize:'13px',letterSpacing:'1px'}}>
+              <div style={{width:'28px',height:'28px',border:'3px solid #1a1a1a',borderTopColor:'#8b0000',borderRadius:'50%',animation:'spin .7s linear infinite'}}/>
+              Loading…
+            </div>
+          </div>
+        ) : (
+          <PuzzleBoard
+            tiles={tiles} slices={slices} grid={n} blankPos={blankPos}
+            showNums={showNums} onTileClick={handleTileClick}
+          />
+        )}
+        {/* Action buttons */}
+        <div style={{display:'flex',gap:'8px',padding:'12px 0 0',maxWidth:'380px',width:'100%'}}>
+          <button onClick={()=>setShowPreview(true)} style={{flex:1,padding:'12px 6px',borderRadius:'10px',border:'1px solid #1e1e1e',background:'#0d0d0d',color:'#555',fontSize:'12px',fontWeight:'600',cursor:'pointer',fontFamily:'inherit'}}>👁 Preview</button>
+          <button onClick={handleReshuffle}           style={{flex:1,padding:'12px 6px',borderRadius:'10px',border:'1px solid #1e1e1e',background:'#0d0d0d',color:'#555',fontSize:'12px',fontWeight:'600',cursor:'pointer',fontFamily:'inherit'}}>🔀 Shuffle</button>
+          <button onClick={handleNextImage}           style={{flex:1,padding:'12px 6px',borderRadius:'10px',border:'1px solid #3a0000',background:'rgba(139,0,0,0.12)',color:'#c9446a',fontSize:'12px',fontWeight:'600',cursor:'pointer',fontFamily:'inherit'}}>🖼 New Image</button>
+        </div>
+      </div>
+
+      {/* Preview overlay */}
+      {showPreview&&(
+        <div onClick={()=>setShowPreview(false)} style={{position:'fixed',inset:0,background:'rgba(0,0,0,0.88)',zIndex:100,display:'flex',alignItems:'center',justifyContent:'center',padding:'32px 20px'}}>
+          <div onClick={e=>e.stopPropagation()} style={{position:'relative',maxWidth:'340px',width:'100%'}}>
+            <div onClick={()=>setShowPreview(false)} style={{position:'absolute',top:'-14px',right:'-14px',width:'34px',height:'34px',borderRadius:'50%',background:'#141414',border:'1px solid #222',color:'#888',display:'flex',alignItems:'center',justifyContent:'center',cursor:'pointer',fontSize:'1.1rem'}}>×</div>
+            <img src={imageUrl} alt="Preview" style={{width:'100%',borderRadius:'12px',display:'block',boxShadow:'0 24px 60px rgba(0,0,0,0.8)'}}/>
+            <div style={{textAlign:'center',marginTop:'10px',fontSize:'12px',color:'#444',letterSpacing:'0.5px'}}>Memorise it — then close and solve!</div>
+          </div>
+        </div>
+      )}
+
+      {/* Win overlay */}
+      {showWin&&(
+        <div style={{position:'fixed',inset:0,background:'rgba(0,0,0,0.88)',zIndex:200,display:'flex',alignItems:'center',justifyContent:'center',padding:'32px 20px'}}>
+          <div style={{background:'linear-gradient(135deg,#1a0000,#0d0d0d)',border:'1px solid #8b000055',borderRadius:'24px',padding:'36px 24px 28px',textAlign:'center',maxWidth:'320px',width:'100%',position:'relative',overflow:'hidden',boxShadow:'0 20px 60px #8b000033,0 4px 20px #000'}}>
+            <div style={{position:'absolute',top:0,left:0,right:0,height:'3px',background:'linear-gradient(90deg,#8b0000,#c9446a)'}}/>
+            <div style={{fontSize:'2.8rem',marginBottom:'10px'}}>🧩</div>
+            <div style={{fontFamily:'Georgia,serif',fontSize:'2rem',letterSpacing:'4px',color:'#c9446a',marginBottom:'4px',fontStyle:'italic'}}>Solved!</div>
+            <div style={{fontSize:'13px',color:'#555',marginBottom:'22px',letterSpacing:'0.5px'}}>{winMsg}</div>
+            <div style={{display:'flex',gap:'16px',justifyContent:'center',marginBottom:'26px'}}>
+              <div style={{textAlign:'center'}}>
+                <div style={{fontFamily:'Georgia,serif',fontSize:'2rem',color:'#e8cdd8',lineHeight:1}}>{moves}</div>
+                <div style={{fontSize:'10px',color:'#444',letterSpacing:'1px',textTransform:'uppercase',marginTop:'3px'}}>Moves</div>
+              </div>
+              <div style={{width:'1px',background:'#1e1e1e',alignSelf:'stretch'}}/>
+              <div style={{textAlign:'center'}}>
+                <div style={{fontFamily:'Georgia,serif',fontSize:'2rem',color:'#e8cdd8',lineHeight:1}}>{fmtTime(seconds)}</div>
+                <div style={{fontSize:'10px',color:'#444',letterSpacing:'1px',textTransform:'uppercase',marginTop:'3px'}}>Time</div>
+              </div>
+            </div>
+            <div style={{display:'flex',gap:'10px'}}>
+              <button className="btn" onClick={()=>{setShowWin(false);handleNextImage();}} style={{flex:1,padding:'13px',borderRadius:'10px',background:'transparent',border:'1px solid #222',color:'#666',fontSize:'13px',fontWeight:'600',cursor:'pointer',fontFamily:'inherit'}}>New Image</button>
+              <button className="btn" onClick={()=>{setShowWin(false);handleReshuffle();}} style={{flex:1,padding:'13px',borderRadius:'10px',background:'#8b0000',border:'none',color:'#fff',fontSize:'13px',fontWeight:'700',cursor:'pointer',fontFamily:'inherit'}}>Play Again</button>
+            </div>
+          </div>
+        </div>
+      )}
+    </div>
+  );
+}
+
+/* ── Stateless board renderer ───────────────────────────────── */
+function PuzzleBoard({ tiles, slices, grid: n, blankPos, showNums, onTileClick }) {
+  const boardRef = React.useRef(null);
+  const [cellSize, setCellSize] = React.useState(0);
+  const GAP = 3;
+
+  React.useEffect(() => {
+    function measure() {
+      if (boardRef.current) {
+        const w = boardRef.current.clientWidth;
+        setCellSize((w - GAP * (n - 1)) / n);
+      }
+    }
+    measure();
+    const ro = new ResizeObserver(measure);
+    if (boardRef.current) ro.observe(boardRef.current);
+    return () => ro.disconnect();
+  }, [n]);
+
+  const total = n * n;
+
+  return (
+    <div ref={boardRef} style={{width:'100%',maxWidth:'380px',aspectRatio:'1',position:'relative',borderRadius:'12px',background:'#080808',touchAction:'none'}}>
+      {cellSize > 0 && tiles.map((piece, pos) => {
+        const row = Math.floor(pos / n);
+        const col = pos % n;
+        const isBlank = piece === total - 1;
+        const canMove = !isBlank && (
+          (Math.floor(pos/n) === Math.floor(blankPos/n) && Math.abs(pos%n - blankPos%n) === 1) ||
+          (pos%n === blankPos%n && Math.abs(Math.floor(pos/n) - Math.floor(blankPos/n)) === 1)
+        );
+        return (
+          <div key={piece}
+            onClick={() => !isBlank && onTileClick(pos)}
+            style={{
+              position:'absolute',
+              top: row * (cellSize + GAP),
+              left: col * (cellSize + GAP),
+              width: cellSize, height: cellSize,
+              borderRadius: '4px',
+              background: isBlank ? 'rgba(0,0,0,0.55)' : '#0d0d0d',
+              overflow:'hidden',
+              cursor: isBlank ? 'default' : (canMove ? 'pointer' : 'default'),
+              outline: canMove ? '2px solid rgba(139,0,0,0.5)' : 'none',
+              outlineOffset: '-2px',
+              transition: 'top .18s cubic-bezier(.25,.8,.25,1), left .18s cubic-bezier(.25,.8,.25,1)',
+              boxShadow: isBlank ? 'none' : '0 1px 3px rgba(0,0,0,0.5)',
+              userSelect:'none',
+            }}>
+            {!isBlank && slices[piece] && (
+              <img src={slices[piece]} draggable={false} alt=""
+                style={{width:'100%',height:'100%',objectFit:'cover',display:'block',pointerEvents:'none',userSelect:'none'}}/>
+            )}
+            {!isBlank && showNums && (
+              <span style={{position:'absolute',bottom:'4px',right:'5px',fontSize:'10px',fontWeight:'800',color:'rgba(255,255,255,0.6)',textShadow:'0 1px 3px rgba(0,0,0,0.9)',pointerEvents:'none'}}>
+                {piece + 1}
+              </span>
+            )}
+          </div>
+        );
+      })}
     </div>
   );
 }
