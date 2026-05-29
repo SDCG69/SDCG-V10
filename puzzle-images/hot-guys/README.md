@@ -1,5 +1,11 @@
-Add your images to this folder named:
-  hot-guy1.jpg
-  hot-guy2.jpg
-  hot-guy3.jpg
-(jpg format recommended)
+Drop your images into this folder using any filenames you like (jpg, png, webp).
+
+Then open puzzle-images/manifest.json and list the exact filenames under
+the matching category key. You can add as many images as you want.
+
+Example for this folder:
+  "puzzle-images/hot-guys/photo1.jpg",
+  "puzzle-images/hot-guys/photo2.jpg",
+  "puzzle-images/hot-guys/myphoto.jpg"
+
+The game picks a random image from the list each time.
