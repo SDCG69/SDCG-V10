@@ -1289,6 +1289,10 @@ function App(){
         <FruitMachineScreen onBack={()=>setScreen("setup")} />
       )}
 
+      {screen==="slideSolve"&&(
+        <SlideSolvePuzzle onBack={()=>setScreen("setup")} />
+      )}
+
       {/* ══ MEMORY GAME ══ */}
       {/* ══ MEMORY TOPIC SELECT ══ */}
       {screen==="memoryTopicSelect"&&(
