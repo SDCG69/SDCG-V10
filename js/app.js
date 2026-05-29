@@ -422,7 +422,7 @@ function App(){
             </div>
             <p style={{color:"#4a4a4a",fontSize:"12px",margin:"6px 0 0",lineHeight:"1.5",paddingLeft:"2px"}}>Spin the reels to reveal who does what to whom. Three intensity levels — Flirty, Spicy &amp; Naughty.</p>
           </button>
-          <button className="btn" onClick={()=>setScreen("slideSolve")} style={{background:"#4A0404",border:"1px solid #252525",width:"100%",marginTop:"12px",padding:"14px 16px",display:"flex",flexDirection:"column",alignItems:"flex-start",textAlign:"left"}}>
+          <button className="btn" onClick={()=>{setWarnDest("slideSolve");setScreen("contentWarning");}} style={{background:"#4A0404",border:"1px solid #252525",width:"100%",marginTop:"12px",padding:"14px 16px",display:"flex",flexDirection:"column",alignItems:"flex-start",textAlign:"left"}}>
             <div style={{display:"flex",alignItems:"center",gap:"8px",color:"#888",fontSize:"19px",fontWeight:"bold"}}>
               <span>🧩</span><span>Slide &amp; Solve</span>
             </div>
@@ -1551,17 +1551,17 @@ function MemoryGame({faces,totalPairs,onBack}){
    SLIDE & SOLVE — Puzzle Component (themed to SDCG)
 ══════════════════════════════════════════════════════════════════ */
 const PUZZLE_IMAGES = {
-  scenery:      ['puzzle-images/scenery/mountain.jpg','puzzle-images/scenery/lake.jpg'],
-  architecture: ['puzzle-images/architecture/Taj_mahal.jpg','puzzle-images/architecture/Skyscrapers.jpg'],
-  cars:         ['puzzle-images/cars/red.jpg','puzzle-images/cars/race.jpg'],
-  people:       ['puzzle-images/people/bike.jpg','puzzle-images/people/sofa.jpg'],
+  hotGuys:     ['puzzle-images/hot-guys/guy1.jpg','puzzle-images/hot-guys/guy2.jpg','puzzle-images/hot-guys/guy3.jpg'],
+  hotLadies:   ['puzzle-images/hot-ladies/lady1.jpg','puzzle-images/hot-ladies/lady2.jpg','puzzle-images/hot-ladies/lady3.jpg'],
+  xxxCouples:  ['puzzle-images/xxx-couples/couple1.jpg','puzzle-images/xxx-couples/couple2.jpg','puzzle-images/xxx-couples/couple3.jpg'],
+  xxxWomen:    ['puzzle-images/xxx-women/woman1.jpg','puzzle-images/xxx-women/woman2.jpg','puzzle-images/xxx-women/woman3.jpg'],
 };
 
 const PUZZLE_CAT_META = {
-  scenery:      { label:'Scenery',      icon:'🏔' },
-  architecture: { label:'Architecture', icon:'🏛' },
-  cars:         { label:'Cars',         icon:'🚗' },
-  people:       { label:'People',       icon:'👥' },
+  hotGuys:    { label:'Hot Guys',     icon:'💪' },
+  hotLadies:  { label:'Hot Ladies',   icon:'💃' },
+  xxxCouples: { label:'XXX Couples',  icon:'🔥' },
+  xxxWomen:   { label:'XXX Women',    icon:'👄' },
 };
 
 function SlideSolvePuzzle({ onBack }) {
@@ -1771,7 +1771,7 @@ function SlideSolvePuzzle({ onBack }) {
               return (
                 <div key={cat} onClick={()=>setCategory(cat)}
                   style={{borderRadius:'12px',border:`1.5px solid ${sel?'#8b0000':'#1e1e1e'}`,background:sel?'rgba(139,0,0,0.12)':'#0d0d0d',cursor:'pointer',overflow:'hidden',position:'relative',aspectRatio:'4/3',transition:'all .18s',boxShadow:sel?'0 0 0 2px rgba(139,0,0,0.2)':'none'}}>
-                  <img src={imgs[0]} alt={meta.label} style={{width:'100%',height:'100%',objectFit:'cover',display:'block',opacity:sel?0.75:0.4,transition:'opacity .2s'}}/>
+                  <img src={imgs[0]} alt={meta.label} onError={e=>{e.target.style.display='none';}} style={{width:'100%',height:'100%',objectFit:'cover',display:'block',opacity:sel?0.75:0.4,transition:'opacity .2s'}}/>
                   <div style={{position:'absolute',inset:0,display:'flex',flexDirection:'column',justifyContent:'flex-end',padding:'10px 12px',background:'linear-gradient(0deg, rgba(0,0,0,0.75) 0%, transparent 55%)'}}>
                     <div style={{fontFamily:'Georgia,serif',fontSize:'1rem',letterSpacing:'1px',color:sel?'#c9446a':'#ccc',textTransform:'uppercase',fontStyle:sel?'italic':'normal'}}>{meta.label}</div>
                     <div style={{fontSize:'11px',color:'rgba(255,255,255,0.4)',letterSpacing:'0.5px',marginTop:'2px'}}>{imgs.length} image{imgs.length!==1?'s':''}</div>
