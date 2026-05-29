@@ -1550,21 +1550,16 @@ function MemoryGame({faces,totalPairs,onBack}){
 /* ══════════════════════════════════════════════════════════════════
    SLIDE & SOLVE — Puzzle Component (themed to SDCG)
 ══════════════════════════════════════════════════════════════════ */
-const PUZZLE_IMAGES = {
-  hotGuys:     ['puzzle-images/hot-guys/guy1.jpg','puzzle-images/hot-guys/guy2.jpg','puzzle-images/hot-guys/guy3.jpg'],
-  hotLadies:   ['puzzle-images/hot-ladies/lady1.jpg','puzzle-images/hot-ladies/lady2.jpg','puzzle-images/hot-ladies/lady3.jpg'],
-  xxxCouples:  ['puzzle-images/xxx-couples/couple1.jpg','puzzle-images/xxx-couples/couple2.jpg','puzzle-images/xxx-couples/couple3.jpg'],
-  xxxWomen:    ['puzzle-images/xxx-women/woman1.jpg','puzzle-images/xxx-women/woman2.jpg','puzzle-images/xxx-women/woman3.jpg'],
-};
-
 const PUZZLE_CAT_META = {
-  hotGuys:    { label:'Hot Guys',     icon:'💪' },
-  hotLadies:  { label:'Hot Ladies',   icon:'💃' },
-  xxxCouples: { label:'XXX Couples',  icon:'🔥' },
-  xxxWomen:   { label:'XXX Women',    icon:'👄' },
+  hotGuys:    { label:'Hot Guys',    icon:'💪' },
+  hotLadies:  { label:'Hot Ladies',  icon:'💃' },
+  xxxCouples: { label:'XXX Couples', icon:'🔥' },
+  xxxWomen:   { label:'XXX Women',   icon:'👄' },
 };
 
 function SlideSolvePuzzle({ onBack }) {
+  const [manifest, setManifest] = React.useState(null);
+  const [manifestErr, setManifestErr] = React.useState(false);
   const [view, setView]         = React.useState('setup'); // 'setup' | 'game'
   const [grid, setGrid]         = React.useState(3);
   const [category, setCategory] = React.useState(null);
@@ -1598,8 +1593,18 @@ function SlideSolvePuzzle({ onBack }) {
 
   function fmtTime(s) { return `${Math.floor(s/60)}:${String(s%60).padStart(2,'0')}`; }
 
+  // Load manifest on mount
+  React.useEffect(() => {
+    fetch('puzzle-images/manifest.json?_=' + Date.now())
+      .then(r => { if (!r.ok) throw new Error('not found'); return r.json(); })
+      .then(data => setManifest(data))
+      .catch(() => setManifestErr(true));
+  }, []);
+
   function pickImage(cat) {
-    const pool = PUZZLE_IMAGES[cat || category];
+    const key = cat || category;
+    const pool = manifest && manifest[key];
+    if (!pool || pool.length === 0) return null;
     return pool[Math.floor(Math.random() * pool.length)];
   }
 
@@ -1670,6 +1675,7 @@ function SlideSolvePuzzle({ onBack }) {
     setSolved(false);
     setShowWin(false);
     stopTimer();
+    if (!url) { setLoading(false); return; }
     try {
       const s = await sliceImage(url, g || grid);
       const total = (g || grid) * (g || grid);
@@ -1733,6 +1739,20 @@ function SlideSolvePuzzle({ onBack }) {
 
   // ── RENDER: SETUP ────────────────────────────────────────────
   if (view === 'setup') {
+    if (manifestErr) return (
+      <div style={{display:'flex',flexDirection:'column',alignItems:'center',justifyContent:'center',minHeight:'60vh',gap:'14px',color:'#555',textAlign:'center',padding:'20px'}}>
+        <div style={{fontSize:'2rem'}}>⚠️</div>
+        <div style={{color:'#888',fontSize:'15px'}}>Could not load <code style={{color:'#c9446a'}}>puzzle-images/manifest.json</code></div>
+        <div style={{fontSize:'13px',lineHeight:'1.7',maxWidth:'320px'}}>Make sure the file exists in your app folder and lists your image filenames. See the README inside each image folder for guidance.</div>
+        <button onClick={onBack} style={{marginTop:'10px',background:'#141414',border:'1px solid #222',color:'#888',borderRadius:'8px',padding:'10px 20px',cursor:'pointer',fontFamily:'inherit',fontSize:'13px'}}>← Back</button>
+      </div>
+    );
+    if (!manifest) return (
+      <div style={{display:'flex',alignItems:'center',justifyContent:'center',minHeight:'60vh',flexDirection:'column',gap:'12px',color:'#333'}}>
+        <div style={{width:'28px',height:'28px',border:'3px solid #1a1a1a',borderTopColor:'#8b0000',borderRadius:'50%',animation:'spin .7s linear infinite'}}/>
+        <div style={{fontSize:'12px',letterSpacing:'1px'}}>Loading…</div>
+      </div>
+    );
     return (
       <div style={{animation:'fadeUp .35s ease',width:'100%',maxWidth:'520px',display:'flex',flexDirection:'column',minHeight:'calc(100vh - 40px)'}}>
         {/* Header */}
@@ -1764,8 +1784,8 @@ function SlideSolvePuzzle({ onBack }) {
         <div style={{marginBottom:'24px'}}>
           <div style={{color:'#444',fontSize:'11px',letterSpacing:'2px',textTransform:'uppercase',marginBottom:'10px'}}>Category</div>
           <div style={{display:'grid',gridTemplateColumns:'1fr 1fr',gap:'10px'}}>
-            {Object.keys(PUZZLE_IMAGES).map(cat => {
-              const imgs = PUZZLE_IMAGES[cat];
+            {Object.keys(PUZZLE_CAT_META).map(cat => {
+              const imgs = (manifest && manifest[cat]) || [];
               const meta = PUZZLE_CAT_META[cat] || {label:cat,icon:'🖼'};
               const sel  = category === cat;
               return (
