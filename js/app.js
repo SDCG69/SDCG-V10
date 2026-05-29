@@ -376,15 +376,15 @@ function App(){
           </button>
           <button className="btn" onClick={()=>{setWarnDest("handbookList");setScreen("contentWarning");}} style={{background:"#4A0404",border:"1px solid #252525",width:"100%",marginTop:"12px",padding:"14px 16px",display:"flex",flexDirection:"column",alignItems:"flex-start",textAlign:"left"}}>
             <div style={{display:"flex",alignItems:"center",gap:"8px",color:"#888",fontSize:"19px",fontWeight:"bold"}}>
-              <span>📖</span><span>Sex Handbook A-Z</span>
+              <span>📖</span><span>Sex Guides A-Z</span>
             </div>
             <p style={{color:"#4a4a4a",fontSize:"12px",margin:"6px 0 0",lineHeight:"1.5",paddingLeft:"2px"}}>A curated set of guidebooks for sexual health and knowledge.</p>
           </button>
           <button className="btn" onClick={()=>{setWarnDest("eroticaList");setScreen("contentWarning");}} style={{background:"#4A0404",border:"1px solid #252525",width:"100%",marginTop:"12px",padding:"14px 16px",display:"flex",flexDirection:"column",alignItems:"flex-start",textAlign:"left"}}>
             <div style={{display:"flex",alignItems:"center",gap:"8px",color:"#888",fontSize:"19px",fontWeight:"bold"}}>
-              <span>✍️</span><span>Erotica Fiction</span>
+              <span>✍️</span><span>Erotica Library</span>
             </div>
-            <p style={{color:"#4a4a4a",fontSize:"12px",margin:"6px 0 0",lineHeight:"1.5",paddingLeft:"2px"}}>A curated series of graphic and explicit erotic fiction.</p>
+            <p style={{color:"#4a4a4a",fontSize:"12px",margin:"6px 0 0",lineHeight:"1.5",paddingLeft:"2px"}}>A curated series of sexually explicit erotica fiction.</p>
           </button>
           <button className="btn" onClick={()=>{setWarnDest("memoryTopicSelect");setScreen("contentWarning");}} style={{background:"#4A0404",border:"1px solid #252525",width:"100%",marginTop:"12px",padding:"14px 16px",display:"flex",flexDirection:"column",alignItems:"flex-start",textAlign:"left"}}>
             <div style={{display:"flex",alignItems:"center",gap:"8px",color:"#888",fontSize:"19px",fontWeight:"bold"}}>
@@ -500,7 +500,7 @@ function App(){
             <div style={{display:"flex",flexDirection:"column",gap:"12px"}}>
               <div>
                 <p style={{color:"#666",fontSize:"11px",letterSpacing:"1px",textTransform:"uppercase",margin:"0 0 4px"}}>Concept &amp; Design</p>
-                <p style={{color:"#ccc",fontSize:"14px",margin:0}}>Created with love as a playful experience for couples who want to explore and connect.  It is based on our original card game idea from 2018 that we have finally built into a web-based app.  In addition to the main game, we have also added a sex position mini game and a set of Truth cards we hope sparks enlightening and daring conversation between lovers. </p>
+                <p style={{color:"#ccc",fontSize:"14px",margin:0}}>Created with love as a playful experience for couples who want to explore and connect.  It is based on our original card game idea from 2018 that we have finally built into a web-based app.  In addition to the main game, we have also added host of bonue extras including sex position cards, sex handbook, Truth cards and couples sex quiz and many hot mini games we hope sparks enlightening and daring conversation between lovers. </p>
               </div>
               <div style={{height:"1px",background:"#1e1e1e"}}/>
               <div>
@@ -536,7 +536,7 @@ function App(){
             <div style={{height:"1px",background:"#1e1e1e"}}/>
             <div>
               <p style={{color:"#666",fontSize:"11px",letterSpacing:"1px",textTransform:"uppercase",margin:"0 0 4px"}}>Email Contact</p>
-              <p style={{color:"#ccc",fontSize:"14px",margin:0}}>Please mail all feedback and suggestions to <span style={{color:"#888"}}>sdcg_maczlic_wang@gmail.com</span>. All rights reserved to their respective owners.</p>
+              <p style={{color:"#ccc",fontSize:"14px",margin:0}}>Please mail all feedback and suggestions to <span style={{color:"#888"}}>scdg69@proton.me</span>. All rights reserved to their respective owners.</p>
             </div>
             <div style={{height:"1px",background:"#1e1e1e"}}/>
             <p style={{color:"#444",fontSize:"12px",margin:0,textAlign:"center",fontStyle:"italic"}}>❤️ Warm Love to all who have helped make this app possible.</p>
@@ -709,7 +709,7 @@ function App(){
             onClick={()=>confirmTags(tagPrefs)}
             style={{fontSize:"22px",padding:"20px 40px",width:"100%",marginTop:"14px"}}
           >
-            😈 Play Time! 😈
+            😈 Play Now! 😈
           </button>
         </div>
       )}
