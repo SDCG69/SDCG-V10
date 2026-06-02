@@ -256,6 +256,7 @@ const DT_TASKS = {
     { emoji:"😵", who:"any", target:"mf",  text:"Allow {target} to blindfold you and kiss you anywhere twice." },
     { emoji:"👕", who:"f", target:"none", text:"Remove your top (and bra) and remain fully topless until your next roll." },
 	{ emoji:"👕", who:"m", target:"none", text:"Remove your shirt and remain topless until your next roll." },
+	{ emoji:"🛋️", who:"any", target:"mf",  text:"Lie with your head in {target}'s lap, face into their crotch, until your next roll." },
     { emoji:"💋", who:"any", target:"mf",  text:"Kiss {target} passionately — they decide when it stops, up to 30 seconds." },
     { emoji:"🧊", who:"any", target:"mf",  text:"Let {target} pour a small amount of ice water on your chest and lick it off." },
     { emoji:"🕺", who:"any", target:"mf",  text:"Standing, grind slowly against {target} for 30 seconds." },
