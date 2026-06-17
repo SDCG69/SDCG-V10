@@ -343,7 +343,7 @@ function App(){
             {[0,1].map(i=>{const p=players[i];return(
               <div key={i} style={{display:"flex",alignItems:"center",gap:"10px",marginBottom:i===0?"10px":0}}>
                 <div style={{width:"28px",height:"28px",borderRadius:"50%",background:P_COLORS[i],display:"flex",alignItems:"center",justifyContent:"center",fontSize:"12px",fontWeight:"bold",color:"#080808",flexShrink:0}}>{i+1}</div>
-                <input value={p.name} placeholder={`Player ${i+1}`} style={inputBase} onChange={e=>{const a=[...players];a[i]={...a[i],name:e.target.value};setPlayers(a);}}/>
+                <input value={p.name} placeholder={`Player ${i+1}`} style={inputBase} onFocus={(e) => e.target.select()} onChange={e=>{const a=[...players];a[i]={...a[i],name:e.target.value};setPlayers(a);}}/>
                 <div style={{display:"flex",gap:"4px",flexShrink:0}}>
                   {["Male","Female"].map(m=>(
                     <button key={m} className="tog" onClick={()=>{const a=[...players];a[i]={...a[i],mode:m};setPlayers(a);}} style={{background:p.mode===m?MODE[m].color:"#1a1a1a",color:p.mode===m?"#eee":"#555",border:`1.5px solid ${p.mode===m?MODE[m].color:"#2a2a2a"}`,padding:"6px 9px",fontSize:"11px"}}>{m==="Male"?"♂ Male":"♀ Female"}</button>
