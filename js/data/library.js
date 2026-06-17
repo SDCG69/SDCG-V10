@@ -173,6 +173,15 @@ const HANDBOOK_ITEMS = [
     "sections": []
   },
 	{
+    "letter": "K",
+    "title": "Kissing",
+    "img": "h_foreplay.svg",
+    "sub1": "Techniques to kissing.",
+    "sub2": "Understanding kissing.",
+    "contentFile": "content/handbook/kiss.md",
+    "sections": []
+  },
+	{
     "letter": "F",
     "title": "Foot Worship (Foot Fetish)",
     "img": "h_kinks_fetishes.svg",
@@ -197,6 +206,15 @@ const HANDBOOK_ITEMS = [
     "sub1": "Guide to threesomes or more.",
     "sub2": "Understanding how to introduce another lover to the mix.",
     "contentFile": "content/handbook/threesomes.md",
+    "sections": []
+  },
+		{
+    "letter": "S",
+    "title": "Safe Sex",
+    "img": "h_sexuality.svg",
+    "sub1": "A guide to practicing safer sex.",
+    "sub2": "Sexual safety and advice.",
+    "contentFile": "content/handbook/safe.md",
     "sections": []
   },
 	{
@@ -251,6 +269,15 @@ const HANDBOOK_ITEMS = [
     "sub1": "A guide to Shibari Rope Ties.",
     "sub2": "Beginners guide to Japanese art of Shibari.",
     "contentFile": "content/handbook/shibari.md",
+    "sections": []
+  },
+	{
+    "letter": "B",
+    "title": "Breasts and Nipple Play",
+    "img": "h_erogenous_zones.svg",
+    "sub1": "Teasing and loving breasts and nipples.",
+    "sub2": "A guide to breast worship and play.",
+    "contentFile": "content/handbook/breast.md",
     "sections": []
   },
 	{
