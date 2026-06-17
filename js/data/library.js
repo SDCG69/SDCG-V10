@@ -46,6 +46,15 @@ const HANDBOOK_ITEMS = [
     "contentFile": "content/handbook/dirty-talk.md",
     "sections": []
   },
+	{
+    "letter": "A",
+    "title": "Aftercare",
+    "img": "h_erogenous_zones.svg",
+    "sub1": "Complete guide to aftercare.",
+    "sub2": "A guide to care after sex.",
+    "contentFile": "content/handbook/acare.md",
+    "sections": []
+  },
 	 {
     "letter": "A",
     "title": "Anal Sex",
@@ -328,6 +337,16 @@ const EROTICA_ITEMS = [
     "sub2": "Story: Jo Benfield · Images: AI",
     "readTime": "3 minute read",
     "contentFile": "content/fiction/chance.md",
+    "sections": []
+  },
+	{
+    "category": "Lesbian",
+    "title": "Girls Vacation",
+    "img": "b01_lesbian.svg",
+    "sub1": "Friedn take a vacation together.",
+    "sub2": "AI generated story & images",
+    "readTime": "15 minute read",
+    "contentFile": "content/fiction/vacation.md",
     "sections": []
   },
   {
