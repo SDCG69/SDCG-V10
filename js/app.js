@@ -1311,6 +1311,9 @@ function App(){
             {id:"toys",   label:"Toys",    emoji:"🎀", desc:"Match pairs of sex toys"},
             {id:"dicks",  label:"Dicks",   emoji:"🍆", desc:"Match pairs of dicks"},
             {id:"pussies",label:"Pussies", emoji:"🌸", desc:"Match pairs of pussies"},
+			{id:"stars",  label:"Stars",   emoji:"⭐", desc:"Match pairs of pornstars"},
+            {id:"fruit",label:"Butts", emoji:"🍑", desc:"Match pairs of butts"},
+			  
           ].map(opt=>(
             <button key={opt.id} className="btn"
               onClick={()=>{setMemoryTopic(opt.id);setScreen("memoryGame");}}
@@ -1326,7 +1329,7 @@ function App(){
 
       {/* ══ MEMORY GAME ══ */}
       {screen==="memoryGame"&&(()=>{
-        const prefix=memoryTopic==="toys"?"toy":memoryTopic==="dicks"?"dick":memoryTopic==="pussies"?"pussy":"face";
+        const prefix=memoryTopic==="toys"?"toy":memoryTopic==="dicks"?"dick":memoryTopic==="pussies"?"pussy":memoryTopic==="fruit"?"fruit":memoryTopic==="stars"?"star":"face";
         const folder=memoryTopic||"faces";
         const IMAGES=Array.from({length:15},(_,i)=>`content/memory/${folder}/${prefix}_${String(i+1).padStart(2,"0")}.jpg`);
         return <MemoryGame key={memoryTopic} faces={IMAGES} totalPairs={15} onBack={()=>setScreen("memoryTopicSelect")}/>;
