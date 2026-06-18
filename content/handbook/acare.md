@@ -1,5 +1,3 @@
-# Aftercare: Caring for Yourself and Your Partner(s) After Intimacy
-
 ## What Is Aftercare?
 
 Aftercare refers to the intentional physical, emotional, and mental support that partners offer one another following a sexual encounter. While the term originated in BDSM and kink communities—where it describes structured practices for transitioning out of intense scenes—aftercare is relevant to *all* forms of sexual intimacy, from vanilla sex to casual hookups to long-term partnered relationships.
