@@ -70,6 +70,8 @@ The angle was different now—deeper, more exposed—and Ellie could feel Jess�
 
 Just when Ellie thought she couldn’t take anymore, Jess’s tongue trailed higher, tracing a slow, teasing path up her perineum until the tip flicked against her asshole. Ellie froze, a startled noise catching in her throat. Jess paused, her breath warm against Ellie’s skin. "Too much?" she murmured, her fingers stilling inside her. Ellie shook her head frantically, her hips pushing back instinctively. "No—just—*surprised*," she managed, and Jess chuckled darkly before licking a slow, deliberate stripe over her ass.
 
+[image src="media/img/vac6.jpg" alt="Vacation"]
+
 The sensation was electric—foreign and intoxicating—and Ellie moaned into the crook of her elbow as Jess’s tongue circled her rim, teasingly light at first, then firmer, wetter. Jess’s fingers curled inside her, pressing against that spot that made her toes curl, and Ellie’s vision whited out for a second as pleasure coiled tight in her gut. "You like that?" Jess murmured, her voice rough with want. Ellie could only nod, her thighs shaking as Jess’s tongue pressed just a little harder, just a little deeper.
 
 Jess’s free hand slid up Ellie’s back, nails scraping lightly over her skin before tangling in her hair and tugging just enough to arch her spine. The dual sensation—Jess’s tongue working her ass while her fingers fucked her pussy—was overwhelming, and Ellie’s breath came in ragged gasps, her hips rocking back against Jess’s face. "Gonna come," she warned, her voice wrecked, and Jess groaned against her, doubling down with a relentless rhythm that sent Ellie spiraling.
@@ -114,6 +116,8 @@ Jess’s grin was all teeth as she unzipped the pouch, revealing an array of sil
 
 Jess plucked it from her grip, pressing the tip against Ellie’s lower lip. “Curious?” she teased, tracing the outline of her mouth. Ellie’s breath hitched, but she held Jess’s gaze, flicking her tongue against the toy in defiance. Jess’s pupils dilated—just a fraction—before she pulled it away with a low chuckle. “Patience,” she chided, unscrewing the lube with her teeth.
 
+[image src="media/img/vac4.jpg" alt="Vacation"]
+
 Jess pressed the toy against Ellie’s palm, her voice dropping to a whisper that sent shivers down Ellie’s spine. “I want you to fuck me with it.” The words hung between them, thick as the humid night air. Ellie’s fingers tightened around the silicone, her pulse thudding in her throat. Jess’s smirk faltered for a heartbeat—just long enough for Ellie to notice the flicker of uncertainty beneath the bravado.
 
 ## Five - Jess' Demand
@@ -121,6 +125,8 @@ Jess pressed the toy against Ellie’s palm, her voice dropping to a whisper tha
 Ellie sat up slowly, her thighs bracketing Jess’s hips as she squeezed a generous glob of lube onto her fingers. The scent of artificial watermelon filled the space between them, cloying and sweet. “You sure?” she murmured, dragging her slicked fingers along the length of the toy, watching Jess’s gaze track the movement. Jess’s breath hitched, but she rolled her eyes, reaching behind herself to yank a pillow under her hips. “*Yes*, dumbass. Unless you’re chickening out—”
 
 Ellie cut her off by pressing the toy against Jess’s entrance, the tip catching for a tantalizing second before sliding in with a slow, deliberate push. Jess’s back arched off the lounger, her nails scrabbling at Ellie’s shoulders. “*Fuck*,” she gasped, thighs trembling as Ellie worked the toy deeper, the ridges dragging against her inner walls. Ellie watched, mesmerized, as Jess’s stomach muscles quivered with each inch. “Good?” she breathed, twisting the toy just to hear Jess whimper.
+
+[image src="media/img/vac5.jpg" alt="Vacation"]
 
 Jess’s laugh was ragged. “*Better*.” She hooked a leg over Ellie’s hip, pulling her closer until their foreheads bumped. The proximity was dizzying—Jess’s breath warm against her lips, her pupils blown wide. Ellie could feel the way Jess clenched around the toy with every shallow thrust, could see the flush creeping down her chest. It was too much and not enough all at once.
 
@@ -168,6 +174,8 @@ The fabric was rough against Ellie’s skin, the knot tight enough to make her p
 
 Jess leaned back on her heels, surveying her handiwork—Ellie spread-eagled, wrists and ankles bound to the bed frame, her chest rising and falling with quick, shallow breaths. The sight alone was enough to make Jess’s mouth water. “Perfect,” she murmured, dragging a fingertip down Ellie’s sternum, relishing the way her stomach muscles quivered under the touch. Ellie arched into it, her hips lifting off the mattress in silent plea, but Jess just chuckled, pressing her palm flat against Ellie’s abdomen to pin her down. “Uh-uh. You don’t get to move.”
 
+[image src="media/img/vac9.jpg" alt="Vacation"]
+
 Ellie’s protest died in her throat when Jess’s mouth found her inner thigh, her teeth scraping lightly over the sensitive skin. The dual sensation—rough fabric at her wrists, Jess’s tongue tracing lazy circles—made Ellie’s toes curl. Jess’s hands slid up her thighs, spreading her wider, and Ellie groaned at the exposure, the night air cool against her damp skin. “Jess—” she gasped, but Jess ignored her, dipping her head to lick a slow, torturous stripe that had Ellie bucking against the restraints.
 
 Jess’s fingers danced up Ellie’s ribs, feather-light and deliberate, skirting the edges of ticklishness without quite committing—until Ellie relaxed with a huff. Then Jess struck, digging into the sensitive hollows beneath her arms with a precision that sent Ellie thrashing against the sarong restraints. “You *bastard*—” Ellie gasped between breathless laughter, her hips jerking uselessly as Jess’s nails raked down her sides. The sensation was unbearable—not pain, not pleasure, just *too much*—and Ellie’s laughter pitched higher, her abs contracting violently.
@@ -210,6 +218,8 @@ The rhythm was relentless—each thrust of the toy in her ass synced with the on
 Ellie's vision whited out for a second when Jess twisted the toys, the ridges catching on her inner walls in a way that made her toes curl. "Jess—*fuck*—" she sobbed, her hips jerking uselessly against the restraints. Jess just grinned, slicking her fingers with more lube before dragging them up Ellie's trembling thighs. "Not done with you yet," she murmured, and then she was climbing up Ellie's body, her knees bracketing Ellie's shoulders as she settled over her face in one smooth motion.
 
 ## Ten - Boss On Top
+
+[image src="media/img/vac10.jpg" alt="Vacation"]
 
 The sudden intimacy stole Ellie's breath—Jess's wet, swollen cunt hovering inches above her mouth, the musky scent overwhelming. Jess's thighs trembled against her ears as she reached back, adjusting the toys with a practiced twist that made Ellie whimper. "Lick," Jess commanded, her voice rough, and Ellie didn't hesitate. She craned her neck, tongue darting out to lap at Jess's slick folds in broad, hungry strokes. Jess's moan was immediate, her hips rocking forward to grind against Ellie's mouth as she kept fucking her with the toys, the rhythm unrelenting.
 
