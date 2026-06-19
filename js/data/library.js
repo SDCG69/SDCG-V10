@@ -396,14 +396,34 @@ const EROTICA_ITEMS = [
     "contentFile": "content/fiction/planestory.md",
     "sections": []
   },
+	{
+    "category": "Hetero",
+    "title": "Strict Professpr",
+    "img": "b02_hetero.svg",
+    "sub1": "A student needs extra credit from his hot professor.",
+    "sub2": "AI generated story & images",
+    "readTime": "20 minute read",
+    "contentFile": "content/fiction/prof.md",
+    "sections": []
+  },
   {
     "category": "Kinky",
-    "title": "The Art Museum",
+    "title": "Hanna's First Date",
     "img": "b03_kinky.svg",
     "sub1": "A thickset woman with a BDSM fetish.",
     "sub2": "AI generated story & images",
     "readTime": "20 minute read",
     "contentFile": "content/fiction/artmuseum.md",
+    "sections": []
+  },
+	 {
+    "category": "Kinky",
+    "title": "Hanna's Second Date",
+    "img": "b03_kinky.svg",
+    "sub1": "A thickset woman with a BDSM fetish.",
+    "sub2": "AI generated story & images",
+    "readTime": "20 minute read",
+    "contentFile": "content/fiction/han2.md",
     "sections": []
   },
   {
@@ -414,6 +434,16 @@ const EROTICA_ITEMS = [
     "sub2": "AI generated story & images",
     "readTime": "25 minute read",
     "contentFile": "content/fiction/Bex2.md",
+    "sections": []
+  },
+	  {
+    "category": "Group",
+    "title": "Nurses",
+    "img": "b05_group.svg",
+    "sub1": "A house full of student nurses.",
+    "sub2": "AI generated story & images",
+    "readTime": "30 minute read",
+    "contentFile": "content/fiction/nur.md",
     "sections": []
   },
   {
