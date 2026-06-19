@@ -398,4 +398,6 @@ Her phone buzzed on the sink—three rapid vibrations that sent her heart lurchi
 
 Hanna's fingers trembled as she reached for the phone, water sluicing down her arm. "Give me that." The screen fogged instantly under her touch.
 
+Hanna’s fingers hovered over her phone screen for three full breaths before typing: *Friday. My place. 8 PM.* She hit send before she could overthink the eggplant emoji she’d added. The reply came before her screen could dim: *Bringing my rope.*
+
 [image src="media/img/Art7.jpeg" alt="The Art Museum"]
