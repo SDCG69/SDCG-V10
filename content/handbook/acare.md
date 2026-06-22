@@ -4,6 +4,8 @@ Aftercare refers to the intentional physical, emotional, and mental support that
 
 At its core, aftercare is about acknowledging that sex doesn't end the moment physical activity stops. The body and mind continue processing the experience for minutes, hours, or even days afterward, and that transition deserves attention.
 
+[image src="media/img/Acare1.jpg" alt="Aftercare"]
+
 ## Why Aftercare Matters
 
 ### The Physiological Case
