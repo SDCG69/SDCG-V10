@@ -26,6 +26,8 @@ The bag's silk lining slithered against Hanna's fingers as she loosened the draw
 
 Hanna's thumb traced the crop's braided tail, the supple leather whispering against her calloused fingertips. The weight felt alien yet instantly familiar, like picking up a violin after years and finding your fingers still remember the scales.
 
+[image src="media/img/Han1.jpg" alt="Hanna"]
+
 Ruth's phone buzzed against the coffee table—three short bursts. "Speaking of birthdays," she said, flipping the screen toward Hanna. Mark's latest text glared up at them: *Tell her to check her freezer.*
 
 "Why is Marking sending you messages?" Hanna asked, surprised to see it.  "Relax babe" - I messaged him first I wanted to tell him your birthday is coming up and we starting talking.  He REALLY has the hots for you.  He seems like a good guy.  Really nerdy, but decent.
@@ -44,8 +46,6 @@ Hanna's pulse throbbed in her throat as the key swung against her sternum, its c
 
 "Go," Ruth said, shoving Hanna's coat into her hands. "Before you overthink the fact that he literally gave you a key to his dungeon."
 
-## Two — At Mark's Place
-
 Hanna's laugh came out strangled. She hesitated at the door, fingers brushing the crop's handle where it peeked from her coat pocket. "What if I—"
 
 Ruth's palm smacked against the doorframe. "Hanna. You fantasized about this for years while deadlifting more than my entire Pilates class. You came harder than Courbet's orgasm face in a museum basement. Stop pretending you're not the baddest bitch in this equation."
@@ -53,6 +53,8 @@ Ruth's palm smacked against the doorframe. "Hanna. You fantasized about this for
 The key burned against Hanna’s skin like a brand as she stood outside Mark’s apartment door. Her knuckles hovered an inch from the wood—she could hear music inside, something with a deep, throbbing bassline that made the floor vibrate under her heels. The crop Ruth had given her dug into her coat pocket, its braided tail brushing her thigh with every shift of her weight.
 
 The door swung open before she could knock. Mark leaned against the frame, shirtless, a smear of charcoal dust across his collarbone. His gaze dropped to the key gleaming at her throat, then lower—to where her robe gaped slightly under the coat. "You're early," he murmured, stepping aside to let her in.
+
+## Two — At Mark's Place
 
 The apartment smelled of linseed oil and something spicy simmering on the stove. Hanna’s coat slid off her shoulders before she realized Mark had tugged it loose, his fingers skimming the silk robe beneath. "Hungry?" he asked, nodding toward the kitchen where a pot bubbled. The question was casual, but his thumb traced the key’s chain where it disappeared into her cleavage.
 
@@ -83,6 +85,8 @@ The first strike landed crisp across his pectoral, leaving a faint pink stripe. 
 The third strike never landed. Mark moved faster than she anticipated, twisting to grip her wrist mid-swing. His other hand fumbled with his belt, the buckle clattering against the bedframe. "Need you," he growled, yanking her down by the crop still clutched in her fist.
 
 Hanna's knee jammed into Mark's thigh with more force than she'd intended—the audible *thunk* of bone against muscle making them both freeze. "No," she hissed, pressing harder until his grip slackened. "I'm in charge." The words tasted foreign yet electrifying, like speaking a secret language aloud for the first time.
+
+[image src="media/img/Han2.jpg" alt="Hanna"]
 
 Mark exhaled sharply through his nose but released her wrist, palms upturned in surrender. His pupils swallowed the last rings of blue as Hanna shoved him facedown onto the rumpled duvet. The crop trembled in her grip—not from fear but the adrenaline rush of seeing his shoulder blades tense beneath her.
 
@@ -124,7 +128,11 @@ The third strike landed diagonally across the first two welts, intersecting them
 
 She uncapped the lube with her teeth, the bottle's chill contrasting with the heat radiating off Mark's skin. The scent of coconut and something faintly medicinal filled the air as she slicked two fingers. "Relax," Hanna murmured, pressing her free hand between his shoulder blades—not pushing, just present.
 
+Hanna was trembling.  She had long fantasised about this very situation and her go-to porn videos were all about women dominating men but this was her first actual time.  She caught her breath and impressed herself how she was taking ful control.
+
 Mark exhaled sharply when her first finger circled his entrance, the muscles there fluttering under her touch. Hanna paused, letting him adjust to the sensation before pressing inward slowly. The resistance melted almost instantly—Mark's body yielding with a groan that vibrated through the mattress. "Fuck," he gasped into the duvet, his hips pressing back against her hand.
+
+Hanna was no longer trembling but deeply enjoying the sensation of power she had in this moment.  A huge turn on.
 
 Hanna crooked her finger experimentally, watching the way his shoulders tensed when she brushed that sensitive spot inside him. The lube's slickness made obscene sounds as she added a second finger, stretching him gradually while her thumb traced the reddened skin of his ass. Mark's breathing turned ragged—each inhale lifting his ribs visibly beneath the charcoal smudges.
 
@@ -138,15 +146,17 @@ The lube made wet, obscene sounds as Hanna twisted her fingers deeper, curling t
 
 ## Five — A Deeper Domination
 
-Hanna braced one knee against the mattress, gripping Mark's hips with both hands. With a single fluid motion—honed from years of deadlifts—she hauled him backward onto his knees. His startled grunt dissolved into a groan as his weight settled against her, his bound wrists straining against the headboard cuffs. The crop slipped from her fingers, thudding onto the duvet as she steadied him with a palm between his shoulder blades.
+Hanna slowly pulled out her fingers and slapped Mark's butt hard.   Her hand tingling with sting of the hard strike.  She braced one knee against the mattress, gripping Mark's hips with both hands. With a single fluid motion—honed from years of deadlifts—she hauled him backward onto his knees. His startled grunt dissolved into a groan as his weight settled against her, his bound wrists straining against the headboard cuffs. The crop slipped from her fingers, thudding onto the duvet as she steadied him with a palm between his shoulder blades.
 
 "Christ," Mark gasped, his voice muffled by the blindfold. The muscles in his thighs trembled where they pressed against Hanna's knees—not from resistance, but the effort of holding his new position. Sweat darkened the navy silk scarf tied over his eyes, the fabric clinging to his sharp cheekbones.
 
-"You belong to me," Hanna breathed against the sweat-damp nape of Mark's neck, her teeth grazing the tight cord of muscle there. The crop lay forgotten as she dragged her fingernails down the twin welts crossing his ass—the skin still fever-hot beneath her touch. Mark shuddered violently when she delivered one final stinging slap with her bare palm, the sound echoing like a gunshot in the humid air.
+[image src="media/img/Han3.jpg" alt="Hanna"]
+
+"You belong to me," Hanna breathed against the sweat-damp nape of Mark's neck, her teeth grazing the tight cord of muscle there. The crop lay forgotten as she dragged her fingernails down the twin welts crossing his ass—the skin still fever-hot beneath her touch. Mark shuddered violently when she delivered one final stinging slap with her bare palm, the sound echoing like a gunshot in the humid air before adding more lube to her fingers and slowly pushing them back inside his ass.
 
 His choked moan dissolved into a gasp as she thrust her fingers deeper inside him—no longer teasing, but claiming. The lube made obscene, wet sounds with each deliberate curl of her fingertips, syncing with the creak of leather restraints as Mark strained against them. His hips jerked involuntarily, driving himself back onto her hand with a desperation that sent pleasure arcing down her spine.
 
-The fourth finger slid in alongside the others, stretching Mark taut enough to make his breath stutter against the blindfold. Hanna watched his throat work—swallowing back sounds she intended to wring from him eventually—as she crooked her fingers just shy of that spot inside him. His body clenched around her, sweat dripping down the dip of his spine to where her wrist disappeared between his thighs.
+His body clenched around her fingers, sweat dripping down the dip of his spine to where her wrist disappeared between his thighs.
 
 "Tell me," she murmured against his shoulder blade, her teeth grazing the salt-damp skin. "What were you thinking about? When you practiced these knots alone."
 
@@ -155,6 +165,8 @@ Hanna withdrew her fingers with agonizing slowness, watching the way Mark’s bo
 "Stay," she ordered, voice low and rough as gravel. The crop cracked against the headboard for emphasis, the sound reverberating through the room. Mark froze instantly, his blindfolded face turning toward the noise like a compass needle finding north.
 
 Hanna stepped back, fingers working the silk robe’s sash with impatient tugs. The fabric pooled at her feet, followed by her bra—hooks torn open without ceremony. Cool air prickled her nipples as she peeled off her panties, the lace clinging briefly to her slick folds before falling away. She kicked the garments aside, watching Mark’s nostrils flare at the scent now unfiltered by fabric.
+
+Hanna unclipped all four cuffs.   "On your back, now".   Mark turned over and Hanna re-fastened all the cuffs with Mark spread-eagled and blindfold.  His hard dick pulsing in anticipation.
 
 ## Six — Hanna's Demands
 
@@ -166,27 +178,27 @@ Mark groaned against her thighs, his tongue dragging up her slit in one long, de
 
 Hanna pushed Mark's head deeper into her with a sharp roll of her hips, his nose pressing flush against her clit as she ground down. The blindfold trapped his groan against her skin, the vibration traveling straight to her core in electric waves. His tongue flattened obediently—broad, wet strokes that made her thighs tremble—but she wanted more. Needed it.
 
-She fisted both hands in his hair now, using the leverage to rock against his mouth in short, punishing motions. The headboard rattled as Mark strained against his cuffs, his shoulders flexing beneath her thighs. Sweat darkened the silk blindfold where it clung to his cheekbones, the fabric absorbing every ragged exhale he couldn't contain.
+She leaned on his chest now, using the leverage to rock against his mouth in short, punishing motions. The headboard rattled as Mark strained against his cuffs, his shoulders flexing beneath her thighs. Sweat darkened the silk blindfold where it clung to his cheekbones, the fabric absorbing every ragged exhale he couldn't contain.
 
-Hanna tightened her grip in Mark's hair until his scalp burned beneath her fingers. "I decide what happens." Her voice was low, rough with possession. "Now *suck* my clit like you mean it."
+Hanna tightened her grip in Mark's chest hair. "I decide what happens." Her voice was low, rough with possession. "Now *suck* my clit like you mean it."
 
 Mark obeyed instantly—his mouth opening wider, tongue curling upward to press firm circles against her throbbing bundle of nerves. The vibration of his muffled groan sent shockwaves through her pelvis. She rode his face with deliberate, grinding motions, watching sweat drip from her collarbone onto his forehead where it disappeared beneath the blindfold's edge.
 
-Hanna whipped the crop across Mark's shoulders in a sharp diagonal—the leather kissing skin with a sound like a pistol crack. His entire body jerked against the restraints, the headboard rattling as his muffled groan vibrated against her clit. She could feel his jaw working beneath her thighs, his tongue never stopping its relentless rhythm even as sweat dripped from his temples onto her inner thighs.
+[image src="media/img/Han4.jpg" alt="Hanna"]
+
+Hanna whipped the crop across Mark's chest in a sharp diagonal—the leather kissing skin with a sound like a pistol crack. His entire body jerked against the restraints, the headboard rattling as his muffled groan vibrated against her clit. She could feel his jaw working beneath her thighs, his tongue never stopping its relentless rhythm even as sweat dripped from his temples onto her inner thighs.
 
 "Again," she gasped, bringing the crop down harder this time—aiming for the same spot to deepen the welt. Mark's hips bucked involuntarily, his cock straining against nothing, flushed and dripping onto the duvet. The sight sent a fresh pulse of wetness between Hanna's legs, her thighs trembling where they bracketed his face.
 
-The crop came down again—twin stripes blooming across Mark's shoulders in perfect crimson parallels. His groan vibrated against Hanna's clit, the sensation so intense her knees nearly buckled. She braced one hand against the headboard, the other still twisted in his sweat-damp hair. "Good boy," she gasped, riding the aftershocks pulsing through her thighs.
+The crop came down again—twin stripes blooming across Mark's shoulders in perfect crimson parallels. His groan vibrated against Hanna's clit, the sensation so intense her knees nearly buckled. She braced on his chest, the other still gripping the leather crop. "Good boy," she gasped, riding the aftershocks pulsing through her thighs.
 
-## Six — Hanna's Slides Under
+## Seven — Hanna goes down
 
 Mark's answering hum was smug despite his restraints, his tongue tracing lazy circles that made her nails bite into his scalp. Then—without warning—Hanna twisted her fingers tighter and yanked his head back, breaking contact with a wet sound that echoed in the humid air. His blindfolded face tilted up toward her, lips glistening, chin dripping.
 
 She cracked the crop diagonally across his shoulders—once, twice—in rapid succession. The welts bloomed crimson beneath the braided leather's kiss. Mark's groan vibrated through her thighs before she slammed his mouth back against her, his nose pressing into her clit as he gasped wetly against her folds.
 
-"Good boy," Hanna purred, rolling her hips to smear herself across his slack mouth. The praise burned hotter than the crop ever could—she felt him shudder beneath her, his cock twitching against nothing.
-
-Hanna's thighs trembled as she swung one leg under Mark's chest, pivoting her body with a dancer's grace until they lay inverted—her mouth hovering above his straining cock while his lips brushed her wet folds in the 69 position. The blindfold hid his expression, but she felt his sharp inhale when her hair trailed down his abdomen, the strands catching briefly on his sweat-slicked skin before settling like black silk across his thighs.
+Hanna's thighs trembled as she dropped the crop and leaned forward.  Her mouth hovering above his straining cock while his lips brushed her wet folds in the 69 position. The blindfold hid his expression, but she felt his sharp inhale when her hair trailed down his abdomen, the strands catching briefly on his sweat-slicked skin before settling like black silk across his thighs.
 
 "Keep licking" she murmured against the head of his cock, her breath making him twitch violently against her lips. The scent of him—salt and musk and the faint coconut tang of lube—flooded her senses as she dragged her tongue up his length in one slow, savoring stroke. Mark's answering groan vibrated against her clits, his beard scraping deliciously against her inner thighs as he buried his face between them with renewed hunger.
 
@@ -198,13 +210,15 @@ Mark’s tongue traced the swollen edges of Hanna’s clit with devastating prec
 
 The blindfold hid nothing now—not the way Mark’s breath hitched when Hanna’s teeth grazed his shaft, nor the choked groan that escaped when she dragged her tongue up the throbbing vein underneath. His answering thrust was shallow, controlled, but she felt the tremor in his thighs where they pressed against her ribs. A drop of sweat slid down his hipbone, following the trail of charcoal smudges left by her fingers earlier.
 
-## Seven — Hanna Gets Kinky
+## Eight — Hanna Gets Kinky
 
-Hanna's feet clamped around Mark's torso like a vice, her calves hooking over his shoulders to drag him deeper into the furnace between her legs. "Lick clit *and* ass, *now*," she snarled, yanking his hair hard enough to tilt his blindfolded face upward. The command cracked through the humid air—no room for hesitation.
+Hanna's feet clamped around Mark's torso like a vice, her calves hooking over his shoulders to drag him deeper into the furnace between her legs. "Lick clit *and* ass, *now*," she snarled, reaching behind and yanking his hair hard enough to tilt his blindfolded face upward. The command cracked through the humid air—no room for hesitation.
 
-Mark groaned against her flesh, his tongue immediately splitting its attention—broad strokes across her swollen clit before diving lower to trace the tight furl of her ass. The dual sensation sent lightning up Hanna's spine; her back arched off the mattress as she simultaneously shoved his face harder into her and took him deeper into her throat. His cock hit the back of her mouth with a wet choke, the salt-bitter taste of pre-come flooding her tongue as she hollowed her cheeks around him.
+Hanna scared herself.  Whilst she fantasised about dominating, she never expect she could go this far.  She wished she was recording this to watch later.
 
-The headboard creaked violently as Mark bucked against her mouth—not in protest, but raw reflex. Hanna felt the vibration of his muffled shout against her clit when she swallowed around him, her nose pressing into the wiry curls at his base. His answering thrust was shallow, controlled, but she could feel the tremor in his thighs where they pressed against her ribs. A drop of sweat slid down his hipbone, cutting through the charcoal smudges her fingers had left earlier.
+Mark groaned against her flesh, his tongue immediately splitting its attention—broad strokes across her swollen clit before diving lower to trace the tight furl of her ass. The dual sensation sent lightning up Hanna's spine; Mark's back arched off the mattress as she simultaneously shoved his face harder into her and took him deeper into her throat. His cock hit the back of her mouth with a wet choke, the salt-bitter taste of pre-come flooding her tongue as she hollowed her cheeks around him.
+
+The headboard creaked violently as Mark bucked against her mouth—not in protest, but raw reflex. Hanna felt the vibration of his muffled shout against her clit when she swallowed around him, her nose pressing into the wiry curls at his base. His answering thrust was shallow, controlled, but she could feel the tremor in his thighs where they pressed against her ribs.
 
 Hanna released him with a wet pop just long enough to gasp, "I want to taste your cum," before plunging back down his length. Her nails scored crescent moons into his hips as Mark's tongue redoubled its efforts—circling her clit three times fast before flicking downward to lap at her asshole with deliberate, filthy precision. The switchback rhythm had her thighs quivering, her moans vibrating around his cock as he worked her with the same calculated focus he'd used to trace brushstrokes on the Courbet.
 
@@ -214,7 +228,7 @@ The blindfold came off with a single sharp tug, revealing eyes blown black with 
 
 Mark’s groan tore through the air as Hanna swallowed around him, her fingers tightening around his throat just enough to make his vision splinter. He arched violently against the restraints—a single, shuddering thrust that pulsed hot down her throat. The taste was salt-bitter, thick with the same desperate surrender she’d felt when he’d had her counting thrusts in the museum basement.
 
-## Eight — A promise For More
+## Nine — A promise For More
 
 She held him there until his hips stopped twitching, until his breath came in ragged, punched-out gasps. Only then did she release him, wiping her mouth with the back of her hand as she sat up. The silk blindfold lay twisted around his neck like a collar, his pupils still blown wide beneath sweat-damp lashes.
 
