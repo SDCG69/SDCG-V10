@@ -44,7 +44,6 @@ Helen's whimper was muffled against Jamie's shoulder as Geeta's free hand slid b
 
 Before he could answer, Sarah's hands were on him, her fingers deftly working the leather free. The belt slithered loose with a hiss, and then her nails were scraping down the fly of his jeans, popping the button with a practiced twist. Jamie's breath hitched as she yanked the fabric down just enough to reveal the straining outline of his cock against his boxers. Helen's fingers trembled where they clutched his shoulders, her hips rocking back against Geeta's touch. "Fuck," Jamie gritted out, his hands sliding up to tangle in Helen's hair as Sarah's mouth hovered inches from his waistband.
 
-
 Geeta's teeth sank into Helen's shoulder, not hard enough to break skin but enough to make her cry out. "Look at her," Geeta murmured against the reddening mark, her fingers finally slipping beneath Helen's panties. "So wet already." Helen's knees buckled, her back arching as Geeta's fingers found her clit, circling with just enough pressure to make her sob. Jamie's grip tightened, his own hips stuttering forward as Sarah finally closed her mouth over him through the fabric, her tongue pressing hot and insistent against the head of his cock.
 
 The moment Sarah's lips pressed against the damp fabric of Jamie's boxers, Helen's entire body arched like a live wire. Geeta's fingers twisted inside her, curling just *there*, and Helen's vision whited out for a second—long enough to miss the way Jamie's hips jerked forward into Sarah's mouth, his groan vibrating against her shoulder. When Helen blinked back to reality, Sarah was already peeling Jamie's boxers down with her teeth, her smirk sharp as a scalpel as his cock sprang free.
@@ -105,7 +104,7 @@ Jamie's palms slid up Helen's inner thighs, spreading her wider. The first brush
 
 Helen's back arched off the carpet as Jamie's tongue dragged through her folds with slow, deliberate strokes. The sensation was dizzying—hot, wet pressure where she'd never been touched before, each flick of his tongue sending jolts of electricity up her spine. Her fingers scrabbled against the carpet, nails catching on the fibers, until Geeta's hands pinned her wrists more firmly. "Don't fight it," Geeta murmured, her breath ghosting over Helen's collarbone. "Just let go."
 
-NUR1
+[image src="media/img/Nur1.jpg" alt="Nurse"]
 
 Sarah's fingers were still moving between her own thighs, her gaze locked on the way Helen's hips twitched upward with every pass of Jamie's tongue. "Fuck, she's *loud*," Sarah laughed, her voice husky with arousal. She rolled onto her knees, crawling closer until her tattooed torso hovered over Helen's face. "You wanna try something else?" she asked, her tongue flicking over her lip piercing. Before Helen could answer, Sarah's fingers tangled in her hair, guiding her mouth toward the slick heat between her thighs. "Lick me while he licks you. Double dare."
 
@@ -177,7 +176,7 @@ Sarah pulled back just enough to watch Helen's face—the way her pupils blew wi
 
 Geeta's moan cut through the haze—a low, filthy sound as she worked the dildo inside herself with slow, deliberate strokes. The wet *schlick* of silicone against her folds synced perfectly with Jamie's thrusts, the rhythm building like a heartbeat. Helen whimpered, her hips rocking back against Jamie as Geeta arched off the carpet, her thighs trembling around the toy. "Faster," Geeta gasped, her fingers twisting in her own hair. "Jamie—*fuck her faster*."
 
-NUR3
+[image src="media/img/Nur3.jpg" alt="Nurse"]
 
 Jamie's hips snapped forward, his cock driving deep enough to make Helen cry out—a sound that dissolved into a shuddering moan as Sarah's fingers found her clit, circling in tight, merciless little strokes. Helen's vision whited out for a second, her thighs shaking violently as pleasure coiled tighter, hotter than before.
 
@@ -399,7 +398,7 @@ Across from her, Jamie's groan vibrated through the floorboards as Geeta's finge
 
 Helen's tongue stuttered inside Sarah when Jamie's hand suddenly clamped around her wrist—dragging her fingers from her own dripping cunt to press them against his mouth. His tongue swirled around her fingertips before sucking them deep, his groan muffled against her skin as Helen's breath hitched. The taste of herself on Jamie's tongue sent a fresh pulse of wetness between Helen's thighs—her free hand scrambling to rub her clit again, her rhythm frantic and uneven.
 
-NUR2
+[image src="media/img/Nur2.jpg" alt="Nurse"]
 
 Sarah's back bowed violently when Helen's tongue curled *just* right—the flat press against her inner walls wrenching a guttural moan from her throat. Her fingers stuttered against her clit, her vision whiting out for a split second before Helen's teeth grazed her rim—the sharp sting tipping her over the edge. "*Gonna—*" Sarah's warning dissolved into a shattered scream as her orgasm ripped through her, her thighs clamping around Helen's head as her hips jerked erratically against the younger girl's mouth.
 
