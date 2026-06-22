@@ -1,6 +1,6 @@
 ## Breast and Nipple Play: A Complete Guide
 
-[image src="https://picsum.photos/seed/breast-intro/900/520" alt="Sensual intimacy"]
+[image src="media/img/Bn1.jpg" alt="Nipple"]
 
 Breasts and nipples are among the most responsive erogenous zones on the body for many people, regardless of gender. Yet they are also among the most frequently mishandled — often skipped entirely, rushed through on the way to genital contact, or approached with the same predictable two or three techniques every time. With a small amount of attention and variation, breast and nipple play can become a major source of arousal in its own right, and for some people a route to orgasm without any other stimulation at all.
 
@@ -12,11 +12,11 @@ Nipples are densely packed with nerve endings. fMRI studies have shown that nipp
 
 Sensitivity varies enormously between individuals and across the menstrual cycle. The same person may find nipple play almost ticklish one week and overwhelmingly intense the next. Attention to feedback is more useful than any fixed technique.
 
-[image src="https://picsum.photos/seed/breast-sensitivity/900/520" alt="Soft touch and anticipation"]
-
 ---
 
 ## Start With The Whole Breast, Not The Nipple
+
+[image src="media/img/Bn3.jpg" alt="Breast"]
 
 The single most common error is going straight for the nipple. Most people respond more strongly when the entire breast has been attended to first — the underside, the sides, the area between breast and arm, and the upper chest above the breast all carry sensory weight that nipple-only play ignores.
 
@@ -43,7 +43,7 @@ Once the rest of the breast has been engaged, the nipple itself opens up a wide 
 
 **Temperature.** An ice cube traced briefly around the nipple, followed by warm breath or a hot mouth, creates a sharp contrast that many people find electric. Warmed massage oil produces a gentler version of the same principle.
 
-[image src="https://picsum.photos/seed/breast-tech/900/520" alt="Attentive partner play"]
+[image src="media/img/Bn4.jpg" alt="Nipple"]
 
 ---
 
@@ -68,7 +68,7 @@ A few simple props expand the range considerably:
 - **A small vibrator** held against the nipple, or moved slowly around the areola, produces a sensation that fingers cannot replicate.
 - **Feathers, fur, or silk** drawn lightly across the chest after sustained intense stimulation creates an exquisite contrast.
 
-[image src="https://picsum.photos/seed/breast-toys/900/520" alt="Sensation play"]
+[image src="media/img/Bn2.jpg" alt="Nipple"]
 
 ---
 
