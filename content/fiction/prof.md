@@ -1,3 +1,7 @@
+## One - Cocky Student
+
+[image src="media/img/Prof1.jpg" alt="Professor"]
+
 "You’re late again, Mr. Calloway." Dr. Mercer didn’t look up from her desk, her pen scratching a red line through some sub-standard paragraph in the essay she was grading. The overhead lights buzzed faintly, casting sharp shadows under her cheekbones.
 
 The door clicked shut behind him. "Traffic," he said, shifting his backpack strap higher on his shoulder. "The bridge was backed up for miles."
@@ -12,8 +16,6 @@ She exhaled through her nose, resisting the urge to roll her eyes. "You don’t 
 
 A beat passed before she cleared her throat and slid the marked-up essay toward him. "Your thesis lacks focus. You’re arguing three different points and proving none of them."
 
-SUMMARY^1: Professor Mercer confronts her student Calloway about his repeated lateness, dismissing his weak excuses. Their banter turns flirtatious as he leans into her space, undeterred by her corrections of his academic work.
-
 The essay crinkled under Calloway’s fingers as he picked it up, his thumb deliberately grazing hers for half a second too long. Dr. Mercer pulled her hand back, but not fast enough to hide the way her breath hitched—a tiny, betraying sound.
 
 "I could use some extra credit," he said, voice dropping low. The words curled around her like smoke. "Maybe a… private tutoring session?" His grin was all teeth, the kind that made her stomach flip.
@@ -26,17 +28,15 @@ The pen clattered onto the wood. Dr. Mercer didn’t move to pick it up. Her pul
 
 Dr. Mercer’s breath caught when Calloway’s fingers slid higher, pushing the sleeve of her blouse up just enough to expose the delicate skin of her inner wrist. His thumb pressed there—right over her racing pulse—as if he enjoyed feeling it jump beneath his touch. “You’re shaking,” he murmured, lips quirking. “Didn’t take you for the nervous type, Professor.”
 
-SUMMARY^1: Calloway pushes boundaries by suggesting an extra credit session, his touch lingering deliberately as he flirts. Mercer hesitates but doesn’t stop him when he presses closer, his teasing words and deliberate caresses unraveling her composure.
-
 She should’ve shoved him away. Should’ve reminded him of the power dynamic, the ethics, the fact that her career could shatter like glass if anyone walked in. But the heat of his hand was intoxicating, and the way he looked at her—like she was something to unravel rather than impress—made her skin burn. “You’re overestimating your effect,” she lied, tilting her chin up.
 
 Calloway chuckled, low and knowing. His free hand came up to pluck her glasses off, folding them neatly before setting them aside. Without them, the room blurred at the edges, but his face stayed sharp—close enough that she could count the faint stubble shadowing his jaw. “Then why,” he said, leaning in until his breath warmed her mouth, “are you leaning toward me?”
 
 The truth was, she hadn’t even realized she had. Her body had betrayed her, drawn to his like gravity. Before she could answer, his lips brushed hers—not quite a kiss, just the ghost of one, teasing. It was maddening.
 
-Dr. Mercer snapped. Her hands fisted in his shirt, yanking him the last inch forward. The kiss was messy, all teeth and desperation, and Calloway groaned against her mouth, his fingers tangling in her hair to tilt her head back. The desk dug into her thighs as he crowded her against it, his hips slotting between hers with a deliberate roll that made her gasp.
+## Two - Rules
 
-SUMMARY^1: Mercer initially resists but succumbs as Calloway removes her glasses and teases her with a near-kiss. Her restraint shatters when she pulls him into a heated, desperate embrace, their bodies pressing together against the desk.
+Dr. Mercer snapped. Her hands fisted in his shirt, yanking him the last inch forward. The kiss was messy, all teeth and desperation, and Calloway groaned against her mouth, his fingers tangling in her hair to tilt her head back. The desk dug into her thighs as he crowded her against it, his hips slotting between hers with a deliberate roll that made her gasp.
 
 The chair scraped violently against the floor as Dr. Mercer stood—or tried to—her legs wobbling under the sudden shift in balance. Calloway caught her by the waist before she could stumble, his grip firm enough to steady her, loose enough that she could’ve pulled away. She didn’t. His laugh was a hot puff against her neck. “Careful,” he murmured, nipping at her earlobe. “Wouldn’t want you falling for me.”
 
@@ -45,8 +45,6 @@ She scoffed, but the sound dissolved into a moan when his hands slid down to gri
 “This is—” she started, but his tongue swiped over the hollow of her collarbone, and her fingers twisted in his hair instead of pushing him away. “—a terrible idea.”
 
 “Yeah,” Calloway agreed, biting gently just above her pulse. His fingers made quick work of the buttons on her blouse, popping them open one by one. “But you’re not stopping me.”
-
-SUMMARY^1: Mercer nearly stumbles as they shift positions, but Calloway steadies her, lifting her onto the desk where their passion escalates despite her half-hearted protests. His relentless advances—biting, unbuttoning her blouse—leave her conflicted but unwilling to stop him.
 
 The observation burned worse than his mouth on her skin. Because he was right—she could’ve ended it a dozen times already. Instead, she arched into his touch as his palm slid up her bare stomach, skimming the lace edge of her bra. His thumb brushed over the peak of her nipple through the fabric, and her hips jerked involuntarily against his.
 
@@ -58,17 +56,11 @@ She pushed against his shoulders, forcing space between them despite the way her
 
 Calloway caught her wrist, pressing a kiss to her fingertips. “I’m listening.”
 
-SUMMARY^1: Mercer’s arousal wars with her hesitation as Calloway traces her bare skin, pausing only when she insists on rules. Though visibly affected, she asserts control by demanding boundaries—something he agrees to, though his hunger remains evident.
-
-SUMMARY^2: Professor Mercer confronts her student Calloway about his lateness, but their argument quickly turns flirtatious. Calloway suggests an "extra credit" session, pushing boundaries until Mercer succumbs to his advances. Despite her initial hesitation, she allows their passion to escalate—until she reasserts control by insisting on rules, which Calloway reluctantly agrees to follow.
-
 “One.” She held up a finger, ignoring the way his tongue flicked against her skin. “You do *exactly* what I say. No improvisation.” His eyebrow arched, but she pressed on. “Two. You obey me *at all times*. This isn’t a negotiation.” She could see the challenge spark in his eyes—the same one that made him argue in class just to watch her fluster—but she leaned in, her mouth brushing his ear. “And three,” she whispered, “*I* decide when the extra credit is achieved. Not you.”
 
 Calloway's grin widened, slow and knowing, as if she'd just handed him the answer key to a test he'd already aced. "So it's *your* rules," he murmured, fingers tracing idle patterns on her bare thigh where her skirt had ridden up. "But my performance?"
 
 Dr. Mercer shoved him back just enough to slide off the desk, her heels clicking against the floor as she strode to the door. The lock engaged with a decisive *click*—too loud in the sudden quiet of the room. When she turned, her blouse hung open, revealing the lace of her bra and the flush creeping down her chest, but her expression was all authority. "First," she said, voice cool despite the heat in her eyes, "strip off and show me the goods."
-
-SUMMARY^1: Mercer establishes three strict rules—absolute obedience, no improvisation, and her control over when they finish—before locking the door and commanding Calloway to undress for inspection. Despite her disheveled appearance, her tone remains authoritative, asserting dominance while visibly aroused.
 
 He exhaled a laugh, shaking his head like he couldn’t believe his luck, but his hands went to the hem of his shirt without hesitation. The fabric peeled away, revealing taut muscle and the faint trail of dark hair leading south. Dr. Mercer didn’t move, just leaned against the doorframe, arms crossed. "All of it," she added, nodding toward his jeans.
 
@@ -78,17 +70,17 @@ Calloway’s fingers paused on his belt buckle, eyes glinting. "Thought professo
 
 Calloway’s belt buckle clinked as he undid it, the sound absurdly loud in the quiet office. Dr. Mercer kept her gaze steady, refusing to let her eyes flicker downward even as he pushed his jeans down his hips with deliberate slowness. The fabric pooled at his ankles, leaving him standing there in nothing but his boxer briefs, which did little to hide the evidence of his arousal. He smirked, spreading his arms slightly. "Satisfied with the merchandise, Professor?"
 
-She arched a brow, forcing her voice to remain even. "Turn around."
+## Three - Physical Examination
 
-SUMMARY^1: Calloway complies with Mercer’s order to strip fully, teasing her with slow movements while she maintains a detached facade. Though visibly aroused, he obeys her command to turn around, still challenging her authority with playful remarks.
+[image src="media/img/Prof2.jpg" alt="Professor"]
+
+She arched a brow, forcing her voice to remain even. "Turn around."
 
 His grin faltered for half a second—surprised, maybe, that she wasn’t immediately lunging for him—but he obeyed, pivoting on his heel to give her a view of his back, the defined muscles shifting under his skin as he moved. Dr. Mercer allowed herself a slow, appreciative once-over before circling him like a predator, her heels clicking against the tile. "You’re confident," she observed, stopping just behind him. Her fingers brushed the small of his back, light enough to tease. "But confidence without discipline is just arrogance."
 
 Calloway inhaled sharply at her touch but held still, his shoulders tensing. "Guess I need more tutoring, then."
 
 Dr. Mercer’s fingers trailed lower, skimming the waistband of his briefs before pulling away just as quickly. She stepped back, circling to face him again, her expression unreadable. “Fourth rule,” she said, voice dropping into something hushed and commanding. “You are not allowed to speak.” Her thumb hooked into the elastic of his waistband, tugging it just enough to make his breath hitch. “Now get yourself hard as I watch.”
-
-SUMMARY^1: Mercer circles Calloway like a predator, assessing his confidence before asserting her dominance with a fourth rule: silence. She commands him to visibly arouse himself under her gaze, teasing his waistband before stepping back to observe, her tone leaving no room for disobedience.
 
 Calloway’s jaw clenched, but he obeyed, reaching down to palm himself through the fabric. His fingers worked with practiced ease, teasing the outline of his cock as Dr. Mercer settled into her chair, legs crossed at the ankles, her gaze unwavering. The silence between them was thick, broken only by the faint rustle of fabric and the sharp inhale he couldn’t suppress when her foot nudged his knee apart, spreading his stance wider.
 
@@ -100,27 +92,23 @@ Calloway exhaled through his nose, fingers curling into fists at his sides befor
 
 Dr. Mercer didn’t blink. "Better," she murmured, leaning back in her chair. Her crossed legs shifted, the hem of her skirt riding higher—a calculated tease. "Now show me how badly you want that extra credit."
 
-SUMMARY^1: Mercer watches as Calloway obeys her command to arouse himself, correcting him sharply when he hesitates to fully expose himself. Once he complies, she leans back, demanding he demonstrate his desperation for extra credit while subtly teasing him with her own body, maintaining full control.
-
 His throat worked as he swallowed, but his hand wrapped around himself without hesitation, stroking slow and deliberate. The sound of skin on skin was obscene in the quiet office, punctuated by the occasional hitch of his breath.
 
 Dr. Mercer uncrossed her legs with deliberate slowness, one heel dangling from her toes as she extended her foot toward him. The arch of her foot flexed, the red polish on her nails catching the fluorescent light. "Stop," she commanded, voice low and edged with something that wasn’t quite patience. "Get on your knees and over here." Her toe tapped the air between them, a silent demand. "Suck my toes."
 
+## Four - Foot Worship
+
+[image src="media/img/Prof3.jpg" alt="Professor"]
+
 Calloway’s hand stilled around himself, his breath hitching—not from the order itself, but from the way her lips curled around the words, like she’d been waiting to say them. He sank to his knees without hesitation, the tile cold against his bare skin, but the heat of her gaze kept him burning. When he reached for her foot, she tutted, withdrawing it just out of reach. "Ah-ah. No hands."
 
 His grin was all challenge, but he obeyed, leaning forward until his mouth hovered inches from her toes. Her scent—something faintly floral beneath the sharp leather of her shoes—wrapped around him as he exhaled, warm against her skin. Then he closed the distance, lips brushing the top of her foot first, a mockery of chivalry that made her snort.
-
-SUMMARY^1: Mercer orders Calloway to kneel and worship her feet without using his hands, teasing him with near-contact before he obeys. He taunts her with chivalrous gestures, but her amusement doesn’t lessen her control as she dictates every movement, forcing him to serve her desires while denying him direct touch.
-
-SUMMARY^2: Mercer establishes strict rules before ordering Calloway to strip for her inspection, maintaining dominance despite her own arousal. He complies slowly, teasing her while she dictates every movement—including forbidding speech and commanding him to kneel and worship her feet without using his hands. Though he challenges her with playful remarks, Mercer retains full control, denying him direct contact while subtly indulging her own desires.
 
 "Cheeky," she murmured, but her breath hitched when his tongue flicked out, tracing the seam between her toes. The taste of salt and leather bloomed on his tongue, and he hummed, pressing a wet kiss to the ball of her foot. Her toes curled against his lips, nails scraping his chin as she flexed. "Eager, aren’t you?"
 
 Calloway didn’t answer—couldn’t, by her rules—but his grip tightened on his own thighs as he sucked two toes into his mouth, rolling his tongue between them. The sound she made was half-laugh, half-moan, her heel digging into his shoulder as she arched back in her chair. "God, you’re good at this," she breathed, fingers twisting in the armrest. "Bet you’ve practiced."
 
 Calloway’s hands stayed planted on his thighs as instructed, but his mouth moved with deliberate precision, shifting from her toes to the arch of her foot. His tongue dragged a slow, wet line from the ball of her foot to her heel, pausing to nip lightly at the delicate skin there—just enough to make her gasp. Dr. Mercer’s fingers twitched against the armrests, her breath coming faster as he switched to her other foot without prompting, his lips brushing the inside of her ankle before trailing downward.
-
-SUMMARY^1: Mercer taunts Calloway as he worships her feet with skilled devotion, teasing him about his experience. Though he remains silent and keeps his hands restrained, his mouth works with deliberate expertise, eliciting moans from her as he explores every inch of her feet, switching between them without needing instruction.
 
 "Good," she murmured, her voice unsteady for the first time. Her hips shifted subtly in the chair, legs parting slightly as if her body couldn’t help but react. Calloway noticed—of course he did—and his tongue flicked against her instep in a way that made her toes curl. "But don’t get cocky," she added, though the effect was ruined by the way her heel pressed into his shoulder, urging him closer.
 
@@ -130,8 +118,6 @@ He obeyed, kissing his way back up to her toes, sucking each one into his mouth 
 
 Calloway’s brow furrowed slightly—a silent question—but he didn’t hesitate. Leaning forward, he caught her right foot with his mouth while his free hand (finally allowed) gripped her left, dragging his tongue along the sensitive arch. The dual sensation drew a sharp moan from her lips, her thighs tensing as her hips lifted involuntarily. Papers rustled beneath her as she squirmed, her blouse slipping further open.
 
-SUMMARY^1: Mercer loses composure as Calloway worships her feet, her body reacting despite her attempts to maintain authority. She commands him to intensify his efforts, allowing him to use his hands for the first time, and the dual stimulation wrings a moan from her as she writhes in the chair, her clothing disheveled.
-
 Calloway’s mouth abandoned her toes with a slow, wet drag of his tongue—just long enough to glance up and catch the flush darkening her cheeks. "Kiss and stroke my whole leg. From toes to panties."
 
 His answering grin was sharp, but his touch was anything but. His lips pressed against the arch of her foot first, tender enough to make her toes curl, before trailing upward along the delicate curve of her ankle. His hands followed, palms skimming the taut line of her calf, thumbs circling the dimple behind her knee in slow, maddening spirals.
@@ -140,9 +126,9 @@ Dr. Mercer’s breath hitched when his mouth reached the sensitive spot just abo
 
 "Stop teasing," she ordered, though her voice wavered as his thumb brushed the inside of her thigh, just shy of where she wanted him most.
 
-Calloway hummed against her skin—a wordless protest—but obeyed, his mouth moving higher, lips parting over the fluttering pulse at the crease of her hip. His hands slid upward, thumbs pressing into the softness of her inner thighs, spreading her just enough to make her gasp. The damp heat of her panties brushed against his knuckles, and his breath stuttered against her skin.
+## Five - Surprise Sight
 
-SUMMARY^1: Mercer orders Calloway to kiss and stroke her legs from toes to panties, his teasing touch both tender and maddening. His lips trail upward, followed by his hands, until he reaches the sensitive skin above her knee, pushing her skirt higher and revealing her stockings. Despite her command to stop teasing, he lingers just shy of her panties, making her gasp as his hands spread her thighs further.
+Calloway hummed against her skin—a wordless protest—but obeyed, his mouth moving higher, lips parting over the fluttering pulse at the crease of her hip. His hands slid upward, thumbs pressing into the softness of her inner thighs, spreading her just enough to make her gasp. The damp heat of her panties brushed against his knuckles, and his breath stuttered against her skin.
 
 "Now," Dr. Mercer murmured, her voice thick with command despite the way her thighs trembled under his touch. "Take them off with your teeth. Just your mouth."
 
@@ -164,6 +150,8 @@ Her laugh was low, throaty. "Observant." She arched a brow, tilting his head bac
 
 Calloway's gaze flicked between her face and the delicate script inked just above her crease—a single word in elegant cursive: *Mine.* His throat worked as he swallowed. "And a—" His breath hitched. "A piercing."
 
+[image src="media/img/Prof4.jpg" alt="Professor"]
+
 Dr. Mercer’s smirk was slow, predatory. She dragged her heel down Calloway’s chest, the pointed tip stopping just above his racing heartbeat. “Disappointed?”
 
 Calloway’s laugh was ragged. “Fuck, no.” His breath hitched as her foot pressed harder, the sharp edge of her heel biting into his skin. “Just didn’t peg you for the type.”
@@ -181,6 +169,10 @@ Dr. Mercer smiled, slow and satisfied, tracing the curve of his lower lip with h
 The words scraped out of him like gravel. "I'm yours."
 
 She rewarded him by sliding her foot away, replacing it with her fingers—twisting in his hair to drag him forward until his breath panted against her damp skin. "Prove it."
+
+## Six - Lip Service
+
+[image src="media/img/Prof5.jpg" alt="Professor"]
 
 Calloway obeyed without hesitation, his tongue dragging a slow, teasing line from her entrance to her clit—just once, feather-light—before withdrawing completely. The sound she made was half-growl, half-plea, her thighs tensing around his head. He smirked against her skin, breathing in the scent of her arousal before pressing another lingering kiss to her inner thigh. "Patience, Professor," he murmured, nipping lightly at the sensitive skin. "Thorough research takes time."
 
