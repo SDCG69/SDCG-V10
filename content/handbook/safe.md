@@ -1,6 +1,6 @@
 ## Safe Sex: A Practical Guide
 
-[image src="https://picsum.photos/seed/safesex-intro/900/520" alt="Safer sex essentials"]
+[image src="media/img/Safe.jpg" alt="SafeSex"]
 
 Safe sex is not a buzzkill. Done well, it is invisible — woven into the encounter without interrupting its momentum — and it is the foundation that allows sex to be enjoyed without anxiety. The goal of this guide is practical: what to use, when to use it, what to test for, and how to discuss it with a partner.
 
@@ -18,7 +18,7 @@ A second, less obvious benefit: couples who discuss and practice safer sex tend 
 
 ## Barrier Methods
 
-[image src="https://picsum.photos/seed/safesex-condoms/900/520" alt="Condoms and lubricant"]
+[image src="media/img/Safe1.jpg" alt="SafeSex"]
 
 **External (male) condoms.** The most widely available and most-studied barrier method. Effective against most STIs and against pregnancy. Use a new condom for each act, including each shift between oral, vaginal, and anal contact. Check the expiry date, open the wrapper carefully (not with teeth), pinch the tip to leave space, and roll down to the base.
 
@@ -53,8 +53,6 @@ If a condom fails or contraception is missed, emergency contraception (the morni
 
 ## STI Testing
 
-[image src="https://picsum.photos/seed/safesex-testing/900/520" alt="Routine sexual health"]
-
 Regular testing is the single most useful sexual health habit, and the most consistently neglected. Many STIs are asymptomatic — particularly chlamydia, gonorrhoea, and HIV in early stages — which means feeling fine is not evidence of being clear.
 
 Reasonable cadence:
@@ -86,6 +84,8 @@ The conversation is the hardest part for most people. A few principles that make
 - **Frame it as care, not interrogation.** *"When were you last tested? I'd like us both to be on the same page."* Not: *"Are you clean?"* (Which is a poor question — "clean" implies the alternative is "dirty," which is both stigmatising and inaccurate.)
 - **Share first.** *"I tested two months ago, all clear, and I haven't been with anyone since. How about you?"* gives a partner something concrete to respond to.
 - **Treat condoms as a default, not a negotiation.** Bringing them is care. Putting them on is part of the experience. A partner who tries to talk you out of using one is telling you something important about how they think about your wellbeing.
+
+[image src="media/img/Safe2.jpg" alt="SafeSex"]
 
 ---
 
