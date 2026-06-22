@@ -172,8 +172,6 @@ She rewarded him by sliding her foot away, replacing it with her fingers—twist
 
 ## Six - Lip Service
 
-[image src="media/img/Prof5.jpg" alt="Professor"]
-
 Calloway obeyed without hesitation, his tongue dragging a slow, teasing line from her entrance to her clit—just once, feather-light—before withdrawing completely. The sound she made was half-growl, half-plea, her thighs tensing around his head. He smirked against her skin, breathing in the scent of her arousal before pressing another lingering kiss to her inner thigh. "Patience, Professor," he murmured, nipping lightly at the sensitive skin. "Thorough research takes time."
 
 Dr. Mercer's grip in his hair tightened, yanking him back where she wanted him. "Research is *over*," she hissed, her hips rolling impatiently against his mouth.
@@ -215,6 +213,10 @@ He obliged, twisting his wrist to drag his fingertips against that spongy patch 
 Dr. Mercer came with a choked-off cry, her back bowing off the desk as pleasure ripped through her in white-hot waves. Calloway didn't let up—his tongue lapped at her through the contractions, drawing out every last shudder until she shoved his head away with a trembling hand, oversensitive and breathless.
 
 Dr. Mercer’s fingers slackened in Calloway’s hair as she caught her breath, her chest rising and falling rapidly. The air between them was thick with the scent of sweat and sex, the silence broken only by their ragged breathing. Then, with a slow, deliberate smirk, she dragged her thumb across his lower lip—smearing her arousal there—and murmured, "Good start, Mr. Calloway." Her voice was hoarse, but her gaze was sharp. "Now eat my ass."
+
+## Seven - Butt Heaven
+
+[image src="media/img/Prof5.jpg" alt="Professor"]
 
 Calloway’s breath hitched, his pupils dilating further—if that was even possible. For a split second, he looked genuinely stunned, his lips parted around an unspoken question. But then his mouth curved into that infuriating, knowing grin, and he exhaled a laugh through his nose. "Yes, Professor," he murmured, pressing a kiss to her inner thigh before shifting back on his knees.
 
@@ -258,6 +260,10 @@ Calloway didn't let up—his finger crooked inside her, drawing out every last p
 
 Before he could speak—before he could even think—Dr. Mercer turned, her hips shifting off the desk as she stretched out across its surface, her legs dangling off the edge. The movement sent a fresh cascade of papers fluttering to the floor, but she didn't care. Her skin was flushed, her hair a wild tangle against the wood, her blouse hanging open to reveal the lace of her bra—equally disheveled.
 
+## Eight - Taken Over The Desk
+
+[image src="media/img/Prof6.jpg" alt="Professor"]
+
 She locked eyes with Calloway, her gaze molten despite the exhaustion lining her limbs. "Now," she commanded, her voice hoarse but unwavering. "Fuck me."
 
 Calloway's breath hitched, his pupils swallowing the last traces of hazel. For a heartbeat, he hesitated—his hands hovering over her hips like he wasn't sure where to put them, his throat working as he swallowed.
@@ -282,11 +288,15 @@ Dr. Mercer's nails carved half-moons into his forearms, her legs locking around 
 
 She came like that—with the taste of her own arousal on his tongue and the desk digging into her back—her orgasm cresting in a silent scream as Calloway's teeth marked the juncture of her neck. The aftershocks were still pulsing through her when she planted her palms against his chest, shoving him back with surprising force. "Stand," she ordered, her voice ragged but firm.
 
+## Nine - Finishing The Job
+
 Calloway stumbled back, his cock slick with her arousal, his breath ragged as he fought for control. The fluorescent lights caught the sheen of sweat along his collarbones, the desperate clench of his fists at his sides. Dr. Mercer slid off the desk, her legs only trembling slightly as she dropped to her knees before him. The tile was cold against her bare skin, a stark contrast to the heat radiating off him.
 
 Her fingers wrapped around the base of his cock, her grip firm enough to make him hiss. She didn't tease—not this time. Her tongue flicked out, tracing the swollen head in one slow, deliberate stroke, savoring the salt-bitter taste of him. Calloway's hips jerked involuntarily, his hands tangling in her hair—not to guide, just to hold on.
 
 "Look at me," she murmured, her breath ghosting over his length. When his gaze locked onto hers, pupils blown black with need, she took him into her mouth in one smooth motion, swallowing him to the hilt. The groan that tore from his throat was raw, unfiltered—a sound she'd never heard in her classroom.
+
+[image src="media/img/Prof7.jpg" alt="Professor"]
 
 Her lips stretched around him as she pulled back, her tongue pressing flat against the underside of his cock before diving back down. The rhythm was merciless, her suction relentless, each upward drag of her mouth punctuated by the scrape of her teeth—just enough to remind him who was in control. Calloway's thighs trembled, his fingers tightening in her hair as he fought the urge to thrust.
 
@@ -305,10 +315,6 @@ Calloway's throat convulsed against the bitter-salt taste flooding his mouth—h
 "Swallow," she commanded against his lips, the word more vibration than sound. When he hesitated, her teeth closed on his lower lip—not hard enough to break skin, but enough to make his breath hitch. Her hand slid from his hair to grip his jaw, fingers pressing into the hinge until his muscles unlocked.
 
 The first swallow was reluctant, his Adam's apple bobbing as his throat worked around the unfamiliar weight. Mercer didn't let up, her tongue sweeping over his palate to chase every drop until he groaned—half-disgust, half-arousal—and finally obeyed. She pulled back just far enough to watch his throat move, her thumb tracing the strained tendons of his neck.
-
-"Good boy," she murmured, her voice rough with satisfaction. A flush darkened his cheeks at the praise, his pupils dilating further despite the humiliation simmering in his gaze. Mercer smirked and leaned in again, her teeth grazing his earlobe. "Now tell me you liked it."
-
-Calloway's breath hitched, his hands flexing against her thighs. "Fuck you," he rasped, but the effect was ruined by the way his hips jerked forward, his half-hard cock brushing her stomach.
 
 "That earns you an extra five marks," Dr. Mercer murmured, her thumb swiping a stray drop from the corner of Calloway's swollen lips. His breath hitched as her nail grazed the sensitive skin—part punishment, part reward. "Maybe you can earn more tomorrow."
 
