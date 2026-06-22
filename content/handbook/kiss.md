@@ -1,6 +1,6 @@
 ## Kissing: The Art Of The Most Underrated Skill
 
-[image src="https://picsum.photos/seed/kissing-intro/900/520" alt="Couple kissing softly"]
+[image src="media/img/K2.jpg" alt="Kiss"]
 
 Kissing is the most universal form of physical intimacy and, in long-term relationships, the most commonly neglected. Couples who maintain a vivid kissing life consistently report higher relationship satisfaction than those who don't — and the correlation is so strong that researchers regard frequency and quality of non-sexual kissing as a useful diagnostic for the overall health of a romantic partnership.
 
@@ -28,7 +28,7 @@ The first step in better kissing, almost always, is slowing down enough to actua
 
 **Breathe.** Through the nose, slowly. Holding your breath turns a kiss into a chore for both people.
 
-[image src="https://picsum.photos/seed/kissing-soft/900/520" alt="Gentle kiss with eyes closed"]
+[image src="media/img/K1.jpg" alt="Kiss"]
 
 ---
 
@@ -56,7 +56,7 @@ Restricting kissing to mouth-on-mouth contact ignores most of what makes physica
 - **The wrist and the inside of the elbow.** Rarely kissed, surprisingly sensitive.
 - **The forehead.** Not erotic, but extraordinarily intimate. A forehead kiss in the right moment communicates love better than most sentences.
 
-[image src="https://picsum.photos/seed/kissing-neck/900/520" alt="Kissing along the neck"]
+[image src="media/img/K3.jpg" alt="Kiss"]
 
 ---
 
