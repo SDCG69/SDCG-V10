@@ -414,7 +414,7 @@ function App(){
             <div style={{display:"flex",alignItems:"center",gap:"8px",color:"#888",fontSize:"19px",fontWeight:"bold"}}>
               <span>💑</span><span>We Match? — Couples Quiz</span>
             </div>
-            <p style={{color:"#4a4a4a",fontSize:"12px",margin:"6px 0 0",lineHeight:"1.5",paddingLeft:"2px"}}>A thorough and probing sexual preferences and limits quiz for two. Answer 25 deeply intimate questions separately, then discover what you share.</p>
+            <p style={{color:"#4a4a4a",fontSize:"12px",margin:"6px 0 0",lineHeight:"1.5",paddingLeft:"2px"}}>A thorough and probing sexual preferences and limits quiz for two. Answer 100 deeply intimate questions separately, then discover what you share.</p>
           </button>
           <button className="btn" onClick={()=>setScreen("fruitMachine")} style={{background:"#4A0404",border:"1px solid #252525",width:"100%",marginTop:"12px",padding:"14px 16px",display:"flex",flexDirection:"column",alignItems:"flex-start",textAlign:"left"}}>
             <div style={{display:"flex",alignItems:"center",gap:"8px",color:"#888",fontSize:"19px",fontWeight:"bold"}}>
