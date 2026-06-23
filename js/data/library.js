@@ -398,12 +398,32 @@ const EROTICA_ITEMS = [
   },
 	{
     "category": "Hetero",
-    "title": "Strict Professpr",
+    "title": "Strict Professor",
     "img": "b02_hetero.svg",
     "sub1": "A student needs extra credit from his hot professor.",
     "sub2": "AI generated story & images",
     "readTime": "20 minute read",
     "contentFile": "content/fiction/prof.md",
+    "sections": []
+  },
+	{
+    "category": "Kinky",
+    "title": "A Goth Girl",
+    "img": "b03_kinky.svg",
+    "sub1": "A goth girl with a kinky side.",
+    "sub2": "AI generated story & images",
+    "readTime": "40 minute read",
+    "contentFile": "content/fiction/goth.md",
+    "sections": []
+  },
+	 {
+    "category": "Kinky",
+    "title": "Hanna's Second Date",
+    "img": "b03_kinky.svg",
+    "sub1": "A thickset woman with a BDSM fetish.",
+    "sub2": "AI generated story & images",
+    "readTime": "20 minute read",
+    "contentFile": "content/fiction/han2.md",
     "sections": []
   },
   {
