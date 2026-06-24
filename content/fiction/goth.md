@@ -118,7 +118,14 @@ She circled him like a wolf sizing up prey, her fingers trailing over his ribs b
 
 ## Four - Guessing Game
 
-Marcus's knees nearly gave out when they guided him toward the bed, his legs trembling from the mix of adrenaline and lingering pain. The sheets were cool against his flushed skin as he collapsed onto the mattress, his breath coming in ragged pulls. Cass straddled his thighs, her black dress riding up to reveal the spiderweb tattoo he'd been staring at all night. "Look at you," she murmured, her palm pressing flat against his chest as she leaned down. Her lipstick was smeared now, a dark streak near her chin. "All marked up and still hard as a fucking rock."
+Marcus felt his knees buckle as they guided him to the bed. Adrenaline surged through him, mixing with pain. The cool sheets soothed his heated skin when he collapsed onto the mattress, breathless. "Look at us!" Cass exclaimed, her excitement palpable. Ellie wrapped her arms around Cass, pulling her into a deep kiss. Their fingers tangled in each other's hair, intensity rising with every movement. 
+
+[image src="media/img/goth10.jpg" alt="Goth Date"]
+
+Marcus couldn't tear his gaze away. The sight of the two girls kissing ignited something primal in him. He felt a rush of desire, his body responding fiercely. 
+As they broke the kiss, Ellie and Cass approached him, a playful glint in their eyes. 
+
+Cass straddled his thighs, her black dress hiking up to reveal the spiderweb tattoo he’d been admiring all night. "Look at you," she whispered, her hand pressing against his chest as she leaned closer. Her lipstick was smudged, a bold streak against her skin. "All marked up and still as hard as a rock."
 
 Ellie laughed, climbing onto the bed beside them, her fishnets catching on the silk sheets. She grabbed Marcus's chin, forcing his gaze downward where his cock strained against his stomach, flushed and leaking. "Aw," she cooed, dragging a nail along the underside. "Does he *like* being hurt?" Her grip tightened when Marcus shuddered, her smirk widening. "Answer her."
 
