@@ -1,8 +1,10 @@
 ## One - The Goth Girl
 
-"I swear to god, if this museum turns out to be one of those Instagram trap places with neon signs and plastic skeletons, I’m dumping you in the Thames," Cass said, tossing her cigarette into the gutter without breaking stride.
+"I hope you like this place. I go there quite a lot." Cass said, tossing her cigarette into the gutter without breaking stride.
 
-Marcus laughed, shoving his hands deeper into his trench coat pockets as he matched her pace. "You picked the place, so if it’s shit, that’s on you." The museum loomed ahead, its brick facade weathered and its windows dark even in the afternoon light. It looked like the kind of building that might exhale cold breath when you stepped inside.
+Marcus laughed, shoving his hands deeper into his trench coat pockets as he matched her pace. "I never thougt about a horror museum as a first date but I'm game."
+
+The museum loomed ahead, its brick facade weathered and its windows dark even in the afternoon light. It looked like the kind of building that might exhale cold breath when you stepped inside.
 
 The heavy oak door groaned as Cass pushed it open, releasing a draft of air that smelled like old paper and something faintly metallic—blood or iron, Marcus couldn’t tell. Inside, the museum was dimly lit, the walls lined with glass cases displaying antique medical instruments, their blades catching the sparse light. A stuffed two-headed lamb stared blankly from a pedestal near the entrance.
 
@@ -85,6 +87,34 @@ When Cass’s lips brushed the swell of his ass, he tensed instinctively. Her ha
 “Again,” Cass ordered, her voice low and edged with something hungry. Ellie obliged without hesitation, the strap whistling through the air before it connected with a snap that left Marcus panting. The pain was bright, immediate, but beneath it, something else coiled—a heat that pooled low in his stomach, throbbing in time with the ache in his skin. Ellie’s fingers traced the rising welt, her touch oddly gentle compared to the sharp bite of the leather. “Look at that,” she mused, pressing her thumb into the mark. “Pretty color on you.”
 
 Cass unhooked the cuffs with a practiced flick of her wrist, her fingers grazing Marcus's overheated skin as she stepped back to survey him. Ellie let out a low whistle, running her tongue over her teeth. "Not a single fucking safeword," she mused, tracing the angry red lines crisscrossing his back. "Color me surprised."
+
+"That deserves a small treat," Ellie winked, tossing the strap onto the bed with a wet leathery thud. Cass crooked a finger toward Marcus. "Step forward. Stand still." He obeyed, legs trembling as he took one shaky step away from the wall. The air was cool against his heated skin, raising gooseflesh along his thighs as Cass sank to her knees in front of him.
+
+Her lips were hot and slick when they wrapped around him, tongue swirling just under the head before taking him deeper. Marcus choked back a groan as her fingers cradled his balls, rolling them gently between her thumb and forefinger. Ellie's breath ghosted across his lower back as she knelt behind him, her palms smoothing over the sting she'd left on his ass. "Don't move," she murmured, pressing her thumbs into the swell of his cheeks. "Unless you want me to bite instead."
+
+Cass hummed around him, the vibration shooting straight to his spine. Her nails dug lightly into the sensitive skin behind his scrotum—not enough to hurt, just enough to make him twitch. Ellie's laughter was a warm puff against his tailbone as she leaned in, tracing the curve of his ass with her tongue. "Fuck," Marcus gasped, his hips jerking involuntarily. Cass immediately pulled off with a wet pop, her grip tightening warningly at the base of his cock.
+
+"I said *still*," she reminded him, her breath hot against his flushed skin. Ellie nipped the back of his thigh in agreement before soothing the spot with her tongue. Cass resumed her slow, torturous rhythm, her tongue flat against the underside of his shaft while Ellie's fingers spread him wider. The first press of her tongue against his hole made Marcus's knees buckle. Cass's free hand shot out to brace against his hip, holding him upright as Ellie licked a slow, filthy stripe over his rim before standing again.
+
+Cass took him fully, the head of his dick hitting the back of her throat with a wet, choked sound that made Marcus’s hips jerk instinctively. Ellie’s fingers tangled instantly in Cass’s violet-tipped hair, yanking her forward until Marcus could feel the convulsive flutter of her gag reflex around him. A muffled groan escaped Cass—half protest, half dark amusement—before she swallowed deliberately, her throat working around him in slow, practiced pulses.
+
+Marcus’s breath came in ragged bursts, his fingers scrabbling against the brick wall as Ellie’s other hand fisted his pubes, puling with force. “Watch,” she commanded, her voice rough with approval. Cass’s eyes flicked up, black-lined and glinting with challenge even as tears welled at the corners from the force of Ellie’s grip. Her spit-slick lips stretched wider, taking him deeper, her free hand snaking back to grab a handful of Ellie’s fishnet-clad thigh.
+
+Then Cass twisted, her fingers tightening viciously over Ellies butt and yanking her forward until Ellie’s nose pressed against Marcus’s sweat-slicked skin. Ellie’s curse was hot against his ass, but she didn’t resist—just dug her nails into Cass’s shoulder and licked a searing stripe over his rim before driving her tongue inside with a rough, claiming thrust.
+
+Marcus choked on air, his knees giving out entirely. Cass caught him by the hips, her grip iron-tight as she pulled off just enough to rasp, “Stay up,” before swallowing him back down in tandem with Ellie’s relentless rhythm. The dual sensation—Cass’s throat fluttering around him, Ellie’s tongue working him open—sent white-hot electricity arcing down his spine. His thighs trembled, every muscle coiled taut as a bowstring.
+
+[image src="media/img/goth9.jpg" alt="Goth Date"]
+
+This double oral continued until Marcus could barely remember his own name. Cass's throat pulsed around him, her spit slicking every inch as Ellie's tongue worked deeper in relentless circles that had his thighs trembling. He was close, so close, the coil in his gut tightening like a spring when Cass suddenly pulled off with a wet pop, her fingers clamping around the base of his cock hard enough to make him whimper.
+
+"Na-uh," she murmured, wiping her mouth with the back of her hand as she stood. Ellie's tongue didn't stop, curling deliberately against his rim as Cass traced the vein on the underside of his shaft with her thumbnail. "You don't get to come yet. Not even close."
+
+Ellie hummed in agreement, the vibration making Marcus twitch. Her nails dug into the swell of his ass, dragging red lines down his skin as she pressed deeper—*meaner*—her tongue flattening against him in slow, filthy strokes. Cass smirked at the way his breath hitched, stepping back to survey the wreck they'd made of him: sweat-slick chest heaving, thighs scratched raw, cock twitching pathetically against nothing.
+
+She circled him like a wolf sizing up prey, her fingers trailing over his ribs before she grabbed a fistful of his hair and yanked his head back. "Look at you," she mused, her voice dripping with mock sympathy. "All worked up and nowhere to go." Ellie's teeth grazed his ass in punctuation, sharp enough to make him jerk.
+
+"Delicious," Ellie murmured, her tongue flicking out to catch the sweat at the small of Marcus’s back before she straightened. She nodded toward the bed with a predator’s grin. "Bring him."
 
 ## Four - Guessing Game
 
