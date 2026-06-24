@@ -191,7 +191,7 @@ Ellie swung one leg over Marcus’s hips with the casual grace of someone who kn
 
 Cass's fingers dug into Ellie's waist, urging her back into rhythm. "Don't stop," she murmured against Ellie's skin, her breath hot where her mouth had just been. "Make him feel it." Ellie obeyed, rolling her hips in slow, torturous circles, the drag of her body against Marcus's cock maddening in its precision. Every downward grind was a promise, every upward lift a tease. Cass's hands slid up Ellie's torso, her thumbs brushing the underside of her breasts as she leaned in to capture Ellie's mouth in a filthy, open-mouthed kiss. The sound of their lips meeting was obscenely wet, mingling with the slick noise of Ellie's body moving on Marcus'.
 
-Marcus groaned, the sound ripped from somewhere deep in his chest—half-pleasure, half-prayer—as Ellie ground down on him, her body a slick vise of heat. Cass's fingers tightened around his balls with calculated precision, her grip just shy of painful, then tightened further. The pressure was exquisite, a slow-building ache that sent sparks skittering up his spine. He could feel Cass watching him, her dark eyes tracking every twitch of his face, every hitch in his breath.
+Marcus groaned, the sound ripped from somewhere deep in his chest—half-pleasure, half-prayer—as Ellie ground down on him, her body a slick vice of heat. Cass's fingers tightened around his balls with calculated precision, her grip just shy of painful, then tightened further. The pressure was exquisite, a slow-building ache that sent sparks skittering up his spine. He could feel Cass watching him, her dark eyes tracking every twitch of his face, every hitch in his breath.
 
 "Mercy?," she teased, her thumb circling the sensitive skin just beneath his shaft. It wasn't a question. It was a dare. Marcus shook his head, his teeth sinking into his lower lip hard enough to taste copper. Cass laughed, low and throaty, and squeezed harder. "Stubborn," she murmured, her nails scraping the inside of his thigh. "Let's see how long that lasts."
 
@@ -311,7 +311,7 @@ Ellie's laughter was breathless and ragged against the chairback, her hips rocki
 
 The riding crop cracked across Marcus's bare ass—*thwip*—the sting radiating outward in hot waves. Ellie gasped, her thighs trembling as Marcus's involuntary jerk dragged his teeth lightly against her skin. "Oh fuck—" she choked out, her fingers clawing at the upholstery. Cass's chuckle was dark as she landed another strike, this time diagonally across his shoulder blades. "That's more like it," she purred, her free hand trailing down Ellie's spine. "Isn't he *adorable* when he's desperate?"
 
-Marcus's tongue pressed deeper into Ellie's tight heat, the muscles fluttering against his intrusion as she arched back with a gasp. The taste was musk and salt and something darker—something that made his cock twitch against nothing, still painfully hard and ignored. Cass's fingers tightened in his hair like a vise, nails scraping his scalp as she forced his face harder between Ellie's cheeks. "Deeper" she hissed, her voice ragged with impatience.
+Marcus's tongue pressed deeper into Ellie's tight heat, the muscles fluttering against his intrusion as she arched back with a gasp. The taste was musk and salt and something darker—something that made his cock twitch against nothing, still painfully hard and ignored. Cass's fingers tightened in his hair like a wild animal, nails scraping his scalp as she forced his face harder between Ellie's cheeks. "Deeper" she hissed, her voice ragged with impatience.
 
 Ellie moaned against the chairback, her fingers clawing at the upholstery as Marcus obeyed, his tongue plunging in with desperate precision. The riding crop came down across his shoulders—*crack*—the pain searing through him like lightning. Ellie's hips jerked backward, grinding against his mouth with a filthy wet sound. "Fuck—*yes*—like that," she gasped, her thighs trembling.
 
@@ -323,13 +323,13 @@ Marcus obeyed without hesitation, his lips sealing around Ellie's rim, sucking h
 
 Marcus groaned against Ellie's ass, the vibration making her thighs quiver. His cock ached, untouched and ignored, but he didn't dare stop—not with Cass's grip in his hair and the riding crop poised to strike again. Ellie's fingers pinched her nipples hard, twisting the metal rings as she rocked back onto his tongue with increasing desperation.
 
-Ellie's thighs trembled violently, her breath hitching in jagged bursts as Marcus's tongue worked relentless circles around her clit. The orgasm coiled tight in her belly—a white-hot wire pulled taut—until her fingers clawed at the chairback hard enough to tear the velvet. "Fuck—*fuck*—" she gasped, her hips jerking forward in short, aborted thrusts.
+Ellie's thighs trembled violently, her breath hitching in jagged bursts as she now rubbed her own clit as Marcus's tongue worked relentless circles around her ass hole. The orgasm coiled tight in her belly—a white-hot wire pulled taut—until her fingers clawed at the chairback hard enough to tear the velvet. "Fuck—*fuck*—" she gasped, her hips jerking forward in short, aborted thrusts.
 
 Then—just as the first wave crested—she lurched away from Marcus's mouth with a ragged cry, her thighs snapping shut like a sprung trap. The denial hit her like a physical blow; she arched backward with a choked scream, her fingers twisting violently in her own hair as pleasure ricocheted through her without release. Cass's laughter curled darkly through the air as Ellie collapsed against the chairback, her chest heaving, her skin slick with sweat.
 
 ## Ten - Cass Reveals Another Kink
 
-"She is brutal," Cass whistled through her teeth, watching Ellie tremble against the chairback—her thighs still twitching with the aftershocks of denied release. The sound was low, appreciative, almost reverent. Cass snapped her fingers twice near Marcus's left ear, the sharp noise making his shoulders jerk. "Stay kneeling," she commanded, her voice rough with amusement. "And hold still."
+"She is brutal.  Edging herself all week." Cass whistled through her teeth, watching Ellie tremble against the chairback—her thighs still twitching with the aftershocks of denied release. The sound was low, appreciative, almost reverent. Cass snapped her fingers twice near Marcus's left ear, the sharp noise making his shoulders jerk. "Stay kneeling," she commanded, her voice rough with amusement. "And hold still."
 
 Marcus barely had time to inhale before cold leather pressed against his temples—a fresh blindfold, this one thicker, the inside lined with something that smelled faintly of cedar and musk. Cass's fingers worked swiftly behind his head, knotting the straps tight enough to make the edges dig into his skin. The world vanished into oppressive darkness, his other senses immediately heightening—the sound of Ellie's uneven breathing, the scent of sweat and sex clinging to the upholstery, the lingering burn of the riding crop stripes across his back.
 
@@ -339,7 +339,7 @@ Cass' fingers dug into Marcus's hair with possessive force, wrenching his head u
 
 The metal ring clicked sharply against Marcus's front teeth as he sucked Ellie's nipple into his mouth—a cold contrast to the heat of her skin. Her breath hitched, her back arching off the chair as his tongue swirled around the piercing in tight, practiced circles. Cass's fingers tightened in his hair, yanking his head back just enough to make him whimper against Ellie's flesh before shoving him forward again. "Ready?" she purred, the word dripping with dark amusement.
 
-Ellie's answering grin was all teeth. She reached behind herself, her fingers brushing Marcus's bound wrists before finding purchase on the chair's upholstery. The riding crop landed across his shoulder blades with a stinging crack — Cass's warning shot.
+Ellie's answering grin was all teeth. The riding crop landed across his shoulder blades with a stinging crack — Cass's warning shot.
 
 Marcus braced for a second strike that never came. Instead he heard Cass behind him doing something that made Ellie's breath catch, then the unmistakable sound of liquid hitting hardwood in a steady stream. The scent hit him a second later—musky, ammoniac, impossibly intimate—as Cass pissed directly onto the floorboards between his knees. Hot droplets splattered against his thighs, the warmth shocking against his cooler skin.
 
@@ -347,7 +347,7 @@ Ellie's fingers tightened in Marcus's hair hard enough to make his scalp burn. "
 
 Marcus gagged reflexively as the first hot splash hit the back of his throat—bitter and salt-sharp, the taste flooding his sinuses with an intimacy that burned worse than the riding crop's stripes across his shoulders. Cass's stream didn't falter; she angled her with cruel precision, forcing him to swallow convulsively or drown in it. Ellie's fingers became iron bars across his scalp, her nipple ring dragging against his teeth as she ground his face harder against her breast. "Swallow it," she hissed, her thigh muscles quivering against his temple. The riding crop cracked across his exposed flank—*thwip*—a stinging punctuation to Cass's dark chuckle.
 
-He choked down another mouthful, the liquid scorching a path to his stomach while stray droplets traced wet lines down his chin. The blindfold's cedar scent turned cloying as Cass shifted her stance, the stream tapering off into sporadic drips that pattered against his collarbone. Ellie's laugh vibrated through her ribs and into Marcus's mouth where he still dutifully suckled her pierced nipple. "Good boy," she cooed, her nails scraping down his nape. "Now lick my feet."
+He choked down another mouthful, the liquid scorching a path to his stomach while stray droplets traced wet lines down his chin. The blindfold's cedar scent turned cloying as Cass shifted her stance, the stream tapering off into sporadic drips that pattered against his collarbone. Ellie's laugh vibrated through her ribs and into Marcus's mouth where he still dutifully suckled her pierced nipple. "Good boy," she cooed, her nails scraping down his nape. "Now lick her splashes off my feet."
 
 The riding crop tapped Marcus’s chin, tilting his face upward. Something cold and metallic brushed his lower lip—a zipper’s teeth, maybe, or the edge of a belt buckle. “Lick,” Cass ordered, her voice thick with amusement. “From her toes to her knees.”
 
@@ -357,7 +357,7 @@ Marcus's tongue dragged along the arch of Ellie's foot, the taste of salt and le
 
 Behind him, Cass's movements were deliberate—the slick *snick* of a cap twisting open, the thick, obscene sound of lube being pumped into her palm. Marcus froze mid-lick, his shoulders tensing as Ellie's foot pressed harder against his mouth in silent warning. "Keep going," she murmured, her voice rough with amusement. The riding crop tapped against his cheekbone—light, teasing. "Unless you'd rather tap out?"
 
-The cold tip of the strap-on pressed against Marcus's lower back before he could respond—a blunt, unyielding pressure that made his breath hitch. Cass's laughter curled darkly against his ear as she rocked her hips forward, the silicone head dragging down the cleft of his ass in a slow, taunting stroke. "Bet you didn't think your tongue would be the *only* thing getting a workout tonight," she purred, her fingers digging into his hips hard enough to leave bruises.
+The cold tip of the pegging strap-on pressed against Marcus's lower back before he could respond—a blunt, unyielding pressure that made his breath hitch. Cass's laughter curled darkly against his ear as she rocked her hips forward, the silicone head dragging down the cleft of his ass in a slow, taunting stroke. "Bet you didn't think your tongue would be the *only* thing getting a workout tonight," she purred, her fingers digging into his hips hard enough to leave bruises.
 
 Cass's fingers squeezed another thick dollop of lube onto the strap's shaft with a wet *squish*, the excess dripping down onto Marcus's bare thigh in a slick, translucent trail. She spread it with deliberate cruelty—working the silicone head in slow circles against his entrance until his hips jerked involuntarily, his breath stuttering against Ellie's ankle where his tongue still traced the arch of her foot.
 
@@ -367,7 +367,7 @@ Ellie's toes curled against Marcus's bottom lip, calves rasping against his stub
 
 Cass answered with a slow, deliberate thrust—just the tip breaching him, stretching Marcus's rim taut around the slick silicone. His choked gasp vibrated through Ellie's arches as his hands strained against the cuffs behind his back. Cass paused there, letting him feel every millimeter of intrusion, the lube cooling against his overheated skin. "Not yet," she breathed, dragging the strap back out in one torturous slide. "But he will."
 
-The second push came harder—Cass's hips snapping forward with enough force to make Marcus's shoulders jerk. Ellie's foot muffled his groan as the strap sank deeper, the stretch bordering on painful despite the lube. Cass's fingers dug into his hips, holding him in place as she rolled her pelvis experimentally, adjusting the angle until—
+The second push came harder—Cass's hips snapping forward with enough force to make Marcus's shoulders jerk. Ellie's foot muffled his groan as the strap-on sank deeper, the stretch bordering on painful despite the lube. Cass's fingers dug into his hips, holding him in place as she rolled her pelvis experimentally, adjusting the angle until—
 
 Marcus arched violently, his scream trapped against Ellie's instep as the strap brushed that sweet, forbidden spot inside him. Cass's laugh was dark with triumph. "There we go," she purred, withdrawing again—slow this time—just to watch his thighs tremble. "Tell me how bad you want it."
 
@@ -375,13 +375,13 @@ Marcus arched violently, his scream trapped against Ellie's instep as the strap 
 
 Ellie's fingers twisted in his hair like a garrote wire. "Louder," she demanded, grinding her heel against his collarbone. The riding crop lashed across his ribs—*thwack*—leaving a fresh stripe of fire in its wake. Marcus's groan tore from his chest, raw and desperate, but his knees stayed planted on the hardwood even as his vision blurred at the edges.
 
-Cass's hips snapped forward again, the strap hitting that deep, molten spot with unerring accuracy. Marcus's shout shattered into a broken sob, his thighs shaking violently, but he didn't beg for mercy—didn't tap out. Instead, he bared his teeth against Ellie's skin and growled, "*Harder*."
+Cass's hips snapped forward again, the small peggin dildo hitting that deep, molten spot with unerring accuracy. Marcus's shout shattered into a broken sob, his thighs shaking violently, but he didn't beg for mercy—didn't tap out. Instead, he bared his teeth against Ellie's skin and growled, "*Harder*."
 
 Ellie's breath hitched—sharp, surprised—as Marcus's growl vibrated against her calf. Her fingers spasmed in his hair, nails scraping his scalp raw. For a heartbeat, the room held its breath. Then her laugh spilled out, dark and delighted, as she dragged her foot from his mouth to trace his bottom lip with her big toe. "Oh, you *fuck*," she breathed, her voice thick with something dangerously close to admiration.
 
 ## Twelve - Ellie Gives Her Reward
 
-Cass froze mid-thrust, the strap buried to the hilt inside Marcus, her grip on his hips tightening reflexively. She watched Ellie's face—the way her pupils dilated further, the flush spreading down her chest—and smirked. "Uh-oh," Cass murmured, rocking forward just enough to make Marcus shudder. "Someone's *impressed*."
+Cass froze mid-thrust, the small strap-on dildo buried to the hilt inside Marcus, her grip on his hips tightening reflexively. She watched Ellie's face—the way her pupils dilated further, the flush spreading down her chest—and smirked. "Uh-oh," Cass murmured, rocking forward just enough to make Marcus shudder. "Someone's *impressed*."
 
 Ellie didn't deny it. She surged off the chair in one fluid motion, grabbing his cock underneath him as Cass kept pounding. The sudden contact drew a ragged groan from him, his hips jerking involuntarily—but Ellie caught his chin in her palm, forcing his head up. "You," she said, her thumb smearing spit and piss across his lower lip, "just earned yourself a reward."
 
@@ -399,13 +399,13 @@ Cass's free hand tangled in Ellie's hair, not guiding but claiming—her fingers
 
 Marcus's fingers clawed at empty air behind his back, his wrists straining against the cuffs. "Fuck—please—" he choked out, his voice raw. Ellie's answering moan sent vibrations straight through his cock, her tongue swirling in tight circles as Cass fucked him harder—her thrusts losing their rhythm, becoming erratic.
 
-Cass's breath hitched when Ellie's free hand reached up, fingers digging into Marcus's thigh hard enough to leave crescent marks. She was close—they all were—the air thick with sweat and desperation. With a sudden growl, Cass wrenched the strap free in one brutal motion, tossing it aside with a wet slap against the hardwood. Marcus gasped at the sudden emptiness, his body jerking forward.
+Cass's breath hitched when Ellie's free hand reached up, fingers digging into Marcus's thigh hard enough to leave crescent marks. She was close—they all were—the air thick with sweat and desperation. With a sudden growl, Cass wrenched the strap-on free in one brutal motion, unclipping it and tossing it aside with a wet slap against the hardwood. Marcus gasped at the sudden emptiness, his body jerking forward.
 
 Cass knelt between Marcus's spread thighs, her fingers tracing the reddened rim of his ass with deliberate slowness. "Fair's fair," she murmured, her breath hot against his skin.
 
-The first lick was a lightning strike—Cass's tongue flat and broad as it dragged from perineum to tailbone in one filthy stroke. Marcus arched off the floor with a ragged cry, his cock twitching against Ellie's stomach where she lay beside him. Cass chuckled darkly, her fingers spreading him wider. "Sensitive?" she taunted, before diving back in—her tongue circling his rim with wet precision.
+The first lick was a lightning strike—Cass's tongue flat and broad as it dragged from scrotum to anus in one deliberate stroke. Marcus arched off the floor with a ragged cry, his cock twitching against Ellie's stomach where she lay under him. Cass chuckled darkly, her fingers spreading him wider. "Sensitive?" she taunted, before diving back in—her tongue circling his rim with wet precision.
 
-Ellie moved from under Marcus and propped herself up on one elbow, watching Cass work with rapt fascination. She reached out, her fingers threading through Marcus's hair and yanking his head back hard enough to expose his throat. "Look at her," Ellie breathed, forcing his gaze downward. "She's fucking you with her *tongue*."
+Ellie moved out from under Marcus and propped herself up on one elbow, watching Cass work with rapt fascination. She reached out, her fingers threading through Marcus's hair and yanking his head back hard enough to expose his throat. "Look at her," Ellie breathed, forcing his gaze downward. "She's fucking you with her *tongue*."
 
 Marcus's vision blurred at the edges as Cass's tongue speared into him—hot and relentless—her nose pressing against his throbbing skin with each deep stroke. Ellie's grip in his hair kept his head arched back, denying him even the relief of hiding his expression as Cass worked him open with shameless precision. The wet sounds were obscenely loud in the stillness between his own ragged gasps.
 
@@ -417,48 +417,100 @@ Marcus's breath hitched as Cass's tongue pressed deeper—an obscene, wet intrus
 
 Cass's answering laugh vibrated against Marcus's skin, her nails digging into his hips as she withdrew just enough to murmur, "He's *terrible* at this." Then her tongue was back—broad, relentless strokes that had Marcus arching off the floor with a strangled cry.
 
-Ellie's hand slid between her thighs in one fluid motion—no hesitation, no teasing—just the slick sound of her fingers circling her clit with rough urgency. Her breath made Marcus's cock twitch against Cass's tongue where she still worked him open. "Enough," Ellie growled, her voice ragged as she rolled onto her knees, her back arching like a bowstring. "Fuck me. *Right now.*"
+Ellie's hand slid between her thighs in one fluid motion—no hesitation, no teasing—just the slick sound of her fingers circling her clit with rough urgency as Marcus watched from mere inches away. Her breath made Marcus's ass twitch against Cass's tongue where she still worked him open. "Enough," Ellie growled, her voice ragged as she rolled onto her knees, her back arching like a bowstring. "Fuck me. *Right now.*"
 
 The click of the cuffs releasing was almost lost in the wet, ragged sounds of Cass's tongue working Marcus open. The metal fell away with a muffled thud against the hardwood, but Marcus barely registered the freedom—his arms were already moving, his hands numb from restraint but driven by pure instinct. He grabbed Ellie's hips hard enough to bruise, yanking her backward onto his cock in one brutal thrust that drew a raw cry from both of them.
 
-Ellie's back arched like a snapped bowstring, her nails raking down Marcus's chest as he bottomed out inside her with a groan that bordered on a snarl. She was *tight*—hot and slick and clenching around him in waves that threatened to undo him instantly. "Fuck—*fuck*—" she gasped, her thighs trembling where they bracketed his hips, her pussy lips gripping around his length as if trying to milk him dry.
+“Fuck—yes, fuck me!” she gasped, her thighs shaking as his hips pounded against her, her slick pussy lips gripping him like she never wanted to let go.
 
-## Thirteen - Triple Climax
+Ellie’s back arched like a playful bowstring pulled taut, her nails raking wildly across the hard wooden floor as Marcus slammed home inside her with a deep, feral groan. She was blissfully tight—scorching hot, dripping wet, and clenching around his thick cock in greedy, fluttering waves that made his eyes roll back.
+“Thighs!” Ellie demanded with a wicked grin. Marcus didn’t hesitate—he sank his nails into her soft, bouncing thighs and plump ass, clawing long, savage red lines down her skin until tiny beads of blood welled up.
 
-Ellie's fingers clawed at the floorboards as he pounded her with reckless abandon in short, violent jerks that left them both gasping. The slap of skin against skin echoed off the walls, punctuated by Cass's low, approving hum as she watched from the sidelines, her fingers still glistening from Marcus's ass. Ellie's breath came in ragged bursts, her lipstick smeared beyond recognition, her thighs quivering with the effort of keeping pace.
+“Yes! Yes, fucking YES!!” Ellie cried out, her voice cracking into a delighted, filthy laugh.
 
-"You feel *so* fucking good," Ellie growled, a shift in angle drew a choked groan from Marcus—his hips jerking upward involuntarily, his cock twitching inside her—but Ellie pinned him with a glare. "*Harder!*"
+She braced herself as he started pounding her in short, brutal, playful thrusts—each one a cheeky challenge that made her tits bounce and her breath hitch. The sharp slap of skin on skin filled the room, wet and obscene, while Cass watched with a hungry, smudged-lip smirk, still tasting him on her tongue.
+“You feel so fucking good,” Ellie growled, but when Marcus tried to slow down and savor it, she shot him a fierce, sparkling glare. “Harder, you teasing bastard! Give it to me!”
 
-Cass's laughter curled darkly through the air as she traced a fingertip along Marcus's jawline, her touch deceptively gentle. "He's *terrible* at following orders," she murmured, her breath hot against his ear. "Maybe he needs another lesson."
+Cass’s dark laughter danced through the air as she leaned in, dragging a teasing fingertip down Marcus’s jaw. “He’s terrible at obeying, isn’t he?” she purred hotly against his ear. “Maybe my naughty boy needs another reminder who’s in charge…”
 
-Ellie's response was cut off by her own choked gasp—Marcus had bucked his hips upward without warning, driving deep into her with enough force to make her vision blur. Her fingers scrabbled against his chest, nails digging half-moons into his skin as she fought for balance. "Fuck—*fuck*—" she panted, her thighs trembling violently around his waist.
+Her words were swallowed by Ellie’s choked, ecstatic cry — Marcus suddenly bucked up hard, driving even deeper while his nails kept raking and scratching her ass, claiming her with raw, mischievous force. Ellie’s vision whited out for a second. She dug her nails into her own palms, leaving bright crescent marks as she rode the intense pleasure.
 
-The orgasm hit her like a freight train—no warning, no slow build—just a tidal wave of pleasure that ripped through her with brutal intensity, wave after wave. Her back arched sharply, her head thrown back as a raw, guttural cry tore from her throat. Marcus groaned beneath her, his hands tightening on her hips as she clenched around him in erratic pulses, her spasming pussy milking his cock with desperate, involuntary spasms.
+“Fuck—fuck—!” she panted, thighs quivering violently around him, half-laughing, half-moaning as the delicious sting and overwhelming fullness pushed her right to the edge.
 
-Ellie's heas turned to Cass. "Sit," she demanded, her voice ragged with aftershocks. "*Now.*"
+## Thirteen - A Final Humiliation
 
-Cass didn't hesitate. She slid into position in front of Ellie, her pussy glistening inches from Ellie's mouth. The scent of her arousal was thick in the air, mingling with the sweat and spilled lube clinging to their skin. Ellie's tongue darted out to wet her lips before she leaned forward, her breath hot against Cass's folds as she murmured, "Watch him *break* while I taste you."
+The orgasm crashed into Ellie like a goddamn freight train with no brakes — zero warning, just a savage, blinding explosion of pleasure that ripped through her body in ruthless, endless waves. After days of cruel edging, this one hit like pure lightning. Her back bowed sharply off the floor, head thrown back as a raw, throaty scream tore from her lips.
 
-The first lick was slow—deliberate—Ellie's tongue flat and broad as it dragged from Cass's entrance to her clit in one filthy stroke. Cass gasped, her fingers tightening in Ellie's hair as Ellie moaned against her, the vibrations making Cass's thighs jerk. Marcus watched, transfixed, as Ellie's lips sealed around Cass's clit, sucking hard enough to make Cass's hips stutter forward with a broken cry.
+Marcus groaned behind her, fingers digging bruises into her hips as her pussy clamped down on him in wild, greedy pulses, milking his cock with hot, fluttering spasms that just wouldn’t stop.
 
-Ellie's rhythm was relentless—her tongue circling Cass's clit in tight, rapid flicks while her fingers dug into Marcus's thighs behind her as he continued pounding, urging him to keep fucking her through her own lingering aftershocks. 
+“Fuuuuck—!” she laughed breathlessly through the overwhelming pleasure, thighs shaking uncontrollably.
 
-The sight unraveled Marcus completely—Ellie's lips sealed around Cass's clit, her throat working in time with Cass's ragged moans while his cock still pulsed inside her from her own violent climax. The visual alone sent white-hot lightning down his spine, his balls tightening unbearably as Cass's fingers twisted in Ellie's hair hard enough to make her whimper against her folds.
+Still trembling and riding the violent aftershocks, Ellie turned her head toward Cass with a wicked, feral grin. “Sit,” she growled, voice rough and dripping with lust. “Right here. Now.”
 
-"Fuck—*fuck*—I'm coming—" Marcus's warning tore from his throat in a raw snarl, his hips jerking upward involuntarily as his orgasm ripped through him with brutal force. Ellie gasped around Cass's clit as his cock twitched inside her, each pulse wringing another choked moan from her throat. Cass's thighs trembled violently where they bracketed Ellie's face, her own climax cresting as Ellie's tongue flicked faster—desperate—her lips swollen and glistening with Cass's arousal.
+Cass’s eyes flashed with dark delight as she eagerly straddled the floor by Ellie’s face, her soaked pussy hovering just below those hungry lips. The sweet, heady scent of her arousal filled Ellie’s senses. Ellie licked her lips like a cat about to devour cream and purred hotly against Cass’s dripping folds:
+“Watch him break while I eat this pretty pussy…”
 
-Marcus's vision whited out completely as his release crashed over him in waves, his fingers digging bruises into Ellie's hips as he ground up into her with animalistic desperation. Ellie's answering moan vibrated against Cass's clit, tipping Cass over the edge with a ragged cry—her thighs clamping around Ellie's head as her cunt pulsed against Ellie's chin. The chain reaction was vicious, relentless — Ellie's own aftershocks milking Marcus's cock while she swallowed Cass's climax like it was salvation itself.
+The first lick was long, slow, and filthy — Ellie dragging her flat tongue from Cass’s entrance all the way up to her swollen clit in one decadent stroke. Cass gasped sharply, fingers flying into Ellie’s hair as Ellie moaned loudly against her, the vibrations making Cass’s hips jerk.
 
-Marcus gasped against Ellie's shoulder as the last tremors of his orgasm subsided, his heartbeat hammering against her ribs where they pressed together. The room smelled like sweat and sex and spilled lube, the air thick with the sound of three people trying to catch their breath. Cass was the first to move—her fingers loosening their death grip on Ellie's hair as she slumped back onto the hardwood with a satisfied groan.
+Then Ellie got mean — playful but relentless. Her tongue flicked rapidly over Cass’s clit in tight, teasing circles while her lips sealed around it and sucked hard. Cass cried out, thighs quivering around Ellie’s head as she ground down against that eager mouth.
 
-Marcus blinked up at the ceiling, his limbs heavy and buzzing like he'd been struck by lightning. Cass's fingers traced idle circles across his chest, her black nail polish chipped from where she'd dug into Ellie's scalp earlier.
+All the while, Marcus kept pounding into Ellie from behind, driven wild by the incredible sight. Ellie’s fingers clawed into his thighs, nails digging in hard as she urged him deeper, faster, refusing to let her own earth-shattering orgasm fade. The intense climax kept rolling through her in powerful, twitching waves — three full minutes of blissful, toe-curling torture that had her eyes watering and her moans vibrating straight into Cass’s core.
 
-"Still breathing?" Cass murmured, her voice rough with spent amusement.
+Marcus was losing his mind. The view of Ellie’s lips wrapped tightly around Cass’s clit, her throat working as she sucked and licked with filthy enthusiasm while her own pussy kept spasming and fluttering around his cock — it was too much. White-hot pleasure shot down his spine. His balls drew up tight, cock throbbing dangerously inside her as Cass twisted her fingers harder in Ellie’s hair, forcing her face deeper with a broken, desperate moan.
 
-Marcus exhaled sharply through his nose—half-laugh, half-groan—as Ellie rolled off him with a wet sound that made his spent cock twitch weakly against his thigh. She collapsed onto her back between them, her scratched legs splayed like a starfish, one arm thrown dramatically over her eyes.
+Ellie just laughed darkly against Cass’s pussy, drunk on pleasure, power, and the delicious chaos she was creating.
 
-Ellie's chest still heaved with residual tremors when Cass lazily traced a finger down Marcus's sternum—her nail catching on a drying streak of sweat. "So," she murmured, her voice raw from screaming, "where do you wanna go for our second date?"
+“Fuck—fuck—I’m coming—!” Marcus roared, the warning ripping from his throat in a broken, feral snarl. His hips snapped upward violently, burying his cock to the hilt inside Ellie as his orgasm detonated like a brutal explosion. Thick, powerful jets of cum erupted from him in savage pulses, flooding her spasming pussy while his whole body convulsed behind her.
 
-Marcus blinked slowly, his brain still struggling to reboot after the sensory overload. His wrists ached from the cuffs, his thighs burned from restraint, and his throat felt scraped raw from swallowing—everything Cass and Ellie had forced down it. He opened his mouth, but only a hoarse croak came out.
+Ellie moaned desperately around Cass’s swollen clit, the sound muffled and obscene as Marcus’s throbbing cock stretched and filled her with every brutal twitch. The heat of his release pushed her lingering aftershocks even higher, forcing fresh, humiliating whimpers from her throat.
 
-Ellie rolled onto her side with a wicked grin, propping her head up on one hand. The remnants of her smeared lipstick looked like war paint. "Cat got your tongue?" she teased, tapping his bottom lip with her fingertip. "Or did we *break* it?"
+Cass’s thighs locked viciously around Ellie’s head like a vice, trembling with cruel intensity. “That’s it—milk him,” she hissed through gritted teeth, grinding her dripping cunt harder against Ellie’s face as her own climax tore through her. Ellie’s tongue flicked faster, meaner, lashing Cass’s clit with relentless, sadistic precision while her lips sucked hard enough to make Cass’s vision blur.
+
+The chain reaction was vicious and merciless.
+
+Marcus’s fingers dug brutally into Ellie’s already-scratched hips, nails reopening the red lines he’d left earlier as he slammed up into her one final time, grinding deep while he emptied himself completely. Ellie’s pussy clenched and fluttered around his pulsing cock in greedy, rhythmic spasms, milking every last drop with wicked hunger. At the same time, she devoured Cass’s orgasm, swallowing her slick arousal and moaning like a woman starved, the vibrations tormenting Cass’s oversensitive clit until her hips jerked uncontrollably.
+
+Cass came with a strangled, animalistic cry, yanking Ellie’s hair so hard it brought tears to her eyes. She instictively ground her pussy to Ellie’s face with selfish, dominant rolls of her hips, smearing her pulsing pierced clit across Ellie’s swollen lips and chin while wave after vicious wave crashed through her.
+
+Marcus’s vision went white. The overwhelming sensation of Ellie’s pussy still rippling and squeezing around his spent cock, combined with the filthy sight of her eagerly tongue-fucking Cass through her climax, left him shattered. His balls ached, his body twitched with aftershocks so intense they bordered on pain.
+As the last heavy spurts finally tapered off, Cass looked up with a cruel, delighted smirk. “Don’t you dare pull out yet, pet,” she ordered Marcus, her voice dripping with mockery. “You made that mess inside her… now you’re going to clean it up like the desperate little cum-slut you are.”
+
+Marcus blinked, dazed and still panting, but Cass’s sharp fingers twisted in his hair, yanking his head forward. Ellie let out a wicked, breathless laugh as she spread her scratched, trembling thighs wider, putting her freshly-fucked, cum-filled pussy on full display. Thick white globs of Marcus’s load were already starting to leak out of her swollen, reddened folds.
+
+“Go on,” Ellie purred, voice hoarse and taunting. “Slurp it all out. Show us how much you love eating your own cum from my wrecked little cunt.”
+
+Humiliation burned hot across Marcus’s face, but the sadistic gleam in both women’s eyes left no room for refusal. Cass watched him go down on Ellie from behind. He hesitated only a second before pressing his mouth to her dripping pussy, tongue sliding out to lap obediently at the messy mix of his cum and her juices. The taste was thick, salty, and filthy. He groaned in shame, the sound vibrating against her sensitive clit as he began to slurp loudly — long, humiliating licks that sucked his own load from deep inside her.
+
+Ellie moaned with dark pleasure, her fingers gripping Cass' hips as her mouth stayed clamped over her pussy.  She rocked her hips against his face. “That’s it… deeper, you pathetic boy. Get every drop. I can feel you licking your mess out of me like a good little cleanup bitch.”
+
+Cass watched with wicked satisfaction. “Look at him go,” she laughed cruelly. “So eager to swallow his own cum after acting like he was in charge. Pathetic… but fucking hot.”
+
+Marcus’s face burned with humiliation even as he kept sucking and slurping noisily, tongue fucking into Ellie’s cum-slick hole to chase every creamy strand. His spent cock twitched weakly against his thigh at the degradation, completely owned by the two women.
+
+Finally, the storm began to ebb.
+
+Marcus collapsed back against the floor, gasping harshly, lips and chin glistening with the evidence of his submission. The room reeked of raw sex — thick sweat, cum, pussy, piss and lube — a filthy, intoxicating haze that clung to their skin.
+
+Cass was the first to recover. With a dark, satisfied chuckle, she loosened her cruel grip on Ellie’s hair, letting her fingers trail possessively over the fresh scratches on Ellie’s scalp. She slumped back onto the hardwood with a low, throaty groan of pure satisfaction.
+
+Marcus stared dazedly at the ceiling, limbs heavy and trembling, face still flushed with shame. Cass’s black-nailed fingers began tracing lazy, taunting circles over his chest, occasionally flicking one of his nipples just to watch him twitch.
+
+“Still breathing, cum-breath?” she purred, her voice husky and dripping with sadistic amusement.
+
+Marcus let out a wrecked half-laugh, half-groan. Ellie finally rolled slightly, still grinning as she admired the shine on his messy face. She collapsed dramatically onto her back between them, legs splayed wide like a conquered starfish. Her thighs and ass were a beautiful, ravaged mess — covered in deep red scratches, blooming bruises, and the remnants of their combined release. One arm was flung over her eyes as she panted, a wicked, exhausted grin playing on her glistening lips.
+
+Ellie’s chest still heaved with lingering, aftershock tremors, her scratched breasts rising and falling as she tried to catch her breath. Cass smirked lazily and dragged a sharp black nail slowly down Marcus’s sternum, scraping over a drying streak of sweat and cum.
+
+“So,” she purred, her voice deliciously raw from screaming, “where do you want to go for our second date, pet?”
+
+Marcus blinked slowly, his mind still fried and glitching from the overwhelming sensory assault. His wrists throbbed from the cuffs that had held him down, his thighs burned from being clawed and pinned, and his throat felt raw and sticky from everything the two women had forced him to swallow — his own thick load included. He opened his mouth to answer, but only a pathetic, hoarse croak escaped.
+
+Ellie rolled onto her side with a wicked, predatory grin, propping her head on one hand. Her smeared lipstick looked like victorious war paint across her flushed face. She reached out and tapped his swollen bottom lip with her fingertip, still shiny from Cass’s pussy and his own cum.
+
+“Aww, what’s wrong, cum-breath?” she teased cruelly, pressing her finger between his lips. “Cat got your tongue? Or did we break this pathetic little mouth already?”
+
+She pushed her finger deeper, forcing him to taste the messy remnants still coating it. “Mmm, that’s it. Suck. You were so eager to slurp your own cum out of my cunt just a minute ago… don’t go shy on us now.”
+
+Cass laughed darkly, her nail circling one of Marcus’s nipples before giving it a sharp, mean pinch. “Look at him. Can’t even speak after we used him like a cheap fucktoy. Maybe our second date should be somewhere public… so everyone can see what a broken, eager little cum-slut you really are.”
+
+Marcus’s face burned with fresh humiliation, his spent cock twitching weakly against his thigh despite everything.
