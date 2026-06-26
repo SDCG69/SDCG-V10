@@ -406,9 +406,19 @@ const EROTICA_ITEMS = [
     "contentFile": "content/fiction/prof.md",
     "sections": []
   },
+		{
+    "category": "Hetero",
+    "title": "Elena's Liberation",
+    "img": "b02_hetero.svg",
+    "sub1": "A newly divorced woman picks up a much younger man.",
+    "sub2": "AI generated story & images",
+    "readTime": "30 minute read",
+    "contentFile": "content/fiction/Elena.md",
+    "sections": []
+  },
 	{
     "category": "Kinky",
-    "title": "A Goth Girl",
+    "title": "The Goth Girl",
     "img": "b03_kinky.svg",
     "sub1": "A goth girl with a kinky side.",
     "sub2": "AI generated story & images",
