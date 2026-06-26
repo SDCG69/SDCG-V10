@@ -428,16 +428,6 @@ const EROTICA_ITEMS = [
   },
 	 {
     "category": "Kinky",
-    "title": "Hanna's Second Date",
-    "img": "b03_kinky.svg",
-    "sub1": "A thickset woman with a BDSM fetish.",
-    "sub2": "AI generated story & images",
-    "readTime": "20 minute read",
-    "contentFile": "content/fiction/han2.md",
-    "sections": []
-  },
-  {
-    "category": "Kinky",
     "title": "Hanna's First Date",
     "img": "b03_kinky.svg",
     "sub1": "A thickset woman with a BDSM fetish.",
