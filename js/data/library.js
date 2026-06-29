@@ -204,7 +204,7 @@ const HANDBOOK_ITEMS = [
     "title": "Tantric Sex",
     "img": "h03_orgasm.svg",
     "sub1": "Tantra.  What is it?",
-    "sub2": "WHay you will love tantric sex",
+    "sub2": "Discover spiritual sex.",
     "contentFile": "content/handbook/tantra.md",
     "sections": []
   },
