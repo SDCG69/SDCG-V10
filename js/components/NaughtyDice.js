@@ -71,7 +71,7 @@ const BODY_PARTS = [
   { key: "toes",     label: "Toes",         emoji: "🦶" },
   { key: "neck",     label: "Neck",         emoji: "🦢" },
   { key: "breasts",  label: "Breasts/Pecs", emoji: "💪" },
-  { key: "thighs",   label: "Thighs",       emoji: "🦵" },
+  { key: "thighs",   label: "Inner Thighs",       emoji: "🦵" },
   { key: "mouth",    label: "Mouth",        emoji: "👄" },
 ];
 
@@ -94,15 +94,15 @@ const ACTIONS = [
 // See README at top of file for full editing guide.
 
 const PAIRINGS = {
-  face:     [ "kiss", "lick", "stroke", "fondle" ],
+  face:     [ "kiss", "lick", "stroke", "tickle", "fondle" ],
   nipples:  [ "kiss", "lick", "suck", "fondle", "squeeze", "tickle" ],
-  butt:     [ "massage", "spank", "squeeze", "fondle", "kiss" ],
+  butt:     [ "massage", "spank", "lick", "squeeze", "fondle", "kiss" ],
   ass:      [ "kiss", "lick", "fondle", "spank", "squeeze" ],
-  genitals: [ "stroke", "fondle", "lick", "suck", "squeeze", "tickle" ],
+  genitals: [ "stroke", "fondle", "kiss", "lick", "suck", "squeeze", "tickle" ],
   toes:     [ "massage", "lick", "suck", "kiss", "tickle", "stroke" ],
-  neck:     [ "kiss", "lick", "stroke", "tickle", "fondle" ],
+  neck:     [ "kiss", "lick", "stroke", "tickle", "suck" ],
   breasts:  [ "massage", "kiss", "lick", "fondle", "squeeze", "suck" ],
-  thighs:   [ "massage", "stroke", "squeeze", "kiss", "tickle", "fondle" ],
+  thighs:   [ "massage", "stroke", "squeeze", "kiss", "tickle", "suck", "fondle" ],
   mouth:    [ "kiss", "lick", "suck", "fondle", "stroke" ],
 };
 
