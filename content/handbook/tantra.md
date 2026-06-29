@@ -1,6 +1,6 @@
 ## Tantra: A Practical Introduction
 
-pic - tantra candle
+[image src="media/img/tant1.jpg" alt="Tantric Sex"]
 
 Tantra is one of the most misunderstood words in modern sexuality. In its original context it referred to a sprawling set of spiritual traditions developed in India over centuries, most of which had little to do with sex. The Western, contemporary use of the word — sometimes called *neo-tantra* — focuses on a much narrower idea: that slowing sex down, paying close attention, and treating intimacy as a meditative practice produces an experience qualitatively different from ordinary sex.
 
@@ -45,7 +45,7 @@ The first minute is often awkward. The second is often funny. By the third, some
 
 This is the foundation of most tantric practice and is worth doing on its own, without progressing to anything else, several times before incorporating it into longer sessions.
 
-pic - eye gazing
+[image src="media/img/tant2.jpg" alt="Tantric Sex"]
 
 ---
 
@@ -65,7 +65,7 @@ The classic tantric posture: one partner sits cross-legged; the other sits on th
 
 In this position, the focus is on **stillness**, not movement. Couples may stay in yab-yum for ten or fifteen minutes — breathing together, eye gazing, kissing slowly — without moving toward orgasm. Even when penetration is involved, the movement is slow and small. The intensity comes from sustained contact, not friction.
 
-pic - yab yum
+[image src="media/img/tant3.jpg" alt="Tantric Sex"]
 
 ---
 
@@ -92,6 +92,9 @@ Penetrative tantric sex follows from these foundations. The principles:
 Done this way, sex can sustain a high arousal plateau for thirty to sixty minutes without anyone reaching orgasm. When orgasm does eventually happen — for the couples who choose it — it is typically reported as fuller and longer than ordinary orgasm.
 
 For some practitioners, the goal is to learn **non-ejaculatory orgasm** for men and **extended orgasm** for women — both well-documented possibilities that require practice and patience to develop.
+
+
+[image src="media/gif/tant.gif" alt="Tantric Sex"]
 
 ---
 
