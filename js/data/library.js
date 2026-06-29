@@ -201,6 +201,15 @@ const HANDBOOK_ITEMS = [
   },
 	{
     "letter": "T",
+    "title": "Tantric Sex",
+    "img": "h03_orgasm.svg",
+    "sub1": "Tantra.  What is it?",
+    "sub2": "WHay you will love tantric sex",
+    "contentFile": "content/handbook/tantra.md",
+    "sections": []
+  },
+	{
+    "letter": "T",
     "title": "Threesomes",
     "img": "h_threesomes.svg",
     "sub1": "Guide to threesomes or more.",
