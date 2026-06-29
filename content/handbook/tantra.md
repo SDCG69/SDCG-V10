@@ -1,6 +1,6 @@
 ## Tantra: A Practical Introduction
 
-[image src="https://picsum.photos/seed/tantra-intro/900/520" alt="Candlelit tantra space"]
+pic - tantra candle
 
 Tantra is one of the most misunderstood words in modern sexuality. In its original context it referred to a sprawling set of spiritual traditions developed in India over centuries, most of which had little to do with sex. The Western, contemporary use of the word — sometimes called *neo-tantra* — focuses on a much narrower idea: that slowing sex down, paying close attention, and treating intimacy as a meditative practice produces an experience qualitatively different from ordinary sex.
 
@@ -18,8 +18,6 @@ The practical effects, reported consistently:
 - Some practitioners learn to experience pleasure approaching orgasm without ejaculating or finishing — a state often described as more sustained than the orgasm itself.
 - Sex becomes considerably longer; thirty to ninety minutes is a typical session.
 - A sense of emotional intimacy with the partner that ordinary sex does not produce.
-
-[image src="https://picsum.photos/seed/tantra-presence/900/520" alt="Eye gazing and presence"]
 
 ---
 
@@ -47,7 +45,7 @@ The first minute is often awkward. The second is often funny. By the third, some
 
 This is the foundation of most tantric practice and is worth doing on its own, without progressing to anything else, several times before incorporating it into longer sessions.
 
-[image src="https://picsum.photos/seed/tantra-gaze/900/520" alt="Eye gazing with partner"]
+pic - eye gazing
 
 ---
 
@@ -67,7 +65,7 @@ The classic tantric posture: one partner sits cross-legged; the other sits on th
 
 In this position, the focus is on **stillness**, not movement. Couples may stay in yab-yum for ten or fifteen minutes — breathing together, eye gazing, kissing slowly — without moving toward orgasm. Even when penetration is involved, the movement is slow and small. The intensity comes from sustained contact, not friction.
 
-[image src="https://picsum.photos/seed/tantra-yabyum/900/520" alt="Yab-yum posture"]
+pic - yab yum
 
 ---
 
