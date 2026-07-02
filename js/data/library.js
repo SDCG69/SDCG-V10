@@ -426,6 +426,16 @@ const EROTICA_ITEMS = [
     "sections": []
   },
 	{
+    "category": "Solo",
+    "title": "Maya's Awakening",
+    "img": "b07_solo.svg",
+    "sub1": "A college student finds her true self.",
+    "sub2": "AI generated story & images",
+    "readTime": "25 minute read",
+    "contentFile": "content/fiction/maya.md",
+    "sections": []
+  },
+	{
     "category": "Kinky",
     "title": "The Goth Girl",
     "img": "b03_kinky.svg",
