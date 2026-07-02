@@ -12,6 +12,8 @@ The artist, a lean man with a calm demeanor, didn't rush her. He carefully appli
 
 Maya took a breath and nodded. As the needle first touched her skin, she braced for a sharp pain, but it was more of a strange, vibrating pressure—a rhythmic hum that seemed to sync with her own heartbeat. She watched the ink settle into her skin, feeling a sudden, unexpected rush of adrenaline. It wasn't just the novelty of the sensation; it was the feeling of shedding a version of herself that had always played it safe.
 
+[image src="media/img/maya1.jpg" alt="Maya"]
+
 "Look at that," Jax whispered, leaning in to inspect the fresh ink once the artist wiped the area clean. "It actually suits you. It’s like you were always meant to have it."
 
 Maya looked down at the small botanical sprig on her wrist. The skin around it was slightly flushed, and the black ink looked bold and stark against her pale skin. She felt a strange, bubbling warmth in her chest that had nothing to do with the inflammation. For the first time in her life, she didn't feel like a blank canvas or a background character in her own story; she felt curated. The fear that had gripped her in the waiting room had vanished, replaced by a quiet, humming curiosity about what else she might like.
@@ -54,6 +56,8 @@ Maya traced the line of her own lower lip, imagining the tiny, glinting point of
 
 The return to the studio was different this time. There was no hesitation in the waiting room; Maya went straight to the piercing station. The process was faster than the tattoos, a quick pinch and a sharp intake of breath, and suddenly there was a new, strange sensation in her mouth—a cold, metallic weight that felt oddly grounding. When the artist handed her the mirror, Maya didn't just see a university student with a bit of jewelry; she saw someone who was becoming a collection of choices. She beamed at her reflection, the tiny stud adding a defiant spark to her smile.
 
+[image src="media/img/maya2.jpg" alt="Maya"]
+
 "See? You're a natural," Jax said, bumping her shoulder. "Now we just have to decide where the next one goes. You can't just stop at one piece of metal; it'll look unbalanced."
 
 "Unbalanced? I’m a human being, not a piece of interior design," Maya joked, though she was already subconsciously tilting her head to see how the stud caught the light. The novelty of the lip piercing was intoxicating; she found herself clicking the small metal ball against her teeth, a rhythmic habit that felt like a private code. It was a small change, but it felt like a loud statement to the version of herself that had spent twenty years blending into the wallpaper.
@@ -79,6 +83,8 @@ She stayed there for a long time, breathing in the quiet of the room, the linger
 The responses were almost instantaneous. Chloe sent a string of celebratory emojis, and Jax replied with a playful *About time, little bird!* The support was a warm blanket, making the prospect of the needle feel less like a medical procedure and more like an initiation. By the time Friday arrived, Maya found herself back in the familiar, sterile scent of the studio, though she felt a different kind of tension now—a buzzing, expectant energy that made her feel alive in a way she hadn’t known was possible.
 
 The piercing was quick, a sharp, sudden pressure that left her breathless for a second, followed by the cool sensation of the jewelry settling into place. When she finally looked in the mirror, she saw a tiny, shimmering diamond resting in her navel. It was a secret, tucked away beneath her clothes, a private piece of jewelry that felt like a hidden treasure. As she dressed and walked out of the shop, the small rub of the metal against her skin served as a constant, tactile reminder of the choice she had made. She felt more cohesive, more intentional, and as she caught Jax’s proud smile, she realized she was no longer just following their lead—she was discovering her own appetite for the edge.
+
+[image src="media/img/maya3.jpg" alt="Maya"]
 
 The following weeks were a blur of new discoveries. The belly button piercing acted as a gateway, opening up a curiosity about the parts of her body that remained untouched and unseen. She began to notice how Chloe and Jax spoke about their other piercings—the ones that didn't show under a t-shirt—with a casual, effortless confidence. They spoke of the "hidden gems," the subtle additions that were for the wearer alone, and the way the metal felt during intimacy. Maya found herself listening with an intensity that bordered on obsession, her mind racing with the possibilities of her own anatomy.
 
@@ -136,6 +142,8 @@ When Chloe and Jax arrived, the room was bathed in the warm, amber glow of a few
 
 Maya didn't answer with words. She stood up slowly, the air in the room suddenly feeling thick and expectant. With a deliberate motion, she reached for the hem of her loose linen shirt and pulled it over her head in one fluid movement, tossing it onto the chair.
 
+[image src="media/img/maya4.jpg" alt="Maya"]
+
 The silence that followed was absolute.
 
 The amber candlelight danced across her skin, illuminating the dark, intricate ivy that now curved elegantly around the underside of her breasts, the ink stark and beautiful. But it was the shimmering silver bars, crowning her nipples with a precise, metallic glint, that drew their gaze. Maya stood tall, her shoulders back, her eyes locking with theirs. She wasn't the "little bird" anymore; she had built a sanctuary of art and metal on her own.
@@ -157,6 +165,8 @@ Jax reached out, her fingertips hovering just an inch from Maya’s skin. "Can I
 Maya nodded, her breath hitching. "Only if you let me feel yours too," she countered, her voice sounding bolder than she felt.
 
 Jax grinned and shifted her weight, pulling up her shirt with a casual flick of her wrist to reveal the gold studs. Maya reached out, her fingers trembling slightly as she brushed the cool metal. She spent a few minutes tracing the edge of the jewelry, feeling the contrast between the hard, polished gold and the soft, warm give of Jax's skin. She toyed with the studs, sliding them gently against the surface, fascinated by the way Jax let out a soft, involuntary sigh at the contact.
+
+[image src="media/img/maya5.jpg" alt="Maya"]
 
 "They're so different from the silver," Maya murmured, her focus entirely on the sensation.
 
@@ -212,6 +222,8 @@ Jax didn't waste a second. She moved in with a predatory focus, her gaze locked 
 
 While Jax was occupied with the rhythmic, swirling pressure of her tongue and teeth against the silver, Chloe migrated downward. Maya felt the mattress shift as Chloe settled between her thighs. The air hit the damp heat of Maya's center for a fleeting second before Chloe’s lips replaced it. The first kiss was light, almost a question, pressed delicately against the soft skin of her inner thigh. Then, Chloe moved higher, her breath hot and smelling of prosecco, until she finally pressed a lingering, open-mouthed kiss directly against the sensitive fold of Maya's anatomy.
 
+[image src="media/img/maya6.jpg" alt="Maya"]
+
 The duality of the attack was almost too much to bear. With Jax creating a storm of sensation in her chest and Chloe igniting a fire between her legs, Maya felt her consciousness fracturing into a thousand shimmering points of light. She felt a primal urge to give them more, to erase every millimeter of distance between her skin and their touch. With a low, guttural moan, Maya shifted her hips and pushed her knees wider, spreading her legs in a silent, desperate invitation for Chloe to dive deeper.
 
 “Mmm. I think she likes it,” Chloe murmured, her voice vibrating against Maya’s inner thigh. She paused for a heartbeat, glancing up to see Maya’s eyes rolled back, her fingers clutching the bedsheets in a white-knuckled grip. Chloe’s lips curved into a satisfied smile before she returned her focus to the task at hand, her tongue tracing the delicate architecture of Maya's heat with a slow, deliberate precision that left Maya breathless and trembling.
@@ -256,6 +268,8 @@ As Jax lay there, draped over Maya like a fallen curtain of ink and heat, the at
 
 She began to touch herself with a slow, agonizing deliberation, her fingers sliding through her own moisture with a wet, rhythmic sound that seemed to echo in the sudden silence of the room. Maya and Jax watched, mesmerized, as Chloe’s eyes fluttered shut and her head tilted back. There was something hypnotic about the way she claimed her own pleasure, her fingers moving in a blur of expert precision. She wasn't just masturbating; she was performing a symphony of self-knowledge. Her breaths became short, sharp hitches, her hips beginning to roll in a slow, circular motion that mirrored the ivy curves of Maya’s tattoos.
 
+[image src="media/img/maya7.jpg" alt="Maya"]
+
 As the tension in Chloe's body reached a visible peak, her movements shifted. With a sudden, fluid motion, she reached back, her hand disappearing behind her as she slid a finger firmly into her own ass. Maya let out a small, audible gasp of surprise, and Jax shifted, her eyes widening. It was a bold, unexpected addition to the act, a sudden expansion of the map they had been drawing together. The addition seemed to act as a catalyst; Chloe’s entire frame stiffened, her toes curling into the sheets as a powerful, shuddering orgasm tore through her. She let out a long, melodic cry, her body vibrating with the intensity of a release that looked almost spiritual in its totality.
 
 For a few long seconds, the only sound in the room was the heavy, synchronized thrum of three hearts beating in the aftermath. Then, as if on a silent signal, all three of them collapsed into a singular, tangled heap of limbs. They fell back into the pillows, the mattress dipping under their combined weight, their skin sticking together in a warm, salt-slicked mosaic.
@@ -279,3 +293,5 @@ However, the hunger for modification hadn't vanished with the first wave of pier
 Maya took the mask from Jax, the lace feeling like a spiderweb against her fingertips. The suggestion of OnlyFans hadn't come out of nowhere; they had spent the last few weeks discussing the liberation of the gaze and the power of controlling one's own image. To Maya, who had spent the first twenty years of her life trying to blend into the beige wallpaper of university expectations, the idea of being a curated object of desire felt like the ultimate evolution. It wasn't about the money—though the thought of her tuition paying for itself was a pleasant bonus—it was about the performance of her own autonomy.
 
 As they each slid the masks into place, the reflection in the full-length mirror revealed a transformation. They no longer looked like three college students in a messy dorm room; they looked like a coven of modern sirens, a symphony of black lace, dark ink, and shimmering silver. The masks added a layer of theatrical mystery, stripping away their everyday identities and replacing them with personas that were bolder and more predatory. Maya caught her own gaze in the glass, the small silver stud in her lip glinting beneath the lace, and felt a surge of adrenaline that surpassed any nervousness.
+
+[image src="media/img/maya8.jpg" alt="Maya"]
