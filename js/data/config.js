@@ -3,6 +3,8 @@ const LEVELS=[
   {id:2,name:"Spicy",emoji:"🌶️",color:"#7a4800"},
   {id:3,name:"Hot",emoji:"🔥",color:"#1a2e6e"},
   {id:4,name:"Extreme",emoji:"😈",color:"#6e1a1a"},
+  {id:5,name:"Insane",emoji:"☠️",color:"#de1610"},
+	
 ];
 const MODE={
   Male: {color:"#8B1A1A",card:"linear-gradient(135deg,#5a0f0f,#3a0a0a)",border:"#8B1A1A"},
