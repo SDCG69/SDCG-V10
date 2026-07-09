@@ -3,6 +3,7 @@ const CHALLENGES = {
   Male: {
     1: [
       {text:"Sitting behind, gently massage your partner's head and shoulders for 2 minutes.",emoji:"😌",tags:["foreplay"]},
+	  {text:"SECRET CHALLENGE:   DO NOT LET YOUR PARTNER SEE WHAT IS WRITTEN..    SCROLL DOWN TO SEE THE CHALLENGE:    ----------------------------------------------------------------------- Sitting behind, gently massage your partner's head and shoulders for 2 minutes.",emoji:"😌",tags:["foreplay"]},
       {text:"Flip a coin! Heads: she gives you a 2 minute full body massage. Tails: you give her a 2 minute full body massage.",emoji:"🪙",tags:["foreplay"]},
       {text:"Using massage oil, give your partner a 2 minute foot massage.",emoji:"🦶",tags:["foreplay","item_massage_oil"]},
       {text:"Massage your partner's legs for 4 minutes (equal time front and back).",emoji:"🦵",tags:["foreplay"]},
