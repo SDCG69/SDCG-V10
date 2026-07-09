@@ -103,6 +103,9 @@ const CHALLENGES = {
 	  {text:"SECRET CHALLENGE:   -------- --------- ---------------- --------- --------   DO NOT LET YOUR PARTNER SEE WHAT IS WRITTEN -------- ---------- ---------- -------- ---------- ----------  -------- ---------- ----------  SCROLL DOWN TO SEE THE CHALLENGE:    -------- ---------- ---------- -------- ---------- ---------- -------- ---------- ---------- -------- ---------- ---------- -------- ---------- ---------- -------- ---------- ---------- -------- ---------- ---------- -------- ---------- ---------- -------- ---------- ---------- -------- ---------- ---------- -------- ---------- ----------  Get Lube Handy!.  Handcuff her behind the back and add a blindfold and headphones.  Put her onto all fours and fuck doggy style. Then pull out and eat her pussy from behind.  Then fuck again. Then eat pussy again and add fingers as you move up to lick her ass, lightly at first and then as deeply as you dare.  Fuck again and insert a lubed finger or two into her ass as you fuck.  Pound her HARD!  Make her come.     ",emoji:"😈",tags:["hardcore","mildanal","item_blindfold","item_handcuffs","item_headphones","item_lube"]},
       {text:"Play 'Rock, Paper, Scissors'.  The loser will do whatever the winner says for 2 minutes.  Anything Goes!",emoji:"💎",tags:["hardcore","hardbdsm"]},
     ],
+	  5: [
+      {text:"Come back later - At the moment we have not added any insane dares.  Prepare to be shocked.",emoji:"😱",tags:[]},
+    ],
   },
   Female: {
     1: [
@@ -219,6 +222,9 @@ const CHALLENGES = {
       {text:"SECRET CHALLENGE:   -------- --------- ---------------- --------- --------   DO NOT LET YOUR PARTNER SEE WHAT IS WRITTEN -------- ---------- ---------- -------- ---------- ----------  -------- ---------- ----------  SCROLL DOWN TO SEE THE CHALLENGE:    -------- ---------- ---------- -------- ---------- ---------- -------- ---------- ---------- -------- ---------- ---------- -------- ---------- ---------- -------- ---------- ---------- -------- ---------- ---------- -------- ---------- ---------- -------- ---------- ---------- -------- ---------- ---------- -------- ---------- ----------  Get Lube Handy!.  Handcuff him behind the back as he kkneels on the bed and add a blindfold and headphones.  Give him oral.  Then add lube to your hand and change to a slippery handjob as you move to sit behind.  Add lube to his fingers put one into his own ass as you continue a slippery handjob with even more lube on your hands.  Finally make him lead forward fully and lick ass as you continue the slippery handjob.  Tongue inside his anus if you dare!  When he cums, add more lube and continue the slippery handjob.     ",emoji:"😈",tags:["hardcore","mildanal","item_blindfold","item_headphones","item_handcuffs","item_lube"]},
 		{text:"With plenty of lube, let him put a good size plug in your ass.  You will then fuck doggy style in your pussy for a while.  Then have him remove the plug to fuck your ass!",emoji:"🚀",tags:["hardcore","hardanal","item_buttplug","item_lube"]},
       {text:"Blindfold him whilst standing! From behind, grab those balls and make him bend over.  Lick his ass as you squeeze his balls!",emoji:"🍑",tags:["hardbdsm","mildanal","item_blindfold"]},
+    ],
+	  5: [
+      {text:"Come back later - At the moment we have not added any insane dares.  Prepare to be shocked.",emoji:"😱",tags:[]},
     ],
   },
 };
