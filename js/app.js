@@ -333,7 +333,7 @@ function App(){
 
       {/* ══ SETUP ══ */}
       {screen==="setup"&&(
-        <div style={{animation:"fadeUp .4s ease",maxWidth:"480px",width:"100%",textAlign:"center"}}>
+        <div className="app-screen" style={{animation:"fadeUp .4s ease",maxWidth:"480px",width:"100%",textAlign:"center"}}>
           <div style={{fontSize:"48px",marginBottom:"6px"}}>😈</div>
           <div style={{color:"#555",fontSize:"11px",letterSpacing:"2px",textTransform:"uppercase",marginBottom:"4px"}}>Welcome to</div>
           <h1 style={{color:"#e8cdd8",fontSize:"2rem",margin:"0 0 4px",fontFamily:"Georgia,serif",fontWeight:"normal"}}>Sex Dares <span style={{color:"#c9446a",fontStyle:"italic"}}>Challenge</span></h1>
@@ -433,7 +433,7 @@ function App(){
 
       {/* ══ CONTENT WARNING ══ */}
       {screen==="contentWarning"&&(
-        <div style={{animation:"fadeUp .35s ease",maxWidth:"520px",width:"100%",display:"flex",flexDirection:"column",minHeight:"calc(100vh - 40px)",alignItems:"center",justifyContent:"center"}}>
+        <div className="app-screen" style={{animation:"fadeUp .35s ease",maxWidth:"520px",width:"100%",display:"flex",flexDirection:"column",minHeight:"calc(100vh - 40px)",alignItems:"center",justifyContent:"center"}}>
           <div style={{background:"linear-gradient(135deg,#1a0000,#0d0d0d)",border:"1px solid #8b000055",borderRadius:"24px",padding:"36px 28px",textAlign:"center",boxShadow:"0 20px 60px #8b000033,0 4px 20px #000",width:"100%"}}>
             <div style={{fontSize:"3rem",marginBottom:"16px"}}>🔞</div>
             <h2 style={{color:"#eee",fontSize:"1.5rem",fontWeight:"bold",margin:"0 0 16px",letterSpacing:"0.5px"}}>Content Warning</h2>
@@ -459,7 +459,7 @@ function App(){
 
       {/* ══ IMPORTANT INFO ══ */}
       {screen==="importantInfo"&&(
-        <div style={{animation:"fadeUp .35s ease",maxWidth:"540px",width:"100%"}}>
+        <div className="app-screen" style={{animation:"fadeUp .35s ease",maxWidth:"540px",width:"100%"}}>
           {/* header */}
           <div style={{display:"flex",alignItems:"center",gap:"12px",marginBottom:"22px"}}>
             <button onClick={()=>setScreen("setup")} style={{background:"#141414",border:"1px solid #222",color:"#888",borderRadius:"8px",padding:"7px 13px",cursor:"pointer",fontFamily:"inherit",fontSize:"13px"}}>← Back</button>
@@ -549,7 +549,7 @@ function App(){
 
       {/* ══ MANAGE ══ */}
       {screen==="manage"&&(
-        <div style={{animation:"fadeUp .35s ease",maxWidth:"540px",width:"100%"}}>
+        <div className="app-screen" style={{animation:"fadeUp .35s ease",maxWidth:"540px",width:"100%"}}>
           <div style={{display:"flex",alignItems:"center",gap:"12px",marginBottom:"18px"}}>
             <button onClick={()=>setScreen("setup")} style={{background:"#141414",border:"1px solid #222",color:"#888",borderRadius:"8px",padding:"7px 13px",cursor:"pointer",fontFamily:"inherit",fontSize:"13px"}}>← Back</button>
             <div><h2 style={{color:"#eee",margin:0,fontSize:"1.3rem"}}>Manage Challenges</h2><p style={{color:"#444",margin:0,fontSize:"12px"}}>{totalEnabled} of {ALL_KEYS.size} enabled</p></div>
@@ -591,7 +591,7 @@ function App(){
 
       {/* ══ TAG PREFERENCES ══ */}
       {screen==="tags"&&(
-        <div style={{animation:"fadeUp .35s ease",maxWidth:"520px",width:"100%",display:"flex",flexDirection:"column",minHeight:"calc(100vh - 40px)"}}>
+        <div className="app-screen" style={{animation:"fadeUp .35s ease",maxWidth:"520px",width:"100%",display:"flex",flexDirection:"column",minHeight:"calc(100vh - 40px)"}}>
 
           {/* header */}
           <div style={{display:"flex",alignItems:"center",justifyContent:"space-between",marginBottom:"18px"}}>
@@ -723,7 +723,7 @@ function App(){
 
       {/* ══ GAME ══ */}
       {screen==="game"&&(
-        <div style={{animation:"fadeUp .35s ease",maxWidth:"520px",width:"100%",display:"flex",flexDirection:"column",minHeight:"calc(100vh - 40px)"}}>
+        <div className="app-screen" style={{animation:"fadeUp .35s ease",maxWidth:"520px",width:"100%",display:"flex",flexDirection:"column",minHeight:"calc(100vh - 40px)"}}>
           <div style={{textAlign:"center",marginBottom:"10px"}}>
             <div style={{color:"#3a2030",fontSize:"10px",letterSpacing:"2px",textTransform:"uppercase",marginBottom:"2px"}}>Playing</div>
             <div style={{fontFamily:"Georgia,serif",fontWeight:"normal",fontSize:"1.2rem",color:"#e8cdd8"}}>Sex Dares <span style={{color:"#c9446a",fontStyle:"italic"}}>Challenge</span></div>
@@ -762,7 +762,7 @@ function App(){
 
       {/* ══ CARD ══ */}
       {screen==="card"&&card&&(
-        <div style={{animation:flipped?"flipIn .1s ease":"none",maxWidth:"520px",width:"100%",display:"flex",flexDirection:"column",minHeight:"calc(100vh - 40px)"}}>
+        <div className="app-screen" style={{animation:flipped?"flipIn .1s ease":"none",maxWidth:"520px",width:"100%",display:"flex",flexDirection:"column",minHeight:"calc(100vh - 40px)"}}>
           {/* header */}
           <div style={{display:"flex",alignItems:"center",justifyContent:"space-between",marginBottom:"14px"}}>
             <div style={{display:"flex",alignItems:"center",gap:"8px"}}>
@@ -868,7 +868,7 @@ function App(){
 
       {/* ══ POSITION SELECT ══ */}
       {screen==="positionSelect"&&(
-        <div style={{animation:"fadeUp .35s ease",maxWidth:"520px",width:"100%",display:"flex",flexDirection:"column",minHeight:"calc(100vh - 40px)"}}>
+        <div className="app-screen" style={{animation:"fadeUp .35s ease",maxWidth:"520px",width:"100%",display:"flex",flexDirection:"column",minHeight:"calc(100vh - 40px)"}}>
           <div style={{display:"flex",alignItems:"center",justifyContent:"space-between",marginBottom:"24px"}}>
             <button onClick={()=>setScreen("setup")} style={{background:"#141414",border:"1px solid #222",color:"#888",borderRadius:"8px",padding:"7px 13px",cursor:"pointer",fontFamily:"inherit",fontSize:"13px"}}>← Back</button>
             <div style={{textAlign:"center"}}>
@@ -926,7 +926,7 @@ function App(){
         const ac="#c87a00";
         const modeLabel=posMode==="threesomes"?"Threesome":posMode==="foursomes"?"Foursome":"Couple";
         return(
-          <div style={{animation:"fadeUp .35s ease",maxWidth:"520px",width:"100%",display:"flex",flexDirection:"column",minHeight:"calc(100vh - 40px)"}}>
+          <div className="app-screen" style={{animation:"fadeUp .35s ease",maxWidth:"520px",width:"100%",display:"flex",flexDirection:"column",minHeight:"calc(100vh - 40px)"}}>
             <div style={{display:"flex",alignItems:"center",justifyContent:"space-between",marginBottom:"16px"}}>
               <button onClick={()=>{ setPosIdx(null); setPosVidErr(false); setScreen("positionSelect"); }} style={{background:"#141414",border:"1px solid #222",color:"#888",borderRadius:"8px",padding:"7px 13px",cursor:"pointer",fontFamily:"inherit",fontSize:"13px"}}>← Back</button>
               <div style={{textAlign:"center"}}>
@@ -986,6 +986,7 @@ function App(){
 			{/* ══ TRUTH CARDS ══ */}
 			{screen==="truth"&&truthCard&&(
 			  <div
+			    className="app-screen"
 			    style={{
 			      animation:"fadeUp .35s ease",
 			      maxWidth:"520px",
@@ -1082,7 +1083,7 @@ function App(){
 
       {/* ══ HANDBOOK LIST ══ */}
       {screen==="handbookList"&&(
-        <div style={{animation:"fadeUp .35s ease",maxWidth:"540px",width:"100%",display:"flex",flexDirection:"column",height:"100vh",overflow:"hidden"}}>
+        <div className="app-screen" style={{animation:"fadeUp .35s ease",maxWidth:"540px",width:"100%",display:"flex",flexDirection:"column",height:"100vh",overflow:"hidden"}}>
           <div style={{display:"flex",alignItems:"center",justifyContent:"space-between",padding:"16px 0 14px",borderBottom:"1px solid #1e1e1e",background:"#0d0d0d",flexShrink:0}}>
             <button onClick={()=>setScreen("setup")} style={{background:"#141414",border:"1px solid #222",color:"#888",borderRadius:"8px",padding:"7px 13px",cursor:"pointer",fontFamily:"inherit",fontSize:"13px"}}>← Back</button>
             <div style={{textAlign:"center"}}>
@@ -1131,7 +1132,7 @@ function App(){
 
       {/* ══ HANDBOOK DETAIL ══ */}
       {screen==="handbookDetail"&&handbookItem&&(
-        <div style={{animation:"fadeUp .35s ease",maxWidth:"540px",width:"100%",display:"flex",flexDirection:"column",height:"100vh",overflow:"hidden"}}>
+        <div className="app-screen" style={{animation:"fadeUp .35s ease",maxWidth:"540px",width:"100%",display:"flex",flexDirection:"column",height:"100vh",overflow:"hidden"}}>
           <div style={{display:"flex",alignItems:"center",justifyContent:"space-between",padding:"16px 0 14px",borderBottom:"1px solid #1e1e1e",background:"#0d0d0d",flexShrink:0}}>
             <button onClick={()=>setScreen("handbookList")} style={{background:"#141414",border:"1px solid #222",color:"#888",borderRadius:"8px",padding:"7px 13px",cursor:"pointer",fontFamily:"inherit",fontSize:"13px"}}>← Back</button>
             <div style={{textAlign:"center"}}>
@@ -1172,7 +1173,7 @@ function App(){
 
       {/* ══ EROTICA LIST ══ */}
       {screen==="eroticaList"&&(
-        <div style={{animation:"fadeUp .35s ease",maxWidth:"540px",width:"100%",display:"flex",flexDirection:"column",height:"100vh",overflow:"hidden"}}>
+        <div className="app-screen" style={{animation:"fadeUp .35s ease",maxWidth:"540px",width:"100%",display:"flex",flexDirection:"column",height:"100vh",overflow:"hidden"}}>
           <div style={{display:"flex",alignItems:"center",justifyContent:"space-between",padding:"16px 0 14px",borderBottom:"1px solid #1e1e1e",background:"#0d0d0d",flexShrink:0}}>
             <button onClick={()=>setScreen("setup")} style={{background:"#141414",border:"1px solid #222",color:"#888",borderRadius:"8px",padding:"7px 13px",cursor:"pointer",fontFamily:"inherit",fontSize:"13px"}}>← Back</button>
             <div style={{textAlign:"center"}}>
@@ -1220,7 +1221,7 @@ function App(){
 
       {/* ══ EROTICA DETAIL ══ */}
       {screen==="eroticaDetail"&&eroticaItem&&(
-        <div style={{animation:"fadeUp .35s ease",maxWidth:"540px",width:"100%",display:"flex",flexDirection:"column",height:"100vh",overflow:"hidden"}}>
+        <div className="app-screen" style={{animation:"fadeUp .35s ease",maxWidth:"540px",width:"100%",display:"flex",flexDirection:"column",height:"100vh",overflow:"hidden"}}>
           <div style={{display:"flex",alignItems:"center",justifyContent:"space-between",padding:"16px 0 14px",borderBottom:"1px solid #1e1e1e",background:"#0d0d0d",flexShrink:0}}>
             <button onClick={()=>setScreen("eroticaList")} style={{background:"#141414",border:"1px solid #222",color:"#888",borderRadius:"8px",padding:"7px 13px",cursor:"pointer",fontFamily:"inherit",fontSize:"13px"}}>← Back</button>
             <div style={{textAlign:"center"}}>
@@ -1303,7 +1304,7 @@ function App(){
       {/* ══ MEMORY GAME ══ */}
       {/* ══ MEMORY TOPIC SELECT ══ */}
       {screen==="memoryTopicSelect"&&(
-        <div style={{animation:"fadeUp .35s ease",maxWidth:"520px",width:"100%",display:"flex",flexDirection:"column",minHeight:"calc(100vh - 40px)"}}>
+        <div className="app-screen" style={{animation:"fadeUp .35s ease",maxWidth:"520px",width:"100%",display:"flex",flexDirection:"column",minHeight:"calc(100vh - 40px)"}}>
           <div style={{display:"flex",alignItems:"center",justifyContent:"space-between",padding:"14px 0 10px"}}>
             <button onClick={()=>setScreen("setup")} style={{background:"#141414",border:"1px solid #222",color:"#888",borderRadius:"8px",padding:"7px 13px",cursor:"pointer",fontFamily:"inherit",fontSize:"13px"}}>← Back</button>
             <div style={{textAlign:"center"}}>
@@ -1468,7 +1469,7 @@ function MemoryGame({faces,totalPairs,onBack}){
   const isMatched=card=>matched.has(card.faceIdx);
 
   return(
-    <div style={{width:"100%",maxWidth:"520px",display:"flex",flexDirection:"column",minHeight:"100vh",background:"#0a0a0f"}}>
+    <div className="app-screen" style={{width:"100%",maxWidth:"520px",display:"flex",flexDirection:"column",minHeight:"100vh",background:"#0a0a0f"}}>
       {/* Header */}
       <div style={{display:"flex",alignItems:"center",justifyContent:"space-between",padding:"10px 14px",background:"#0d0d14",borderBottom:"1px solid #1a1a2a",flexShrink:0}}>
         <button onClick={onBack} style={{background:"#141414",border:"1px solid #222",color:"#888",borderRadius:"8px",padding:"7px 13px",cursor:"pointer",fontFamily:"inherit",fontSize:"13px"}}>← Back</button>
@@ -1764,7 +1765,7 @@ function SlideSolvePuzzle({ onBack }) {
       </div>
     );
     return (
-      <div style={{animation:'fadeUp .35s ease',width:'100%',maxWidth:'520px',display:'flex',flexDirection:'column',minHeight:'calc(100vh - 40px)'}}>
+      <div className="app-screen" style={{animation:'fadeUp .35s ease',width:'100%',maxWidth:'520px',display:'flex',flexDirection:'column',minHeight:'calc(100vh - 40px)'}}>
         {/* Header */}
         <div style={{display:'flex',alignItems:'center',justifyContent:'space-between',padding:'14px 0 10px'}}>
           <button onClick={onBack} style={{background:'#141414',border:'1px solid #222',color:'#888',borderRadius:'8px',padding:'7px 13px',cursor:'pointer',fontFamily:'inherit',fontSize:'13px'}}>← Back</button>
@@ -1834,7 +1835,7 @@ function SlideSolvePuzzle({ onBack }) {
   };
 
   return (
-    <div style={{width:'100%',maxWidth:'520px',display:'flex',flexDirection:'column',minHeight:'100vh',background:'#080808'}}>
+    <div className="app-screen" style={{width:'100%',maxWidth:'520px',display:'flex',flexDirection:'column',minHeight:'100vh',background:'#080808'}}>
       {/* Header */}
       <div style={{display:'flex',alignItems:'center',justifyContent:'space-between',padding:'10px 14px',background:'#0d0d0d',borderBottom:'1px solid #1a1a1a',flexShrink:0}}>
         <button onClick={()=>{stopTimer();setView('setup');}} style={{background:'#141414',border:'1px solid #222',color:'#888',borderRadius:'8px',padding:'7px 13px',cursor:'pointer',fontFamily:'inherit',fontSize:'13px'}}>← Back</button>

@@ -11,6 +11,21 @@ body{padding-top:env(safe-area-inset-top);padding-bottom:env(safe-area-inset-bot
   padding-left:env(safe-area-inset-left);padding-right:env(safe-area-inset-right)}
 #root{min-height:100vh;min-height:100dvh;width:100%}
 
+/* ── Responsive screen width ──────────────────────────────────────────────
+   Screens are normally capped at ~480-560px (comfortable reading width on
+   desktop). On phones/tablets - including larger devices and landscape
+   orientation - let them expand to use the full available width instead of
+   leaving empty space on either side. */
+@media (hover:none) and (pointer:coarse){
+  .app-screen{max-width:100% !important}
+}
+@media (max-width:1024px){
+  .app-screen{max-width:100% !important}
+}
+@media (orientation:landscape) and (max-height:600px){
+  .app-screen{max-width:100% !important}
+}
+
 
 
 /* ── Paragraphs ─────────────────────────────────────────────────────────── */
