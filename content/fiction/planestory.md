@@ -4,17 +4,18 @@ The man sitting next to her in 14A smelled like cedarwood and something faintly 
 
 "You OK?" he asked suddenly, voice low. His eyes flicked to her white-knuckled grip on the armrest.
 
-Clara forced her fingers to unclench. "First time flying transatlantic," she admitted, then immediately regretted the confession—too vulnerable, too soon. But his expression didn’t shift into pity. Instead, he grinned, all crooked and easy, like they were sharing a secret.
+Clara forced her fingers to unclench. "First time flying transatlantic," she admitted, then immediately regretted the confession — too vulnerable, too soon. But his expression didn’t shift into pity. Instead, he grinned, all crooked and easy, like they were sharing a secret.
 
 "Then you’re lucky you got seated next to me," he said, stretching his legs under the seat in front. The movement made his thigh press against hers. Warm. Solid. "I’ve got a foolproof method for surviving long flights." His thumb tapped the armrest between them, deliberate. "Distraction."
 
 Clara exhaled, half-laughing, half-nervous. "Distraction, huh?" She glanced at his hands—long fingers, a silver ring on his thumb—then back up. His gaze was waiting for hers, steady. "What kind of distraction are we talking about?"
 
-The man—Ethan, he’d said his name was when the flight attendant handed him a whiskey—leaned in just enough that she could feel his breath against her ear. "The kind that makes you forget you’re even on a plane." His voice roughened slightly, and Clara’s stomach did a slow, liquid flip.
+The man — Ethan, he’d said his name was when the flight attendant handed him a whiskey — leaned in just enough that she could feel his breath against her ear. "The kind that makes you forget you’re even on a plane." His voice roughened slightly, and Clara’s stomach did a slow, liquid flip.
 
 The overhead lights flickered as the plane leveled off, but Clara barely noticed—Ethan’s fingers were tracing idle circles on her wrist now, his touch featherlight and maddening. "Tell me," he murmured, "what’s the most reckless thing you’ve ever done?" His thumb brushed the inside of her wrist, right over her pulse, and she swore he could feel it jump.
 
 Clara swallowed. "Probably agreeing to this conversation." The words came out breathier than she intended, and Ethan’s grin turned wolfish. "I'm Clara".  "Ethan", he responded.
+
 Clara’s pulse thrummed under Ethan’s fingers as his grin widened, slow and knowing. "Good," he murmured. "Reckless looks good on you." His thumb pressed harder against her wrist, just shy of painful, and the sudden pressure made her breath catch. Around them, the cabin hummed with the white noise of engines and muffled chatter, but all Clara could focus on was the heat of his palm against her skin.
 
 [image src="media/img/plane1.jpeg" alt="Story C — Altitude Adjustment"]
@@ -28,7 +29,7 @@ Clara’s breath hitched when Ethan didn’t laugh. His grip on her wrist didn�
 
 “Dead serious.” His thumb stroked the flutter of her pulse once, twice, then released her. “But only if you are.”
 
-Clara didn’t remember standing, but suddenly she was on her feet, her thighs brushing the edge of the seat as she stepped into the aisle. Ethan followed, his hand hovering at the small of her back—not touching, but close enough that she could feel the heat radiating through the thin fabric of her blouse. The bathroom door clicked shut behind them, locking with a sound that seemed louder than the roar of the engines. The space was impossibly small, their bodies pressed together before either of them could move.
+Clara didn’t remember standing, but suddenly she was on her feet, her thighs brushing the edge of the seat as she stepped into the aisle. Ethan followed, his hand hovering at the small of her back — not touching, but close enough that she could feel the heat radiating through the thin fabric of her blouse. The bathroom door clicked shut behind them, locking with a sound that seemed louder than the roar of the engines. The space was impossibly small, their bodies pressed together before either of them could move.
 
 Ethan didn’t waste time. His hands slid into her hair, tilting her face up as he kissed her—deep and hungry, his tongue sweeping against hers in a way that made her knees buckle. Clara fumbled with his belt, her fingers trembling as she undid the buckle and tugged his jeans down just enough. His cock sprang free, already hard, and the scent of him—clean, warm, faintly musky—made her mouth water. She dropped to her knees, the cold floor biting into her skin, but she barely noticed. The first lick along his length drew a ragged groan from him, and Clara took him deeper, reveling in the way his hips jerked forward.
 
@@ -46,11 +47,11 @@ Clara pulled off with a wet pop, her lips swollen and slick. "Not yet," she whis
 
 Then he was on his knees, his hands spreading her thighs wider as he buried his face between her legs. Clara gasped, her fingers scrabbling for purchase against the sink as his tongue laved slow, deliberate strokes over her clit. The vibration of the plane faded into white noise, drowned out by the rush of blood in her ears and the wet, filthy sounds of his mouth on her. "Ethan—" she choked out, her thighs trembling. He hummed against her, the vibration sending a shockwave of pleasure up her spine.
 
-Ethan stood, turning Clara over so she is kneeling on the toiled seat lid. Clara hummed, a startled moan escaping her as Ethan kneeled behind her, not what she was expecting. As Ethan continued his steady licking rhythm, tracking his tongue up and down the folds of her pussy from the back
+Ethan stood, turning Clara over so she is kneeling on the toiled seat lid. Clara hummed, a startled moan escaping her as Ethan kneeled behind her, not what she was expecting. Ethan continued a steady licking rhythm, tracking his tongue up and down the folds of her pussy from the back.
 
-Just when she thought she might come, his tongue shifted higher, tracing teasing circles getting even close to her asshole. "Oh god—" His tongue pressed inside, just barely, and her knees nearly gave out. The sensation was electric, unfamiliar but impossibly good, and when he added a finger to her clit, she came with a cry, her body shuddering against his mouth. Ethan didn’t let up—his tongue pushed deep into her ass, working her through the orgasm, coaxing every last pulse of pleasure from her until she was whimpering, oversensitive and boneless.
+Just when she thought she might come, his tongue shifted higher, tracing teasing circles getting even close to her asshole. "Oh god—" His tongue pressed inside, just barely, and her knees nearly gave out. The sensation was electric, unfamiliar but impossibly good, and when he added a finger to her clit, she came with a cry, her body shuddering against his mouth. Ethan didn’t let up — his tongue pushed deep into her ass, working her through the orgasm, coaxing every last pulse of pleasure from her until she was whimpering, oversensitive and boneless.
 
-Ethan stood up behind her and Clara could hear Ethan pumping something.  Craning her neck she could see handfuls of the hand-lotion mounted by the sink being pumped into Ethans open hand filoing hte room with the scent of bergamot and something clinical.
+Ethan stood up behind her and Clara could hear Ethan pumping something.  Craning her neck she could see handfuls of the hand-lotion mounted by the sink being pumped into Ethans open hand filling the room with the scent of bergamot and something clinical.
 
 [italic] What the f-? [/italic]
 
@@ -66,11 +67,15 @@ Ethan’s fingers, slick now, traced the curve of her hip, down to the swell of 
 
 Clara barely caught her breath before Ethan’s fingers dipped lower, tracing her asshole with slick pressure. "You want more?" he murmured, and she nodded frantically, her hips pushing back against him. The first finger slid in easily, aided by more of the lotion he’d grabbed from the sink, and the stretch was exquisite. "Oh fuck," she gasped, her body clamping down around him. Ethan chuckled darkly, adding a second finger, scissoring them gently as he fucked her deeper. "You take it so well," he praised, his voice rough. "Think you can handle more?".  "Mhmm," she moaned.
 
-She barely registered the sound of a foil packet tearing, but then Ethan was standing, his cock rock hard with arousal as he rolled the condom on. Clara braced her hands against the sink as he added another helping of lotion and guided himself to her rear entrance. The first thrust stole her breath—slow, deliberate, filling her inch by inch until their hips met. \"Fuck,\" Ethan gritted out, his hands tightening on her waist. \"You’re so tight.\" Clara could only nod, her nails digging into the laminate as he pulled out almost completely before driving back in, harder this time. The pace was relentless from the start, each thrust punching a moan from her lips.
+She barely registered the sound of a foil packet tearing, but then Ethan was standing, his cock rock hard with arousal as he rolled the condom on. Clara braced her hands against the sink as he added another helping of lotion and guided himself to her rear entrance. The first thrust stole her breath—slow, deliberate, filling her inch by inch until their hips met. 
+
+"Fuck," Ethan gritted out, his hands tightening on her waist. 
+
+"You’re so tight." Clara could only nod, her nails digging into the laminate as he pulled out almost completely before driving back in, harder this time. The pace was relentless from the start, each thrust punching a moan from her lips.
 
 One hand slid around her hip, his fingers finding her clit again, and Clara cried out as pleasure coiled tight in her belly. "That’s it," Ethan growled, his breath hot against her ear. 
 
-Clara nearly sobbed at the stretch, the fullness. Ethan’s thrusts grew erratic, his cock pulsing inside her as he chased his own release. "Tell me," he demanded, his dick fucking her ass in time with her own hip movements. A third orgasm ripped through her, and Ethan followed with a groan his hips stuttering as he came.
+Clara nearly sobbed at the stretch, the fullness. Ethan’s thrusts grew erratic, his cock pulsing inside her as he chased his own release. "Come for me," he demanded, his dick fucking her ass in time with her own hip movements. A third orgasm ripped through her, and Ethan followed with a groan his hips stuttering as he came.
 
 They stayed like that for a moment, panting, before Ethan carefully pulled out. Clara turned, her legs shaky, and Ethan caught her before she could stumble. His hands were gentle now, cupping her face as he kissed her, slow and sweet. "You okay?" he asked, his thumb brushing her cheekbone. Clara nodded, her smile lazy and sated. "Better than okay." Ethan grinned, pressing one last kiss to her forehead before they cleaned up as best they could in the tiny space.
 
