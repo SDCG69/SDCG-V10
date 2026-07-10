@@ -603,7 +603,14 @@ function App(){
             <div style={{width:"60px"}}/>
           </div>
 
-
+          {/* play button (top) */}
+          <button
+            className="btn start-game-btn"
+            onClick={()=>confirmTags(tagPrefs)}
+            style={{fontSize:"18px",padding:"14px 40px",width:"100%",marginBottom:"16px"}}
+          >
+            😈 Play Now! 😈
+          </button>
 
           {/* tag rows */}
           <div style={{display:"flex",flexDirection:"column",gap:"7px",flex:1,overflowY:"auto",paddingRight:"4px",WebkitOverflowScrolling:"touch"}}>
