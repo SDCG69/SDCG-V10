@@ -873,7 +873,7 @@ function App(){
           <div style={{flex:1,display:"flex",flexDirection:"column",alignItems:"center",justifyContent:"center",gap:"24px"}}>
             <div style={{textAlign:"center",marginBottom:"8px"}}>
               <div style={{fontSize:"2.4rem",marginBottom:"12px"}}>😈🔥</div>
-              <h2 style={{color:"#eee",fontSize:"1.4rem",margin:"0 0 6px",fontWeight:"bold"}}>Choose Your Group Size</h2>
+              <h2 style={{color:"#eee",fontSize:"1.4rem",margin:"6px",fontWeight:"bold"}}>Choose Your Group Size</h2>
               <p style={{color:"#555",fontSize:"13px",margin:0}}>Select below then hit Start to spin the wheel</p>
             </div>
             <div style={{display:"flex",flexDirection:"column",gap:"12px",width:"100%",maxWidth:100%"}}>
