@@ -379,7 +379,7 @@ const EROTICA_ITEMS = [
     "category": "Lesbian",
     "title": "Girls Vacation",
     "img": "b01_lesbian.svg",
-    "sub1": "Friedn take a vacation together.",
+    "sub1": "Two friends take a vacation together.",
     "sub2": "AI generated story & images",
     "readTime": "15 minute read",
     "contentFile": "content/fiction/vacation.md",
