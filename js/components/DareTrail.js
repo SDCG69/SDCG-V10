@@ -312,7 +312,7 @@ const DT_TASKS = {
 	{ emoji:"💦", who:"f", target:"allM",    text:"Put hand downs the pants and directly hold the dick and balls of {targets} for 15 seconds each.  Did anyone get hard?" },
     { emoji:"👁️", who:"any", target:"any",     text:"Touch yourself while {target} watches for 20 seconds — maintain eye contact." },
     { emoji:"🎬", who:"any", target:"mf",     text:"Let {target} direct you verbally through a 30-second act of their choosing." },
-	{ emoji:"🍑", who:"m", target:"allF",  text:"Get {target}'s on all fours with exposed buttocks. Sensually kiss each butt twice." },
+	{ emoji:"🍑", who:"m", target:"allF",  text:"Get {targets} on all fours with exposed buttocks. Sensually kiss each butt twice." },
     { emoji:"🫦", who:"f", target:"m",     text:"Perform a 20-second act of oral on {target}'s fingers the way you would on their dick." },
     { emoji:"💋", who:"any", target:"allOthers", text:"Let two players simultaneously kiss different parts of your body for 15 seconds." },
     { emoji:"🔗", who:"any", target:"mf",     text:"Remove all clothing and let {target} tie your hands loosely for the remainder of the dare." },
