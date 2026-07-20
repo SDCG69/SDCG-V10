@@ -350,7 +350,6 @@ const EROTICA_ITEMS = [
     "title": "The College Girls Pt.1",
     "img": "b01_lesbian.svg",
     "sub1": "Sapphic thrills - her first time with a woman.",
-    "sub2": "AI generated story & images",
     "readTime": "30 minute read",
     "contentFile": "content/fiction/becs_1.md",
     "sections": []
@@ -360,7 +359,6 @@ const EROTICA_ITEMS = [
     "title": "Her Nose",
     "img": "b01_lesbian.svg",
     "sub1": "A cam show and a tempting offer.",
-    "sub2": "Story: Claire Woodruff · Images: AI",
     "readTime": "15 minute read",
     "contentFile": "content/fiction/hernose.md",
     "sections": []
@@ -370,7 +368,6 @@ const EROTICA_ITEMS = [
     "title": "A Chance Encounter",
     "img": "b02_hetero.svg",
     "sub1": "A fantasy, A daydream, A stranger.",
-    "sub2": "Story: Jo Benfield · Images: AI",
     "readTime": "3 minute read",
     "contentFile": "content/fiction/chance.md",
     "sections": []
@@ -380,7 +377,6 @@ const EROTICA_ITEMS = [
     "title": "Girls Vacation",
     "img": "b01_lesbian.svg",
     "sub1": "Two friends take a vacation together.",
-    "sub2": "AI generated story & images",
     "readTime": "15 minute read",
     "contentFile": "content/fiction/vacation.md",
     "sections": []
@@ -390,7 +386,6 @@ const EROTICA_ITEMS = [
     "title": "Amy's Sunlounger",
     "img": "b02_hetero.svg",
     "sub1": "A voyeur and a horny, dominant sunbather.",
-    "sub2": "AI generated story & images",
     "readTime": "15 minute read",
     "contentFile": "content/fiction/sunlounger.md",
     "sections": []
@@ -400,7 +395,6 @@ const EROTICA_ITEMS = [
     "title": "Altitude Adjustment",
     "img": "b02_hetero.svg",
     "sub1": "Nervous flyer joins the mile-high club.",
-    "sub2": "AI generated story & images",
     "readTime": "10 minute read",
     "contentFile": "content/fiction/planestory.md",
     "sections": []
@@ -410,7 +404,6 @@ const EROTICA_ITEMS = [
     "title": "Strict Professor",
     "img": "b02_hetero.svg",
     "sub1": "A student needs extra credit from his hot professor.",
-    "sub2": "AI generated story & images",
     "readTime": "20 minute read",
     "contentFile": "content/fiction/prof.md",
     "sections": []
@@ -420,7 +413,6 @@ const EROTICA_ITEMS = [
     "title": "Elena's Liberation",
     "img": "b02_hetero.svg",
     "sub1": "A newly divorced woman picks up a much younger man.",
-    "sub2": "AI generated story & images",
     "readTime": "30 minute read",
     "contentFile": "content/fiction/Elena.md",
     "sections": []
@@ -430,7 +422,6 @@ const EROTICA_ITEMS = [
     "title": "Maya's Awakening",
     "img": "b07_solo.svg",
     "sub1": "A college student finds her true self.",
-    "sub2": "AI generated story & images",
     "readTime": "25 minute read",
     "contentFile": "content/fiction/maya.md",
     "sections": []
@@ -440,7 +431,6 @@ const EROTICA_ITEMS = [
     "title": "The Goth Girl",
     "img": "b03_kinky.svg",
     "sub1": "A goth girl with a kinky side.",
-    "sub2": "AI generated story & images",
     "readTime": "40 minute read",
     "contentFile": "content/fiction/goth.md",
     "sections": []
@@ -450,7 +440,6 @@ const EROTICA_ITEMS = [
     "title": "Hanna's First Date",
     "img": "b03_kinky.svg",
     "sub1": "A thickset woman with a BDSM fetish.",
-    "sub2": "AI generated story & images",
     "readTime": "20 minute read",
     "contentFile": "content/fiction/artmuseum.md",
     "sections": []
@@ -460,7 +449,6 @@ const EROTICA_ITEMS = [
     "title": "Hanna's Second Date",
     "img": "b03_kinky.svg",
     "sub1": "A thickset woman with a BDSM fetish.",
-    "sub2": "AI generated story & images",
     "readTime": "20 minute read",
     "contentFile": "content/fiction/han2.md",
     "sections": []
@@ -470,7 +458,6 @@ const EROTICA_ITEMS = [
     "title": "The College Girls Pt.2",
     "img": "b05_group.svg",
     "sub1": "Sapphic thrills - a card game leads to group action.",
-    "sub2": "AI generated story & images",
     "readTime": "25 minute read",
     "contentFile": "content/fiction/Bex2.md",
     "sections": []
@@ -480,7 +467,6 @@ const EROTICA_ITEMS = [
     "title": "Nurses",
     "img": "b05_group.svg",
     "sub1": "A house full of student nurses.",
-    "sub2": "AI generated story & images",
     "readTime": "30 minute read",
     "contentFile": "content/fiction/nur.md",
     "sections": []
@@ -490,7 +476,6 @@ const EROTICA_ITEMS = [
     "title": "The Vampire",
     "img": "b04_supernatural.svg",
     "sub1": "A barmaid and a vampire.",
-    "sub2": "AI generated story & images",
     "readTime": "15 minute read",
     "contentFile": "content/fiction/vampire.md",
     "sections": []
@@ -500,7 +485,6 @@ const EROTICA_ITEMS = [
     "title": "The Predator & The Prey",
     "img": "b06_erotic_horror.svg",
     "sub1": "A sexy serial killer hunts a victim.",
-    "sub2": "AI generated story & images",
     "readTime": "20 minute read",
     "contentFile": "content/fiction/predator-prey.md",
     "sections": []
@@ -510,7 +494,6 @@ const EROTICA_ITEMS = [
     "title": "Party Games",
     "img": "b05_group.svg",
     "sub1": "A hedonistic sex party.",
-    "sub2": "Story: Claudia Thomas · Images: AI",
     "readTime": "15 minute read",
     "contentFile": "content/fiction/party.md",
     "sections": []
