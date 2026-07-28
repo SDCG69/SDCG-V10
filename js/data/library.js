@@ -42,7 +42,7 @@ const HANDBOOK_ITEMS = [
     "title": "Dirty Talk",
     "img": "h_talking.svg",
     "sub1": "Dirty Talk Advise.",
-    "sub2": "Guidance for taling dirty in the bedroom.",
+    "sub2": "Guidance for talking dirty in the bedroom.",
     "contentFile": "content/handbook/dirty-talk.md",
     "sections": []
   },
@@ -122,7 +122,7 @@ const HANDBOOK_ITEMS = [
     "letter": "L",
     "title": "Lube, Oils and Gels",
     "img": "h07_lube.svg",
-    "sub1": "Guide lubrication, massage gel and oils.",
+    "sub1": "Guide to lubrication, massage gel and oils.",
     "sub2": "What to use and when.",
     "contentFile": "content/handbook/lube-oils-gels.md",
     "sections": []
