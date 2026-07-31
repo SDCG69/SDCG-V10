@@ -234,6 +234,7 @@ const DT_TASKS = {
     { emoji:"💃", who:"any", target:"none", text:"Do a slow, flirtatious dance in front of the group for 30 seconds." },
     { emoji:"💄", who:"any", target:"mf",  text:"Let {target} apply lip balm to your lips using their finger." },
 	{ emoji:"🍑", who:"any", target:"mf",  text:"Massage {target}'s butt until they roll again." },
+	{ emoji:"🍓", who:"any", target:"mf",  text:"Let {target} feed you a snack using only their mouth." },
 	{ emoji:"☝️", who:"any", target:"mf",  text:"Tickle {target}'s inner thigh until they next roll." },
     { emoji:"☝️", who:"any", target:"mf",  text:"Let {target} slowly trace their finger along your collarbone for 15 seconds." },
     { emoji:"🪑", who:"any", target:"mf",  text:"Sit back-to-back with {target}, close your eyes, and describe how their body feels against yours." },
@@ -256,6 +257,7 @@ const DT_TASKS = {
     { emoji:"🖐️", who:"any", target:"mf",  text:"Spank {target} four times.  They will shout 'HARDER' or 'SOFTER' each time." },
     { emoji:"💋", who:"any", target:"mf",  text:"Let {target} kiss your body anywhere below the neck — one kiss, their choice." },
 	{ emoji:"🌶️", who:"any", target:"mf", text:"Go with {target} to a different room and exchange underwear." },
+    { emoji:"🍓", who:"any", target:"f",  text:"Let {target} feed you a snack using only their feet." },
     { emoji:"💃", who:"any", target:"mf",  text:"Give {target} a lap dance for the duration of one full song." },
     { emoji:"😵", who:"any", target:"mf",  text:"Allow {target} to blindfold you and kiss you anywhere twice." },
     { emoji:"👕", who:"f", target:"none", text:"Remove your top (and bra) and remain fully topless until your next roll." },
@@ -291,7 +293,7 @@ const DT_TASKS = {
 	{ emoji:"🤗", who:"any", target:"f",   text:"Hold {target} from behind and slow dance for 30 seconds with your hand down the front of their panties.  If they get wet, slip in a finger." },
 	{ emoji:"🍑", who:"any", target:"mf",  text:"Put both hands down the back of {target}'s underwear, gripping their buttock and kiss for 10 seconds." },
     { emoji:"🔥", who:"any", target:"mf",     text:"Both you and {target} go fully topless for the remainder of the game." },
-    { emoji:"💃", who:"f", target:"mf",      text:"Perform a lap dance for {target} — 30 full seconds." },
+	{ emoji:"🍓", who:"any", target:"f",  text:"Eat fruit off {target}'s body.  The fruit must be eaten from their xxx. " },
     { emoji:"🌡️", who:"any", target:"none",   text:"Strip completely naked for the rest of the game." },
     { emoji:"🫦", who:"f",   target:"none",     text:"Finger yourself for 10 seconds as everyone watches." },
     { emoji:"🖐️", who:"f", target:"any",    text:"Finger yourself for 5 seconds and invite {target} to lick your fingers after." },
@@ -330,9 +332,9 @@ const DT_TOTAL = 47; // 0=START, 1-45 dare squares, 46=FINISH
 
 // Zone: squares 1-12 mild, 13-24 spicy, 25-36 hot, 37-45 extreme
 function dtSquareDiff(n) {
-  if (n >= 1  && n <= 12) return "mild";
-  if (n >= 13 && n <= 24) return "spicy";
-  if (n >= 25 && n <= 36) return "hot";
+  if (n >= 1  && n <= 8) return "mild";
+  if (n >= 9 && n <= 17) return "spicy";
+  if (n >= 18 && n <= 30) return "hot";
   return "extreme";
 }
 
@@ -586,8 +588,8 @@ function DareTrailGame({ config, onNewGame }) {
     svg.appendChild(mkP("rgba(201,68,106,0.12)",nodeR*0.9));
     svg.appendChild(mkP("rgba(123,63,168,0.3)",nodeR*0.45,`${nodeR*0.1} ${nodeR*0.6}`));
 
-    [{from:1,to:12,color:"rgba(74,222,128,0.25)"},{from:13,to:24,color:"rgba(250,204,21,0.25)"},
-     {from:25,to:36,color:"rgba(249,115,22,0.25)"},{from:37,to:45,color:"rgba(244,63,94,0.25)"}]
+    [{from:1,to:8,color:"rgba(74,222,128,0.25)"},{from:9,to:17,color:"rgba(250,204,21,0.25)"},
+     {from:18,to:30,color:"rgba(249,115,22,0.25)"},{from:31,to:45,color:"rgba(244,63,94,0.25)"}]
     .forEach(({from,to,color})=>{
       let zD=`M ${pxPos[from].x} ${pxPos[from].y}`;
       for(let i=from+1;i<=to&&i<pxPos.length;i++) zD+=` L ${pxPos[i].x} ${pxPos[i].y}`;
