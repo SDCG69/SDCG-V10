@@ -26,7 +26,7 @@ const TAGS = [
   {id:"hardbdsm",     label:"Hard BDSM",        emoji:"😱", desc:"This may include fully dominant or submissive actions, hard spanking or whipping or rough play."},
 	{id:"xxxfinish",  	label:"XXX Finish",   emoji:"💦", desc:"This involves XXX finishes.  Typically with male ejaculations onto the body or into the mouth of the woman."},
   {id:"mildassplay",   label:"Mild Ass Play",  emoji:"🍑", desc:"Mild ass play may include light spanking, caressing or teasing of the buttocks, or gentle external stimulation of the anus by fingers or tongue."},
-  {id:"mildanal",     label:"Mild Anal",         emoji:"🍑", desc:"Mild anal actions may include firm external anal licking or internal fingering of the anus or toys/vibrators on the outside of the ass."},
+  {id:"mildanal",     label:"Mild Anal",         emoji:"🍑", desc:"Mild anal actions may include external anal licking or internal fingering of the anus or toys/vibrators on the OUTSIDE of the ass."},
   {id:"hardanal",     label:"Hard Anal",         emoji:"😈", desc:"Hard anal actions may include deep licking and tonguing of the ass, toys or fingers fully inserted into the ass or full anal intercourse."},
 ];
 
