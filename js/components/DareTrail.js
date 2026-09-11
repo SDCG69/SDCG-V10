@@ -955,7 +955,7 @@ function DareTrailGame({ config, onNewGame }) {
                     🫦 Winner's Prize: Full Oral!
                   </div>
                   <div style={{fontSize:"13px",color:"#a07080",lineHeight:1.7}}>
-                    <strong style={{color:"#e8cdd8"}}>{otherList}</strong> must each kiss or lick <strong style={{color:"#facc15"}}>{playerNames[winP]}</strong> all over as she get on all fours.  Give her pussy, mouth, tittie and ass all the loving! 🎵
+                    <strong style={{color:"#e8cdd8"}}>{otherList}</strong> must each kiss or lick <strong style={{color:"#facc15"}}>{playerNames[winP]}</strong> all over as she lies back to enjoy the prize.  Give her pussy, mouth, and titties all the loving! 🎵
                   </div>
                 </div>
               );
@@ -977,7 +977,7 @@ function DareTrailGame({ config, onNewGame }) {
                   )}
                   {femaleList&&(
                     <div style={{fontSize:"13px",color:"#a07080",lineHeight:1.7}}>
-                      <span style={{fontSize:"1.1rem"}}>🫦</span> <strong style={{color:"#f9a8d4"}}>{femaleList}</strong> — each of you must orally pleasure <strong style={{color:"#facc15"}}>{playerNames[winP]}</strong>, at the same time with him on all fours. Mouth, dick and ass need some loving! 🫦
+                      <span style={{fontSize:"1.1rem"}}>🫦</span> <strong style={{color:"#f9a8d4"}}>{femaleList}</strong> — each of you must orally pleasure <strong style={{color:"#facc15"}}>{playerNames[winP]}</strong>, at the same time with him lying back to enjoy it.  Mouth, dick and balls need some loving! 🫦
                     </div>
                   )}
                 </div>
