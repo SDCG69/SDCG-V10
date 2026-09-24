@@ -67,7 +67,7 @@ const CHALLENGES = {
       {text:"Give her your dick and a toy at the same time. She chooses which one goes where (pussy, mouth or ass).  If she chooses ass, USE LUBE! ",emoji:"✨",tags:["hardcore","mildanal","item_dildo","item_lube"]},
       {text:"Get her onto all fours and enter from behind. Finger her ass with lube at the same time!",emoji:"😈",tags:["hardcore","mildanal","item_lube"]},
       {text:"She is your QUEEN.  Get her to sit back in a comfy chair with feet up and butt near the edge of the chair. Kneel down and eat pussy for 2 minutes. Use fingers.  Lick everything from clit to ass.",emoji:"👸🏻",tags:["oralsex","mildassplay"]},
-      {text:"Give her a 2 minute DEEP butt massage with oil.  Be sure to also lightl finger the ass!",emoji:"🍑",tags:["hardcore","mildanal","item_massage_oil"]},
+      {text:"Give her a 2 minute DEEP butt massage with oil.  Be sure to also lightly finger the ass!",emoji:"🍑",tags:["hardcore","mildanal","item_massage_oil"]},
       {text:"Get her onto all fours.  Fuck doggy style and thrust a number of times equal to her age.",emoji:"🍆",tags:["hardcore"]},
       {text:"Fuck her doggy style!  Take a photo with your dick half-way in and show it to her as you pound hard for 1 minute",emoji:"📸",tags:["hardcore","item_camera"]},
       {text:"4 Star Stud Service!  You MUST give her all 4 treats during the next 4 minutes. 1) Nipple Sucking,  2) Pussy Licking, 3) Slow pussy fucking and 4) Hard pussy fucking.",emoji:"✨",tags:["hardcore","oralsex"]},
